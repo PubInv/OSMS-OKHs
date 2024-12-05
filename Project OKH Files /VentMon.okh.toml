@@ -3,56 +3,72 @@
 # SPDX-License-Identifier: CC0-1.0
 
 okhv = "OKH-LOSHv1.0" # NOT to be changed
-name = "your-awesome-OSH"
-repo = "https://gitlab.com/YOU/your-awesome-project/"
-version = "1.0.0"
+name = "VentMon"
+repo = "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor"
+version = "0.5"
 # This needs to be a valid SPDX [License Expression](https://spdx.github.io/spdx-spec/v2-draft/SPDX-license-expressions/). Usually that is a single SPDX license ID, foudn in the "Identifier" column in this table: https://spdx.org/licenses/
-license = "AGPL-3.0-or-later"
-licensor = "Joel Doe <joel.doe@example.com>"
-function = "This thng can clean, fly to the moon, keep you warm when its freezing, transplant an organ on its own, ..."
-documentation-language = "en-GB"
-organization = "xxx"
-release = "https://gitlab.com/YOU/your-awesome-project/-/releases/1.0.0"
-readme = "README.md"
-contribution-guide = "CONTRIBUTING.md"
-# logo
-image = "imgs/xxx.jpg"
-# product-photo
-image = "imgs/yyy.jpg"
-technology-readiness-level = "OTRL-3"
-documentation-readiness-level = "ODRL-3"
-attestation = "https://certification.oshwa.org/cl000001.html"
-publication = "https://doi.org/10.1371/journal.pone.0193087"
-standard-compliance = "DIN EN 1335"
+license = "CERN-OHL-S-2.0"
+licensor = "Robert Read <read.robert@gmail.com>"
+function = "VentMon is an open source IoT-enabled spriometer for testing medical ventilators"
+documentation-language = "en-US"
+organization = "Public Invention"
+release = "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor/releases/tag/v0.3.1T"
+readme = "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor?tab=readme-ov-file"
+contribution-guide = "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor/graphs/contributors"
+image = [
+  # logo
+  "imgs/11892727.png",
+  # product-photo
+  "imgs/244884512-b96dfc75-58e7-41bd-a88e-ea28e00b7dd8.jpg"
+]
+technology-readiness-level = "NA"
+documentation-readiness-level = "NA"
+attestation = "https://certification.oshwa.org/us002353.html"
+publication = "https://www.sciencedirect.com/science/article/pii/S2468067221000249"
+standard-compliance = "NA"
 # A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
-cpc-patent-class = "D03D 35/00"
-tsdc = "MEC"
-bom = "BoM.csv"
-manufacturing-instructions = "Documentation/Assembly_Guide/AssemblyGuide.md"
-user-manual = "Documentation/User_Guide/UserGuide.md"
-mass= 50330.0
+cpc-patent-class = "NA"
+tsdc = "NA"
+bom = "NA"
+manufacturing-instructions = "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor/tree/master/design/3dparts"
+user-manual = "https://github.com/PubInv/vent-display"
+# NOTICE: The below mass is a placeholder.
+mass=1
 
 [outer-dimensions]
-width = "400"
-depth = "350"
-height = "150"
+width = "NA"
+depth = "NA"
+height = "NA"
 
 [[part]]
-name = "your-awesome-part"
+name = "Shell or Housing? See scad."
 image = "xxx.jpg"
-tsdc = "3DP"
-source = "xxx.scad"
+tsdc = "NA"
+source = "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor/blob/master/design/3dparts/T0.5/VentMon0.5.scad"
 export = [
   "xxx.pdf",
   "xxx.stl"
 ]
-mass = 330.0
+# NOTICE: The below mass is a placeholder.
+mass=1
 
 [part.outer-dimensions]
-width = "120"
-depth = "100"
-height = "3"
+width = "NA"
+depth = "NA"
+height = "NA"
 
 [[software]]
-release = "https://github.com/arduino/ArduinoCore-mbed/releases/tag/1.3.2"
-installation-guide = "https://github.com/arduino/ArduinoCore-mbed/blob/a2c06d768f5ebb6821ae6505b2032ee58f4ef70d/README.md"
+release = "https://github.com/PubInv/vent-display/releases/tag/v0.3T"
+installation-guide = "https://github.com/PubInv/vent-display"
+
+[[software]]
+release = "https://github.com/PubInv/PIRDS-pubinv-respiration-data-standard/releases/tag/v1.3.0"
+installation-guide = "https://github.com/PubInv/PIRDS-pubinv-respiration-data-standard"
+
+[[software]]
+release = "https://github.com/PubInv/PIRDS-logger/releases/tag/v0.3T"
+installation-guide = "https://github.com/PubInv/PIRDS-logger"
+# NOTICE: There are no releases for the below software.
+[[software]]
+release = "https://github.com/PubInv/PIRDS-docker-local/releases"
+installation-guide = "https://github.com/PubInv/PIRDS-docker-local"
