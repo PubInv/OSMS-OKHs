@@ -29,7 +29,7 @@ standard-compliance = "NA"
 # A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
 cpc-patent-class = "NA"
 tsdc = "NA"
-bom = "NA"
+bom = "VentMon T0.3 BOM.csv"
 manufacturing-instructions = "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor/tree/master/design/3dparts"
 user-manual = "https://github.com/PubInv/vent-display"
 # NOTICE: The below mass below is in grams.
@@ -57,6 +57,59 @@ width = "30"
 depth = "60"
 height = "55"
 
+[[part]]
+name = "Flow Sensor"
+image = "xxx.jpg"
+tsdc = "NA"
+source = "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor/blob/master/design/3dparts/T0.5/VentMon0.5.scad"
+export = [
+  "NA.pdf",
+  "NA.stl"
+]
+# NOTICE: The below mass is a placeholder. No mass given.
+mass=1
+
+# Not sure if the below is correct dimensions based on scad.
+[part.outer-dimensions]
+id = "10"
+t = "1"
+x = "50"
+
+[[part]]
+name = "PCB"
+image = "xxx.jpg"
+tsdc = "NA"
+source = "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor/blob/master/design/3dparts/T0.5/VentMon0.5.scad"
+export = [
+  "NA pdf",
+  "NA stl"
+]
+# NOTICE: The below mass is a placeholder. No mass given.
+mass=1
+
+[part.outer-dimensions]
+# Feather PCB - also Header dimensions, which to reference?
+width = "22.9"
+length = "50.4"
+height = "8.5"
+
+[[part]]
+name = "Nozzle"
+image = "xxx.jpg"
+tsdc = "NA"
+source = "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor/blob/master/design/3dparts/T0.5/VentMon0.5.scad"
+export = [
+  "NA.pdf",
+  "Nozzle_T0.5.66.stl"
+]
+# NOTICE: The below mass is a placeholder. Should it be the wt on scad?
+mass=2
+
+[part.outer-dimensions]
+id = "10"
+t = "1"
+x = "40"
+
 [[software]]
 release = "https://github.com/PubInv/vent-display/releases/tag/v0.3T"
 installation-guide = "https://github.com/PubInv/vent-display"
@@ -68,7 +121,7 @@ installation-guide = "https://github.com/PubInv/PIRDS-pubinv-respiration-data-st
 [[software]]
 release = "https://github.com/PubInv/PIRDS-logger/releases/tag/v0.3T"
 installation-guide = "https://github.com/PubInv/PIRDS-logger"
-# NOTICE: There are no releases for the below software.
+# NOTICE: There are no releases for the below software. Page is empty.
 [[software]]
 release = "https://github.com/PubInv/PIRDS-docker-local/releases"
 installation-guide = "https://github.com/PubInv/PIRDS-docker-local"
