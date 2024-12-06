@@ -32,30 +32,30 @@ tsdc = "NA"
 bom = "NA"
 manufacturing-instructions = "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor/tree/master/design/3dparts"
 user-manual = "https://github.com/PubInv/vent-display"
-# NOTICE: The below mass is a placeholder.
-mass=1
+# NOTICE: The below mass below is in grams.
+mass=78
 
 [outer-dimensions]
-width = "NA"
-depth = "NA"
-height = "NA"
+width = "90"
+depth = "60"
+height = "35"
 
 [[part]]
-name = "Shell or Housing? See scad."
+name = "Housing"
 image = "xxx.jpg"
 tsdc = "NA"
 source = "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor/blob/master/design/3dparts/T0.5/VentMon0.5.scad"
 export = [
-  "xxx.pdf",
-  "xxx.stl"
+  "NA.pdf",
+  "Case_T0.5.48.stl"
 ]
-# NOTICE: The below mass is a placeholder.
-mass=1
+# NOTICE: The below mass is a placeholder. Should it be the wt on scad?
+mass=2
 
 [part.outer-dimensions]
-width = "NA"
-depth = "NA"
-height = "NA"
+width = "30"
+depth = "60"
+height = "55"
 
 [[software]]
 release = "https://github.com/PubInv/vent-display/releases/tag/v0.3T"
