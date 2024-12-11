@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: 2021 Martin Häuer <martin.haeuer@ose-germany.de>
+# SPDX-FileCopyrightText: 2024 Mairin O'Grady <mogrady@udallas.edu>
 #
 # SPDX-License-Identifier: CC0-1.0
 
@@ -21,18 +21,17 @@ image = [
   # product-photo
   "imgs/244884512-b96dfc75-58e7-41bd-a88e-ea28e00b7dd8.jpg"
 ]
-technology-readiness-level = "NA"
-documentation-readiness-level = "NA"
+technology-readiness-level = "OTRL-6"
+documentation-readiness-level = "ODRL-2"
 attestation = "https://certification.oshwa.org/us002353.html"
 publication = "https://www.sciencedirect.com/science/article/pii/S2468067221000249"
-standard-compliance = "NA"
+# standard-compliance = "Not sure"
 # A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
-cpc-patent-class = "NA"
-tsdc = "NA"
+cpc-patent-class = "F15"
+# tsdc = "Waiting on direction"
 bom = "design/pcb/ventmon_T0.4/VentMon T0.4 BOM.csv"
 manufacturing-instructions = "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor/tree/master/design/3dparts"
 user-manual = "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor/blob/master/doc/UserManaul.md"
-# NOTICE: The below mass below is in grams.
 mass=78
 
 [outer-dimensions]
@@ -42,15 +41,11 @@ height = "35"
 
 [[part]]
 name = "Housing"
-image = "xxx.jpg"
-tsdc = "NA"
+# tsdc = "NA"
 source = "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor/blob/master/design/3dparts/T0.5/VentMon0.5.scad"
 export = [
-  "NA.pdf",
   "Case_T0.5.48.stl"
 ]
-# NOTICE: The below mass is a placeholder. Should it be the wt on scad?
-mass=2
 
 [part.outer-dimensions]
 width = "30"
@@ -59,15 +54,8 @@ height = "55"
 
 [[part]]
 name = "Flow Sensor"
-image = "xxx.jpg"
-tsdc = "NA"
+# tsdc = "NA"
 source = "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor/blob/master/design/3dparts/T0.5/VentMon0.5.scad"
-export = [
-  "NA.pdf",
-  "NA.stl"
-]
-# NOTICE: The below mass is a placeholder. No mass given.
-mass=1
 
 # Not sure if the below is correct dimensions based on scad.
 [part.outer-dimensions]
@@ -77,15 +65,9 @@ x = "50"
 
 [[part]]
 name = "PCB"
-image = "xxx.jpg"
-tsdc = "NA"
+# tsdc = "NA"
 source = "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor/blob/master/design/3dparts/T0.5/VentMon0.5.scad"
-export = [
-  "NA pdf",
-  "NA stl"
-]
-# NOTICE: The below mass is a placeholder. No mass given.
-mass=1
+
 
 [part.outer-dimensions]
 # Feather PCB - also Header dimensions, which to reference?
@@ -95,15 +77,11 @@ height = "8.5"
 
 [[part]]
 name = "Nozzle"
-image = "xxx.jpg"
-tsdc = "NA"
+# tsdc = "NA"
 source = "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor/blob/master/design/3dparts/T0.5/VentMon0.5.scad"
 export = [
-  "NA.pdf",
   "Nozzle_T0.5.66.stl"
 ]
-# NOTICE: The below mass is a placeholder. Should it be the wt on scad?
-mass=2
 
 [part.outer-dimensions]
 id = "10"
@@ -121,7 +99,7 @@ installation-guide = "https://github.com/PubInv/PIRDS-pubinv-respiration-data-st
 [[software]]
 release = "https://github.com/PubInv/PIRDS-logger/releases/tag/v0.3T"
 installation-guide = "https://github.com/PubInv/PIRDS-logger"
-# NOTICE: There are no releases for the below software. Page is empty.
+
 [[software]]
-release = "https://github.com/PubInv/PIRDS-docker-local/releases"
+release = "https://github.com/PubInv/PIRDS-docker-local/commit/f7297a3c04342de4c671c5a943caac17e224e891"
 installation-guide = "https://github.com/PubInv/PIRDS-docker-local"
