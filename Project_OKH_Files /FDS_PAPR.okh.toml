@@ -2,61 +2,56 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0" # NOT to be changed
-name = "FDS PAPR"
+okhv = "OKH-LOSHv1.0" 
+name = "FDS_PAPR"
 repo = "https://www.instructables.com/DIY-Powered-Air-Purifying-Respirator-PAPR/"
 version = "1.0.0"
-# This needs to be a valid SPDX [License Expression](https://spdx.github.io/spdx-spec/v2-draft/SPDX-license-expressions/). Usually that is a single SPDX license ID, foudn in the "Identifier" column in this table: https://spdx.org/licenses/
 license = "CC-BY-NC-SA-4.0"
-licensor = "Joel Doe <joel.doe@example.com>"
-function = "This thng can clean, fly to the moon, keep you warm when its freezing, transplant an organ on its own, ..."
-documentation-language = "en-GB"
-organization = "xxx"
-release = "https://gitlab.com/YOU/your-awesome-project/-/releases/1.0.0"
-readme = "README.md"
-contribution-guide = "CONTRIBUTING.md"
+licensor = "Nathan de Souza <njds337@gmail.com>"
+function = "This device is a lightweight powered air-purifying respirator (PAPR) that provides filtered air, face and eye protection, and skin surface cooling."
+documentation-language = "en-au"
+organization = "Autodesk Instructables"
+# release = "https://gitlab.com/YOU/your-project/-/releases/1.0.0"
+# readme = "README.md"
+# contribution-guide = "CONTRIBUTING.md"
 image = [
-  # logo
-  "imgs/xxx.jpg",
   # product-photo
-  "imgs/yyy.jpg"
+  "https://content.instructables.com/FVA/WNDF/LILYUDDY/FVAWNDFLILYUDDY.png",
+  # product-photo
+  "https://content.instructables.com/FBQ/O9NK/LEE9CN58/FBQO9NKLEE9CN58.png",
+  # product-photo
+  "https://content.instructables.com/FKI/LHY5/LEE9CN57/FKILHY5LEE9CN57.jpg"
 ]
-technology-readiness-level = "OTRL-3"
+technology-readiness-level = "OTRL-5"
 documentation-readiness-level = "ODRL-3"
-attestation = "https://certification.oshwa.org/cl000001.html"
-publication = "https://doi.org/10.1371/journal.pone.0193087"
-standard-compliance = "DIN EN 1335"
-# A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
-cpc-patent-class = "D03D 35/00"
-tsdc = "MEC"
-bom = "BoM.csv"
+# attestation = "NA"
+publication = "https://www.instructables.com/DIY-Powered-Air-Purifying-Respirator-PAPR/"
+# standard-compliance = "Not sure"
+cpc-patent-class = "A42"
+# tsdc = "Need further instruction"
+bom = "Cost+of+Materials+11-05-2023.pdf"
 manufacturing-instructions = "Documentation/Assembly_Guide/AssemblyGuide.md"
-user-manual = "Documentation/User_Guide/UserGuide.md"
-# Any mass always has to be in g (gramms)
-mass= 50330.0
+user-manual = "PAPR+Design+Report+2023.pdf"
+mass= 220
 
 [outer-dimensions]
-# Any dimension value always has to be in [mm] (milli-meters)
-width = "400"
-depth = "350"
-height = "150"
+width = "170"
+height = "240"
+depth = "210"
+
 
 [[part]]
-name = "your-awesome-part"
-image = "xxx.jpg"
-tsdc = "3DP"
-source = "xxx.scad"
+name = "Visor"
+image = "https://content.instructables.com/F8W/EFNQ/LEFOW28D/F8WEFNQLEFOW28D.jpg"
+# tsdc = "Not sure"
+source = "Visor_Template_mm.pdf"
 export = [
-  "xxx.pdf",
-  "xxx.stl"
+  "https://content.instructables.com/FT3/5A1W/LEE9COVQ/FT35A1WLEE9COVQ.jpg",
+  "https://content.instructables.com/F1Q/XL1T/LEE9COVU/F1QXL1TLEE9COVU.jpg",
+  "https://content.instructables.com/FT8/7UWP/LEE9COVV/FT87UWPLEE9COVV.jpg",
+  "https://content.instructables.com/F5I/7EZ5/LEE9COW1/F5I7EZ5LEE9COW1.jpg"
 ]
-mass = 330.0
 
 [part.outer-dimensions]
-width = "120"
-depth = "100"
-height = "3"
-
-[[software]]
-release = "https://github.com/arduino/ArduinoCore-mbed/releases/tag/1.3.2"
-installation-guide = "https://github.com/arduino/ArduinoCore-mbed/blob/a2c06d768f5ebb6821ae6505b2032ee58f4ef70d/README.md"
+width = "135"
+height = "240"
