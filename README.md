@@ -14,5 +14,5 @@ Members of the project team discussed the OKH formatting and exceptions to accom
 Robert L. Read <read.robert@gmail.com>
 Mairin O'Grady <mogrady@udallas.edu>
 Robin Vobruba <robin.vobruba@gmail.com>
-Christina Cole <christina@opensourcemedicalsupplies.org>
+Christina Cole <christina@opensourcemedicalsupplies.org> and
 James Butler <jbutler@helpfulengineering.org>
