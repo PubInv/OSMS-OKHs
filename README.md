@@ -11,8 +11,8 @@ Members of the project team discussed the OKH formatting and exceptions to accom
   * Not all of the projects listed in the files were created by Public Invention or OSMS. If interested in building one, please see the licenser contact information.
 
 ## Contributers
-Robert L. Read <read.robert@gmail.com>
-Mairin O'Grady <mogrady@udallas.edu>
-Robin Vobruba <robin.vobruba@gmail.com>
-Christina Cole <christina@opensourcemedicalsupplies.org> and
-James Butler <jbutler@helpfulengineering.org>
+  * Robert L. Read (<read.robert@gmail.com>): Provided project direction, organization, and leadership for the OKH team.
+  * Mairin O'Grady (<mogrady@udallas.edu>): Created OKH files, converted projects from .json to .toml formats, and built the GitHub repository.
+  * Robin Vobruba (<robin.vobruba@gmail.com>): Provided guidance on OKH usage and templates, as well as the krawler.
+  * Christina Cole (<christina@opensourcemedicalsupplies.org>): Provided feedback from OSMS.
+  * James Butler (<jbutler@helpfulengineering.org>): Worked on related software with Robert Read.
