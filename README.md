@@ -3,6 +3,7 @@ This is a repository that will hold a wide range of open-source projects from th
 
 ## Process and Timeline (Updated Alongside Progress)
 **December 2024**
+
 Members of the project team discussed the OKH formatting and exceptions to accomodate the varied data available for each project. Moved several project datasets from the .json OSH-Registry under Public Invention to the OKH repository. 
 
 ## Important notes:
