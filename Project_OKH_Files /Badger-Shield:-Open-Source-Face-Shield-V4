@@ -1,0 +1,62 @@
+# SPDX-FileCopyrightText: 2024 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0" 
+name = "Badger-Shield:-Open-Source-Face-Shield-V4"
+repo = "https://www.delve.com/insights/face-shield-designs-to-fill-the-gap"
+version = "4"
+# license = "CC-BY-1.0? None listed."
+licensor = "Jesse Darley <JESSE.DARLEY@DELVE.COM>"
+function = "COVID-19 Medical Face Shield (University of Wisconsin)"
+documentation-language = "en-US"
+organization = "Delve"
+release = "https://cms.delve.com/assets/documents/OPEN-SOURCE-FACE-SHIELD-DRAWING-v1.PDF"
+readme = "https://cms.delve.com/assets/documents/OPEN-SOURCE-FACE-SHIELD-DRAWING-v1.PDF"
+# contribution-guide = "CONTRIBUTING.md"
+image = [
+  # product-photo
+  "https://www.delve.com/_next/image?url=https%3A%2F%2Fcms.delve.com%2Fassets%2Fimages%2FFace-Shield-on-Mannikin-for-Banner.jpg&w=1920&q=75",
+  "https://www.delve.com/_next/image?url=https%3A%2F%2Fcms.delve.com%2Fassets%2Fimages%2FFace-Shield-on-Jesse.jpg&w=1920&q=75",
+  "https://www.delve.com/_next/image?url=https%3A%2F%2Fcms.delve.com%2Fassets%2Fimages%2FFace-Shield-Packaged-Rotated.jpg&w=1920&q=75"
+]
+technology-readiness-level = "OTRL-5"
+documentation-readiness-level = "ODRL-3"
+# standard-compliance = "DIN EN 1335"
+cpc-patent-class = "A42"
+# tsdc = "MEC"
+bom = "https://cms.delve.com/assets/documents/OPEN-SOURCE-FACE-SHIELD-DRAWING-v1.PDF"
+manufacturing-instructions = "https://cms.delve.com/assets/documents/OPEN-SOURCE-FACE-SHIELD-DRAWING-v1.PDF"
+
+[outer-dimensions]
+width = "330.20"
+height = "228.60"
+
+[[part]]
+name = "Clear Shield"
+# tsdc = "3DP"
+source = "https://cms.delve.com/assets/documents/OPEN-SOURCE-FACE-SHIELD-DRAWING-v1.PDF"
+
+[part.outer-dimensions]
+width = "330.20"
+height = "228.60"
+
+[[part]]
+name = "Elastic Headband"
+# tsdc = "3DP"
+source = "https://cms.delve.com/assets/documents/OPEN-SOURCE-FACE-SHIELD-DRAWING-v1.PDF"
+
+[part.outer-dimensions]
+width = "25.4"
+length = "330.2"
+thickness = "0.1778"
+
+[[part]]
+name = "Brow Foam"
+# tsdc = "3DP"
+source = "https://cms.delve.com/assets/documents/OPEN-SOURCE-FACE-SHIELD-DRAWING-v1.PDF"
+
+[part.outer-dimensions]
+width = "28.575"
+length = "228.6"
+thickness = "25.4"
