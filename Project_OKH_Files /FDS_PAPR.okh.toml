@@ -11,9 +11,6 @@ licensor = "Nathan de Souza <njds337@gmail.com>"
 function = "This device is a lightweight powered air-purifying respirator (PAPR) that provides filtered air, face and eye protection, and skin surface cooling."
 documentation-language = "en-au"
 organization = "Autodesk Instructables"
-# release = "https://gitlab.com/YOU/your-project/-/releases/1.0.0"
-# readme = "README.md"
-# contribution-guide = "CONTRIBUTING.md"
 image = [
   # product-photo
   "https://content.instructables.com/FVA/WNDF/LILYUDDY/FVAWNDFLILYUDDY.png",
@@ -26,9 +23,9 @@ technology-readiness-level = "OTRL-5"
 documentation-readiness-level = "ODRL-3"
 # attestation = "NA"
 publication = "https://www.instructables.com/DIY-Powered-Air-Purifying-Respirator-PAPR/"
-# standard-compliance = "Not sure"
+standard-compliance = "DIN SPEC 3105-1"
 cpc-patent-class = "A42"
-# tsdc = "Need further instruction"
+tsdc = "ASM"
 bom = "Cost+of+Materials+11-05-2023.pdf"
 manufacturing-instructions = "Documentation/Assembly_Guide/AssemblyGuide.md"
 user-manual = "PAPR+Design+Report+2023.pdf"
@@ -38,20 +35,3 @@ mass= 220
 width = "170"
 height = "240"
 depth = "210"
-
-
-[[part]]
-name = "Visor"
-image = "https://content.instructables.com/F8W/EFNQ/LEFOW28D/F8WEFNQLEFOW28D.jpg"
-# tsdc = "Not sure"
-source = "Visor_Template_mm.pdf"
-export = [
-  "https://content.instructables.com/FT3/5A1W/LEE9COVQ/FT35A1WLEE9COVQ.jpg",
-  "https://content.instructables.com/F1Q/XL1T/LEE9COVU/F1QXL1TLEE9COVU.jpg",
-  "https://content.instructables.com/FT8/7UWP/LEE9COVV/FT87UWPLEE9COVV.jpg",
-  "https://content.instructables.com/F5I/7EZ5/LEE9COW1/F5I7EZ5LEE9COW1.jpg"
-]
-
-[part.outer-dimensions]
-width = "135"
-height = "240"
