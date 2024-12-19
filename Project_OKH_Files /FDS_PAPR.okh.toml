@@ -35,3 +35,11 @@ mass= 220
 width = "170"
 height = "240"
 depth = "210"
+
+[[Parts-source]]
+source = "https://www.instructables.com/DIY-Powered-Air-Purifying-Respirator-PAPR/"
+export = [
+"https://www.thingiverse.com/thing:5870488#google_vignette",
+"content.instructables.com/FIP/T8AD/LEFORDDR/FIPT8ADLEFORDDR.pdf",
+"content.instructables.com/FEP/P16X/LEFORG20/FEPP16XLEFORG20.pdf",
+"content.instructables.com/FKT/M5PX/LEFORF26/FKTM5PXLEFORF26.pdf"]
