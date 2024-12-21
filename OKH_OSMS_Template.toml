@@ -25,7 +25,6 @@ technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 attestation = "https://certification.oshwa.org/cl000001.html"
 publication = "https://doi.org/10.1371/journal.pone.0193087"
-standard-compliance = "DIN EN 1335" # Void if there is no valid license. DIN SPEC 1305-1 if covers all areas, or DIN SPEC 1305-2 if officially listed.
 # A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
 cpc-patent-class = "D03D 35/00"
 tsdc = "MEC/ASM/etc." # Void if there is no valid licence. Possible values for the project listed here: https://gitlab.com/OSEGermany/oh-tsdc/-/blob/master/OH-TsDC.md?ref_type=heads.
