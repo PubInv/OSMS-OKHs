@@ -10,7 +10,10 @@ license = "Not applicable."
 licensor = "Jesse Darley <JESSE.DARLEY@DELVE.COM>"
 function = "COVID-19 Medical Face Shield (University of Wisconsin)"
 documentation-language = "en-US"
-organization = "Delve"
+organization = [
+  "Delve",
+  "The University of Wisconsin"
+  ]
 release = "https://cms.delve.com/assets/documents/OPEN-SOURCE-FACE-SHIELD-DRAWING-v1.PDF"
 # readme = "https://cms.delve.com/assets/documents/OPEN-SOURCE-FACE-SHIELD-DRAWING-v1.PDF"
 image = [
