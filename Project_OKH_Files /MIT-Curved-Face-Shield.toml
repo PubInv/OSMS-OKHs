@@ -1,0 +1,40 @@
+# SPDX-FileCopyrightText: 2024 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "MIT-Curved-Face-Shield"
+repo = "https://gitlab.cba.mit.edu/alfonso/curved-face-shield"
+version = "3.0.0"
+license = "GNU GENERAL PUBLIC LICENSE"
+licensor = "Alfonso Parra Rubio <alfonso.parra@cba.mit.edu>"
+function = "A PPE face shield that curves to the wearers face for additional coverage."
+documentation-language = "en-US"
+organization = "Massachussets Institute of Technology"
+release = "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/commit/794a503ca36c4fc6353b99c6b4ab53778654cb59"
+readme = "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/blob/master/README.md?ref_type=heads"
+image = [
+  # product-photos
+  "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/raw/master/Curved%20Shield%20a5ceaa12053b49cc973e136059016f14/WhatsApp_Image_2020-05-11_at_17.32.00_(1).jpeg",
+  "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/raw/master/Curved%20Shield%20a5ceaa12053b49cc973e136059016f14/Captura_de_pantalla_2020-05-11_a_las_19.27.05.png",
+  "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/raw/master/Curved%20Shield%20a5ceaa12053b49cc973e136059016f14/WhatsApp_Image_2020-05-11_at_19.07.07.jpeg",
+  "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/raw/master/Curved%20Shield%20a5ceaa12053b49cc973e136059016f14/WhatsApp_Image_2020-05-11_at_19.07.08.jpeg",
+  "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/raw/master/Curved%20Shield%20a5ceaa12053b49cc973e136059016f14/WhatsApp_Image_2020-05-11_at_17.32.00_(5).jpeg",
+  "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/raw/master/Curved%20Shield%20a5ceaa12053b49cc973e136059016f14/WhatsApp_Image_2020-05-11_at_17.32.00_(3).jpeg",
+  "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/raw/master/Curved%20Shield%20a5ceaa12053b49cc973e136059016f14/WhatsApp_Image_2020-05-11_at_17.32.00_(4).jpeg"
+]
+technology-readiness-level = "OTRL-4"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A42B 3/00"
+tsdc = "LAS" 
+# bom = "BoM.csv" No BoM present.
+manufacturing-instructions = "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/blob/master/README.md?ref_type=heads"
+source = [
+     "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/blob/master/array.png",
+     "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/blob/master/MIT_CURVED_SHIELD_V3_TEMPORA.dxf",
+     "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/blob/master/version4.dxf",
+     "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/blob/master/4feetby8feetArray.dxf",
+     "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/blob/master/.DS_Store"
+     ]
+
+
