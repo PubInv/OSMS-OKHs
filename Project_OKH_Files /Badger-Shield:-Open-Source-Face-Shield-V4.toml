@@ -21,7 +21,6 @@ image = [
 ]
 technology-readiness-level = "OTRL-5"
 documentation-readiness-level = "ODRL-3"
-# standard-compliance = Does not meet license criteria, none listed.
 cpc-patent-class = "A42"
 # tsdc = "ASM"
 bom = "https://cms.delve.com/assets/documents/OPEN-SOURCE-FACE-SHIELD-DRAWING-v1.PDF"
@@ -30,6 +29,3 @@ manufacturing-instructions = "https://cms.delve.com/assets/documents/OPEN-SOURCE
 [outer-dimensions]
 width = "330.20"
 height = "228.60"
-
-[[Parts-source]]
-source = "https://cms.delve.com/assets/documents/OPEN-SOURCE-FACE-SHIELD-DRAWING-v1.PDF"
