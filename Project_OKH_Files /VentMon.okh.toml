@@ -25,68 +25,23 @@ technology-readiness-level = "OTRL-6"
 documentation-readiness-level = "ODRL-2"
 attestation = "https://certification.oshwa.org/us002353.html"
 publication = "https://www.sciencedirect.com/science/article/pii/S2468067221000249"
-# standard-compliance = "Not sure"
 # A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
 cpc-patent-class = "F15"
 # tsdc = "Waiting on direction"
 bom = "design/pcb/ventmon_T0.4/VentMon T0.4 BOM.csv"
 manufacturing-instructions = "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor/tree/master/design/3dparts"
 user-manual = "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor/blob/master/doc/UserManaul.md"
+source = [
+    "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor/blob/master/design/3dparts/T0.5/VentMon0.5.scad",
+    "Case_T0.5.48.stl",
+    "Nozzle_T0.5.66.stl"
+    ]
 mass=78
 
 [outer-dimensions]
 width = "90"
 depth = "60"
 height = "35"
-
-[[part]]
-name = "Housing"
-# tsdc = "NA"
-source = "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor/blob/master/design/3dparts/T0.5/VentMon0.5.scad"
-export = [
-  "Case_T0.5.48.stl"
-]
-
-[part.outer-dimensions]
-width = "30"
-depth = "60"
-height = "55"
-
-[[part]]
-name = "Flow Sensor"
-# tsdc = "NA"
-source = "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor/blob/master/design/3dparts/T0.5/VentMon0.5.scad"
-
-# Not sure if the below is correct dimensions based on scad.
-[part.outer-dimensions]
-id = "10"
-t = "1"
-x = "50"
-
-[[part]]
-name = "PCB"
-# tsdc = "NA"
-source = "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor/blob/master/design/3dparts/T0.5/VentMon0.5.scad"
-
-
-[part.outer-dimensions]
-# Feather PCB - also Header dimensions, which to reference?
-width = "22.9"
-length = "50.4"
-height = "8.5"
-
-[[part]]
-name = "Nozzle"
-# tsdc = "NA"
-source = "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor/blob/master/design/3dparts/T0.5/VentMon0.5.scad"
-export = [
-  "Nozzle_T0.5.66.stl"
-]
-
-[part.outer-dimensions]
-id = "10"
-t = "1"
-x = "40"
 
 [[software]]
 release = "https://github.com/PubInv/vent-display/releases/tag/v0.3T"
