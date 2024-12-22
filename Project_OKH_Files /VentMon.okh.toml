@@ -27,7 +27,7 @@ attestation = "https://certification.oshwa.org/us002353.html"
 publication = "https://www.sciencedirect.com/science/article/pii/S2468067221000249"
 # A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
 cpc-patent-class = "F15B 19/007"
-# tsdc = "Waiting on direction"
+tsdc = "OSH"
 bom = "design/pcb/ventmon_T0.4/VentMon T0.4 BOM.csv"
 manufacturing-instructions = "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor/tree/master/design/3dparts"
 user-manual = "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor/blob/master/doc/UserManaul.md"
