@@ -23,23 +23,21 @@ technology-readiness-level = "OTRL-5"
 documentation-readiness-level = "ODRL-3"
 # attestation = "NA"
 publication = "https://www.instructables.com/DIY-Powered-Air-Purifying-Respirator-PAPR/"
-standard-compliance = "DIN SPEC 3105-1"
 cpc-patent-class = "A42"
 tsdc = "ASM"
 bom = "Cost+of+Materials+11-05-2023.pdf"
 manufacturing-instructions = "Documentation/Assembly_Guide/AssemblyGuide.md"
 user-manual = "PAPR+Design+Report+2023.pdf"
+source = [
+     "https://www.instructables.com/DIY-Powered-Air-Purifying-Respirator-PAPR/",
+     "https://www.thingiverse.com/thing:5870488#google_vignette",
+     "content.instructables.com/FIP/T8AD/LEFORDDR/FIPT8ADLEFORDDR.pdf",
+     "content.instructables.com/FEP/P16X/LEFORG20/FEPP16XLEFORG20.pdf",
+     "content.instructables.com/FKT/M5PX/LEFORF26/FKTM5PXLEFORF26.pdf"
+     ]
 mass= 220
 
 [outer-dimensions]
 width = "170"
 height = "240"
 depth = "210"
-
-[[Parts-source]]
-source = "https://www.instructables.com/DIY-Powered-Air-Purifying-Respirator-PAPR/"
-export = [
-"https://www.thingiverse.com/thing:5870488#google_vignette",
-"content.instructables.com/FIP/T8AD/LEFORDDR/FIPT8ADLEFORDDR.pdf",
-"content.instructables.com/FEP/P16X/LEFORG20/FEPP16XLEFORG20.pdf",
-"content.instructables.com/FKT/M5PX/LEFORF26/FKTM5PXLEFORF26.pdf"]
