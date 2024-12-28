@@ -14,42 +14,29 @@ licensor = [
 ]
 function = "This PPE is designed specifically for the needs of healthcare workers during the COVID-19 pandemic. It reduces aerosol and splatter exposure and can undergo multiple reuses and cleanings. Additionally, the mask is comfortable and provides ventilation for all-day wear."
 documentation-language = "en-US"
-organization = "xxx"
-# In the case of no releases, can link to the latest commit.
-release = "https://gitlab.com/YOU/your-awesome-project/-/releases/1.0.0"
-readme = "README.md"
-contribution-guide = "CONTRIBUTING.md"
+organization = [
+	"National Institute of Health",
+    "design that matters"
+]
+release = "https://3d.nih.gov/entries/13359/2"
+contribution-guide = "https://www.designthatmatters.org/covid-19"
 image = [
   # logo
-  "imgs/xxx.jpg",
+  "https://3d.nih.gov/api/submissions/17230/runs/51edd40a-8c31-47e4-9ce6-f2300fac52f4/output-files/DtM-v_thumb_NIH3D.png",
   # product-photo
-  "imgs/yyy.jpg"
+  "https://images.squarespace-cdn.com/content/v1/5267f3a6e4b0da2bab9939e3/1444954851408-Z8912NHY9U4M5COATKGA/Web+white+logo-01.png",
+  "https://images.squarespace-cdn.com/content/v1/5267f3a6e4b0da2bab9939e3/1585858118343-E7MW3NDJBXSUPXB3OIO0/DtM-v3.0+Face+Shield+PPE+with+NO+LOGO?format=1000w"
 ]
-technology-readiness-level = "OTRL-3"
+technology-readiness-level = "OTRL-5"
 documentation-readiness-level = "ODRL-3"
-attestation = "https://certification.oshwa.org/cl000001.html"
-publication = "https://doi.org/10.1371/journal.pone.0193087"
-# A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
-cpc-patent-class = "D03D 35/00"
-bom = "BoM.csv"
-manufacturing-instructions = "Documentation/Assembly_Guide/AssemblyGuide.md"
-user-manual = "Documentation/User_Guide/UserGuide.md"
-# Sources for the parts information
-source = [
-     "main.scad",
-     "part_a.scad",
-     "part_b.scad",
-     "params.csv"
-     ]
-# Any mass always has to be in g (gramms)
-mass= 50330.0
+cpc-patent-class = "A42B 3/00"
+bom = "https://www.designthatmatters.org/covid-19"
+manufacturing-instructions = "https://www.designthatmatters.org/covid-19"
+user-manual = "https://www.designthatmatters.org/covid-19"
+source = "https://3dprint.nih.gov/discover/3dpx-013359"
+mass = "50"
 
 [outer-dimensions]
-# Any dimension value always has to be in [mm] (milli-meters)
-width = "400"
-depth = "350"
-height = "150"
-
-[[software]]
-release = "https://github.com/arduino/ArduinoCore-mbed/releases/tag/1.3.2"
-installation-guide = "https://github.com/arduino/ArduinoCore-mbed/blob/a2c06d768f5ebb6821ae6505b2032ee58f4ef70d/README.md"
+width = "191"
+length = "148.5"
+height = "52.5"
