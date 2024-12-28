@@ -3,7 +3,7 @@
 # SPDX-License-Identifier: CC0-1.0
 
 okhv = "OKH-LOSHv1.0"
-name = "DtM_Face_Shield_Headband"
+name = "DtM Face Shield Headband"
 repo = "https://3d.nih.gov/entries/3dpx-013359"
 version = "3.1"
 license = "Public Domain"
