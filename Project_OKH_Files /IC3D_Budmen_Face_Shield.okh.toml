@@ -1,1 +1,52 @@
+# SPDX-FileCopyrightText: 2024 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
 
+okhv = "OKH-LOSHv1.0"
+name = "IC3D Budmen Face Shield"
+repo = "https://3d.nih.gov/entries/3dpx-013309"
+version = "2"
+license = "CC-BY"
+licensor = [
+	"IC3D, Inc. <Support@IC3DPrinters.com>",
+    "Budmen Industries"
+]
+function = "The IC3D Budmen Face Shield is designed as a quick and low-cost method to 3D print the bracket securing a clear face shield to the wearer via an elastic strap."
+documentation-language = "en-US"
+organization = [
+	"IC3D, Inc.",
+    "Budmen Industries"
+]
+# In the case of no releases, can link to the latest commit.
+release = "https://3d.nih.gov/entries/13309/2"
+contribution-guide = "https://3d.nih.gov/entries/3dpx-013309#attribution"
+image = [
+  # logo
+  "https://www.ic3dprinters.com/ic3d/wp-content/uploads/2023/07/3DPRINTING-logo-white400x144.png",
+  # product-photo
+  "https://3d.nih.gov/api/submissions/17446/files/input/386873",
+  "https://3d.nih.gov/api/submissions/17446/files/input/386878",
+  "https://3d.nih.gov/api/submissions/17446/files/input/386884",
+  "https://3d.nih.gov/api/submissions/17446/files/input/386886",
+  "https://3d.nih.gov/api/submissions/17446/files/input/386875"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+attestation = "https://certification.oshwa.org/cl000001.html"
+publication = "https://doi.org/10.1371/journal.pone.0193087"
+# A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
+cpc-patent-class = "A42B 3/08"
+tsdc = "3DP" 
+bom = "https://3d.nih.gov/api/submissions/17446/files/input/386879"
+manufacturing-instructions = "https://3d.nih.gov/api/submissions/17446/files/input/386883"
+user-manual = "https://3d.nih.gov/api/submissions/17446/files/input/386879"
+source = [
+     "https://3d.nih.gov/api/submissions/17446/runs/088306d1-dcfa-4025-a5c6-f2effbea2de2/output-files/strap-lock_thumb_NIH3D.png",
+     "https://3d.nih.gov/api/submissions/17446/runs/36e8e998-da05-4621-86a9-05612267743c/output-files/IC3D%2520Budmen%2520Face%2520Shield%2520V1_thumb_NIH3D.png",
+     "https://3d.nih.gov/api/submissions/17446/files/input/386876"
+     ]
+
+[outer-dimensions]
+# These dimensions are based roughly on parts information.
+width = "228.6"
+height = "304.8"
