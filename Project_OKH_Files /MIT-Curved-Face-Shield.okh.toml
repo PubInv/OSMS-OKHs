@@ -3,7 +3,7 @@
 # SPDX-License-Identifier: CC0-1.0
 
 okhv = "OKH-LOSHv1.0"
-name = "MIT-Curved-Face-Shield"
+name = "MIT Curved Face Shield"
 repo = "https://gitlab.cba.mit.edu/alfonso/curved-face-shield"
 version = "3.0.0"
 license = "GNU GENERAL PUBLIC LICENSE"
