@@ -1,0 +1,44 @@
+# SPDX-FileCopyrightText: 2024 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Proto Shield"
+repo = "https://open-face-ppe.vercel.app/"
+version = "1.1"
+license = "Creative Commons CC BY 4.0"
+licensor = "New York University <covid19.taskforce@nyu.edu> <OpenFacePPEproject@gmail.com>"
+function = "A low cost, medical face shield designed to be quickly made using almost any flat material fabrication equipment and clear flexible material."
+documentation-language = "en-US"
+organization = "New York University"
+readme = "https://open-face-ppe.vercel.app/"
+contribution-guide = "https://open-face-ppe.vercel.app/about"
+image = [
+  # logo
+  "https://open-face-ppe.vercel.app/NYU_torch.svg",
+  # product-photo
+  "https://open-face-ppe.vercel.app/bd.png",
+  "https://open-face-ppe.vercel.app/use.png",
+  "https://open-face-ppe.vercel.app/raw.png",
+  "https://open-face-ppe.vercel.app/visor.png",
+  "https://open-face-ppe.vercel.app/band.png",
+  "https://open-face-ppe.vercel.app/foam.png"
+]
+technology-readiness-level = "OTRL-5"
+documentation-readiness-level = "ODRL-3"
+# A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
+cpc-patent-class = "A42B 3/00"
+tsdc = "LAS" 
+bom = "https://open-face-ppe.vercel.app/instructions#bom"
+manufacturing-instructions = [
+	"https://open-face-ppe.vercel.app/face-shield-assembly-flatpack.pdf",
+    "https://open-face-ppe.vercel.app/face-shield-fabrication-flatpack.pdf"
+]
+source = [
+     "https://drive.google.com/file/d/11cp50YCfD1qBQ4jA6yaJaNwgbQTCdKm4/view",
+     "https://drive.google.com/file/d/1egbp1_zVfzGc_OvM3t4tTpchtrmrPxSy/view"
+     ]
+
+[outer-dimensions]
+width = "317.5"
+height = "260.35"
