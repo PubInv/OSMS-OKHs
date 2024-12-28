@@ -1,1 +1,29 @@
+# SPDX-FileCopyrightText: 2024 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Badger Shield: Open Source Surgical Face Shield V2"
+repo = "https://drive.google.com/file/d/1l8ZNx5NN9ZkyUR5Z0VP2tPWTfRIMs9SF/view"
+version = "2"
+license = "None"
+licensor = "KJ Williams <kjwilliamso2@wisc.edu>"
+function = "Open source face mask designed specifically with surgeons in mind."
+documentation-language = "en-US"
+organization = [
+  "The University of Wisconsin Makerspace",
+  "Delve"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+# A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
+cpc-patent-class = "A42B 3/00"
+bom = "https://drive.google.com/file/d/1l8ZNx5NN9ZkyUR5Z0VP2tPWTfRIMs9SF/view"
+manufacturing-instructions = "https://drive.google.com/file/d/1l8ZNx5NN9ZkyUR5Z0VP2tPWTfRIMs9SF/view"
+user-manual = "https://drive.google.com/file/d/1l8ZNx5NN9ZkyUR5Z0VP2tPWTfRIMs9SF/view"
+source = "https://drive.google.com/file/d/1l8ZNx5NN9ZkyUR5Z0VP2tPWTfRIMs9SF/view"
+
+[outer-dimensions]
+width = "292.1"
+height = "184.15"
 
