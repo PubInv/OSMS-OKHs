@@ -1,1 +1,43 @@
+# SPDX-FileCopyrightText: 2024 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Free-Floe-Adjustable-Face-Shield"
+repo = "https://freefloe.com/faceshield"
+version = "4"
+license = "Attribution-NonCommericial-ShareAlike 4.0 International License"
+licensor = "Kadin Feldis <KADIN@FREEFLOE.COM>"
+function = "This face shield has extended shielding for the one's entire face and neck. It is designed to be comfortable, adjustable, sturdy headgear for continued use, and is adjustable for users of varying heights and head sizes. Durable and reusable, this shield can be sanitized for repeated use by a single user."
+documentation-language = "en-US"
+organization = "FREEFLOE DESIGN LLC"
+readme = "https://freefloe.com/"
+contribution-guide = "https://freefloe.com/our-team"
+image = [
+  # logo
+  "https://images.squarespace-cdn.com/content/v1/5e814188c85bba583b4a8db1/1586213734786-7B16I1M5V5PD1BX4BBF7/LOGO+TM.jpg?format=1500w",
+  # product-photo
+  "https://images.squarespace-cdn.com/content/v1/5e814188c85bba583b4a8db1/1586905096498-OY55UZ1UGMBFB4C91FFX/face+shield+on+metal.jpg?format=500w",
+  "https://images.squarespace-cdn.com/content/v1/5e814188c85bba583b4a8db1/1586905160959-BN1TIRHZ69BAIUWCLEKH/Dr+Greg+Face+Shield.PNG?format=500w",
+  "https://images.squarespace-cdn.com/content/v1/5e814188c85bba583b4a8db1/1585701856557-VTQU34II5XJQ8D3X9ZPL/Shield+Side+1.jpg?format=1500w"
+]
+technology-readiness-level = "OTRL-5"
+documentation-readiness-level = "ODRL-3"
+publication = [
+	"https://vimeo.com/gemalaska/review/411223617/d8dd91bb4f",
+    "https://www.ktuu.com/content/news/WATCH-Engineering-student-creates-masks-for-medical-workers-570160251.html"
+]
+cpc-patent-class = "A42B 3/00"
+tsdc = "LAS" 
+bom = "https://static1.squarespace.com/static/5e814188c85bba583b4a8db1/t/5e84dca3d893ea6060b9d368/1585765542650/FLOE+Face+Shield+Instructions+3-31-2020.pdf"
+manufacturing-instructions = "https://static1.squarespace.com/static/5e814188c85bba583b4a8db1/t/5e84dca3d893ea6060b9d368/1585765542650/FLOE+Face+Shield+Instructions+3-31-2020.pdf"
+source = [
+     "https://freefloe.com/s/MK2-24x24.cdr",
+     "https://freefloe.com/s/MK2-24x24.dxf",
+     "https://static1.squarespace.com/static/5e814188c85bba583b4a8db1/t/5e83a63e0dfa0d0c21a5e91c/1585686078989/MK2+CUTTING+TEMPLATE+-+FREEFLOE+DESIGNS.pdf"
+     ]
+     
+[outer-dimensions]
+width = "419.1"
+height = "285.75"
 
