@@ -1,0 +1,43 @@
+# SPDX-FileCopyrightText: 2024 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Jersey-City-Face-Shield"
+repo = "https://technochic.net/blogs/tech-craft-tutorials/the-jersey-city-face-shield-project#About"
+license = "Attribution-NonCommercial-ShareAlike CC BY-NC-SA"
+licensor = "Natasha Dzurny <natasha@technochic.net>"
+function = "Face shield made to be reusable and inexpensive. It uses zip ties because they are cheaper, faster to assemble, and will not fall off. The design also includes an optional cover for over the top of the head and tourniquet bands as the elastic."
+documentation-language = "en-US"
+organization = "TechnoChic"
+contribution-guide = "https://blogstudio.s3.amazonaws.com/technochic/85bd8708f8d5d4768a5f8ce79c7462bf.png"
+image = [
+  # logo
+  "https://technochic.net/cdn/shop/files/technochicLOGO_x45.svg?v=1721331694",
+  # product-photo
+  "https://blogstudio.s3.amazonaws.com/technochic/a671c7aaafde5a116ec4603025e57fe2.jpeg",
+  "https://blogstudio.s3.amazonaws.com/technochic/6219a1bcb75779b1a50210c5779f9032.jpeg",
+  
+]
+technology-readiness-level = "OTRL-4"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A42B 3/00"
+tsdc = "ASM" 
+bom = "https://technochic.net/blogs/tech-craft-tutorials/the-jersey-city-face-shield-project#About"
+manufacturing-instructions = [
+	"https://youtu.be/l1FvrBrt4rw",
+    "https://youtu.be/cIAuL4XNhY8",
+    "https://technochic.net/blogs/tech-craft-tutorials/the-jersey-city-face-shield-project#How_To_Build_The_Face_Shield"
+]
+# Sources for the parts information
+source = "https://technochic.net/checkouts/cn/Z2NwLXVzLWNlbnRyYWwxOjAxSkdGRUJNVEo2QlYwRkZXU0FSMTc1U1BU?auto_redirect=false&cart_link_id=JmZF9mZz&edge_redirect=true&locale=en-US&skip_shop_pay=true"
+
+[outer-dimensions]
+width = [
+	# Simple Design
+	"254",
+    # Covered Design
+    "304.8"
+]
+height = "355.6"
+
