@@ -3,7 +3,7 @@
 # SPDX-License-Identifier: CC0-1.0
 
 okhv = "OKH-LOSHv1.0" 
-name = "Badger Shield: Open Source Face Shield V4"
+name = "Badger-Shield:-Open-Source-Face-Shield-V4"
 repo = "https://www.delve.com/insights/face-shield-designs-to-fill-the-gap"
 version = "4"
 license = "Not applicable."
