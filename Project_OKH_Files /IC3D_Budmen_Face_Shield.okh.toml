@@ -3,7 +3,7 @@
 # SPDX-License-Identifier: CC0-1.0
 
 okhv = "OKH-LOSHv1.0"
-name = "IC3D Budmen Face Shield"
+name = "IC3D_Budmen_Face_Shield"
 repo = "https://3d.nih.gov/entries/3dpx-013309"
 version = "2"
 license = "CC-BY"
