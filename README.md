@@ -4,12 +4,12 @@ This is a repository that will hold a wide range of open-source projects from th
 ## Process and Timeline (Updated Alongside Progress)
 **December 2024**
 
-Members of the project team discussed the OKH formatting and exceptions to accomodate the varied data available for each project. Moved several project datasets from the .json OSH-Registry under Public Invention to the OKH repository. 
+Members of the project team discussed the OKH formatting and exceptions to accomodate the varied data available for each project. Moved several project datasets from the .json OSH-Registry under Public Invention to the OKH repository. Modified the original template from [OSEGermany](https://gitlab.com/OSEGermany) to a more simplified version tailored to the needs for this project.
 
 ## Important notes:
   * These are .toml files. If interested in learning more, check out this link:[TOML](https://toml.io/en/)
-  * This project is in partnership with both [Public Invention](https://www.pubinv.org/volunteer/) and [OSMS](https://opensourcemedicalsupplies.org/). Check out their websites if you would like to get involved in similar projects.
-  * Not all of the projects listed in the files were created by Public Invention or OSMS. If interested in building one, please see the licenser contact information.
+  * This project is in partnership with both [Public Invention](https://www.pubinv.org/volunteer/) and [OSMS](https://opensourcemedicalsupplies.org/), with collaboration from members of [OSEGermany](https://gitlab.com/OSEGermany). Check out their websites if you would like to get involved in similar projects.
+  * Not all of the projects listed in the files were created by Public Invention or OSMS. Many were created during the Covid-19 pandemic, from various institutions and individuals who wanted to bridge the gap of need for PPE, ventilators, and similar medical devices. If interested in building one, please see the licenser contact information and reach out to the original creators.
 
 ## Contributers
   * Robert L. Read (<read.robert@gmail.com>): Provided project direction, organization, and leadership for the OKH team.
