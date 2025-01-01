@@ -1,0 +1,43 @@
+# SPDX-FileCopyrightText: 2024 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Bauhaus-UniVisor"
+repo = "https://github.com/bauhausformandfunctionlab/covid19/tree/master/BauhausUniVisor"
+license = "Creative Commons (4.0 International License) Attribution"
+licensor = "Andreas Mühlenberend <andreas.muehlenberend[at]uni-weimar.de>"
+function = "Flexible laser-cut design with incorporated adjustable fastener. One material necessary, such as PETG or PET film."
+documentation-language = [
+	"en",
+    "de"
+]
+organization = "Bauhaus-Universität Weimar"
+release = "https://github.com/bauhausformandfunctionlab/covid19/commit/0241eb7927b8df854ed29e7c7354427d652aa9a9"
+readme = "https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/readme.md"
+contribution-guide = "https://github.com/bauhausformandfunctionlab/covid19/graphs/contributors"
+image = [
+  # logo
+  "https://avatars.githubusercontent.com/u/62937095?v=4",
+  # product-photo
+  "https://github.com/bauhausformandfunctionlab/covid19/raw/master/BauhausUniVisor/buv-3.jpg",
+  "https://github.com/bauhausformandfunctionlab/covid19/raw/master/BauhausUniVisor/buv-5.jpg",
+  "https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/BauhausUniVisor_Lasercut.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A42B 3/00"
+tsdc = "LAS" 
+bom = "https://github.com/bauhausformandfunctionlab/covid19/tree/master/BauhausUniVisor"
+manufacturing-instructions = [
+	"https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/BauhausUniVisor_Assembly_Guide.jpg",
+    "https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/BauhausUniVisor_Assembly_Guide.pdf"
+]
+source = [
+     "https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/BauhausUniVisor_2020_04_16_VARIANT_A_and_VARIANT_B_combined_NO_BRIDGES.pdf",
+     "https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/BauhausUniVisor_2020_04_16_VARIANT_A_and_VARIANT_B_combined_WITH_0.8mm_BRIDGES.pdf",
+     "https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/pre-arranged%20production%20layouts%20for%20specific%20laser%20cutter%20sizes/2020_04_07_EIGHT_FACEPLATES_NO_STRAPS_for_1000x600mm_Lasers.pdf",
+     "https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/pre-arranged%20production%20layouts%20for%20specific%20laser%20cutter%20sizes/2020_04_07_EIGHT_FACEPLATES_for_1000x700mm_Lasers_PET_0.5mm_120W_RP50_VP85_Epilog_Fusion_M2.pdf",
+     "https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/coburg/2020_04_15_PRODUCTION_FILE_for_1000x430mm_PET_SHEETS_with_BRIDGES.pdf",
+     "https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/coburg/2020_04_15_PRODUCTION_FILE_for_840x430mm_PET_SHEETS_02_with_BRIDGES.pdf"
+     ]
