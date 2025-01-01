@@ -1,0 +1,29 @@
+# SPDX-FileCopyrightText: 2024 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Prusa-Face-Shield-for-Dentist"
+repo = "https://www.printables.com/model/30615-prusa-face-shield-for-dentist"
+license = "Creative Commons (4.0 International License) Attribution"
+licensor = "Fromzy <https://www.printables.com/@Fromzy_43687>"
+function = "Modified Prusa designs specifically for dental loupes and optics."
+documentation-language = "en"
+organization = "Printables"
+image = [
+  # product-photo
+  "https://media.printables.com/media/prints/30615/images/307076_c348f16a-dbb7-4501-984c-786c8aefe9b5/thumbs/inside/1280x960/jpg/live2.webp",
+  "https://media.printables.com/media/prints/30615/images/307077_c3c4b8ae-4791-4328-a628-9ee6012e9df3/thumbs/inside/1280x960/jpg/live1.webp"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-1"
+cpc-patent-class = "A42B 3/00"
+tsdc = "3DP" 
+bom = "https://www.printables.com/model/30615-prusa-face-shield-for-dentist"
+source = [
+     "https://www.printables.com/model/30615-prusa-face-shield-for-dentist/files#preview.file.GyPO",
+     "https://www.printables.com/model/30615-prusa-face-shield-for-dentist/files#preview.bwVv",
+     "https://www.printables.com/model/30615-prusa-face-shield-for-dentist/files#preview.szpo",
+     "https://www.printables.com/model/30615-prusa-face-shield-for-dentist/files#preview.GvBy",
+     "petg_seb_chassis_v2_06n_035mm_petg_mk3s_2h0m.gcode… mk3s_2h0m.gcode"
+     ]
