@@ -1,1 +1,21 @@
+# SPDX-FileCopyrightText: 2024 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Mega-Wilson"
+repo = "https://www.tinkercad.com/things/e85Mc3PbHem"
+version = "5"
+license = "CC BY-SA 3.0"
+licensor = "q1g0ng <https://www.tinkercad.com/users/gCVwsbDX2v9-q1g0ng>"
+function = "Dentist-requested remix of the existing Budmen shield to allow a loupe to fit under the faceshield."
+documentation-language = "en-US"
+organization = "Autodesk Tinkercad"
+image = [
+  "https://csg.tinkercad.com/things/e85Mc3PbHem/t725.png?rev=1590021348292000000&s=&v=1"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-1"
+cpc-patent-class = "A42B 3/00"
+tsdc = "LAS" 
 
