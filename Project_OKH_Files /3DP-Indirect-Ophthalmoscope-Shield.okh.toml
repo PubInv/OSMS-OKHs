@@ -1,0 +1,34 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "3DP-Indirect-Ophthalmoscope-Shield"
+repo = "https://makernexuswiki.com/wiki/3D_printed_Indirect_Ophthalmoscope_shields?fbclid=IwAR2krTFmzUo0L729KpnQj9A_BIOEz0LWkAoUiXptsMYAeU3xx-GpTqUxa7Q"
+license = "CC BY-NC-SA 3.0 US"
+licensor = "Maker Nexus"
+function = "Shield designed to fit specific versions of Heine ophthalmoscopy headgear."
+documentation-language = "en"
+organization = "Maker Nexus"
+readme = "https://makernexuswiki.com/wiki/3D_printed_Indirect_Ophthalmoscope_shields#Overview"
+image = [
+  # logo
+  "https://makernexuswiki.com/MakerNexus_LogoWiki.png",
+  # product-photo
+  "https://makernexuswiki.com/images/thumb/e/e8/Ophthalmologist_shield_three_quarter_view.jpg/200px-Ophthalmologist_shield_three_quarter_view.jpg",
+  "https://makernexuswiki.com/images/thumb/9/9c/Ophthalmologist_shield_side.jpg/200px-Ophthalmologist_shield_side.jpg",
+  "https://makernexuswiki.com/images/thumb/9/9c/Ophthalmologist_frames_v11.png/200px-Ophthalmologist_frames_v11.png",
+  "https://makernexuswiki.com/images/thumb/b/b1/Opthalmologist_laser_file_image.png/300px-Opthalmologist_laser_file_image.png",
+  "https://makernexuswiki.com/images/thumb/5/5f/Photo_of_ophthalmologists_shield_.jpg/300px-Photo_of_ophthalmologists_shield_.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A42B 3/00"
+tsdc = "ASM" 
+bom = "https://makernexuswiki.com/wiki/3D_printed_Indirect_Ophthalmoscope_shields#Materials"
+manufacturing-instructions = "https://www.youtube.com/watch?v=HVxThzvk5Hs"
+user-manual = "Documentation/User_Guide/UserGuide.md"
+source = [
+     "https://makernexuswiki.com/images/1/1e/Ophthalmologist_frames.stl",
+     "https://makernexuswiki.com/images/c/c9/X4_020_opthalmologist.svg"
+     ]
