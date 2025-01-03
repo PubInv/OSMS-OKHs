@@ -1,0 +1,41 @@
+# SPDX-FileCopyrightText: 2024 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Milwaukee-Makerspace-Face-Shield"
+repo = "https://github.com/raster/MMS-Face-Shield?fbclid=IwAR0WkY2EEIgcGfV3WB6s5rP51Lk15lYz9K19944MHRSXsvdNrABiS-vB9gY"
+version = "3"
+license = "CC-BY-SA-4.0"
+licensor = "Pete Prodoehl <pete@rasterweb.net>"
+function = "CNC and Injection Molded version of the version 3 3D Verkstan shield, six hole North American design."
+documentation-language = "en-US"
+organization = "Milwaukee Makerspace"
+release = "https://github.com/raster/MMS-Face-Shield/commit/884503ea0edbf2f9fdb15d2bfbf8e64ef008415f"
+readme = "https://github.com/raster/MMS-Face-Shield/blob/master/README.md"
+contribution-guide = "https://github.com/raster/MMS-Face-Shield/graphs/contributors"
+image = [
+  "https://github.com/raster/MMS-Face-Shield/blob/master/Images/face-shield-01.jpg",
+  "https://github.com/raster/MMS-Face-Shield/raw/master/Images/face-shield-02.jpg",
+  "https://github.com/raster/MMS-Face-Shield/raw/master/Images/hdpe-visors.jpg",
+  "https://github.com/raster/MMS-Face-Shield/raw/master/Images/frame-im.png"
+]
+technology-readiness-level = "OTRL-5"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A42B 3/00"
+tsdc = "ASM"
+manufacturing-instructions = "https://github.com/raster/MMS-Face-Shield/blob/master/Face_Shield_Instructions_v1.pdf"
+user-manual = "https://github.com/raster/MMS-Face-Shield/blob/master/Face_Shield_Instructions_v1.pdf"
+source = [
+	 # Frame
+     "https://github.com/raster/MMS-Face-Shield/blob/master/Frame/Frame-Injection-Molding-v7.step",
+     "https://github.com/raster/MMS-Face-Shield/blob/master/Frame/Frame-Injection-Molding-v7.stl",
+     "https://github.com/raster/MMS-Face-Shield/blob/master/Frame/Frame-v7.dxf",
+     "https://github.com/raster/MMS-Face-Shield/blob/master/Frame/Frame-v7.pdf",
+     "https://github.com/raster/MMS-Face-Shield/blob/master/Frame/Frame-v7.stl",
+     "https://github.com/raster/MMS-Face-Shield/blob/master/Frame/Frame-v7.svg",
+     # Shield
+     "https://github.com/raster/MMS-Face-Shield/blob/master/Shield/Shield-v7.dxf",
+     "https://github.com/raster/MMS-Face-Shield/blob/master/Shield/Shield-v7.pdf",
+     "https://github.com/raster/MMS-Face-Shield/blob/master/Shield/Shield-v7.svg"
+     ]
