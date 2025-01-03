@@ -1,0 +1,23 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Swedish-Shield-Dental-Extension"
+repo = "https://www.thingiverse.com/thing:4327024#google_vignette"
+version = "5"
+license = "CC BY 4.0"
+licensor = "Cristina Saldana <https://www.thingiverse.com/cristinasaldana/designs>"
+function = "This remix of the Swedish Shield design was created to set back the inner band by around 1.5 inches to increase the space between the user's face and the shield's cover. This allows for dentist loupes."
+documentation-language = "en-US"
+organization = "MakerBot Labs"
+image = [
+  "https://cdn.thingiverse.com/assets/84/9b/78/a7/65/large_display_Covid19DentistFaceShieldBand.png",
+  "https://cdn.thingiverse.com/assets/67/ee/81/1d/58/large_display_Covid19DentistFaceShieldBandFront.png",
+  "https://cdn.thingiverse.com/assets/89/38/83/a3/e3/large_display_comparisonCovidBands.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-1"
+cpc-patent-class = "A42B 3/00"
+tsdc = "3DP"
+source = "https://cdn.thingiverse.com/assets/12/d5/ba/af/41/large_display_Covid19DentistBandCorrected_v1.png"
