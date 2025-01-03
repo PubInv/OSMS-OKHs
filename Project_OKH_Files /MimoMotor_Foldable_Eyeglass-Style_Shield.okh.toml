@@ -1,0 +1,31 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "MimoMotor_Foldable_Eyeglass-Style_Shield"
+repo = "https://www.mimomotor.com/COVID19-Response/?fbclid=IwAR1cIupHZ3bdaMM9LmQ2LQhSHvRC1EFKbxMo6mRRYAwEDdsgK9zXHmLevNQ"
+license = "Not Applicable"
+licensor = "MIMO Motor Pte Ltd <https://www.mimomotor.com/Contact/>"
+function = "Unique design featuring a foldable, eyeglass-style armature which is printable on the small beds of basic 3D printers."
+documentation-language = "en-GB"
+organization = "MIMO Motor Pte Ltd"
+# In the case of no releases, can link to the latest commit.
+image = [
+  # logo
+  "https://www.mimomotor.com/gallery_gen/bf7cf9b98954c7164913d80f6b67bc71_326x78_fit.png?ts=1735364376",
+  # product-photo
+  "https://www.mimomotor.com/gallery_gen/5c1ce155fbf93610f20d4a611fa75107_592x854_fit.jpg?ts=1735364379",
+  "https://www.mimomotor.com/gallery/fs_foldable_design-ts1589686707.jpg?ts=1735364379"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+attestation = "https://certification.oshwa.org/cl000001.html"
+publication = "https://doi.org/10.1371/journal.pone.0193087"
+cpc-patent-class = "A42B 3/00"
+manufacturing-instructions = "https://youtu.be/wVXMx9XJQYQ"
+source = "https://www.mimomotor.com/gallery_gen/85ad62f11596df0c769f0de932f77846_2332x1756_fit.png?ts=1735364379"
+
+[outer-dimensions]
+width = "254"
+height = "200"
