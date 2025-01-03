@@ -1,0 +1,33 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Clever-Little-Maker-CNC-Shield"
+repo = "https://github.com/CleverLittleMaker/CLMFaceShield?fbclid=IwAR3CoafB_Kx5nVKNQB9niuDIl83wL2WCxQrx0H6I_2Rs1cvxmuYiNewmLxE"
+version = "5"
+license = "Not Applicable"
+licensor = "CleverLittleMaker <https://github.com/CleverLittleMaker>"
+function = "Open Source CNC-based Face Shield designed to protect medical personnel."
+documentation-language = "en"
+release = "https://github.com/CleverLittleMaker/CLMFaceShield/commit/b1711a8aff1e664f6182ee1fefbdef1d8e24f4a8"
+readme = "https://github.com/CleverLittleMaker/CLMFaceShield/blob/master/README.md"
+contribution-guide = "https://github.com/CleverLittleMaker"
+image = [
+  "https://github.com/CleverLittleMaker/CLMFaceShield/blob/master/CLM%20Face%20Shield%20final%20version%20pics/IMG_20200430_130306736.jpg?raw=true",
+  "https://github.com/CleverLittleMaker/CLMFaceShield/blob/master/CLM%20Face%20Shield%20final%20version%20pics/IMG_20200430_130321292.jpg?raw=true",
+  "https://github.com/CleverLittleMaker/CLMFaceShield/blob/master/CLM%20Face%20Shield%20final%20version%20pics/IMG_20200430_130340818.jpg",
+  "https://github.com/CleverLittleMaker/CLMFaceShield/blob/master/CLM%20Face%20Shield%20final%20version%20pics/IMG_20200430_130358269.jpg?raw=true",
+  "https://github.com/CleverLittleMaker/CLMFaceShield/blob/master/CLM%20Face%20Shield%20final%20version%20pics/IMG_20200430_130359586.jpg?raw=true",
+  "https://github.com/CleverLittleMaker/CLMFaceShield/blob/master/CLM%20Face%20Shield%20final%20version%20pics/IMG_20200430_130416770.jpg?raw=true"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A42B 3/00"
+bom = "https://github.com/CleverLittleMaker/CLMFaceShield/blob/master/CLM%20Face%20Shield%20-%20v5.zip"
+manufacturing-instructions = "https://github.com/CleverLittleMaker/CLMFaceShield/blob/master/CLM%20Face%20Shield%20-%20v5.zip"
+user-manual = "https://github.com/CleverLittleMaker/CLMFaceShield/blob/master/CLM%20Face%20Shield%20-%20v5.zip"
+
+[outer-dimensions]
+width = "340"
+height = "230"
