@@ -1,0 +1,27 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Baseline-Design-Dental-Shield"
+repo = "https://drive.google.com/drive/folders/1m9TbodIiRrV7RE-_95i1v8EssJgdXFmx"
+version = "1.3"
+license = "CC-BY"
+licensor = "kimly"
+function = "Frontal visor clearance is 4”. Dentist-requested and informed design process."
+documentation-language = "en"
+image = [
+  "https://drive.google.com/file/d/1mWongsRYpWI-4RDUNryvjIGFkOuh2g8A/view?usp=sharing",
+  "https://drive.google.com/file/d/1mT3gx1N9juTIGcmBwaoPM6CvhomirceG/view?usp=sharing"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-1"
+cpc-patent-class = "A42B 3/00"
+tsdc = "3DP" 
+bom = "https://drive.google.com/file/d/1m9nf_HIq0eobYsnej0qMDCn2mhjCkeW_/view?usp=sharing"
+manufacturing-instructions = "https://drive.google.com/file/d/1m9nf_HIq0eobYsnej0qMDCn2mhjCkeW_/view?usp=sharing"
+# Sources for the parts information
+source = [
+     "https://drive.google.com/file/d/1mBiywvVf4ZSasaO3KhQpDciqEglzxxQ_/view?usp=sharing",
+     "https://drive.google.com/file/d/1m9nf_HIq0eobYsnej0qMDCn2mhjCkeW_/view?usp=sharing"
+     ]
