@@ -1,0 +1,41 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Maker-Wasi-Face-Protector-for-Children"
+repo = "https://drive.google.com/drive/folders/1z5V-Vr2IhNkTULRHYDnu3yJRtQnGGCZc?fbclid=IwAR2wEgah40o1h6iQ1NisTrRpCynAJjcoMkE5fzAlE58WjQraAQwcUQVPNYo"
+license = "Not Applicable"
+licensor = "Ruben Santander"
+function = "Laser-cut design with three animal character options for visor decoration. Pattern is in Peruvian Spanish."
+documentation-language = "es"
+organization = "makerwasi"
+release = "https://drive.google.com/file/d/1BfZf4TOzawkO70TWgVlNIPTfqsXnYfB6/view?usp=sharing"
+image = [
+  # logo
+  "https://lh3.googleusercontent.com/a-/ALV-UjXQBdkDfy7VMkJ7XubvZXxs8UVrJlBYRuo70PeESkev1QFXNKg=s80-p-k-rw-no"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A42B 3/00"
+bom = "https://drive.google.com/file/d/1JDGSIo9TixOJh3G54rpGlvUbAmIE1LPV/view?usp=sharing"
+manufacturing-instructions = "https://drive.google.com/file/d/1JDGSIo9TixOJh3G54rpGlvUbAmIE1LPV/view?usp=sharing"
+source = [
+	 # Guinea pig designs
+     "https://drive.google.com/file/d/1P7A46b5xMrYPQ0LjwPqWhK-6kRLWpyCr/view?usp=sharing",
+     "https://drive.google.com/file/d/1NTQxLsO0WA1qGI4oV-82DIyJiSHxiRrA/view?usp=sharing",
+     "https://drive.google.com/file/d/1OTS8nzMEyfSYt36vdztE2g75QbGB63AW/view?usp=sharing",
+     "https://drive.google.com/file/d/1OTS8nzMEyfSYt36vdztE2g75QbGB63AW/view?usp=sharing",
+     "https://drive.google.com/file/d/1rTh-4i3_ypj6XynYWK-F1Ls_XsEIJxYB/view?usp=sharing",
+     "https://drive.google.com/file/d/1zEYMJWUvGYBe_1oIHkKfcrw78WSIJ_JD/view?usp=sharing",
+     "https://drive.google.com/file/d/1BOisyC-PMnVhMKwm-dEERqJD8EZXvmJu/view?usp=sharing",
+     # Alpaca designs
+     "https://drive.google.com/file/d/1BfZf4TOzawkO70TWgVlNIPTfqsXnYfB6/view?usp=sharing",
+     "https://drive.google.com/file/d/1Lkr2szF80uo2Xx6HhEsv8WET7WYq_e9n/view?usp=sharing",
+     "https://drive.google.com/file/d/1MIN4Wp4wIwoiNZWVDC5B9YCN7txx7q7w/view?usp=sharing",
+     "https://drive.google.com/file/d/1lEiJGT2ned_kmBrK3gDbGI1qbky73eqv/view?usp=sharing"
+     ]
+
+[outer-dimensions]
+width = "260"
+height = "190"
