@@ -1,0 +1,29 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "3DP_High-Clearance_Face_Shield"
+repo = "https://3d.nih.gov/entries/3dpx-014582"
+version = "2"
+license = "CC-BY-NC-SA"
+licensor = "kwarner <https://3d.nih.gov/users/kwarner>"
+function = "A face shield with frontal clearance and side coverage for dental loupe usage."
+documentation-language = "en-US"
+organization = "National Institute of Allergy and Infectious Diseases"
+image = [
+  "https://3d.nih.gov/api/submissions/19100/runs/93050669-3db5-4ce4-80c4-128a5d9ddb98/output-files/Dentist%2520Shield%2520for%25206%2520hole%2520r2%2520v7_0_thumb_NIH3D.png",
+  "https://3d.nih.gov/api/submissions/19100/files/input/414578",
+  "https://3d.nih.gov/api/submissions/19100/files/input/414579",
+  "https://3d.nih.gov/api/submissions/19100/files/input/414577"
+]
+technology-readiness-level = "OTRL-4"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A42B 3/00"
+tsdc = "LAS" 
+bom = "https://3d.nih.gov/entries/3dpx-014582"
+manufacturing-instructions = "https://3d.nih.gov/entries/3dpx-014582"
+source = [
+     "https://3d.nih.gov/api/submissions/19100/files/input/414583",
+     "https://3d.nih.gov/api/submissions/19100/files/input/414586"
+     ]
