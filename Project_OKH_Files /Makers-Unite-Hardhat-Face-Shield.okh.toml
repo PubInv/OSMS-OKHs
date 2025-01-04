@@ -1,0 +1,31 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Makers-Unite-Hardhat-Face-Shield"
+repo = "https://drive.google.com/drive/folders/1O7JifqSD2cZepNq1Q-eP-8O93xcTE7AX"
+version = "5"
+license = "Not Applicable."
+licensor = [
+	"Daniele Dellorto <daniele.dellorto12@gmail.com>",
+    "Will <will@openworksbmore.com>"
+]
+function = "Features acrylic and PETG components for a fully operable (flips up and down) protective visor that fits standard issue USDA hardhats."
+documentation-language = "en-US"
+organization = "Makers Unite"
+release = "https://docs.google.com/document/d/15PJesgw0wBu3PXNKbjEv6cbdwdmzQbVA2nZGETQyLLs/edit?tab=t.0"
+image = [
+  # logo
+  "https://images.squarespace-cdn.com/content/v1/5ea0d8a93ffbd834bce7770a/1587689972919-OGSZXCUVU755KK51DDKH/m-u-website-01.png?format=1500w"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A42B 3/00"
+bom = "https://drive.google.com/file/d/1rERwUuXsZS930nKOQpqeJ3ZQXoFwV5t5/view?usp=sharing"
+manufacturing-instructions = "https://drive.google.com/file/d/1UACjcm4LS-gmXSK3yUGJ9Z0SPjh2aoST/view?usp=sharing"
+source = [
+     "https://drive.google.com/file/d/1wgOFTgufbkiT2W9Vn7Mk3rTE2A6ESiDW/view?usp=sharing",
+     "https://drive.google.com/file/d/1YkLVKk8GDkEDLHtDL1G2UnnuNxY2aMIv/view?usp=sharing",
+     "https://drive.google.com/file/d/1YkLVKk8GDkEDLHtDL1G2UnnuNxY2aMIv/view?usp=sharing"
+     ]
