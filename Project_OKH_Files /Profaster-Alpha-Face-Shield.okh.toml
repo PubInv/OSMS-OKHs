@@ -1,0 +1,48 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Profaster-Alpha-Face-Shield"
+repo = "https://www.thingiverse.com/thing:4314285?fbclid=IwAR0vNdbzibLIA8-O982qT9OdbSWV7VYHPRqa2SPIOAsaglPz6H2IYI6TdM0"
+version = "2"
+license = "Creative Commons - Attribution - Non-Commercial - No Derivatives"
+licensor = "PhoenixEquipement <https://www.thingiverse.com/phoenixequipement/designs>"
+function = "Fast printing shield with forehead coverage adaptable to 3DP, laser cutting, and CNC."
+documentation-language = [
+	"en",
+    "fr"
+]
+organization = "Phoenix Equipement"
+image = [
+  # logo
+  "https://static.wixstatic.com/media/dfe802_7f89760a4e8b42b5971f3e3c6655c760~mv2.png/v1/fill/w_200,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20PXE%202018%20Vectoriel_edited.png",
+  # product-photo
+  "https://cdn.thingiverse.com/assets/e4/48/3a/ee/08/large_display_Couverture_Thingiverse_PROFASTER_ALPHA.jpg",
+  "https://cdn.thingiverse.com/assets/90/ec/0e/71/25/large_display_IMG_1232_BATCH_1600px.jpg",
+  "https://cdn.thingiverse.com/assets/38/3a/4e/8e/5f/large_display_IMG_1273_BATCH_1600px.jpg",
+  "https://cdn.thingiverse.com/assets/48/aa/02/cf/53/large_display_IMG_1278_BATCH_1600px.jpg",
+  "https://cdn.thingiverse.com/assets/bd/5c/c3/42/69/large_display_PROFASTER_ALPHA_impression_stack_x40.jpg",
+  "https://cdn.thingiverse.com/assets/1b/47/0d/8e/4b/large_display_PROFASTER_ALPHA_x140_livraison.jpg",
+  "https://cdn.thingiverse.com/assets/ab/3e/c1/7b/7b/large_display_Parametres_recommandes.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+attestation = "https://certification.oshwa.org/cl000001.html"
+publication = "https://doi.org/10.1371/journal.pone.0193087"
+# A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
+cpc-patent-class = "A42B 3/00"
+tsdc = "MEC/ASM/etc." # Void if there is no valid licence. Possible values for the project listed here: https://gitlab.com/OSEGermany/oh-tsdc/-/blob/master/OH-TsDC.md?ref_type=heads.
+bom = "BoM.csv"
+manufacturing-instructions = "https://youtu.be/geKz-EJFrog"
+user-manual = "Documentation/User_Guide/UserGuide.md"
+# Sources for the parts information
+source = [
+     "https://www.thingiverse.com/thing:4314285/files",
+     "Resistance_des_pieces_3D_aux_sterilisants.pdf",
+     "3D_Printed_parts_sterilization_resistance.pdf",
+     "CGU_PXE_3D_08_avril_2020.pdf",
+     "Fiches_retours_soignants_PXE.pdf",
+     "Patron_de_decoupe_Element_complementaire_PROFASTER_ALPHA_V2.pdf",
+     "PROFASTER_ALPHA_V2_Texte_Complet_FDM.stl"
+     ]
