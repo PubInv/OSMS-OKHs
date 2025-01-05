@@ -1,0 +1,27 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "CDS_Face_Shield_Frame-Sized_for_Child"
+repo = "https://www.printables.com/model/84080-face-shield-frame-sized-for-child"
+license = "CC BY-NC 4.0"
+licensor = "cdsmakestuff <https://www.printables.com/@cdsmakestuff>"
+function = "Headband size for 5-8-year-old age group, with standard 8.5 x 11 projector sheets as a visor. Prints in 25 minutes using PLA."
+documentation-language = "en"
+organization = "Printables"
+readme = "https://www.printables.com/model/84080-face-shield-frame-sized-for-child"
+image = [
+  "https://media.printables.com/media/prints/84080/images/897055_c52f1636-2e09-4df9-8ab9-58ae37c29ec4/thumbs/inside/1280x960/png/large_display_kid_size_frame_v4-final_84080.webp",
+  "https://media.printables.com/media/prints/84080/images/897056_a2258532-76af-4d43-ae97-c6a1cbdc4f95/thumbs/inside/1600x1200/jpg/large_display_small_child_face_shield_frame_2_840.webp",
+  "https://media.printables.com/media/prints/84080/images/897057_94b2a07d-3f99-489e-b703-de7e898f7d46/thumbs/inside/1600x1200/jpg/large_display_small_child_face_shield_frame_84080.webp"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A42B 3/00"
+tsdc = "3DP" 
+manufacturing-instructions = "https://www.printables.com/model/84080-face-shield-frame-sized-for-child"
+source = [
+     "https://www.printables.com/model/84080-face-shield-frame-sized-for-child/files",
+     "Kid_Size_Frame_V4-final.stl"
+     ]
