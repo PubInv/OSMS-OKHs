@@ -6,6 +6,9 @@ This is a repository that will hold a wide range of open-source projects from th
 
 Members of the project team discussed the OKH formatting and exceptions to accomodate the varied data available for each project. Moved several project datasets from the .json OSH-Registry under Public Invention to the OKH repository. Modified the original template from [OSEGermany](https://gitlab.com/OSEGermany) to a more simplified version tailored to the needs for this project.
 
+**January 2025**
+Completed conversion of the OSH registry to the OKH format. 
+
 ## Important notes:
   * These are .toml files. If interested in learning more, check out this link:[TOML](https://toml.io/en/)
   * This project is in partnership with both [Public Invention](https://www.pubinv.org/volunteer/) and [OSMS](https://opensourcemedicalsupplies.org/), with collaboration from members of [OSEGermany](https://gitlab.com/OSEGermany). Check out their websites if you would like to get involved in similar projects.
