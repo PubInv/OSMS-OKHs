@@ -1,0 +1,35 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Aegis-Endo-Shield"
+version = "1"
+repo = "https://www.thingiverse.com/thing:4320218?fbclid=IwAR2cOEElApwqAQ3zDa6MzTnTtxCTrRVMJ1GLILwcsnJEHTEUxVN0gW68dWc"
+license = "Creative Commons - Attribution - Share Alike"
+licensor = "Aeneas Solis <https://www.thingiverse.com/alsolis/designs#google_vignette>"
+function = "Shield designed by ENT physicians in the Philippines to allow safer endoscopic study of Covid patients. Design fits most commonly used endoscopes and incorporates 3DP and acetate sheet cutting."
+documentation-language = "en"
+organization = "HackThePandemic"
+image = [
+  # logo
+  "https://img.thingiverse.com/cdn-cgi/image/fit=cover,quality=90,width=120,height=120/https://cdn.thingiverse.com/assets/75/ee/5f/41/d9/card_preview_IMG_2396_1.jpg",
+  # product-photo
+  "https://cdn.thingiverse.com/assets/e9/09/d1/4a/61/large_display_print-closeup-back.jpg",
+  "https://cdn.thingiverse.com/assets/5b/32/b8/9b/a1/large_display_print-full-shim.JPG.png",
+  "https://cdn.thingiverse.com/assets/de/46/b1/bc/10/large_display_print-front.jpg",
+  "https://cdn.thingiverse.com/assets/ea/3b/ea/07/be/large_display_print-closeup-side.jpg",
+  "https://cdn.thingiverse.com/assets/c8/63/f6/ae/04/large_display_print-prototypes-bottom.jpg",
+  "https://cdn.thingiverse.com/assets/83/6b/73/fe/ab/large_display_print-prototypes.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A42B 3/00"
+tsdc = "3DP" 
+bom = "https://www.thingiverse.com/thing:4320218"
+manufacturing-instructions = "https://www.thingiverse.com/thing:4320218"
+source = [
+     "https://www.thingiverse.com/thing:4320218/files",
+     "aegis-endo-shield.stl",
+     "aegis-endo-shield-shim.stl"
+     ]
