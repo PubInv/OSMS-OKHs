@@ -1,0 +1,33 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Verkstan-Character-Face-Shield"
+repo = "https://www.thingiverse.com/thing:4329237?fbclid=IwAR0Z7I4WIYNb7-8m2lJB_kVTNFBA2EzOi3umk0BN3N8sdkBj2lXPvOlg7zs"
+license = "Creative Commons - Attribution - Share Alike"
+licensor = "Pedro Mina <https://www.thingiverse.com/pedromina/designs>"
+function = "3DP headband featuring many options for a central character decoration. The decoration can be fully 3DP or hand-painted for personalization. Later, this could be removed from the shield and turned into a keepsake. Design description is in Spanish."
+documentation-language = "es"
+organization = "HackThePandemic"
+image = [
+  "https://cdn.thingiverse.com/assets/cd/b3/f5/b1/b3/large_display_Protectores_para_chicos.377.jpg",
+  "https://cdn.thingiverse.com/assets/e3/42/4d/7d/21/large_display_Protectores_para_chicos.379.png",
+  "https://cdn.thingiverse.com/assets/cc/9b/4e/c1/06/large_display_Protectores_para_chicos.380.png",
+  "https://cdn.thingiverse.com/assets/0f/fd/da/90/cb/large_display_Protectores_para_chicos.382.png",
+  "https://cdn.thingiverse.com/assets/25/a4/a2/46/24/large_display_Protectores_para_chicos.381.png",
+  "https://cdn.thingiverse.com/assets/6a/e2/75/0e/aa/large_display_Protectores_para_chicos.378.png",
+  "https://cdn.thingiverse.com/assets/4d/0c/14/79/91/large_display_Protectores_para_chicos.384.png",
+  "https://cdn.thingiverse.com/assets/65/6c/ef/f2/9c/large_display_Protectores_para_chicos.383.png",
+  "https://cdn.thingiverse.com/assets/20/b1/ab/39/63/large_display_photo_2020-05-01_15-00-49.jpg",
+  "https://cdn.thingiverse.com/assets/da/e4/b8/ab/8a/large_display_photo_2020-05-01_15-01-07.jpg",
+  "https://cdn.thingiverse.com/assets/cb/93/8f/d0/fc/large_display_photo_2020-05-01_15-01-09.jpg",
+  "https://cdn.thingiverse.com/assets/b1/e8/db/2f/d3/large_display_photo_2020-05-01_15-00-45.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A42B 3/00"
+tsdc = "3DP" 
+bom = "https://www.thingiverse.com/thing:4329237#Materials%20Needed"
+manufacturing-instructions = "https://www.thingiverse.com/thing:4329237#Materials%20Needed"
+source = "https://www.thingiverse.com/thing:4329237/files"
