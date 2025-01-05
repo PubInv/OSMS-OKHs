@@ -1,0 +1,28 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Prusa_Children's_Face_Shield-USA_Version"
+repo = "https://www.printables.com/model/35798-childrens-face-shield-usa-version"
+license = "CC BY-NC 4.0"
+licensor = "Yo-Stuff <https://www.printables.com/@YoStuff_78734>"
+function = "Child-sized version of the Prusa shield, featuring a visor design compatible with an American 3-hole punch."
+documentation-language = "en-US"
+organization = "Printables"
+readme = "https://www.printables.com/model/35798-childrens-face-shield-usa-version"
+release = "https://www.printables.com/model/35798-childrens-face-shield-usa-version/comments/28773"
+image = [
+  "https://media.printables.com/media/prints/35798/images/353954_efa4c0c4-3950-47d9-87e0-9b97962dcffe/thumbs/inside/1600x1200/jpg/img_8687.webp",
+  "imgs/yyy.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A42B 3/00"
+tsdc = "3DP" 
+source = [
+     "https://media.printables.com/media/prints/35798/stls/353953_dfb0e77c-8d46-452f-93cd-166ecd131193/thumbs/cover/90x90/png/child-face-shield_preview.webp",
+     "https://www.printables.com/model/35798-childrens-face-shield-usa-version/files",
+     "https://www.printables.com/_app/immutable/assets/dragon-placeholder.iZMuo1FZ.webp",
+     "https://www.printables.com/_app/immutable/assets/dragon-placeholder.iZMuo1FZ.webp"
+     ]
