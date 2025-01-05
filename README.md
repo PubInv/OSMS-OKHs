@@ -7,6 +7,7 @@ This is a repository that will hold a wide range of open-source projects from th
 Members of the project team discussed the OKH formatting and exceptions to accomodate the varied data available for each project. Moved several project datasets from the .json OSH-Registry under Public Invention to the OKH repository. Modified the original template from [OSEGermany](https://gitlab.com/OSEGermany) to a more simplified version tailored to the needs for this project.
 
 **January 2025**
+
 Completed conversion of the OSH registry to the OKH format. 
 
 ## Important notes:
