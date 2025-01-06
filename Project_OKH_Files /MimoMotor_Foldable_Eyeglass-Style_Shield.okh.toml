@@ -5,7 +5,6 @@
 okhv = "OKH-LOSHv1.0"
 name = "MimoMotor_Foldable_Eyeglass-Style_Shield"
 repo = "https://www.mimomotor.com/COVID19-Response/?fbclid=IwAR1cIupHZ3bdaMM9LmQ2LQhSHvRC1EFKbxMo6mRRYAwEDdsgK9zXHmLevNQ"
-license = "Not Applicable"
 licensor = "MIMO Motor Pte Ltd <https://www.mimomotor.com/Contact/>"
 function = "Unique design featuring a foldable, eyeglass-style armature which is printable on the small beds of basic 3D printers."
 documentation-language = "en-GB"
