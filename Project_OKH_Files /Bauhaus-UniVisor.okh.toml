@@ -9,8 +9,8 @@ license = "Creative Commons (4.0 International License) Attribution"
 licensor = "Andreas Mühlenberend <andreas.muehlenberend[at]uni-weimar.de>"
 function = "Flexible laser-cut design with incorporated adjustable fastener. One material necessary, such as PETG or PET film."
 documentation-language = [
-	"en",
-    "de"
+   "en",
+   "de"
 ]
 organization = "Bauhaus-Universität Weimar"
 release = "https://github.com/bauhausformandfunctionlab/covid19/commit/0241eb7927b8df854ed29e7c7354427d652aa9a9"
