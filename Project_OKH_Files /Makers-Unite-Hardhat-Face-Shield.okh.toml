@@ -6,10 +6,9 @@ okhv = "OKH-LOSHv1.0"
 name = "Makers-Unite-Hardhat-Face-Shield"
 repo = "https://drive.google.com/drive/folders/1O7JifqSD2cZepNq1Q-eP-8O93xcTE7AX"
 version = "5"
-license = "Not Applicable."
 licensor = [
-	"Daniele Dellorto <daniele.dellorto12@gmail.com>",
-    "Will <will@openworksbmore.com>"
+   "Daniele Dellorto <daniele.dellorto12@gmail.com>",
+   "Will <will@openworksbmore.com>"
 ]
 function = "Features acrylic and PETG components for a fully operable (flips up and down) protective visor that fits standard issue USDA hardhats."
 documentation-language = "en-US"
