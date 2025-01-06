@@ -5,7 +5,6 @@
 okhv = "OKH-LOSHv1.0"
 name = "Maker-Wasi-Face-Protector-for-Children"
 repo = "https://drive.google.com/drive/folders/1z5V-Vr2IhNkTULRHYDnu3yJRtQnGGCZc?fbclid=IwAR2wEgah40o1h6iQ1NisTrRpCynAJjcoMkE5fzAlE58WjQraAQwcUQVPNYo"
-license = "Not Applicable"
 licensor = "Ruben Santander"
 function = "Laser-cut design with three animal character options for visor decoration. Pattern is in Peruvian Spanish."
 documentation-language = "es"
@@ -21,7 +20,7 @@ cpc-patent-class = "A42B 3/00"
 bom = "https://drive.google.com/file/d/1JDGSIo9TixOJh3G54rpGlvUbAmIE1LPV/view?usp=sharing"
 manufacturing-instructions = "https://drive.google.com/file/d/1JDGSIo9TixOJh3G54rpGlvUbAmIE1LPV/view?usp=sharing"
 source = [
-	 # Guinea pig designs
+     # Guinea pig designs
      "https://drive.google.com/file/d/1P7A46b5xMrYPQ0LjwPqWhK-6kRLWpyCr/view?usp=sharing",
      "https://drive.google.com/file/d/1NTQxLsO0WA1qGI4oV-82DIyJiSHxiRrA/view?usp=sharing",
      "https://drive.google.com/file/d/1OTS8nzMEyfSYt36vdztE2g75QbGB63AW/view?usp=sharing",
