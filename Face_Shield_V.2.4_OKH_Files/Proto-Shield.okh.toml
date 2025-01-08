@@ -40,5 +40,7 @@ source = [
      ]
 
 [outer-dimensions]
-width = "317.5"
-height = "260.35"
+width = 317.5
+height = 260.35
+# Depth based roughly on thickness of PETG sheet and foam combined. Likely larger depth when fully constructed.
+depth = 12.954
