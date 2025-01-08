@@ -38,6 +38,8 @@ source = [
      ]
      
 [outer-dimensions]
-width = "419.1"
-height = "285.75"
-
+width = 419.1
+# Height is adjustable. 
+height = 285.75
+# Depth based off this welding helmet headgear, as no specific brand is specified in the Manufacturing Instructions: 
+depth = 127
