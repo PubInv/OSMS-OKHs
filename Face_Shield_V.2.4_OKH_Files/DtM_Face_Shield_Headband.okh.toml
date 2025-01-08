@@ -37,6 +37,7 @@ source = "https://3dprint.nih.gov/discover/3dpx-013359"
 mass = "50"
 
 [outer-dimensions]
-width = "191"
-length = "148.5"
-height = "52.5"
+width = 191
+height = 52.5
+# Listed as 'length' in instructions.
+depth = 148.5
