@@ -5,6 +5,7 @@
 okhv = "OKH-LOSHv1.0"
 name = "Maker-Wasi-Face-Protector-for-Children"
 repo = "https://drive.google.com/drive/folders/1z5V-Vr2IhNkTULRHYDnu3yJRtQnGGCZc?fbclid=IwAR2wEgah40o1h6iQ1NisTrRpCynAJjcoMkE5fzAlE58WjQraAQwcUQVPNYo"
+license = "LicenseRef-NOASSERTION"
 licensor = "Ruben Santander"
 function = "Laser-cut design with three animal character options for visor decoration. Pattern is in Peruvian Spanish."
 documentation-language = "es"
@@ -36,5 +37,7 @@ source = [
      ]
 
 [outer-dimensions]
-width = "260"
-height = "190"
+width = 260
+height = 190
+# Depth not provided.
+# depth = 0
