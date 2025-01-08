@@ -40,8 +40,8 @@ mass=78
 
 [outer-dimensions]
 width = 90
-depth = 60
 height = 35
+depth = 60
 
 [[software]]
 release = "https://github.com/PubInv/vent-display/releases/tag/v0.3T"
