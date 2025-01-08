@@ -6,6 +6,7 @@ okhv = "OKH-LOSHv1.0"
 name = "Clever-Little-Maker-CNC-Shield"
 repo = "https://github.com/CleverLittleMaker/CLMFaceShield?fbclid=IwAR3CoafB_Kx5nVKNQB9niuDIl83wL2WCxQrx0H6I_2Rs1cvxmuYiNewmLxE"
 version = "5"
+license = "LicenseRef-NOASSERTION"
 licensor = "CleverLittleMaker <https://github.com/CleverLittleMaker>"
 function = "Open Source CNC-based Face Shield designed to protect medical personnel."
 documentation-language = "en"
@@ -28,5 +29,7 @@ manufacturing-instructions = "https://github.com/CleverLittleMaker/CLMFaceShield
 user-manual = "https://github.com/CleverLittleMaker/CLMFaceShield/blob/master/CLM%20Face%20Shield%20-%20v5.zip"
 
 [outer-dimensions]
-width = "340"
-height = "230"
+width = 340
+height = 230
+# Depth of the final face shield is not given by the licensor.
+# depth = 0
