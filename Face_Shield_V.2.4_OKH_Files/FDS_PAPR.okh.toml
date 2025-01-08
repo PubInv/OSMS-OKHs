@@ -38,6 +38,6 @@ source = [
 mass= 220
 
 [outer-dimensions]
-width = "170"
-height = "240"
-depth = "210"
+width = 170
+height = 240
+depth = 210
