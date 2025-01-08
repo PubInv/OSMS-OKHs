@@ -29,15 +29,11 @@ manufacturing-instructions = [
     "https://youtu.be/cIAuL4XNhY8",
     "https://technochic.net/blogs/tech-craft-tutorials/the-jersey-city-face-shield-project#How_To_Build_The_Face_Shield"
 ]
-# Sources for the parts information
 source = "https://technochic.net/checkouts/cn/Z2NwLXVzLWNlbnRyYWwxOjAxSkdGRUJNVEo2QlYwRkZXU0FSMTc1U1BU?auto_redirect=false&cart_link_id=JmZF9mZz&edge_redirect=true&locale=en-US&skip_shop_pay=true"
 
 [outer-dimensions]
-width = [
-	# Simple Design
-	"254",
-    # Covered Design
-    "304.8"
-]
-height = "355.6"
+width = 304.8
+height = 355.6
+# Depth based on the thickness of the shield material, not the completed shield.
+depth = 0.1778
 
