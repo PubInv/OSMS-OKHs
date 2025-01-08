@@ -39,3 +39,9 @@ source = [
      "https://github.com/raster/MMS-Face-Shield/blob/master/Shield/Shield-v7.pdf",
      "https://github.com/raster/MMS-Face-Shield/blob/master/Shield/Shield-v7.svg"
      ]
+
+# Not given by licensor.
+# [outer-dimensions]
+# width = 400
+# height = 150
+# depth = 350
