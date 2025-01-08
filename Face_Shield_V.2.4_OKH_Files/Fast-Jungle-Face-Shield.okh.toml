@@ -40,6 +40,7 @@ source = [
      ]
 
 [outer-dimensions]
-# Any dimension value always has to be in [mm] (milli-meters)
 width = "558.8"
 height = "254"
+# Depth not given by the licensor.
+# depth = 0
