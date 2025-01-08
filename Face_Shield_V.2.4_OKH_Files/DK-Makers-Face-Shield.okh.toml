@@ -32,3 +32,8 @@ source = [
      "https://cdn.thingiverse.com/assets/bb/04/43/06/75/large_display_DK_Maker_Visir_0.9.1.png",
      "https://cdn.thingiverse.com/assets/ba/82/3a/c0/fd/large_display_Dentist_Maker_Shield_0.9.png"
      ]
+
+# [outer-dimensions]
+# width = 340
+# height = 230
+# depth = 0
