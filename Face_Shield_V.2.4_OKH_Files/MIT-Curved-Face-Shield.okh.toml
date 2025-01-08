@@ -37,4 +37,38 @@ source = [
      "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/blob/master/.DS_Store"
      ]
 
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
 
+okhv = "OKH-LOSHv1.0"
+name = "Liftup-Face-Shield-with-AutoLock"
+repo = "https://www.thingiverse.com/thing:4264137"
+license = "Creative Commons - Attribution"
+licensor = "Hanoch Hemmerich <https://www.thingiverse.com/hanochh/designs>"
+function = "The shield lifts upwards 90 degrees and locks in place. It requires no hole punching."
+documentation-language = "en"
+organization = "Thingiverse"
+image = [
+  "https://cdn.thingiverse.com/assets/6f/b2/f5/a7/3d/large_display_liftup_face_shield.jpg",
+  "https://cdn.thingiverse.com/assets/f0/a7/73/c6/7b/large_display_of7BA6XO6Q.gif",
+  "https://cdn.thingiverse.com/assets/b4/0d/b0/d7/47/large_display_photo_2020-04-05_22-42-07.jpg",
+  "https://cdn.thingiverse.com/assets/0f/e5/94/91/8d/large_display_photo_2020-04-05_22-42-26.jpg",
+  "https://youtu.be/Mo2_hD4-fRw"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A42B 3/00"
+tsdc = "3DP" 
+bom = "https://www.thingiverse.com/thing:4264137"
+source = [
+     "https://cdn.thingiverse.com/assets/bf/ac/47/a6/ef/medium_preview_Liftup_Face_Shield_part1.png",
+     "https://cdn.thingiverse.com/assets/d1/87/38/6d/c9/large_display_3x.png",
+     "https://www.thingiverse.com/thing:4264137/files"
+     ]
+     
+# Not given by licensor.
+# [outer-dimensions]
+# width = 400
+# height = 150
+# depth = 350
