@@ -6,6 +6,7 @@ okhv = "OKH-LOSHv1.0"
 name = "Badger-Shield:-Open-Source-Face-Shield-V4"
 repo = "https://www.delve.com/insights/face-shield-designs-to-fill-the-gap"
 version = "4"
+license = "LicenseRef-NOASSERTION"
 licensor = "Jesse Darley <JESSE.DARLEY@DELVE.COM>"
 function = "COVID-19 Medical Face Shield (University of Wisconsin)"
 documentation-language = "en-US"
@@ -29,5 +30,7 @@ bom = "https://cms.delve.com/assets/documents/OPEN-SOURCE-FACE-SHIELD-DRAWING-v1
 manufacturing-instructions = "https://cms.delve.com/assets/documents/OPEN-SOURCE-FACE-SHIELD-DRAWING-v1.PDF"
 
 [outer-dimensions]
-width = "330.20"
-height = "228.60"
+width = 330.20
+height = 228.60
+# Depth here is a rough guess based off the thickness of the shield and foam materials. 
+depth = 25.5778
