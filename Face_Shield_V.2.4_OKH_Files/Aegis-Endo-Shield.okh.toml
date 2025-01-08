@@ -33,3 +33,9 @@ source = [
      "aegis-endo-shield.stl",
      "aegis-endo-shield-shim.stl"
      ]
+     
+# Not given by licensor.
+# [outer-dimensions]
+# width = 400
+# depth = 350
+# height = 150
