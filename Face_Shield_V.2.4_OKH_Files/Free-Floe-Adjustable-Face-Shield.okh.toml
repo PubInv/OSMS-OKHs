@@ -41,5 +41,5 @@ source = [
 width = 419.1
 # Height is adjustable. 
 height = 285.75
-# Depth based off this welding helmet headgear, as no specific brand is specified in the Manufacturing Instructions: 
+# Depth based off this welding helmet headgear, as no specific brand is specified in the Manufacturing Instructions: https://shop.pipelinerscloud.com/products/headgear?srsltid=AfmBOopQrQ8QptqeNVOlIR1e4wlewBKiyELHBk680j1e98CWuR35-Dp9&variant=42388788510941
 depth = 127
