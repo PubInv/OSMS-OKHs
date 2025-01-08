@@ -6,6 +6,7 @@ okhv = "OKH-LOSHv1.0"
 name = "Badger-Shield:-Open-Source-Surgical-Face-Shield-V2"
 repo = "https://drive.google.com/file/d/1l8ZNx5NN9ZkyUR5Z0VP2tPWTfRIMs9SF/view"
 version = "2"
+license = "LicenseRef-NOASSERTION"
 licensor = "KJ Williams <kjwilliamso2@wisc.edu>"
 function = "Open source face mask designed specifically with surgeons in mind."
 documentation-language = "en-US"
@@ -23,6 +24,7 @@ user-manual = "https://drive.google.com/file/d/1l8ZNx5NN9ZkyUR5Z0VP2tPWTfRIMs9SF
 source = "https://drive.google.com/file/d/1l8ZNx5NN9ZkyUR5Z0VP2tPWTfRIMs9SF/view"
 
 [outer-dimensions]
-width = "292.1"
-height = "184.15"
-
+width = 292.1
+height = 184.15
+# Based off thickness of shield material.
+depth = 0.1778
