@@ -31,3 +31,9 @@ tsdc = "3DP"
 bom = "https://www.thingiverse.com/thing:4329237#Materials%20Needed"
 manufacturing-instructions = "https://www.thingiverse.com/thing:4329237#Materials%20Needed"
 source = "https://www.thingiverse.com/thing:4329237/files"
+
+# Not given by licensor.
+# [outer-dimensions]
+# width = 400
+# height = 150
+# depth = 350
