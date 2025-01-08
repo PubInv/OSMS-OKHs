@@ -27,3 +27,9 @@ source = [
      "https://cdn.thingiverse.com/assets/d1/87/38/6d/c9/large_display_3x.png",
      "https://www.thingiverse.com/thing:4264137/files"
      ]
+     
+# Not given by licensor.
+# [outer-dimensions]
+# width = 400
+# height = 150
+# depth = 350
