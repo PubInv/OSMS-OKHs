@@ -27,3 +27,9 @@ source = [
      "https://3d.nih.gov/api/submissions/19100/files/input/414583",
      "https://3d.nih.gov/api/submissions/19100/files/input/414586"
      ]
+
+# Not given by licensor.
+# [outer-dimensions]
+# width = 400
+# depth = 350
+# height = 150
