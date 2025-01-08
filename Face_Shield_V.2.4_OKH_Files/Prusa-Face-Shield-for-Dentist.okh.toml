@@ -27,3 +27,9 @@ source = [
      "https://www.printables.com/model/30615-prusa-face-shield-for-dentist/files#preview.GvBy",
      "petg_seb_chassis_v2_06n_035mm_petg_mk3s_2h0m.gcode… mk3s_2h0m.gcode"
      ]
+
+# Not given by licensor.
+# [outer-dimensions]
+# width = 400
+# height = 150
+# depth = 350
