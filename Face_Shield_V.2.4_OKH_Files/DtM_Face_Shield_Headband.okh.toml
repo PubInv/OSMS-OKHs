@@ -34,7 +34,7 @@ bom = "https://www.designthatmatters.org/covid-19"
 manufacturing-instructions = "https://www.designthatmatters.org/covid-19"
 user-manual = "https://www.designthatmatters.org/covid-19"
 source = "https://3dprint.nih.gov/discover/3dpx-013359"
-mass = "50"
+mass = 50
 
 [outer-dimensions]
 width = 191
