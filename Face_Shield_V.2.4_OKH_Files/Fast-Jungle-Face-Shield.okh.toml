@@ -42,5 +42,5 @@ source = [
 [outer-dimensions]
 width = 558.8
 height = 254
-# Depth not given by the licensor.
-# depth = 0
+# Depth is a rough guess based on 3-liter bottle dimensions.
+depth = 63.5
