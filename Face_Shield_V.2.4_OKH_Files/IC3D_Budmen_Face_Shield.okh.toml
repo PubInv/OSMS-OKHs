@@ -51,4 +51,4 @@ source = [
 width = 228.6
 height = 304.8
 # Could not find final constructed depth. Below is a rough estimate/guess based on build plate note.
-depth = 127
+depth = 140
