@@ -31,5 +31,5 @@ user-manual = "https://github.com/CleverLittleMaker/CLMFaceShield/blob/master/CL
 [outer-dimensions]
 width = 340
 height = 230
-# Depth of the final face shield is not given by the licensor.
-# depth = 0
+# Depth of the final face shield is not given by the licensor. Below is an estimate based off the photo.
+depth = 127
