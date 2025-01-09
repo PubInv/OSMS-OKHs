@@ -39,5 +39,5 @@ source = [
 [outer-dimensions]
 width = 260
 height = 190
-# Depth not provided.
-# depth = 0
+# Depth not provided. Below is a likely estimate.
+depth = 127
