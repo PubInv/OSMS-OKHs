@@ -1,0 +1,22 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Anesthesia-Mask-Respirator"
+repo = "https://www.youtube.com/watch?v=Es_iY5WJdmI"
+license = "LicenseRef-NOASSERTION"
+licensor = "HB Kim Surgery <https://www.youtube.com/@hbkimsurgery8943>"
+function = "Requires scarce and expensive prefabricated anesthesia masks. The project, however, is likely to work and may be adopted if hospitals/clinicians have the available resources."
+documentation-language = "en-US"
+organization = "Harvard Medical School"
+technology-readiness-level = "OTRL-4"
+documentation-readiness-level = "ODRL-1"
+cpc-patent-class = "A42B 3/00"
+bom = "https://youtu.be/Es_iY5WJdmI?t=28"
+manufacturing-instructions = "https://youtu.be/Es_iY5WJdmI?t=58"
+user-manual = "https://youtu.be/Es_iY5WJdmI?t=124"
+source = [
+     "https://www.youtube.com/hashtag/1605",
+     "https://www.youtube.com/hashtag/6595487"
+]
