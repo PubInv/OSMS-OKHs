@@ -26,7 +26,7 @@ image = [
 ]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
-cpc-patent-class = "A42B 3/00"
+cpc-patent-class = "A41D 13/11"
 tsdc = "3DP" 
 bom = "https://www.thingiverse.com/thing:4329237#Materials%20Needed"
 manufacturing-instructions = "https://www.thingiverse.com/thing:4329237#Materials%20Needed"
