@@ -29,7 +29,7 @@ image = [
 ]
 technology-readiness-level = "OTRL-5"
 documentation-readiness-level = "ODRL-3"
-cpc-patent-class = "A42B 3/00"
+cpc-patent-class = "A41D 13/11"
 bom = "https://www.designthatmatters.org/covid-19"
 manufacturing-instructions = "https://www.designthatmatters.org/covid-19"
 user-manual = "https://www.designthatmatters.org/covid-19"
