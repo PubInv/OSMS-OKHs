@@ -1,0 +1,55 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "HK-Face-Mask"
+repo = [
+   "https://youtu.be/ZusqX4Cfa3w",
+   "https://drive.google.com/drive/folders/1MVJY4mwtFCFEMFlf3zx3yg_dJpbD4pNG?fbclid=IwAR3MY8TfjfKro1EwKBaGESBMjM53daExrKJo99bEcNSKPXMswW2kpehwfZE"
+]
+license = "LicenseRef-NOASSERTION"
+licensor = "Dr. K Kwong <https://www.youtube.com/@sewonstudio401>"
+function = "This design does not incorporate pleats, which may allow for more rapid production. The addition of a filter is optional, as well as wire nose bridge support. This design may be useful as a protective cover for the dome-shaped N95 mask. OSMS recommends using non-latex elastic or more preferably fabric ties if donating to healthcare workers. The DXF files can be used to make a manual fabric cutting template or one for laser cutting fabric."
+documentation-language = [
+   "en",
+   "yue"
+]
+organization = "Sew on Studio"
+# logo
+image = "https://yt3.googleusercontent.com/ytc/AIdro_knhEsWGrMcsJWtxEoDzB3BA6hPQr8k4llRPw0z9RlcmbU=s160-c-k-c0x00ffffff-no-rj"
+technology-readiness-level = "OTRL-2"
+documentation-readiness-level = "ODRL-1"
+cpc-patent-class = "A41D 13/11"
+tsdc = "ASM" 
+bom = [
+   "https://youtu.be/ZusqX4Cfa3w?t=8",
+   "https://youtu.be/ZusqX4Cfa3w?t=21"
+]
+manufacturing-instructions = "https://youtu.be/ZusqX4Cfa3w?t=72"
+user-manual = "https://www.youtube.com/watch?v=bttYhG1laJk"
+source = [
+    "https://drive.google.com/file/d/1-n7STq86N49tSGerCVExY4IT7orLUybH/view?usp=sharing",
+    "https://drive.google.com/file/d/15ifOE1_ol8G38krlqlCPKkZhMQr8LbiS/view?usp=sharing",
+    "https://drive.google.com/file/d/12MBFqIHuDeXCW9I0PpR-vffRMeEOiyBT/view?usp=sharing",
+    "https://drive.google.com/file/d/1l39farmrgw54wUtriQ6D4gGuGu6l2RHa/view?usp=sharing",
+    "https://drive.google.com/file/d/1FAtP3s8mv0JRVAY2qzwjjkqFSu4rEoD2/view?usp=sharing",
+    "https://drive.google.com/file/d/1mvxCqCH76YS2_TNdo0sM4IgZuOfy-lx1/view?usp=sharing",
+    "https://drive.google.com/file/d/1yry8bE5jlY9huUAxc-RsAGPzNiwAAvkn/view?usp=sharing",
+    "https://drive.google.com/file/d/1CKpHQwZkmyzXc6U6SfE7XB9mpDdtHMCc/view?usp=sharing",
+    "https://drive.google.com/file/d/1-HiECu3it7DvbxAAVkIOb8ChBsdiHvhH/view?usp=sharing",
+    "https://drive.google.com/file/d/1yYel0TpaWCpkbo6-u-osYM0ij_QFNf4E/view?usp=sharing",
+    "https://drive.google.com/file/d/1OqLTR7O2V1qMLDyyoHC8n_O6cPZlJ7PJ/view?usp=sharing",
+    "https://drive.google.com/file/d/1WiT3GOQz0CeA6Rp7T7-bRxbGOJV3eSp9/view?usp=sharing",
+    "https://drive.google.com/file/d/1prfJNQyG7bYkxT2E9ywDeHcCnYDIiSex/view?usp=sharing",
+    "https://drive.google.com/file/d/1h4g1iSyq7AXJ4KZlPFDwEB-09AdVRhKW/view?usp=sharing",
+    "https://drive.google.com/file/d/1Tbf977FGW2uAxwk5AD1iFDFad8F8_mnL/view?usp=sharing",
+    "https://drive.google.com/file/d/1Jq5-6B_XPHhSMluZN-ghGX6oFuslmQh1/view?usp=sharing"
+    ]
+
+[outer-dimensions]
+# Dimensions vary based off size, this is for Men Large.
+width = 100
+# Depth estimated, describes thickness of materials.
+depth = 10
+height = 100
