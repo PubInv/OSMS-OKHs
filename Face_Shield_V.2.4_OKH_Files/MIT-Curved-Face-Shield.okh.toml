@@ -25,7 +25,7 @@ image = [
 ]
 technology-readiness-level = "OTRL-4"
 documentation-readiness-level = "ODRL-2"
-cpc-patent-class = "A42B 3/00"
+cpc-patent-class = "A41D 13/1107"
 tsdc = "LAS" 
 # bom = "BoM.csv" No BoM present.
 manufacturing-instructions = "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/blob/master/README.md?ref_type=heads"
