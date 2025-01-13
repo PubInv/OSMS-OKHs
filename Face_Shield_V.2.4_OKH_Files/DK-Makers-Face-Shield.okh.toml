@@ -24,7 +24,7 @@ image = [
 ]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
-cpc-patent-class = "A42B 3/00"
+cpc-patent-class = "A41D 13/11"
 tsdc = "3DP" 
 source = [
      "https://cdn.thingiverse.com/assets/aa/f4/66/38/56/large_display_DK_Maker_Visir_0.7.png",
