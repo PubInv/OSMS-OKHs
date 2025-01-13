@@ -24,7 +24,7 @@ image = [
 ]
 technology-readiness-level = "OTRL-5"
 documentation-readiness-level = "ODRL-3"
-cpc-patent-class = "A42B 3/00"
+cpc-patent-class = "A41D 13/11"
 # tsdc = "ASM"
 bom = "https://cms.delve.com/assets/documents/OPEN-SOURCE-FACE-SHIELD-DRAWING-v1.PDF"
 manufacturing-instructions = "https://cms.delve.com/assets/documents/OPEN-SOURCE-FACE-SHIELD-DRAWING-v1.PDF"
