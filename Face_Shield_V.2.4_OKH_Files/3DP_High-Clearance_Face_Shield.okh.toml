@@ -19,7 +19,7 @@ image = [
 ]
 technology-readiness-level = "OTRL-4"
 documentation-readiness-level = "ODRL-2"
-cpc-patent-class = "A42B 3/00"
+cpc-patent-class = "A41D 13/1161"
 tsdc = "LAS" 
 bom = "https://3d.nih.gov/entries/3dpx-014582"
 manufacturing-instructions = "https://3d.nih.gov/entries/3dpx-014582"
