@@ -23,7 +23,7 @@ image = [
 ]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
-cpc-patent-class = "A42B 3/00"
+cpc-patent-class = "A41D 13/11"
 tsdc = "ASM" 
 bom = "https://makernexuswiki.com/wiki/3D_printed_Indirect_Ophthalmoscope_shields#Materials"
 manufacturing-instructions = "https://www.youtube.com/watch?v=HVxThzvk5Hs"
