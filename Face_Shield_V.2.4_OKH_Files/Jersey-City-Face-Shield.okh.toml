@@ -21,7 +21,7 @@ image = [
 ]
 technology-readiness-level = "OTRL-4"
 documentation-readiness-level = "ODRL-2"
-cpc-patent-class = "A42B 3/00"
+cpc-patent-class = "A41D 13/11"
 tsdc = "ASM" 
 bom = "https://technochic.net/blogs/tech-craft-tutorials/the-jersey-city-face-shield-project#About"
 manufacturing-instructions = [
