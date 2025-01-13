@@ -17,7 +17,7 @@ image = [
 ]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-1"
-cpc-patent-class = "A42B 3/00"
+cpc-patent-class = "A41D 13/11"
 tsdc = "3DP" 
 bom = "https://www.printables.com/model/30615-prusa-face-shield-for-dentist"
 source = [
