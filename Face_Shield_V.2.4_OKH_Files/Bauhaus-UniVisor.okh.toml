@@ -26,7 +26,7 @@ image = [
 ]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
-cpc-patent-class = "A42B 3/00"
+cpc-patent-class = "A41D 13/11"
 tsdc = "LAS" 
 bom = "https://github.com/bauhausformandfunctionlab/covid19/tree/master/BauhausUniVisor"
 manufacturing-instructions = [
