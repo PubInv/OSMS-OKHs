@@ -27,7 +27,7 @@ publication = [
 	"https://vimeo.com/gemalaska/review/411223617/d8dd91bb4f",
     "https://www.ktuu.com/content/news/WATCH-Engineering-student-creates-masks-for-medical-workers-570160251.html"
 ]
-cpc-patent-class = "A42B 3/00"
+cpc-patent-class = "A41D 13/11"
 tsdc = "LAS" 
 bom = "https://static1.squarespace.com/static/5e814188c85bba583b4a8db1/t/5e84dca3d893ea6060b9d368/1585765542650/FLOE+Face+Shield+Instructions+3-31-2020.pdf"
 manufacturing-instructions = "https://static1.squarespace.com/static/5e814188c85bba583b4a8db1/t/5e84dca3d893ea6060b9d368/1585765542650/FLOE+Face+Shield+Instructions+3-31-2020.pdf"
