@@ -1,0 +1,56 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Maker-Mask"
+version = "0.1"
+repo = "https://makermask.org/masks/surge/"
+license = " Creative Commons Attribution 4.0 International License"
+licensor = "Jocelyn Songer <info@makermask.org>"
+function = "This thng can clean, fly to the moon, keep you warm when its freezing, transplant an organ on its own, ..."
+documentation-language = "en"
+organization = "Helpful Engineering"
+readme = "https://makermask.org/masks/surge/"
+contribution-guide = "https://makermask.org/about-us/"
+image = [
+  # logo
+  "https://makermask.org/wp-content/uploads/2020/06/erin_surge_mmlabeled.png",
+  # product-photo
+  "https://makermask.org/wp-content/uploads/2020/03/cropped-targetmask.png",
+  "https://makermask.org/wp-content/uploads/2020/05/surge-300x300-1.png",
+  "https://makermask.org/wp-content/uploads/2020/03/imagez-300x223.png"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+publication = [
+   "https://www.spreaker.com/episode/31723602",
+   "https://www.spreaker.com/user/10136802/hmms-part-2-6-26-20-9-37-am",
+   "https://www.spreaker.com/episode/30579130",
+   "https://www.spreaker.com/episode/30579167",
+   "https://www.facebook.com/RepJimMcGovern/videos/551402992478185/",
+   "https://www.popsci.com/story/diy/make-diy-face-masks/",
+   "https://www.linkedin.com/pulse/lessons-from-mask-maker-jocelyn-songer/?trackingId=R1QHIOjWRt%2BQy9o1tET%2FOQ%3D%3D",
+   "https://makezine.com/2020/03/27/make-these-projects-to-fight-covid-19-right-now/"
+]
+# A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
+cpc-patent-class = "A41D 13/11"
+tsdc = "ASM" 
+bom = "https://makermask.org/wp-content/uploads/2020/03/MakerMask_SewersGuide_0.1.pdf"
+manufacturing-instructions = "https://makermask.org/wp-content/uploads/2020/03/MakerMask_SewersGuide_0.1.pdf"
+user-manual = "https://makermask.org/wp-content/uploads/2020/07/MM_Surge_Care_20200513.pdf"
+source = [
+     "https://makermask.org/wp-content/uploads/2020/03/IMG_2167-300x300.jpg",
+     "https://makermask.org/wp-content/uploads/2020/03/IMG_2168-300x225.jpg",
+     "https://makermask.org/wp-content/uploads/2020/03/IMG_2169-300x300.jpg",
+     "https://makermask.org/wp-content/uploads/2020/03/AroHa_0010-300x300.jpg",
+     "https://makermask.org/wp-content/uploads/2020/03/IMG_2172-300x225.jpg",
+     "https://makermask.org/wp-content/uploads/2020/03/IMG_2173-300x300.jpg",
+     "https://makermask.org/wp-content/uploads/2020/03/IMG_2174-300x225.jpg"
+     ]
+
+[outer-dimensions]
+width = 203.2
+# Depth is estimated, not exact.
+depth = 6.35
+height = 88.9
