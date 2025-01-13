@@ -23,7 +23,7 @@ image = [
 ]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
-cpc-patent-class = "A42B 3/00"
+cpc-patent-class = "A41D 13/11"
 bom = "https://github.com/CleverLittleMaker/CLMFaceShield/blob/master/CLM%20Face%20Shield%20-%20v5.zip"
 manufacturing-instructions = "https://github.com/CleverLittleMaker/CLMFaceShield/blob/master/CLM%20Face%20Shield%20-%20v5.zip"
 user-manual = "https://github.com/CleverLittleMaker/CLMFaceShield/blob/master/CLM%20Face%20Shield%20-%20v5.zip"
