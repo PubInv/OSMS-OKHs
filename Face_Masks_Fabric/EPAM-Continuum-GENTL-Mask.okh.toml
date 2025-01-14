@@ -11,7 +11,7 @@ repo = [
 ]
 version = "2.0.0"
 # If none listed, value is LicenseRef-NOASSERTION. The value needs to be a valid SPDX [License Expression](https://spdx.github.io/spdx-spec/v2-draft/SPDX-license-expressions/). Usually that is a single SPDX license ID, foudn in the "Identifier" column in this table: https://spdx.org/licenses/
-license = "Open-Source"
+license = "LicenseRef-NOASSERTION"
 licensor = "GENTL Mask <GENTL_Mask@epam.com>"
 function = "The non-woven filtered version can be rapidly produced by heat bonding. The sewn fabric version retains the duckbill shape and is useful for wearers with claustrophobia or respiratory conditions where a tight-fitting mask is problematic. This is a full tech pack with instructions for wearing, supplies and construction. See filtration documentation for the 2L and 3L non-woven versions."
 documentation-language = "en"
@@ -33,7 +33,7 @@ image = [
 technology-readiness-level = "OTRL-4"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
-tsdc = "ASM"
+# tsdc = "ASM"
 bom = [
    "https://drive.google.com/file/d/17K3ERlPz3osiPQml9F_PGGfSSccKzvng/view?usp=sharing",
    "https://drive.google.com/file/d/1nY8tp2bfkvkrXH8Z7fLKBbdW7QHbS7lF/view?usp=sharing"
