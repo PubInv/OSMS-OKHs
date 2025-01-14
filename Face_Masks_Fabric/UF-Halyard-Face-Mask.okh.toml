@@ -1,0 +1,48 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "UF-Halyard-Face-Mask"
+repo = "https://anest.ufl.edu/clinical-divisions/mask-alternative/?fbclid=IwAR3hj7X3IEGPtUoVIgWxOPbYTyR04gDtl2sQLGWwfLWgJm_zg5z7Yf7O6tU"
+version = "2"
+license = "LicenseRef-NOASSERTION"
+licensor = "Ken Garcia <kdgarcia@ufl.edu>"
+function = "Two mask styles created and tested by the UF Anesthesiology Department using Halyard 600 material. Design can be auto-claved when made as instructed. These masks were sewn by distributed local teams to support UF staff during the 2020 pandemic supply chain gap."
+documentation-language = "en-US"
+organization = "University of Florida Health"
+readme = "https://anest.ufl.edu/clinical-divisions/mask-alternative/?fbclid=IwAR3hj7X3IEGPtUoVIgWxOPbYTyR04gDtl2sQLGWwfLWgJm_zg5z7Yf7O6tU"
+image = [
+  # logo
+  "https://anest.ufl.edu/clinical-divisions/mask-alternative/?fbclid=IwAR3hj7X3IEGPtUoVIgWxOPbYTyR04gDtl2sQLGWwfLWgJm_zg5z7Yf7O6tU",
+  "https://anest.ufl.edu/files/2020/04/masks-thanks-02-1536x513.jpg",
+  # product-photo
+  "https://anest.ufl.edu/files/2020/03/mask-prototypes-680x461.jpg",
+  "https://anest.ufl.edu/wordpress/files/2020/03/prototype1-processed.jpg",
+  "https://anest.ufl.edu/wordpress/files/2020/03/prototype2-processed.jpg"
+]
+technology-readiness-level = "OTRL-4"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A41D 13/11"
+# tsdc = "ASM" 
+bom = [
+   "https://anest.ufl.edu/files/2020/03/PROTOTYPE-1-TUTORIAL.pdf",
+   "https://anest.ufl.edu/wordpress/files/2020/03/PROTOTYPE-2-TUTORIAL.pdf"
+]
+manufacturing-instructions = [
+   "https://anest.ufl.edu/files/2020/03/PROTOTYPE-1-TUTORIAL.pdf",
+   "https://anest.ufl.edu/wordpress/files/2020/03/PROTOTYPE-2-TUTORIAL.pdf",
+   "https://youtu.be/bxA8Xw_S1Go",
+   "https://youtu.be/gImBd704uxE"
+]
+source = [
+     "https://anest.ufl.edu/files/2020/03/maskwire.jpg",
+     "https://anest.ufl.edu/files/2020/03/masksproduction.jpg",
+     "https://anest.ufl.edu/files/2020/03/maskpattern.jpg"
+     ]
+
+[outer-dimensions]
+# These are the dimensions for prototype #1 with height estimated. See manufacturing instructions for prototype #2 dimensions.
+width = 177.8
+depth = 101.6
+height = 101.6
