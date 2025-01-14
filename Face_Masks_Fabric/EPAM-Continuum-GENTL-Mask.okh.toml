@@ -11,47 +11,42 @@ repo = [
 ]
 version = "2.0.0"
 # If none listed, value is LicenseRef-NOASSERTION. The value needs to be a valid SPDX [License Expression](https://spdx.github.io/spdx-spec/v2-draft/SPDX-license-expressions/). Usually that is a single SPDX license ID, foudn in the "Identifier" column in this table: https://spdx.org/licenses/
-license = "AGPL-3.0-or-later"
-licensor = "Joel Doe <joel.doe@example.com>"
+license = "Open-Source"
+licensor = "GENTL Mask <GENTL_Mask@epam.com>"
 function = "The non-woven filtered version can be rapidly produced by heat bonding. The sewn fabric version retains the duckbill shape and is useful for wearers with claustrophobia or respiratory conditions where a tight-fitting mask is problematic. This is a full tech pack with instructions for wearing, supplies and construction. See filtration documentation for the 2L and 3L non-woven versions."
-documentation-language = "en-GB"
-organization = "xxx"
-# In the case of no releases, can link to the latest commit.
-release = "https://gitlab.com/YOU/your-awesome-project/-/releases/1.0.0"
-readme = "README.md"
-contribution-guide = "CONTRIBUTING.md"
+documentation-language = "en"
+organization = "EPAM Continuum"
+release = "https://drive.google.com/file/d/1qUaq8ebHcI862l_TDIAOUIdNPZ2I2Vr1/view?usp=sharing"
+readme = "https://epamsolutions.a.bigcontent.io/v1/static/GENTL_Mask_Presentation"
 image = [
   # logo
-  "imgs/xxx.jpg",
+  "https://classic.cdn.media.amplience.net/i/epammarketplace/GENTL_Logo_Final?w=96&v=596798141487",
   # product-photo
-  "imgs/yyy.jpg"
+  "https://classic.cdn.media.amplience.net/i/epammarketplace/GENTL_Mask_4_resize?fmt=webp&v=596798141487",
+  "https://classic.cdn.media.amplience.net/i/epammarketplace/GENTL_Mask_3_resize?fmt=webp&v=596798141487",
+  "https://classic.cdn.media.amplience.net/i/epammarketplace/GENTL_Mask_2_resize?fmt=webp&v=596798141487",
+  "https://classic.cdn.media.amplience.net/i/epammarketplace/GENTL_Mask_image5_resize?fmt=webp&v=596798141487",
+  "https://classic.cdn.media.amplience.net/i/epammarketplace/Gentl_Mask_image4_resize?fmt=webp&v=596798141487",
+  "https://classic.cdn.media.amplience.net/i/epammarketplace/GENTL_Mask_image6_resize?fmt=webp&v=596798141487",
+  "https://classic.cdn.media.amplience.net/v/epammarketplace/GENTL_Mask_RE_RELEASE_YOUTUBE?fmt=webp&v=596798141487"
 ]
-technology-readiness-level = "OTRL-3"
-documentation-readiness-level = "ODRL-3"
-attestation = "https://certification.oshwa.org/cl000001.html"
-publication = "https://doi.org/10.1371/journal.pone.0193087"
-# A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
+technology-readiness-level = "OTRL-4"
+documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
-tsdc = "MEC/ASM/etc." # Void if there is no valid licence. Possible values for the project listed here: https://gitlab.com/OSEGermany/oh-tsdc/-/blob/master/OH-TsDC.md?ref_type=heads.
-bom = "BoM.csv"
-manufacturing-instructions = "Documentation/Assembly_Guide/AssemblyGuide.md"
-user-manual = "Documentation/User_Guide/UserGuide.md"
-# Sources for the parts information
-source = [
-     "main.scad",
-     "part_a.scad",
-     "part_b.scad",
-     "params.csv"
-     ]
-# Any mass always has to be in g (gramms)
-mass= 50330.0
+tsdc = "ASM"
+bom = [
+   "https://drive.google.com/file/d/17K3ERlPz3osiPQml9F_PGGfSSccKzvng/view?usp=sharing",
+   "https://drive.google.com/file/d/1nY8tp2bfkvkrXH8Z7fLKBbdW7QHbS7lF/view?usp=sharing"
+]
+manufacturing-instructions = [
+   "https://epamsolutions.a.bigcontent.io/v1/static/Information_Sheet_3Layer",
+   "https://epamsolutions.a.bigcontent.io/v1/static/Assembly_Instructions",
+   "https://drive.google.com/file/d/12tLkwZiPgyj7NeeM11CQ21U_FzxI230n/view?usp=sharing"
+]
+source = "https://drive.google.com/file/d/1YPLij2Gg9vaY2MDloNByDtisHxvED6bA/view?usp=sharing"
 
 [outer-dimensions]
-# Any dimension value always has to be in [mm] (milli-meters). Need all 3.
-width = 400
-depth = 350
-height = 150
-
-[[software]]
-release = "https://github.com/arduino/ArduinoCore-mbed/releases/tag/1.3.2"
-installation-guide = "https://github.com/arduino/ArduinoCore-mbed/blob/a2c06d768f5ebb6821ae6505b2032ee58f4ef70d/README.md"
+# Dimensions from large size measurements with depth estimated.
+width = 293.4
+depth = 114.3
+height = 114.3
