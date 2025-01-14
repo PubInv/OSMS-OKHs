@@ -8,7 +8,7 @@ Members of the project team discussed the OKH formatting and exceptions to accom
 
 **January 2025**
 
-Completed conversion of the OSH registry to the OKH format. 
+Completed conversion of the OSH registry to the OKH format. Validated existing files with the krawler, then tweaked the template and files in accordance with feedback. Continued creation of OKH files working through the OSMS Project Library. 
 
 ## Important notes:
   * These are .toml files. If interested in learning more, check out this link:[TOML](https://toml.io/en/)
