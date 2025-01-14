@@ -1,0 +1,24 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Maker’s-Habitat-DIY-Fabric-Mask"
+repo = "https://www.facebook.com/makershabitatkl/videos/2504854873098703/"
+license = "LicenseRef-NOASSERTION"
+licensor = "Maker's Habitat <https://www.facebook.com/makershabitatkl>"
+function = "Please consult filtering resources/documentation. Without the filter, this design is good for use over existing PPE. Ties are preferred over loops. For the filter, consider non-woven polypropylene (see Helpful Engineering mask). Understand variations in NWPP material before using. Sterilization guidance is emerging; for now, consider these masks single use."
+documentation-language = "en"
+organization = "Maker's Habitat"
+image = "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-1/305990585_470433661765808_829502326652189127_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=101&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=JTkOGc1ajcMQ7kNvgFToVA-&_nc_zt=24&_nc_ht=scontent-dfw5-1.xx&_nc_gid=AUjaLlhEilOacD-TOSV9v-A&oh=00_AYAFlxeaHAx0pICUPda7GCrVZMmBAbOZMceniIDpetEqdQ&oe=678C70A0"
+technology-readiness-level = "OTRL-2"
+documentation-readiness-level = "ODRL-1"
+cpc-patent-class = "A41D 13/11"
+# tsdc = "MEC/ASM/etc." 
+manufacturing-instructions = "https://www.facebook.com/makershabitatkl/videos/2504854873098703/"
+
+[outer-dimensions]
+# Dimensions roughly estimated from video and material measurements.
+width = 230
+depth = 101.6
+height = 150
