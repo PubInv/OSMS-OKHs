@@ -1,0 +1,105 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Iris-Luckhaus-Hybrid-Mask"
+repo = "https://www.irisluckhaus.de/en/2020/diy-cloth-mask/?fbclid=IwAR21stk43cp6XHZTcjqjxawuMKPDOo8T4kmj4eOeQuMA8oPCJSphIzlzUCs"
+version = "6.0.0"
+license = "Only Non-Commercial Use"
+licensor = "Iris Luckhaus <https://www.irisluckhaus.de/en/contact/>"
+function = "Mask making community discussions report that this mask is very comfortable to wear and reduces eyeglass fogging due to the unique nose bridge design. This can be made with elastic or fabric ties and has a pocket for an optional filter placement. The nose bridge wire is easily removed. The pleating is a bit different than other pleated designs, so refer to the highly detailed construction and pictorial tutorials. The No-Sew version has options for a woven or non-woven fabric with staples, paperclips, and elastic as easily sourced materials."
+documentation-language = [
+   "en",
+   "de"
+]
+organization = "IrisLukhaus.de"
+readme = "https://www.irisluckhaus.de/en/2020/diy-cloth-mask/?fbclid=IwAR21stk43cp6XHZTcjqjxawuMKPDOo8T4kmj4eOeQuMA8oPCJSphIzlzUCs#mask-tests"
+contribution-guide = "https://www.irisluckhaus.de/en/2020/diy-cloth-mask/?fbclid=IwAR21stk43cp6XHZTcjqjxawuMKPDOo8T4kmj4eOeQuMA8oPCJSphIzlzUCs#thank-you"
+image = [
+  # Sewing a hybrid cloth mask - product photos.
+  "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/04/IrisLuckhaus_HybridMaskShow_0966HK_1400-1.jpg",
+  "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/04/IrisLuckhaus_HybridMaskShow_6048H_1400.jpg",
+  "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/04/IrisLuckhaus_HybridMaskShow_0388HK_1400.jpg",
+  "https://www.irisluckhaus.de/wr/wp-content/uploads/2021/03/IrisLuckhaus_HybridMaskShow_x12K4_1400.jpg",
+  "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_HybridMaskShow_1100_1400-2.jpg",
+  "https://www.irisluckhaus.de/wr/wp-content/uploads/2021/01/IrisLuckhaus_HybridMaskShow_4544HK_1400-1.jpg",
+  "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/04/IrisLuckhaus_Hybrid_LuckhausMask_Instagram_iPad2102_1400.jpg",
+  "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/05/IrisLuckhaus_HybridMaskCollection_0205b_1400.jpg",
+  "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_HybridMaskAdaption_V10_SM_CheckRed_T1400-1.jpg",
+  "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_Infografik_MaskTies_5x3_W1400.jpg",
+  "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/04/IMG_5623.jpg",
+  # Making a hybrid instant mask - photos.
+  "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_HybridMaskShow_0797_1400-3.jpg",
+  "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_HybridMaskShow_0948_1400.jpg",
+  "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_HybridMaskShow_1100b_1400.jpg",
+  # Customized hybrid face masks - photos.
+  "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_HybridMaskShow_12er_CustomPattern_V2_1400-1-1536x1086.jpg",
+  "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_HybridMaskShow_1661KH_1400.jpg",
+  "https://www.irisluckhaus.de/wr/wp-content/uploads/2021/03/IrisLuckhaus_HybridMaskShow_6698H_1400-1.jpg",
+  "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_HybridMaskShow_6671KH_1400.jpg",
+  "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_HybridMaskShow_6655HK_1400-1.jpg",
+  "https://www.irisluckhaus.de/wr/wp-content/uploads/2021/01/IrisLuckhaus_HybridMaskShow_4544HK_1400-1.jpg",
+  "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_HybridMaskShow_6703K_1400.jpg",
+  "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_HybridMaskShow_6728K_1400.jpg",
+  "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/04/IrisLuckhaus_HybridMaskShow_6999HK_1400.jpg",
+  "https://www.irisluckhaus.de/wr/wp-content/uploads/2021/03/IrisLuckhaus_HybridMaskShow_6645HK_1400.jpg",
+  "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_HybridMaskShow_7060K_1400.jpg",
+  "https://www.irisluckhaus.de/wr/wp-content/uploads/2021/12/IrisLuckhaus_HybridMaskShow_2973_KK_1400.jpg",
+  "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_HybridMaskShow_1722_Window_Blue_1400.jpg",
+  "https://www.irisluckhaus.de/wr/wp-content/uploads/2021/03/IrisLuckhaus_HybridMaskShow_6085H_1400-1.jpg",
+  "https://www.irisluckhaus.de/wr/wp-content/uploads/2021/03/IrisLuckhaus_HybridMaskShow_6682H_1400-1.jpg",
+  "https://www.irisluckhaus.de/wr/wp-content/uploads/2021/03/IrisLuckhaus_HybridMaskShow_6078H_1400-1.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A41D 13/11"
+tsdc = "ASM" 
+bom = "BoM.csv"
+manufacturing-instructions = "Documentation/Assembly_Guide/AssemblyGuide.md"
+user-manual = "Documentation/User_Guide/UserGuide.md"
+source = [
+     # Sewing a hybrid cloth mask - sources.
+     "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/04/IrisLuckhaus_HybridMask_V5_Introduction_M1400.jpg",
+     "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/04/IrisLuckhaus_HybridMask_V6_Instructions_1400.jpg",
+     "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/05/IrisLuckhaus_HybridMaskTut_3b_RechtsMarkieren_1400.jpg",
+     "https://www.irisluckhaus.de/wr/wp-content/uploads/2021/11/Screen_FMVIZ_Rechner_2021_1400.jpg",
+     # Making a hybrid cloth mask - sources.
+     "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_PaperMask_Instructions12_V2_T1400.jpg",
+     "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_PaperMask_PatternTemplate_Cut_V2_T1400.jpg",
+     "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_PapierMaskTable_V1_T1400.jpg",
+     "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_PaperMask_Instructions1_V2_1400.jpg",
+     "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_PapierMaskTable_V1B_T1400.jpg",
+     "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_PaperMask_V1B_1400.jpg",
+     "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_PapierMaskTable_V2_T1400.jpg",
+     "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_PaperMask_Instructions2_V2_1400.jpg",
+     "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_PapierMaskTable_V2B_T1400-1.jpg",
+     "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/04/irisluckhaus_infografiken_maskenbinden_m1400.jpg",
+     "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_PaperMask_Instructions1PatternTemplate_V2_T1400.jpg",
+     # Customized hybrid face masks - sources
+     "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_HybridMaskAdaption_V10_SM_CheckRed_T1400-1.jpg",
+     "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_HybridMaskAdaption_V10_SM_Nose1_CheckCream_T1400.jpg",
+     "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_HybridMaskAdaption_V10_SM_Nose2_Black_T1400.jpg",
+     "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_HybridMaskAdaption_V10_SM_Nose3_Jeans_T1400.jpg",
+     "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_HybridMaskAdaption_V10_SM_Nose4_TartanBlack_T1400.jpg",
+     "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_HybridMaskAdaption_V10_SM_FlatBeak_T1400.jpg",
+     "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_HybridMaskAdaption_V10_SM_Chin_TartanWhite_T1400.jpg",
+     "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_HybridMaskAdaption_V10_SM_Beard_Olive_T1400.jpg",
+     "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_HybridMaskAdaption_V10_SM_Beard2K_Khaki_T1400.jpg",
+     "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_HybridMaskAdaption_V10_SM_Dart_TartanRed_T1400.jpg",
+     "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_HybridMaskAdaption_V10_SM_Pinch_TartanRed_T1400.jpg",
+     "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_HybridMaskAdaption_V10_SM_Space_KhakiK_T1400.jpg",
+     "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_HybridMaskAdaption_V10_SM_Window_NWPP-Blue_T1400.jpg",
+     "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_HybridMaskAdaption_V10_Templates_T1400.jpg",
+     "https://www.irisluckhaus.de/wr/wp-content/uploads/2020/06/IrisLuckhaus_HybridMaskAdaption_Pattern_Print_T1400.jpg"
+]
+
+[outer-dimensions]
+# Any dimension value always has to be in [mm] (milli-meters). Need all 3.
+width = 400
+depth = 350
+height = 150
+
+[[software]]
+release = "https://github.com/arduino/ArduinoCore-mbed/releases/tag/1.3.2"
+installation-guide = "https://github.com/arduino/ArduinoCore-mbed/blob/a2c06d768f5ebb6821ae6505b2032ee58f4ef70d/README.md"
