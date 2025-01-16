@@ -1,0 +1,21 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Maui-Face-Mask"
+repo = "https://youtu.be/RkBrCuNMu_E"
+license = "LicenseRef-NOASSERTION"
+licensor = "Kim Abrahamson <https://www.youtube.com/@kimabrahamson4720>"
+function = "Features outer non-woven polypropylene layer with 2 layers of electrostatically charged 3M 1500 filtrate material and inner non-woven layer. Equivalent to a MERV-11 rating with fitted nose pieces and elastic ties. 10,000 of these masks have been constructed for the Maui medical community."
+documentation-language = "en-US"
+organization = "Maui"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-1"
+cpc-patent-class = "A41D 13/11"
+# tsdc = "MEC/ASM/etc." 
+bom = "https://youtu.be/RkBrCuNMu_E?t=10"
+manufacturing-instructions = "https://youtu.be/RkBrCuNMu_E?t=45"
+user-manual = "https://youtu.be/RkBrCuNMu_E?t=533"
+
+
