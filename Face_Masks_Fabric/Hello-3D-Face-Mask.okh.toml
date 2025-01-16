@@ -1,0 +1,38 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Hello-3D-Face-Mask"
+repo = "https://hellosewing.com/3d-face-mask-diy/?fbclid=IwAR0lFcHea11VMDZNYNeSL0HXyzDGUkqg4NOHrQetOmOQdI_VJMZrg7su7EI"
+license = "LicenseRef-NOASSERTION"
+licensor = "Helen Spencer <https://hellosewing.com/about-and-contact/>"
+function = "Design stands away from the face and features options for a filter pocket, nose bridge support, and elastic ear loops."
+documentation-language = "en"
+organization = "Hello Sewing"
+release = "https://www.youtube.com/watch?v=qjqweGdyDuA"
+readme = "https://hellosewing.com/3d-face-mask-diy/?fbclid=IwAR0lFcHea11VMDZNYNeSL0HXyzDGUkqg4NOHrQetOmOQdI_VJMZrg7su7EI#How_to_make_3d_face_mask"
+image = [
+  # logo
+  "https://hellosewing.com/wp-content/uploads/hellosewing-logo-lq.jpg",
+  # product-photo
+  "https://hellosewing.com/wp-content/uploads/3d-facemask-featured-675x510.jpg",
+  "https://hellosewing.com/wp-content/uploads/IMG_20200629_174436.jpg",
+  "https://hellosewing.com/wp-content/uploads/3d-facemask.jpg",
+  "https://hellosewing.com/wp-content/uploads/3d-facemask5.jpg",
+  "https://hellosewing.com/wp-content/uploads/3d-facemask6.jpg",
+  "https://hellosewing.com/wp-content/uploads/3d-facemask9.jpg",
+  "https://hellosewing.com/wp-content/uploads/3d-facemask15.jpg",
+  "https://hellosewing.com/wp-content/uploads/3d-facemask18.jpg",
+  "https://hellosewing.com/wp-content/uploads/3d-face-mask-90degrees.jpg",
+  "https://hellosewing.com/wp-content/uploads/3d-facemask20.jpg",
+  "https://hellosewing.com/wp-content/uploads/IMG_20200629_175200-1536x1152.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A41D 13/11"
+# tsdc = "MEC/ASM/etc." 
+bom = "https://hellosewing.com/3d-face-mask-diy/?fbclid=IwAR0lFcHea11VMDZNYNeSL0HXyzDGUkqg4NOHrQetOmOQdI_VJMZrg7su7EI#3D_Mask_Supplies_and_tools"
+manufacturing-instructions = "https://hellosewing.com/3d-face-mask-diy/?fbclid=IwAR0lFcHea11VMDZNYNeSL0HXyzDGUkqg4NOHrQetOmOQdI_VJMZrg7su7EI#How_To_Sew_3d_mask"
+source = "https://hellosewing.com/wp-content/uploads/3d-face-mask-template-v1.1a.pdf"
+
