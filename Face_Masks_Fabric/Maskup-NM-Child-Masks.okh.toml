@@ -1,0 +1,54 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Maskup-NM-Child-Masks"
+repo = "https://sites.google.com/view/maskscovernm/mission-maskup-kids?authuser=0t/"
+license = "LicenseRef-NOASSERTION"
+licensor = "MaskupNM <MaskupNM@gmail.com>"
+function = "Three different non-pleated patterns each featuring small and medium sizes for children. Instructions in both English and Spanish."
+documentation-language = [
+   "en",
+   "es"
+]
+organization = "MaskupNM"
+readme = "https://sites.google.com/view/maskscovernm/mission-maskup-kids?authuser=0"
+image = [
+  # logo
+  "https://lh6.googleusercontent.com/mvIkXhI58opx4WDZebopOv4mTJ74jgHpMfhRzxuY5FWCwzuK_fQsqoth1LQ54S2FTWrOHA=w16383",
+  # product-photo
+  "https://lh6.googleusercontent.com/8LydPtPVY8SOb_5qX86WcUqSPbBie0-NQAz-nRQbn6N5S9_NDirdLIHYC0mHHUlz_A8CDz32DzxjTO5XGT7O-rl-xF2aKFTNTu2sNSCTMh76c9qR=w1280",
+  "https://lh4.googleusercontent.com/gEQFdtKwwsi37vIkWUH0UgvEChAT9TDJ1s_VmNMgFvz9X3-N-okAxTN4TCr7WOqv3v-IDTd5ZzT-x4KWiwr6G1xDTEE6mg13YI_9TeritP_QXMxN=w1280",
+  "https://lh6.googleusercontent.com/cYze7su5wU8vi7aXFvOLXe5UN0Zha381dj1w4lshcMDpuyy64fyGJ7UMeuUZj9WKa0-kgL8E3-MGdtsqq8NgPEtLQ8t40M8GXBUIDGz6Ks7q0hor=w1280",
+  "https://lh3.googleusercontent.com/1Xdayf-LvEybDzifN1rL30x1aQ_sG9Vt2nxy3AzLL7tM_Gdzf2WLQGkLyQsDxTXbpCGfogCEuHmYUzyG4ketAfib07pESyRzGPS10pww8qnkn-eF=w1280"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A41D 13/11"
+# tsdc = "MEC/ASM/etc." 
+bom = "https://sites.google.com/view/maskscovernm/mission-maskup-kids?authuser=0"
+manufacturing-instructions = [
+   # English manufacturing guides.
+   "https://drive.google.com/file/d/1-a97PMRJaL_bB5o0elbqlzzB1ue_YoJi/view?usp=sharing",
+   "https://drive.google.com/file/d/1xvHzdP8jC08Yj6sChcXSzxEq5zP5Y-DG/view?usp=sharing",
+   "https://drive.google.com/file/d/1mdNNDteuEqaZ9S1oMWd2E7V8suFaLgWG/view?usp=sharing",
+   "https://drive.google.com/file/d/190nD3apkgAA4wb4yIP6WwiyLg4zZpKgE/view?usp=sharing",
+   "https://drive.google.com/file/d/1EYD9YQH0MTk43ezm6LXdMJDF_i2msvN-/view?usp=sharing",
+   "https://drive.google.com/file/d/1WqDuaLIQNXN_g9EKwJ9Gf9BF_4SfyIip/view?usp=sharing",
+   "https://drive.google.com/file/d/142zs-trGpqA9HUOkRYYSygtb7kZl8FDE/view?usp=sharing",
+   "https://drive.google.com/file/d/1SgCG3kQXGMqQrv81NZrMPuj7myoAvrrZ/view?usp=sharing",
+   "https://drive.google.com/file/d/131OANTpBWp84nrrZsv5rFCdVw7ZS5Kq3/view?usp=sharing",
+   "https://drive.google.com/file/d/131OANTpBWp84nrrZsv5rFCdVw7ZS5Kq3/view?usp=sharing",
+   # Spanish manufacturing guides.
+   "https://drive.google.com/file/d/1AoLgDddj4Vjo8zVeYyknC-i2U4aMutJ-/view?usp=sharing",
+   "https://drive.google.com/file/d/10-VEy6dFF8UCxlBs7QctYbUDRn9eclkv/view?usp=sharing",
+   "https://drive.google.com/file/d/1SNA3PwW8PFx70To-o2nLzFeggQsnYTyr/view?usp=sharing",
+   "https://drive.google.com/file/d/1liPDWW-JP3urixKHy7Zlx__zYKN22RZT/view?usp=sharing"
+]
+
+[outer-dimensions]
+# Based on the Meagan - Size Medium Instructions and depth is estimated.
+width = 203.2
+depth = 6.35
+height = 152.4
