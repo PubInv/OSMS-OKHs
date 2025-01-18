@@ -1,0 +1,38 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Craft-Passion-Window-Face-Mask"
+repo = "https://www.craftpassion.com/windowed-face-mask-sewing-pattern/"
+license = "LicenseRef-NOASSERTION"
+licensor = "Joanne Loh <https://www.craftpassion.com/contact/>"
+function = "Pattern in three sizes including small for children. Clear panel is made from vinyl sheeting."
+documentation-language = "en"
+organization = "Craft Passion"
+readme = "https://www.craftpassion.com/windowed-face-mask-sewing-pattern/"
+contribution-guide = "https://www.craftpassion.com/windowed-face-mask-sewing-pattern/#mv-creation-71-jtr"
+image = [
+  # logo
+  "https://www.craftpassion.com/wp-content/uploads/cp-logo@2x.png.webp",
+  # product-photo
+  "imgs/yyy.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A41D 13/11"
+# tsdc = "MEC/ASM/etc." 
+bom = "BoM.csv"
+manufacturing-instructions = "https://www.craftpassion.com/windowed-face-mask-sewing-pattern/#mv-creation-71-jtr"
+source = [
+     "main.scad",
+     "part_a.scad",
+     "part_b.scad",
+     "params.csv"
+     ]
+
+[outer-dimensions]
+# Any dimension value always has to be in [mm] (milli-meters). Need all 3.
+width = 400
+depth = 350
+height = 150
