@@ -1,0 +1,25 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "DIY-Mask-for-Singers"
+repo = "https://www.youtube.com/watch?v=azEIkHsa7uE"
+version = "2.0.0"
+license = "LicenseRef-NOASSERTION"
+licensor = "Joan Fearnley <info@joanfearnley.com>"
+function = "Designed specifically to accommodate mouth and jaw movement while preventing droplet spray. Features a nose wire and wrap-around jaw coverage."
+documentation-language = [
+   "en",
+   "fr"
+]
+organization = "SopranoJoan"
+readme = "https://youtu.be/azEIkHsa7uE"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A41D 13/11"
+# tsdc = "MEC/ASM/etc." 
+bom = "https://www.youtube.com/watch?v=azEIkHsa7uE&t=43s"
+manufacturing-instructions = "https://www.youtube.com/watch?v=azEIkHsa7uE&t=157s"
+source = "https://drive.google.com/file/d/1iiZBjsSzEozlIIbhjTbzOwER1_WgZcs5/view?usp=sharing"
+
