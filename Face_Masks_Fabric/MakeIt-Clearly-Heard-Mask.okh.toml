@@ -1,0 +1,60 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "MakeIt-Clearly-Heard-Mask"
+repo = "https://www.instructables.com/MakeIt-Clearly-Heard-Mask/"
+version = "2.0.0"
+license = "CC BY-SA 4.0"
+licensor = "WeekendChaos <https://www.instructables.com/member/WeekendChaos/>"
+function = "Clear panel mask that stands away from the face, including extensive under-chin and nose bridge coverage. Allows the viewer to see the wearer mouth for ASL needs. Remember to use food-grade safe plastic to prevent off-gassing."
+documentation-language = "en"
+organization = "AutoDesk Instructables"
+readme = "https://www.instructables.com/MakeIt-Clearly-Heard-Mask/"
+contribution-guide = "https://www.instructables.com/MakeIt-Clearly-Heard-Mask/"
+image = [
+  # logo
+  "https://www.instructables.com/assets/img/instructables-logo-2023.svg",
+  # product-photo
+  "https://content.instructables.com/F5K/AMC2/KD92UY44/F5KAMC2KD92UY44.jpg?auto=webp&frame=1&width=933&height=1024&fit=bounds&md=MjAyMC0wNy0zMCAxODoyMDoxMS4w",
+  "https://content.instructables.com/FDY/A8BA/KDEIZH2A/FDYA8BAKDEIZH2A.jpg?auto=webp&frame=1&width=933&height=1024&fit=bounds&md=MjAyMC0wOC0wMyAwODowMDozNC4w",
+  "https://content.instructables.com/FYL/TTLX/KDEIZH29/FYLTTLXKDEIZH29.jpg?auto=webp&frame=1&width=933&height=1024&fit=bounds&md=MjAyMC0wOC0wMyAwODowMDozNC4w",
+  "https://content.instructables.com/F75/RYUP/KDEIZH28/F75RYUPKDEIZH28.jpg?auto=webp&frame=1&width=933&height=1024&fit=bounds&md=MjAyMC0wOC0wMyAwODowMDozMi4w",
+  "https://content.instructables.com/F6O/0X6A/KDEIZH26/F6O0X6AKDEIZH26.jpg?auto=webp&frame=1&width=933&height=1024&fit=bounds&md=MjAyMC0wOC0wMyAwODowMDozMS4w",
+  "https://content.instructables.com/FWS/3DWG/KDEIZH24/FWS3DWGKDEIZH24.jpg?auto=webp&frame=1&width=600&height=1024&fit=bounds&md=MjAyMC0wOC0wMyAwODowMDoyOS4w",
+  "https://content.instructables.com/FTN/4439/KDEIZH23/FTN4439KDEIZH23.jpg?auto=webp&frame=1&width=600&height=1024&fit=bounds&md=MjAyMC0wOC0wMyAwODowMDoyOC4w",
+  "https://content.instructables.com/F0M/BYID/KDEIZH1Z/F0MBYIDKDEIZH1Z.jpg?auto=webp&frame=1&width=933&height=1024&fit=bounds&md=MjAyMC0wOC0wMyAwODowMDoxOS4w",
+  "https://content.instructables.com/F7L/LBY5/KDEIZH5Y/F7LLBY5KDEIZH5Y.jpg?auto=webp&frame=1&width=933&height=1024&fit=bounds&md=MjAyMC0wOC0wMyAwODowMDo0Ni4w",
+  "https://content.instructables.com/FV6/FWSS/KDEIZH20/FV6FWSSKDEIZH20.jpg?auto=webp&frame=1&width=933&height=1024&fit=bounds&md=MjAyMC0wOC0wMyAwODowMDoyMi4w",
+  "https://content.instructables.com/FGC/51SQ/KDEIZH22/FGC51SQKDEIZH22.jpg?auto=webp&frame=1&width=933&height=1024&fit=bounds&md=MjAyMC0wOC0wMyAwODowMDoyNS4w",
+  "https://content.instructables.com/F1I/1YJL/KDEIZH1T/F1I1YJLKDEIZH1T.jpg?auto=webp&frame=1&width=933&height=1024&fit=bounds&md=MjAyMC0wOC0wMyAwODowMDoxNi4w",
+  "https://content.instructables.com/FLB/Y65K/KDEIZH1S/FLBY65KKDEIZH1S.jpg?auto=webp&frame=1&width=933&height=1024&fit=bounds&md=MjAyMC0wOC0wMyAwODowMDoxNS4w",
+  "https://content.instructables.com/FBO/MFPF/KDEIZH1O/FBOMFPFKDEIZH1O.jpg?auto=webp&frame=1&width=600&height=1024&fit=bounds&md=MjAyMC0wOC0wMyAwODowMDoxMS4w",
+  "https://content.instructables.com/FRP/6239/KDEIZHWW/FRP6239KDEIZHWW.jpg?auto=webp&frame=1&width=600&height=1024&fit=bounds&md=MjAyMC0wOC0wMyAwODoyMDoxNy4w",
+  "https://content.instructables.com/FP5/O1F3/KDEIZHWX/FP5O1F3KDEIZHWX.jpg?auto=webp&frame=1&width=600&height=1024&fit=bounds&md=MjAyMC0wOC0wMyAwODoyMDoxOC4w",
+  "https://content.instructables.com/FAA/JKSJ/KDEIZH1U/FAAJKSJKDEIZH1U.jpg?auto=webp&frame=1&width=600&height=1024&fit=bounds&md=MjAyMC0wOC0wMyAwODowMDoxNy4w",
+  "https://content.instructables.com/F1N/9GWT/KEAEU3PW/F1N9GWTKEAEU3PW.jpg?auto=webp&frame=1&width=882&height=1024&fit=bounds&md=MjAyMC0wOC0yNSAxODowOTo1NC4w",
+  "https://content.instructables.com/FJE/16G1/KEAEU3PV/FJE16G1KEAEU3PV.jpg?auto=webp&frame=1&width=318&height=1024&fit=bounds&md=MjAyMC0wOC0yNSAxODowOTo0Mi4w",
+  "https://content.instructables.com/FY7/OA8G/KEAEU3PN/FY7OA8GKEAEU3PN.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wOC0yNSAxODowOTozMi4w",
+  "https://content.instructables.com/FT9/NQWD/KEAEU3PM/FT9NQWDKEAEU3PM.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wOC0yNSAxODowOToxNy4w",
+  "https://content.instructables.com/F66/H14V/KEAEU3PY/F66H14VKEAEU3PY.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wOC0yNSAxODoxMDowNy4w",
+  "https://content.instructables.com/FMC/F40U/KEAEU3PL/FMCF40UKEAEU3PL.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wOC0yNSAxODowOToxMS4w"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A41D 13/11"
+# tsdc = "MEC/ASM/etc." 
+bom = "https://www.instructables.com/MakeIt-Clearly-Heard-Mask/"
+manufacturing-instructions = "https://www.instructables.com/MakeIt-Clearly-Heard-Mask/"
+source = [
+     "https://content.instructables.com/FY5/T2T9/KDEIZIG0/FY5T2T9KDEIZIG0.pdf",
+     "https://content.instructables.com/F60/F6SF/KDEIZILX/F60F6SFKDEIZILX.pdf",
+     "https://content.instructables.com/FV6/V8LI/KEAEU3PF/FV6V8LIKEAEU3PF.pdf"
+     ]
+
+[outer-dimensions]
+# Estimated from pattern. Depth rough guess.
+width = 254
+depth = 76.2
+height = 190.5
