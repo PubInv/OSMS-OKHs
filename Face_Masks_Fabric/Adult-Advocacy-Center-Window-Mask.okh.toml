@@ -1,0 +1,25 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Adult-Advocacy-Center-Window-Mask"
+repo = "https://docs.google.com/presentation/d/13XcUyeWQhnfaLVn8af1YU3AChaZJnCv5OSeTxIAdLLk/edit?fbclid=IwAR3ODGGYen4hcc8OW5NNqryf61aQO0esc6k9jM5GSJcs4Tf92KXgKnn4BDQ#slide=id.g75316b0861_0_141"
+license = "LicenseRef-NOASSERTION"
+licensor = "Adult Advocacy Center <smakesmasks@gmail.com>"
+function = "Features a large vinyl sheeting clear panel and fabric coverage below the chin."
+documentation-language = "en"
+organization = "Adult Advocacy Center"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A41D 13/11"
+# tsdc = "MEC/ASM/etc." 
+bom = "https://docs.google.com/presentation/d/13XcUyeWQhnfaLVn8af1YU3AChaZJnCv5OSeTxIAdLLk/edit?fbclid=IwAR3ODGGYen4hcc8OW5NNqryf61aQO0esc6k9jM5GSJcs4Tf92KXgKnn4BDQ#slide=id.g75316b0861_0_141"
+manufacturing-instructions = "https://docs.google.com/presentation/d/13XcUyeWQhnfaLVn8af1YU3AChaZJnCv5OSeTxIAdLLk/edit?fbclid=IwAR3ODGGYen4hcc8OW5NNqryf61aQO0esc6k9jM5GSJcs4Tf92KXgKnn4BDQ#slide=id.g75316b0861_0_141"
+source = "https://docs.google.com/presentation/d/13XcUyeWQhnfaLVn8af1YU3AChaZJnCv5OSeTxIAdLLk/edit?usp=sharing"
+
+[outer-dimensions]
+# Depth estimated, rough dimensions.
+width = 330.2
+depth = 25.4
+height = 234.95
