@@ -1,0 +1,43 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Hello-Sewing-3D-Window-Mask"
+repo = "https://hellosewing.com/clear-face-mask/"
+version = "1.1.0"
+license = "LicenseRef-NOASSERTION"
+licensor = "Helen Spencer <https://hellosewing.com/about-and-contact/>"
+function = "Features a removable clear panel and is based on the popular 3D design which keeps mask fabric away from the face."
+documentation-language = "en"
+organization = "Hello Sewing"
+readme = "https://hellosewing.com/clear-face-mask/#How_to_make_a_clear_face_mask"
+image = [
+  # logo
+  "https://hellosewing.com/wp-content/uploads/hellosewing-logo-lq.jpg",
+  # product-photo
+  "https://hellosewing.com/wp-content/uploads/clear-face-mask-featured-675x510.jpg",
+  "https://hellosewing.com/wp-content/uploads/clear-face-mask-finished.jpg",
+  "https://hellosewing.com/wp-content/uploads/clear-face-mask-materials.jpg",
+  "https://hellosewing.com/wp-content/uploads/clear-face-mask-cutting-fabric.jpg",
+  "https://hellosewing.com/wp-content/uploads/clear-face-mask-marking-window.jpg",
+  "https://hellosewing.com/wp-content/uploads/clear-face-mask-window-lining.jpg",
+  "https://hellosewing.com/wp-content/uploads/clear-face-mask-window.jpg",
+  "https://hellosewing.com/wp-content/uploads/clear-face-mask-creating-panel.jpg",
+  "https://hellosewing.com/wp-content/uploads/clear-face-mask-folded-pinned.jpg",
+  "https://hellosewing.com/wp-content/uploads/clear-face-mask-right-wrong.jpg",
+  "https://hellosewing.com/wp-content/uploads/clear-face-mask-sewing-sides.jpg",
+  "https://hellosewing.com/wp-content/uploads/clear-face-mask-clear-window-panel.jpg",
+  "https://hellosewing.com/wp-content/uploads/clear-face-mask-pin1.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A41D 13/11"
+# tsdc = "MEC/ASM/etc." 
+bom = "https://hellosewing.com/clear-face-mask/#Supplies_and_tools"
+manufacturing-instructions = [
+   "https://hellosewing.com/clear-face-mask/#How_To_Sew_a_Face_mask_with_a_clear_panel",
+   "https://youtu.be/dOOalUrCvWw"
+]
+source = "https://hellosewing.com/wp-content/uploads/clear-face-mask-template-v1.1.pdf"
+
