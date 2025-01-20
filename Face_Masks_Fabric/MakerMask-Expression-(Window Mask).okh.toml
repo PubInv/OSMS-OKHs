@@ -1,0 +1,58 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "MakerMask-Expression-(Window Mask)"
+version = "Beta"
+repo = "https://makermask.org/masks/expression-window-mask/?fbclid=IwAR18d4I7Sv80Yk5ldbYUr5OlylgtgpdDULDQQoGdFOn7wya0zztDRhmbgQk"
+license = "Creative Commons Attribution 4.0 International License"
+licensor = "Jocelyn Songer <info@makermask.org>"
+function = "Features non-woven polypropylene (NWPP) and heat-sealing, requiring no sewing. Design includes testing of different polypropylene window options to demonstrate resilience in autoclaving."
+documentation-language = "en"
+organization = "MakerMask"
+readme = "https://makermask.org/masks/expression-window-mask/?fbclid=IwAR18d4I7Sv80Yk5ldbYUr5OlylgtgpdDULDQQoGdFOn7wya0zztDRhmbgQk"
+image = [
+  # logo
+  "https://makermask.org/wp-content/uploads/2020/06/erin_surge_mmlabeled.png",
+  "https://makermask.org/wp-content/uploads/2020/03/cropped-targetmask.png",
+  # product-photo
+  "https://makermask.org/wp-content/uploads/2020/08/Slide6-768x576.png",
+  "https://makermask.org/wp-content/uploads/2020/08/Slide2.png",
+  "https://makermask.org/wp-content/uploads/2020/08/Slide3.png",
+  "https://makermask.org/wp-content/uploads/2020/08/Slide4.png",
+  "https://makermask.org/wp-content/uploads/2020/08/Slide5.png",
+  "https://makermask.org/wp-content/uploads/2020/08/Slide6.png",
+  "https://makermask.org/wp-content/uploads/2020/08/Slide7.png",
+  "https://makermask.org/wp-content/uploads/2020/08/Slide8.png",
+  "https://makermask.org/wp-content/uploads/2020/08/Slide9.png",
+  "https://makermask.org/wp-content/uploads/2020/08/Slide10.png",
+  "https://makermask.org/wp-content/uploads/2020/08/Slide11.png",
+  "https://makermask.org/wp-content/uploads/2020/08/Slide12.png",
+  "https://makermask.org/wp-content/uploads/2020/08/Slides_For_Web_Images.png",
+  "https://makermask.org/wp-content/uploads/2020/08/Slide14.png",
+  "https://makermask.org/wp-content/uploads/2020/08/Slide13.png",
+  "https://makermask.org/wp-content/uploads/2020/08/20200807_080843-768x576.jpg",
+  "https://makermask.org/wp-content/uploads/2020/08/WindowMask_CleaningDisinfection-1024x515.png",
+  "https://makermask.org/wp-content/uploads/2020/08/glowmask-1024x768.png"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A41D 13/11"
+tsdc = "ASM" 
+bom = "https://makermask.org/masks/expression-window-mask/?fbclid=IwAR18d4I7Sv80Yk5ldbYUr5OlylgtgpdDULDQQoGdFOn7wya0zztDRhmbgQk"
+manufacturing-instructions = [
+   "https://makermask.org/wp-content/uploads/2020/08/MM_Expression_Beta_v06b.pdf",
+   "https://makermask.org/wp-content/uploads/2020/08/Photo_Tutorial_MM_Expression_Beta_v06b.pdf",
+   "https://makermask.org/wp-content/uploads/2020/09/Folding_Tutorial_MM_Expression_Beta_v06b.pdf",
+   "https://youtu.be/yvsOmsXRJRk",
+   "https://makermask.org/masks/expression-window-mask/?fbclid=IwAR18d4I7Sv80Yk5ldbYUr5OlylgtgpdDULDQQoGdFOn7wya0zztDRhmbgQk"
+]
+user-manual = "https://makermask.org/masks/expression-window-mask/?fbclid=IwAR18d4I7Sv80Yk5ldbYUr5OlylgtgpdDULDQQoGdFOn7wya0zztDRhmbgQk"
+source = "https://makermask.org/wp-content/uploads/2020/08/MM_Expression_Beta_v06b.pdf"
+
+[outer-dimensions]
+# Dimensions are estimated based on the instructions and template.
+width = 228.6
+depth = 76.2
+height = 152.4
