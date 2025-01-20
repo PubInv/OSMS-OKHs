@@ -1,0 +1,30 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "TSMMG-Clear-Mask-with-Nose-Contour"
+repo = "https://drive.google.com/drive/folders/1ZuSMS5BdKDVzNRueWjbsX40ibR6M6g4D?fbclid=IwAR3hj7X3IEGPtUoVIgWxOPbYTyR04gDtl2sQLGWwfLWgJm_zg5z7Yf7O6tU"
+license = "LicenseRef-NOASSERTION"
+licensor = "huchlee"
+function = "A window mask designed to stand away from the mouth with the use of symmetrical pleats and an expansive top section that conforms to the nose without a support wire. Non-toxic, laundurable TPU is used for the window, which is resource-linked within the pattern files."
+documentation-language = "en"
+organization = "Tri-State Mask Making Group"
+readme = "README.md"
+contribution-guide = "CONTRIBUTING.md"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A41D 13/11"
+tsdc = "MEC/ASM/etc." # Void if there is no valid licence. Possible values for the project listed here: https://gitlab.com/OSEGermany/oh-tsdc/-/blob/master/OH-TsDC.md?ref_type=heads.
+bom = "https://drive.google.com/file/d/1xg2ZdfyLvUDQ5Wd8uKl8CAzh-CjWuEdI/view?usp=sharing"
+manufacturing-instructions = [
+   "https://drive.google.com/file/d/1xg2ZdfyLvUDQ5Wd8uKl8CAzh-CjWuEdI/view?usp=sharing",
+   "https://drive.google.com/file/d/1RPTdvjn2YVsE4bi-H2qL4UGkMLXhTope/view?usp=sharing"
+]
+user-manual = "https://docs.google.com/document/d/1ZbOV8E_08NbH0JfM9qXaeLpEkaNe0aSJ/edit?usp=sharing&ouid=113657532722997069228&rtpof=true&sd=true"
+
+[outer-dimensions]
+# Estimated dimensions.
+width = 209.55
+depth = 50.8
+height = 101.6
