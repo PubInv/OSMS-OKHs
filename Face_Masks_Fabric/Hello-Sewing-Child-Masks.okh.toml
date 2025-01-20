@@ -35,18 +35,10 @@ manufacturing-instructions = [
    "https://youtu.be/LuqJ-T8lij4",
    "https://hellosewing.com/kids-face-mask-template/?fbclid=IwAR19sHzuef7QBVcyCVJxHxuYXHw-WBkY7mhmT1mmko5OwlR0hPwO4lX7qIs#INSTRUCTIONS"
 ]
-source = [
-     "main.scad",
-     "part_a.scad",
-     "part_b.scad",
-     "params.csv"
-     ]
-# Any mass always has to be in g (gramms)
-mass= 50330.0
 
 [outer-dimensions]
-# Any dimension value always has to be in [mm] (milli-meters). Need all 3.
-width = 400
-depth = 350
-height = 150
+# All estimated.
+width = 203.2
+depth = 25.4
+height = 152.4
 
