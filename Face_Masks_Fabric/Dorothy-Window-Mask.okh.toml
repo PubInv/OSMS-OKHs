@@ -1,0 +1,25 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Dorothy-Window-Mask"
+repo = "https://drive.google.com/drive/folders/1uSEpWVcWZbfyHYrfPdQHpHvfinr2b6u7"
+license = "LicenseRef-NOASSERTION"
+licensor = "Adaptive Design Association <info@adaptivedesign.org>"
+function = "Features a wide clear window allowing visibility for the entire bottom half of the face. Generous fabric top and side panels increase breathable surface area. The bottom fabric section is elasticized with a fabric chin spacer, which keeps the mask securely in place during facial movement."
+documentation-language = "en"
+organization = "Adaptive Design Association"
+readme = "https://drive.google.com/file/d/19BNPgCMaHWWZfo1CMQBjO2vzibA-MLfw/view?usp=sharing"
+image = "https://lh3.googleusercontent.com/a-/ALV-UjVgK0ZrBBAsIZvihHKIc_V0Ql72dUauEuyp2N7UFEfIS53XiJ1x=s272-p-k-rw-no"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A41D 13/11"
+# tsdc = "MEC/ASM/etc." 
+bom = "https://drive.google.com/file/d/1NXhEOY1WLYWn6zgYhcoFcl9Lc275FJ6g/view?usp=sharing"
+manufacturing-instructions = "https://drive.google.com/file/d/1NXhEOY1WLYWn6zgYhcoFcl9Lc275FJ6g/view?usp=sharing"
+source = [
+     "https://drive.google.com/file/d/1rYXZBw1vuEHbQPFrO8UDT1shVexS6B5x/view?usp=drive_link",
+     "https://drive.google.com/file/d/1uRfaQZD5QkG9B1yLC9gYX-vwH9GJN-2W/view?usp=drive_link",
+     "https://drive.google.com/file/d/1CTnxgOeuOGYnqzsO0fKGFdIu4Ci0pmjc/view?usp=drive_link"
+     ]
