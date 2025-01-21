@@ -1,0 +1,20 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Batwing-Facial-Covering"
+repo = "https://fabricmail.com/products/batwing-facial-covering?_pos=6&_sid=450f7395d&_ss=r"
+license = "LicenseRef-NOASSERTION"
+licensor = "Adrienne Azurin-Cain <https://www.youtube.com/@fabricmailsnc>"
+function = "As of February 2021, this is a hugely popular mask design for sewists and users. Sewists find this pattern particularly good for rapid production and users enjoy the mask comfort and coverage, which extends under the chin and requires minimal adjustments. Design link also includes a video tutorial."
+documentation-language = "en"
+organization = "Sweet N Charmed Fabric Mail LLC"
+contribution-guide = "https://fabricmail.com/products/batwing-facial-covering?_pos=6&_sid=450f7395d&_ss=r"
+image = "https://fabricmail.com/cdn/shop/files/watermark_final_275x.png?v=1613516643"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A41D 13/11"
+# tsdc = "MEC/ASM/etc." 
+manufacturing-instructions = "https://www.youtube.com/watch?v=ghcDmRBbxtw"
+source = "https://fabricmail.com/cdn/shop/products/Screenshot_20200819-232125_Drive_1024x1024.jpg?v=1597893729"
