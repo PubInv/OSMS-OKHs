@@ -1,0 +1,25 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "No-Sew_Bandana_Face_Mask_(Navajo_Language_instructions)"
+repo = "https://youtu.be/vbYHZTXBBsE"
+license = "LicenseRef-NOASSERTION"
+licensor = "Daybreak Warrior <digitalhunter79@gmail.com>"
+function = "The mask in this video is very similar to the No-Sew Pleated Face Mask design. English subtitles with Navajo audio. Fabric loops may be used in place of the hair ties. This design is for use by members of the general public only and is not suitable for healthcare workers; 100% cotton is recommended for this mask, as cotton blends will be difficult to breathe through when layered."
+documentation-language = [
+   "en",
+   "navajo"
+]
+organization = "Daybreak Warrior"
+readme = "https://youtu.be/vbYHZTXBBsE"
+contribution-guide = "https://youtu.be/vbYHZTXBBsE?t=138"
+image = "https://yt3.ggpht.com/H0caWzFmfbcNIafKLTTkcdL9vZznTjJJrnkQep7EAtZ0TKOHqnzo61W3EPYgUpsD9YUv8aM=s48-c-k-c0x00ffffff-no-rj"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A41D 13/11"
+# tsdc = "MEC/ASM/etc." 
+bom = "https://youtu.be/vbYHZTXBBsE?t=61"
+manufacturing-instructions = "https://youtu.be/vbYHZTXBBsE?t=73"
+user-manual = "https://youtu.be/vbYHZTXBBsE?t=123"
