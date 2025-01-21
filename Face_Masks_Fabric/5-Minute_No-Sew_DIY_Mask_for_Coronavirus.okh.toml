@@ -1,0 +1,31 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "5-Minute_No-Sew_DIY_Mask_for_Coronavirus"
+repo = "https://www.youtube.com/watch?v=Mr1o0X275jU"
+license = "LicenseRef-NOASSERTION"
+licensor = "Allison Li <https://www.youtube.com/@allisonli4744>"
+function = "This design is for use by members of the general public only and is not suitable for healthcare workers. 100% cotton is recommended for this mask, as cotton blends will be difficult to breathe through when double-layered. This variation has the advantage of creating a pocket that can hold additional filtration material."
+documentation-language = "en"
+organization = "Allison Li"
+readme = "https://youtu.be/Mr1o0X275jU"
+image = "https://yt3.ggpht.com/ytc/AIdro_miCWeZjOu2ppAUBwWhdk9FGEjEtKbm7A38iWl4VWdRMA=s48-c-k-c0x00ffffff-no-rj"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A41D 13/11"
+# tsdc = "MEC/ASM/etc." 
+bom = "https://youtu.be/Mr1o0X275jU?t=17"
+manufacturing-instructions = [
+   "https://imgur.com/9cgoJZ2",
+   "https://youtu.be/Mr1o0X275jU?t=72"
+]
+user-manual = "https://youtu.be/Mr1o0X275jU?t=143"
+source = "https://imgur.com/xKjbhKB"
+
+[outer-dimensions]
+# Depth guessed.
+width = 279.4
+depth = 6.35
+height = 127
