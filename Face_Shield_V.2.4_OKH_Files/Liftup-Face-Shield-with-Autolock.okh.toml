@@ -25,7 +25,8 @@ bom = "https://www.thingiverse.com/thing:4264137"
 source = [
      "https://cdn.thingiverse.com/assets/bf/ac/47/a6/ef/medium_preview_Liftup_Face_Shield_part1.png",
      "https://cdn.thingiverse.com/assets/d1/87/38/6d/c9/large_display_3x.png",
-     "https://www.thingiverse.com/thing:4264137/files"
+     "https://www.thingiverse.com/thing:4264137/files",
+     "https://www.thingiverse.com/download:7939532"
      ]
      
 # Not given by licensor.
