@@ -30,7 +30,21 @@ cpc-patent-class = "A41D 13/11"
 tsdc = "3DP" 
 bom = "https://www.thingiverse.com/thing:4329237#Materials%20Needed"
 manufacturing-instructions = "https://www.thingiverse.com/thing:4329237#Materials%20Needed"
-source = "https://www.thingiverse.com/thing:4329237/files"
+source = [
+   "https://www.thingiverse.com/thing:4329237/files",
+   "https://www.thingiverse.com/download:8203416",
+   "https://www.thingiverse.com/download:8216353",
+   "https://www.thingiverse.com/download:8203417",
+   "https://www.thingiverse.com/download:8216345",
+   "https://www.thingiverse.com/download:8216355",
+   "https://www.thingiverse.com/download:8216356",
+   "https://www.thingiverse.com/download:8216346",
+   "https://www.thingiverse.com/download:8216350",
+   "https://www.thingiverse.com/download:8216351",
+   "https://www.thingiverse.com/download:8216343",
+   "https://www.thingiverse.com/download:8216344",
+   "https://www.thingiverse.com/download:8216354"
+]
 
 # Not given by licensor.
 # [outer-dimensions]
