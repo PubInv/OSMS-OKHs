@@ -14,7 +14,8 @@ organization = "MakerBot Labs"
 image = [
   "https://cdn.thingiverse.com/assets/84/9b/78/a7/65/large_display_Covid19DentistFaceShieldBand.png",
   "https://cdn.thingiverse.com/assets/67/ee/81/1d/58/large_display_Covid19DentistFaceShieldBandFront.png",
-  "https://cdn.thingiverse.com/assets/89/38/83/a3/e3/large_display_comparisonCovidBands.jpg"
+  "https://cdn.thingiverse.com/assets/89/38/83/a3/e3/large_display_comparisonCovidBands.jpg",
+  "https://www.thingiverse.com/download:8097996"
 ]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-1"
