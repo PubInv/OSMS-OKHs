@@ -1,0 +1,35 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "RR-Prototype-V1"
+repo = "https://www.thingiverse.com/thing:4294554?fbclid=IwAR08BRcu0jHdCONOsYnOTaa3RQ-EBnKAircmBO7gMwxDkGlDzV5sM90P-ck"
+version = "1.0.0"
+license = "CC BY 4.0"
+licensor = "Robert Ryan <https://www.thingiverse.com/robertpryan/designs>"
+function = "PAPR powered air purifying respirator. Motor controller options include simple speed controllers or potentiometers. It has arduino-based pressure that is controlled using dual barometric pressure sensors (source code is open source as well)."
+documentation-language = "en"
+organization = "Thingiverse"
+readme = "https://www.thingiverse.com/thing:4294554"
+image = [
+  "https://cdn.thingiverse.com/assets/60/a8/da/dc/40/large_display_Hood.PNG",
+  "https://cdn.thingiverse.com/assets/30/84/db/50/f1/medium_preview_CrossSection.PNG",
+  "https://cdn.thingiverse.com/assets/5f/e0/47/82/13/medium_preview_Components_0.1.jpg",
+  "https://cdn.thingiverse.com/assets/5f/31/95/4e/20/medium_preview_PAPR1.PNG"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A62B 7/10"
+tsdc = "3DP" 
+bom = "https://docs.google.com/spreadsheets/d/1ahUs9ZtMGBLTzg7zXrzDuEUnemJ8hcCJofWkTrry1lw/edit?fbclid=IwAR39wX2A2me-MstNfQCSXvFG2bQjAyU5buC84gIEj_qkqlleBCkx2GAJRfw#gid=0"
+source = [
+   "https://www.thingiverse.com/thing:4294554/files",
+   "https://www.thingiverse.com/download:8092684",
+   "https://www.thingiverse.com/download:8092686",
+   "https://www.thingiverse.com/download:8092685",
+   "https://www.thingiverse.com/download:8092683",
+   "https://www.thingiverse.com/download:8092687",
+   "https://www.thingiverse.com/download:8092688"
+]
+
