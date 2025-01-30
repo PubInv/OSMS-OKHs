@@ -1,0 +1,30 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Elliot-Health-System-Disposable-Gown"
+repo = "https://www.youtube.com/watch?v=GuPh8U3Dilg"
+license = "LicenseRef-NOASSERTION"
+licensor = "Heidi Kukla <https://www.youtube.com/@hkukla1>"
+function = "Disposable gowns made from 7 mil (0.007”) plastic sheeting. Very little fabrication equipment needed."
+documentation-language = "en-US"
+organization = "Elliot Hospital"
+release = "https://www.youtube.com/watch?v=uDu2VDD2bC0"
+readme = "https://www.youtube.com/watch?v=uDu2VDD2bC0"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A41D 13/00"
+# tsdc = "MEC/ASM/etc." 
+bom = "https://snhhq.org/wp-content/uploads/2020/05/PPE-instructions.pdf"
+manufacturing-instructions = [
+   "https://snhhq.org/wp-content/uploads/2020/05/PPE-instructions.pdf",
+   "https://youtu.be/GuPh8U3Dilg?t=20"
+]
+user-manual = "https://youtu.be/GuPh8U3Dilg?t=91"
+
+[outer-dimensions]
+# Rough estimates based on material and info about the pattern.
+width = 203.2
+depth = 0.1778
+height = 304.8
