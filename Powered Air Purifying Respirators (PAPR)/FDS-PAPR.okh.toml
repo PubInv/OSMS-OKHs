@@ -1,0 +1,151 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "FDS-PAPR"
+repo = "https://github.com/nathanjds001/fdspapr"
+license = [
+   "GNU General Public License v3.0",
+   "CC BY-NC-SA 4.0"
+]
+licensor = "nathanjds001 <https://github.com/nathanjds001>"
+function = "Lightweight, personal PAPR with a low-decibel fan that allows functional speaking and hearing and ear access for stethoscope use. Easily the most impressive open-source PAPR yet, this design incorporates 3DP, simple electronics soldering and sewing for an intermediate-advanced build."
+documentation-language = "en"
+organization = "FDSPAPR"
+release = "https://github.com/nathanjds001/fdspapr/commit/157a071890830038deb9cf877a96d65a45007445"
+readme = "https://github.com/nathanjds001/fdspapr/blob/main/README.md"
+image = [
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/0.1%20Full%20PAPR.png?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/0.2%20Simple%20PAPR.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/0.3%20Components%20-%20Labelled.png?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/0.3%20Components.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/1.1%203D%20Parts.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/1.2%203D%20Parts.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/10.1%20Visor%20to%20Hood.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/10.2%20Visor%20to%20Hood.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/11.1%20Stitch%20Folds%20and%20Visor.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/11.2%20Stitch%20Folds%20and%20Visor.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/11.3%20Stitch%20Folds%20and%20Visor.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/11.4%20Stitch%20Folds%20and%20Visor.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/11.5%20Stitch%20Folds%20and%20Visor.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/12.0%20Thread%20Elastic.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/12.1%20Thread%20Elastic.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/12.2%20Thread%20Elastic.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/12.3%20Thread%20Elastic.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/12.5%20Thread%20Elastic.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/13.1%20Outlet%20Filter.png?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/13.2%20Outlet%20Filter.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/13.3%20Outlet%20Filter.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/14.%20Hood%20top.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/15.1%20Bundle%20Top.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/15.2%20Bundle%20Top.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/15.3%20Turn%20inside%20out.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/15.4%20Turn%20Inside%20out.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/16.1%20Hood%20to%20Housing.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/16.2%20Hood%20to%20Housing.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/16.3%20Hood%20to%20Housing.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/17.1%20Hood%20Attached.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/2.0%20Circuit%20Diagram.png?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/2.0%20Component%20Layout.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/2.1%20Fan%20Control%20Circuit%20-%20Labelled.png?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/2.1%20Fan%20Control%20Circuit.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/2.2%20Fan%20Control%20Circuit.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/2.3%20Fan%20Control%20Circuit%20-%20Labelled.png?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/2.3%20Fan%20Control%20Circuit.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/2.4%20Power%20Off%20Warning%20Circuit.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/2.5%20Power%20Off%20Warning%20Circuit%20-%20Labelled.png?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/2.5%20Power%20Off%20Warning%20Circuit.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/2.6%20Power%20Connections%20-%20Labelled%20New.png?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/2.6%20Power%20Connections%20-%20Labelled.png?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/2.6%20Power%20Connections%20USB%20Cable.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/2.6%20Power%20Connections.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/2.7%20Close%20Lid%20-%20Labelled.png?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/2.7%20Close%20Lid.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/3.1%20Inlet%20Filter%20Fixed.png?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/3.2%20Inlet%20Filter%20Fixed.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/3.2%20Inlet%20Filter.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/4.1%20Foam.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/4.2%20Foam.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/5.1%20Headstrap.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/5.2%20Headstrap.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/5.3%20Headstrap.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/6.1%20Visor.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/6.2%20Visor.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/6.3%20Visor.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/6.4%20Visor.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/6.5%20Visor.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/6.6%20Visor.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/6.7%20Visor.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/7.1%20Hood%20Template.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/7.2%20Hood%20Template.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/7.3%20Hood%20Template.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/8.1%20Hood%20folds.png?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/8.2%20Hood%20Folds.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/9.1%20Arch.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/9.2%20Arch.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/9.3%20Arch.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/9.4%20Arch.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/9.5%20Arch.jpg?raw=true",
+   "https://github.com/nathanjds001/fdspapr/blob/main/src/instructables_pictures/9.6%20All%20Folds%20with%20tape.png?raw=true"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A62B 7/10"
+tsdc = "3DP" 
+bom = "https://content.instructables.com/FY1/D2CG/LHNFGDVY/FY1D2CGLHNFGDVY.pdf"
+manufacturing-instructions = "https://www.instructables.com/DIY-Powered-Air-Purifying-Respirator-PAPR/"
+source = [
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/cad/STEP_Files/4020%20Blower%20Fan%20Funnel.STEP",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/cad/STEP_Files/Filter%20cap.STEP",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/cad/STEP_Files/Filter%20ring.STEP",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/cad/STEP_Files/Housing.STEP",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/cad/STEP_Files/Lid.STEP",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/cad/STEP_Files/Vent%20bottom.STEP",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/cad/STEP_Files/Vent%20top.STEP",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/cad/Solidworks_Files/1.%20Face%20Shield%20Assembly.SLDASM",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/cad/Solidworks_Files/4020%20Blower%20Fan%20Funnel.SLDPRT",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/cad/Solidworks_Files/4020%20Blower%20Fan.SLDPRT",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/cad/Solidworks_Files/Filter%20cap.SLDPRT",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/cad/Solidworks_Files/Filter%20ring.SLDPRT",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/cad/Solidworks_Files/Housing.SLDPRT",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/cad/Solidworks_Files/LED_D5.0mm_CLEAR.SLDPRT",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/cad/Solidworks_Files/Lid.SLDPRT",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/cad/Solidworks_Files/Loupe.SLDPRT",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/cad/Solidworks_Files/Plastic%20Shield.SLDPRT",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/cad/Solidworks_Files/Pot%20knob.SLDPRT",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/cad/Solidworks_Files/Pot.SLDPRT",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/cad/Solidworks_Files/Vent%20bottom.SLDPRT",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/cad/Solidworks_Files/Vent%20top.SLDPRT",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/cad_pictures/Assembly%20Screenshot%20white%20bg%202.jpg",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/cad_pictures/Assembly%20Screenshot%20white%20bg.jpg",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/cad_pictures/Assembly%20exploded%20view%20screenshot.jpg",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/cad_pictures/Assembly%20screenshot.jpg",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/cad_pictures/Filter%20Cap.jpg",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/cad_pictures/Filter%20ring.jpg",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/cad_pictures/Housing.jpg",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/cad_pictures/Lid.jpg",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/cad_pictures/Vent%20bottom.jpg",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/cad_pictures/Vent%20top.jpg",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/printable_templates/Arch_Support_Template_mm.pdf",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/printable_templates/Arch_Support_Template_mm.pub",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/printable_templates/Hood_Fold_Template_mm.pdf",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/printable_templates/Hood_Fold_Template_mm.pub",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/printable_templates/Hood_Outline_Template_mm.pdf",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/printable_templates/Hood_Outline_Template_mm.pub",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/printable_templates/Visor_Template_mm.pdf",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/printable_templates/Visor_Template_mm.pub",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/stl/4020_Blower_Fan_Funnel_Adaptor.STL",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/stl/Housing.STL",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/stl/Housing_Lid.STL",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/stl/Inlet_Filter_Cap.STL",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/stl/Inlet_Filter_Ring.STL",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/stl/Outlet_Filter_Base.STL",
+  "https://github.com/nathanjds001/fdspapr/blob/main/src/stl/Outlet_Filter_Cap.STL"
+]
+
+[outer-dimensions]
+# Estimated based roughly on templates.
+width = 275
+depth = 320
+height = 180
