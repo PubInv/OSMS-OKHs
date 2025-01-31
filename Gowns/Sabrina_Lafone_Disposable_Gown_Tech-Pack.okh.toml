@@ -1,0 +1,28 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Sabrina_Lafone_Disposable_Gown_Tech-Pack"
+repo = "https://drive.google.com/drive/folders/11cCivlndHEprOTOcdcpswAFmmX8DlMAN?usp=sharing"
+license = "Fair Use Copyright"
+licensor = "Sabrina Lafone <hello@sabrinalafon.com>"
+function = "Pattern and instructions for a single-use disposable gown. Note that wrist elastic binding is optional, a thumbhole could be constructed there as an alternative. When using binding for the neck and belt, make sure it is the same weight as the rest of the gown material, e.g. don’t use a washable cotton binding for a disposable polypropylene gown."
+documentation-language = [
+   "en",
+   "fr"
+]
+organization = "Fondation de France"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A41D 13/00"
+# tsdc = "MEC/ASM/etc." 
+bom = "https://drive.google.com/file/d/11mkCk6PwenboEobiInvYybO5CjGmtb31/view?usp=sharing"
+manufacturing-instructions = "https://drive.google.com/file/d/11mkCk6PwenboEobiInvYybO5CjGmtb31/view?usp=sharing"
+source = "https://drive.google.com/file/d/11hc934lNcBQxiqWG2oDRG81F_knwku77/view?usp=sharing"
+
+[outer-dimensions]
+# Depth estimated.
+width = 1770
+depth = 2.5
+height = 1080
