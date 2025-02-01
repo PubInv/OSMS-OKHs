@@ -1,0 +1,42 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Something-Labs-Impermeable-Gown"
+repo = "https://drive.google.com/drive/folders/1Ru_9RBYsmFNV6vcSD15HPQwzRf03KuJH"
+version = "1"
+license = "LicenseRef-NOASSERTION"
+licensor = "Something Labs <hello@somethinglabs.org>"
+function = "Heat-sealed design featuring 2 mil (0.002”) plastic sheeting. Check with your facility for gown folding and packaging preferences."
+documentation-language = "en-US"
+organization = "Something Labs"
+image = [
+  "https://drive.google.com/file/d/1HNyjrZX0AuuGSt9_2xWaqNeKNZ5kAYdN/view?usp=sharing",
+  "https://drive.google.com/file/d/14wc9ev7CHCKI3zvrxT5SxzNJ8RKYTWax/view?usp=sharing",
+  "https://drive.google.com/file/d/1EbchjDbc8TbdnyQuaXmEv9hOHZDZlgW7/view?usp=sharing",
+  "https://drive.google.com/file/d/1Ge170sQz9N-9qNDEpuLs852zhIwxg_01/view?usp=sharing"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A41D 13/00"
+# tsdc = "MEC/ASM/etc." 
+bom = "https://drive.google.com/file/d/1O7uSswDCUNAwlKEGhsx_kV7dZL7wMGQy/view?usp=sharing"
+manufacturing-instructions = "https://drive.google.com/file/d/1O7uSswDCUNAwlKEGhsx_kV7dZL7wMGQy/view?usp=sharing"
+user-manual = "https://drive.google.com/file/d/1LRAzrsqACKOG7nFUZSe0qs3KS_DSAfFz/view?usp=sharing"
+source = [
+     "https://drive.google.com/file/d/1oBEBQQmjcQKYn3IatM6ccAl_46_EAmpF/view?usp=sharing",
+     "https://drive.google.com/file/d/1BNjakLfDwssASG9ps-FYvY0KQW1F9bkk/view?usp=sharing",
+     "https://drive.google.com/file/d/16g5Vaquv7kIXP5P7nWUDuOK3m_OXKg2U/view?usp=sharing",
+     "https://drive.google.com/file/d/1HKL3U5nv1xaBSOIHoDBaAP0_ONTCTDdh/view?usp=sharing",
+     "https://drive.google.com/file/d/197qTge4x2vcgT6pZqKRyW_E7VdsDIuMB/view?usp=sharing",
+     "https://drive.google.com/file/d/1gKQPqWkoWd4cEE-Bjn2S8yVY5Jrzsayk/view?usp=sharing",
+     "https://drive.google.com/file/d/14UyrtShp0CADy-jKN2H2SFnh5jmKyZDi/view?usp=sharing",
+     "https://drive.google.com/file/d/1I_Aw-gAZ1Ika9q1c8fc9VPcgszPUwrue/view?usp=sharing",
+     "https://drive.google.com/file/d/1N_-0Rw20ywC-oAfEJaEB1SLA99iBqqZ8/view?usp=sharing",
+     "https://drive.google.com/file/d/1fDNrJVAyKsS2fFqfuTMCA1kNlil7sdAV/view?usp=sharing",
+     "https://drive.google.com/file/d/1vGt1o718tgYr9sh-gVR1IqKvOumoOJOT/view?usp=sharing",
+     "https://drive.google.com/file/d/1zuVm-KqELFp8rVAowilY8cmtjg_tsstp/view?usp=sharing",
+     "https://drive.google.com/file/d/10nfiE254TDQsgomgR5iA2vz-Pz4tULIl/view?usp=sharing",
+     "https://drive.google.com/file/d/14Ri0HzIBxn7Wzlhx77Dm1B7-SQlbg3kD/view?usp=sharing"
+     ]
