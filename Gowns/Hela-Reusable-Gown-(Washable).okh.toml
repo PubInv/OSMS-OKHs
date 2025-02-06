@@ -1,0 +1,85 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Hela-Reusable-Gown-(Washable)"
+repo = "https://docs.google.com/drawings/d/1wQigqaUywnTXg62eFRUVNCysCy9JsMeyxY-lpR8TW80/edit"
+license = "LicenseRef-NOASSERTION"
+licensor = "Sarah Miller <sarahlouisamiller@gmail.co>"
+function = "This pattern is intended for a reusable gown with plastic-based fabric and heat bonded seams, or a sewn, washable gown made from polyester or nylon fabric with DWR (durable water repellent) treatment. The construction includes neck and waist ties which makes production a bit slower compared to the Hela Disposable Gown. Neck and waist ties should always be the same grade of fabric as the gown material itself."
+documentation-language = "en"
+organization = "Hela"
+readme = "https://docs.google.com/drawings/d/1wQigqaUywnTXg62eFRUVNCysCy9JsMeyxY-lpR8TW80/edit"
+image = [
+  "https://drive.google.com/file/d/13WKiEpcXGoBZnTH2cykyLMANcmrTaaDL/view?usp=sharing",
+  "https://drive.google.com/file/d/1ESr0X7dB_yQbkvrXH2Ly_8uE2pkYdEuk/view?usp=sharing",
+  "https://drive.google.com/file/d/1BbLOnLGbTcyatAmIgCfpuwblQHRYLnKl/view?usp=sharing",
+  "https://drive.google.com/file/d/1s2hm6mQ9eMInN4BbVsKU6lDYRWc5UN_e/view?usp=sharing",
+  "https://drive.google.com/file/d/1LJ0anGVCKdKlrgtVTNhW8YRFfvctm_Uq/view?usp=sharing",
+  "https://drive.google.com/file/d/1LJ0anGVCKdKlrgtVTNhW8YRFfvctm_Uq/view?usp=sharing",
+  "https://drive.google.com/file/d/1nk9XJBUrp9u-gD0Z-acVvTl92aHfpAmb/view?usp=sharing",
+  "https://drive.google.com/file/d/1ckIVDYo0A3Px3mV9qtKDY398HemyMe2h/view?usp=sharing",
+  "https://drive.google.com/file/d/16-f2eV7Dki_KvHTWQe5qR9UQQNPNEXJO/view?usp=sharing",
+  "https://drive.google.com/file/d/1TQVkVFhhIGhjU-mbNpcwL9O2Zx8bNf_6/view?usp=sharing",
+  "https://drive.google.com/file/d/11xEZP1zug-xiu5leOFGq5viLkEZM1AgX/view?usp=sharing",
+  "https://drive.google.com/file/d/1TAbfew8Qv-P05toChLZ7Uz2BGoyIB5Lb/view?usp=sharing",
+  "https://drive.google.com/file/d/1z9Df3sjpV2jlfw-0IjzwZ-wDBSslqFUZ/view?usp=sharing",
+  "https://drive.google.com/file/d/1EXJ3F3_LgjybXhDrP9YCRmtRpGN7xU0o/view?usp=sharing",
+  "https://drive.google.com/file/d/1lFaMqNIpMRgMwA2Xq9DV1MjbguExtuoi/view?usp=sharing",
+  "https://drive.google.com/file/d/1mJ1u5eleSnwnkI-l7OfBJgri-IptAFfs/view?usp=sharing",
+  "https://drive.google.com/file/d/1kUg7Bsc2gZL8cpZhxxza3PHegupV-hLL/view?usp=sharing",
+  "https://drive.google.com/file/d/1LtchDtiU8Ns4oJ9vByz28L0lxsz0lz8G/view?usp=sharing",
+  "https://drive.google.com/file/d/1NfVOnxS3h4l5SRJXJnB7EvzdHajvPko-/view?usp=sharing",
+  "https://drive.google.com/file/d/1GHOeIP47khrhA7nN4SJRKPImsNXrBgwq/view?usp=sharing",
+  "https://drive.google.com/file/d/1Ti_U5Dzkhi10dLKAvT35LI2uML60sRfj/view?usp=sharing",
+  "https://drive.google.com/file/d/1_cQQYLwyzKriCAa59juYyOh3sy1r61Ap/view?usp=sharing",
+  "https://drive.google.com/file/d/1lNACfPkiD2za4TDn3hr05OXg6MDOyJD0/view?usp=sharing",
+  "https://drive.google.com/file/d/1o_QMAvx5rLq1RXOVDF2pycIY-zhmbwMg/view?usp=sharing"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A41D 13/00"
+# tsdc = "MEC/ASM/etc." 
+bom = "https://docs.google.com/drawings/d/1wQigqaUywnTXg62eFRUVNCysCy9JsMeyxY-lpR8TW80/edit"
+manufacturing-instructions = "https://drive.google.com/drive/folders/1IVvPdErtFJ5lEsiefT_oVB4YW2BKjXMP"
+source = [
+     "https://drive.google.com/file/d/11CvSgDL7aFXO-IP46sKFjMNzi1NCQ4rS/view?usp=sharing",
+     "https://drive.google.com/file/d/1FnwVNFD86wna4a02LBzC7MCwSB0j1XNe/view?usp=sharing",
+     "https://drive.google.com/file/d/1i135xuR8_jZML8p-g8WugwAEKi3HQJ2w/view?usp=sharing",
+     "https://drive.google.com/file/d/1ZhvGk7B4Ma4VVfBKxGMbijJ6dRwzLb0t/view?usp=sharing",
+     # XL Size
+     "https://drive.google.com/file/d/1UvFZbrS2f4EuJRJUpe57RldpgMKmpvA7/view?usp=sharing",
+     "https://drive.google.com/file/d/1pb9jeAHjdhiYUA3GxOYzD-yeoTrB8bVL/view?usp=sharing",
+     "https://drive.google.com/file/d/1pxVx1Jv78_1WCcbKYDPD3wplzS7ehPl4/view?usp=sharing",
+     "https://drive.google.com/file/d/1GppcqYeDCoI0xPhq8RlKP1XnroKxDMfi/view?usp=sharing",
+     "https://drive.google.com/file/d/1nL6ZYIY8F86FiPnSYdkYIkjG6RT3jQQN/view?usp=sharing",
+     "https://drive.google.com/file/d/1pVt1OqKE7syHOYZ7yjP2aslFQJ1nrJUX/view?usp=sharing",
+     "https://drive.google.com/file/d/1q5PazZoGOBS7HYiNVlRnwgEoazvrLTyP/view?usp=sharing",
+     "https://drive.google.com/file/d/13WYl3xt0d2MJGNQvhThjbDmul-Ol05pm/view?usp=sharing",
+     "https://drive.google.com/file/d/1jNIzoYmhO2j7EoDZYGFCSHx5r98Q5e9R/view?usp=sharing",
+     "https://drive.google.com/file/d/1Ma6fkRb3xNsnl6sD5TcDe8wafpK3OuNF/view?usp=sharing",
+     "https://drive.google.com/file/d/1PB_yVCsNscbrDJIZ-aIxwOJfmcjBwqdW/view?usp=sharing",
+     "https://drive.google.com/file/d/1vszLl_15C3Nd5kzX3voW1LCImOhn-jcH/view?usp=sharing",
+     "https://drive.google.com/file/d/1GVUASRXLqriBIX1k9q9QI9sb4_58xcmV/view?usp=sharing",
+     # Medium Size
+     "https://drive.google.com/file/d/1QnJqBlwsN8NwTRzwgkWi-5L2O1ykM-GI/view?usp=sharing",
+     "https://drive.google.com/file/d/1oWTzKNYRFq5F-WSaCQ-eIlqbgU37FAvg/view?usp=sharing",
+     "https://drive.google.com/file/d/1k1MJa0n3LgUjB3dTpyYDp42ODvLvcj5m/view?usp=sharing",
+     "https://drive.google.com/file/d/1gQf5HzBpNiMkDDo7h65-NIJRMrWu2VMy/view?usp=sharing",
+     "https://drive.google.com/file/d/17uhvW5Qtnxwtu89Qfl412l1tzTs-rJM8/view?usp=sharing",
+     "https://drive.google.com/file/d/1zP2pZvOIMfemMmtrhHmT7QUJgydpd1Rr/view?usp=sharing",
+     "https://drive.google.com/file/d/1eB_iSltNXx9381Yq_dImroSZMZilrAxo/view?usp=sharing",
+     "https://drive.google.com/file/d/1YG7gnDpUX9uzUGsvcCj4syIhT35Q4sQ3/view?usp=sharing",
+     "https://drive.google.com/file/d/1-ovKpxb0rOREKyGCZCjKaE1-CIJzxzx7/view?usp=sharing",
+     "https://drive.google.com/file/d/1rHuZVqLLdry7HOOF9PB94SoXE4yhNFQo/view?usp=sharing",
+     "https://drive.google.com/file/d/1MIf9U6dql68_ryoYljckmEflrseZ64b8/view?usp=sharing",
+     "https://drive.google.com/file/d/1efs2F-21IhYayWXFaOat2xBUHgXWkHtB/view?usp=sharing",
+     "https://drive.google.com/file/d/10fAg6HUZuOEdhwfr__XAfOYgFY5b7oya/view?usp=sharing"
+]
+
+[outer-dimensions]
+# XL Size 
+width = 2171.7
+depth = 17.8
+height = 1524
