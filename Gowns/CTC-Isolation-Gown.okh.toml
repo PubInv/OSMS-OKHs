@@ -1,0 +1,44 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "CTC-Isolation-Gown"
+repo = "https://wikifactory.com/+ctc/ctc-isolation-gown"
+license = "BY-NC-SA 4.0"
+licensor = "Dries Verbruggen <https://wikifactory.com/@driesverbruggen>"
+function = "Project files include patterns for industrial and home sewing. This design has an unfinished cuff, with the intention that the end user will modify it to facility needs using a knit fabric cuff or elastic casing (if making a washable gown) or a thumbhole (if making a disposable gown)."
+documentation-language = [
+   "en",
+   "nl"
+]
+organization = "Creatives tegen Corona"
+release = "https://wikifactory.com/+ctc/ctc-isolation-gown/contributions/35eec5d"
+readme = [
+   "https://wikifactory.com/+ctc/ctc-isolation-gown/file/README.md",
+   "https://wikifactory.com/+ctc/ctc-isolation-gown/file/NEDERLANDS%20Patroon%20%26%20Handleiding/README.md"
+]
+image = [
+  "https://res.cloudinary.com/dbshcjrt3/image/upload/w_1480,h_986,c_fill,g_auto,q_auto/wikifactory-prod-uploads/41061/apronfrontbackyelloillu.jpg",
+  "https://wikifactory.com/files/RmlsZTozMjU0NDY=",
+  "https://wikifactory.com/files/RmlsZTozMjU0NDk=",
+  "https://wikifactory.com/files/RmlsZTozMjU0NDU="
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A41D 13/00"
+tsdc = "ASM" 
+bom = "https://wikifactory.com/+ctc/ctc-isolation-gown"
+manufacturing-instructions = [
+   "https://wikifactory.com/+ctc/ctc-isolation-gown/file/ENGLISH%20Pattern%20%26%20Manual/Gown%20Manual.pdf",
+   "https://wikifactory.com/+ctc/ctc-isolation-gown/file/NEDERLANDS%20Patroon%20%26%20Handleiding/handleiding.pdf"
+]
+source = [
+     "https://wikifactory.com/+ctc/ctc-isolation-gown/file/Digital%20Pattern%20for%20Industrial%20Use/CTC-Apron_v1.dxf",
+     "https://wikifactory.com/+ctc/ctc-isolation-gown/file/Digital%20Pattern%20for%20Industrial%20Use/CTC-Apron_v1.rul",
+     "https://wikifactory.com/+ctc/ctc-isolation-gown/file/ENGLISH%20Pattern%20%26%20Manual/Gown%20pattern_841mm%20format.pdf",
+     "https://wikifactory.com/+ctc/ctc-isolation-gown/file/ENGLISH%20Pattern%20%26%20Manual/Gown%20Pattern_A0%20format.pdf",
+     "https://wikifactory.com/+ctc/ctc-isolation-gown/file/NEDERLANDS%20Patroon%20%26%20Handleiding/Patronen/Schort%20patroon_841mm%20formaat.pdf",
+     "https://wikifactory.com/+ctc/ctc-isolation-gown/file/NEDERLANDS%20Patroon%20%26%20Handleiding/Patronen/Schort%20patroon_A0%20formaat.pdf",
+     "https://wikifactory.com/+ctc/ctc-isolation-gown/file/NEDERLANDS%20Patroon%20%26%20Handleiding/Patronen/Schort%20patroon_A4%20formaat.pdf"
+]
