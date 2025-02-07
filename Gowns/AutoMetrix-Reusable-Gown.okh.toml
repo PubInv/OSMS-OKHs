@@ -1,0 +1,31 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "AutoMetrix-Reusable-Gown"
+repo = "https://drive.google.com/drive/u/1/folders/1h2qLlV9OPSbOTj3BUYJnWdyMOK-qAol5"
+license = "LicenseRef-NOASSERTION"
+licensor = "Autometrix <support@autometrix.com>"
+function = "Note the waist tie positioning which is different from most gown patterns. This may provide better wearability."
+documentation-language = "en"
+organization = "Autometrix"
+readme = "https://autometrix.com/ppe/"
+image = "https://i0.wp.com/autometrix.com/wp-content/uploads/2023/09/Autometrix_Logo_G-W1.png?w=641&ssl=1"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A41D 13/00"
+# tsdc = "MEC/ASM/etc." 
+bom = "https://autometrix.com/ppe/"
+source = [
+     "https://drive.google.com/file/d/19ypBJKeGNYWZ9H1zuWnUg6r_DrMsTGWh/view?usp=sharing",
+     "https://drive.google.com/file/d/1QIEKQhbvJt9GMH7jo3l-mkRNmnpmJBec/view?usp=sharing",
+     "https://drive.google.com/file/d/1a-ggzzRRNxm1TsMg4n7Z2zc00lq0bfcF/view?usp=sharing",
+     "https://drive.google.com/file/d/1i_cqriGGIq7lPp4QGfhfjWAGg7Wvji2f/view?usp=sharing"
+     ]
+
+[outer-dimensions]
+# Depth estimated.
+width = 1996.44
+depth = 17.78
+height = 1201.166
