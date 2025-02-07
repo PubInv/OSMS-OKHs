@@ -1,0 +1,34 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "LMAG-Reusable-Gown-(Raglan-sleeve-files)"
+repo = "https://drive.google.com/drive/folders/1KDnzI0eZvRh6eTzourbCW6AY1b9YioKe?usp=sharing"
+version = "1.0.0"
+license = "LicenseRef-NOASSERTION"
+licensor = "LMAG <https://www.linkedin.com/company/luxurymensapparelgroup/people/>"
+function = "Montreal-based design for high-scale, high-speed gown production. 200,000 reusable gowns have been made using this pattern."
+documentation-language = "en"
+organization = "Luxury Men's Apparel Group"
+readme = "https://docs.google.com/presentation/d/12uj3bCugSUNHekStDyfMvfGHe9wVN6kAbxIIvWg7TCI/edit#slide=id.g980c403701_0_0"
+image = [
+  # logo
+  "https://drive.google.com/file/d/11CM6r9uq9zEkbPxjo9SYOQnqCCbg1N_n/view?usp=sharing",
+  # product-photo
+  "imgs/yyy.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A41D 13/00"
+# tsdc = "MEC/ASM/etc." 
+bom = "https://docs.google.com/presentation/d/12uj3bCugSUNHekStDyfMvfGHe9wVN6kAbxIIvWg7TCI/edit#slide=id.g980c403701_0_0"
+manufacturing-instructions = "https://docs.google.com/presentation/d/12uj3bCugSUNHekStDyfMvfGHe9wVN6kAbxIIvWg7TCI/edit#slide=id.g980c403701_0_0"
+source = [
+     "https://drive.google.com/file/d/1DNxkCHYy8RdLhtwXJkzD7VvEf6qUXqGA/view?usp=sharing",
+     "https://drive.google.com/file/d/1v0riinFYrpTfOqb1G1x0DJhomkutnii-/view?usp=sharing",
+     "https://drive.google.com/file/d/1sHEvM_nAQmW1IW1VXII6OYzwFcUXkjHH/view?usp=sharing",
+     "https://drive.google.com/file/d/1EIwR8cdcHGCLcUFf36_E3gzflozvr6PC/view?usp=sharing",
+     "https://drive.google.com/file/d/1y9rIHJZUQq6EFqmrlqHjoRwNBpUkc4_B/view?usp=sharing",
+     "https://drive.google.com/file/d/130fdXEjo6BHJMmr7cXuudS0XSegLEBqj/view?usp=sharing"
+     ]
