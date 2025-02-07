@@ -1,0 +1,32 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Peekaboo-Pattern:-Isolation-Style-Gown"
+repo = "https://drive.google.com/drive/folders/107ja6PRcwgyMkOQSSC6FMYwMvF1qysME"
+license = "LicenseRef-NOASSERTION"
+licensor = "Peek-a-Boo Pattern Shop <support@peekaboopatternshop.com>"
+function = "Due to the level of sewing and addition of wrist cuffs, this pattern is best used for washable isolation gowns. With cotton-weight fabric, it could be used for a patient hospital gown. With ripstop nylon or woven polyester washable fabric, it could make a reusable isolation gown for staff (see customer notes in the first link)."
+documentation-language = "en"
+organization = "Peek-a-Boo Pattern Shop"
+readme = "https://www.peekaboopatternshop.com/isolation-gown/"
+image = [
+  # logo
+  "https://cdn11.bigcommerce.com/s-m91f4azz/images/stencil/250x100/pab_teal_border_1520879748__69855.original.png",
+  # product-photo
+  "https://cdn11.bigcommerce.com/s-m91f4azz/images/stencil/1280x1280/products/5460/24420/Isolationg_gown_cover-01__29510.1584907737.jpg?c=2",
+  "https://cdn11.bigcommerce.com/s-m91f4azz/images/stencil/original/products/5460/24422/90792531_10217885167615718_7869761691351777280_o__98509.1585175982.jpg?c=2",
+  "https://cdn11.bigcommerce.com/s-m91f4azz/images/stencil/original/products/5460/24423/91323747_10217885165535666_430378589465083904_n__80468.1585175982.jpg?c=2"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A41D 13/00"
+# tsdc = "MEC/ASM/etc." 
+bom = "https://cdn11.bigcommerce.com/s-m91f4azz/images/stencil/1280x1280/products/5460/24421/Isolation_Gown_size_chart__16575.1584907655.jpg?c=2"
+manufacturing-instructions = "https://drive.google.com/file/d/10B3EUkA7a1S4Huils21-7BSPmpXRaXmF/view?usp=sharing"
+source = [
+     "https://drive.google.com/file/d/10FSmerzCUL9TA1zw0HwjDOSX07uRagSu/view?usp=sharing",
+     "https://drive.google.com/file/d/15-Dd9p3EG8UBKDv6JKhFCleyF5oPbtTr/view?usp=sharing"
+]
+     
