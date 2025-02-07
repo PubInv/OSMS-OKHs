@@ -1,0 +1,23 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Artisan’s-Asylum-Reusable-Gown-Prototype"
+repo = "https://drive.google.com/drive/u/1/folders/1bDvQRakFUvFEsqsF_s1OA5BxQFvdKG_s"
+license = "LicenseRef-NOASSERTION"
+# This is the email from their website.
+licensor = "Artisan's Asylum <https://www.artisansasylum.com/front-desk@artisansasylum.com>"
+function = "Note the unique keyhole shape of the neck opening. This reduces cutting and fabric waste."
+documentation-language = "en"
+organization = "Artisan's Asylum"
+image = "https://images.squarespace-cdn.com/content/v1/62f3f735b06b0e5b96d077f4/c45a8a32-21c5-41b8-a070-bd00fb2e747b/artisans_logo_rgb+%281%29.png?format=1500w"
+technology-readiness-level = "OTRL-1"
+documentation-readiness-level = "ODRL-1"
+cpc-patent-class = "A41D 13/00"
+# tsdc = "MEC/ASM/etc." 
+source = [
+     "https://drive.google.com/file/d/17PGK4cjjA_BC-LsGjTqwFifsWY5b6EL2/view?usp=sharing",
+     "https://drive.google.com/file/d/17FIauQh3NiR8IC26kJTx7txlIYHSHPvP/view?usp=sharing",
+     "https://drive.google.com/file/d/17FIauQh3NiR8IC26kJTx7txlIYHSHPvP/view?usp=sharing"
+     ]
