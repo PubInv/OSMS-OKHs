@@ -1,1 +1,59 @@
 
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "MIT-Intubation-Station"
+repo = "https://gitlab.cba.mit.edu/zfredin/intubation-station"
+version = "2.0.0"
+license = "LicenseRef-NOASSERTION"
+licensor = "Zach Fredin <https://gitlab.cba.mit.edu/zfredin>"
+function = "Has side ports; partially closed on the open side. May NOT meet EUA Guidance due to large sections being opaque."
+documentation-language = "en-US"
+organization = "Massachusetts Institute of Technology"
+release = "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/commit/fe97d9ff40f75992f4e455597f55174523a81eeb"
+readme = "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/README.md?ref_type=heads"
+image = [
+  "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/img/achi_lobby.jpg?ref_type=heads",
+  "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/img/aerosolbox.jpg?ref_type=heads",
+  "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/img/assyv3.png?ref_type=heads",
+  "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/img/box.jpeg?ref_type=heads",
+  "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/img/busysheet.jpeg?ref_type=heads",
+  "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/img/clip1.gif?ref_type=heads",
+  "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/img/dual.gif?ref_type=heads",
+  "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/img/intubation-station_durability.mp4?ref_type=heads",
+  "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/img/intubation-station_prototype_1.jpg?ref_type=heads",
+  "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/img/intubation-station_prototype_2.jpg?ref_type=heads",
+  "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/img/intubation-station_prototype_3.jpg?ref_type=heads",
+  "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/img/intubation-station_prototype_4.jpg?ref_type=heads",
+  "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/img/mockupv3.jpeg?ref_type=heads",
+  "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/img/new_clips.png?ref_type=heads",
+  "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/img/new_latch.jpg?ref_type=heads",
+  "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/img/option3.jpeg?ref_type=heads",
+  "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/img/shieldetail.jpeg?ref_type=heads",
+  "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/img/shieldv3.png?ref_type=heads",
+  "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/img/simp.png?ref_type=heads"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A41D 13/00"
+# tsdc = "MEC/ASM/etc." 
+manufacturing-instructions = "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/tree/master?ref_type=heads"
+source = [
+     "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/img/.DS_Store?ref_type=heads",
+     "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/model/.DS_Store?ref_type=heads",
+     # V1
+     "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/model/v1/intubation-station_back.dxf?ref_type=heads",
+     "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/model/v1/intubation-station_front.dxf?ref_type=heads",
+     "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/model/v1/intubation-station_shield.dxf?ref_type=heads",
+     "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/model/v1/intubation-station_side.dxf?ref_type=heads",
+     "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/model/v1/intubation-station_v0-1.step?ref_type=heads",
+     # V2
+     "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/model/v2/Back_Int_Box.dxf?ref_type=heads",
+     "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/model/v2/Basic_Milling_Array.dxf?ref_type=heads",
+     "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/model/v2/Front_Int_Box.dxf?ref_type=heads",
+     "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/model/v2/Intubation%20Box%20Base%20Design%20v2.step?ref_type=heads",
+     "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/model/v2/Shield_Int_Box.dxf?ref_type=heads",
+     "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/model/v2/Sides_Int_Box.dxf?ref_type=heads"
+]
