@@ -1,0 +1,50 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Tukatech-Protective-Suit"
+repo = "https://drive.google.com/drive/folders/1LBj_AuRK3sdh7SMmZpYEb53OweWuaRUX?usp=sharing"
+license = "LicenseRef-NOASSERTION"
+licensor = "Kimly <kimly@opensourcemedicals>"
+function = "Multi-size patterns for hooded protective suits. Consider finishing the wrist and ankle cuffs with elasticized thread or knit cuffs. These patterns may be used as a template for modification based on facility requests."
+documentation-language = "en"
+organization = "Tukatech"
+technology-readiness-level = "OTRL-2"
+documentation-readiness-level = "ODRL-1"
+# A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
+cpc-patent-class = "A41D 13/00"
+# tsdc = "MEC/ASM/etc." 
+source = [
+	 # PS Suit
+     "https://drive.google.com/file/d/1R2YFzZUooRYKQf3d3eH7Mrks9EqtuFvP/view?usp=sharing",
+     "https://drive.google.com/file/d/1R3qGjEgJ-LCREl8Ilb3O8nT5Lyo-UU9a/view?usp=sharing",
+     "https://drive.google.com/file/d/1R4JhLn2bQvsYVo0t7oulVBGIyxaPYO8i/view?usp=sharing",
+     "https://drive.google.com/file/d/1R6O_F6unnD1G2D2SSFhhMU8sR5y1qlG1/view?usp=sharing",
+     "https://drive.google.com/file/d/1R7Tkuq-a4bht6oBy0pqmSpq3nSE4BHSS/view?usp=sharing",
+     "https://drive.google.com/file/d/1RAqKZUw_WR4SUsruH2DpGsD63Xn4vPm5/view?usp=sharing",
+     "https://drive.google.com/file/d/1RHVtj-CSee4Bt39QscL6TOARR_NQS5p6/view?usp=sharing",
+     # MedicsSuites XXL
+     "https://drive.google.com/file/d/1RIlVFFHiF8z4KzxVP57O8-hjAeeoGplD/view?usp=sharing",
+     "https://drive.google.com/file/d/1RP4bkDOcZVFT0HQy8hkLAix1c2tfHsEN/view?usp=sharing",
+     "https://drive.google.com/file/d/1RPqhYmjdsosFeqTgVnYFU1nrE1pNm_7D/view?usp=sharing",
+     "https://drive.google.com/file/d/1RQ8nrVmzwQPvR-6MMqTU-rmUmivADtuy/view?usp=sharing",
+     "https://drive.google.com/file/d/1RRlB6fjnQ4QlN31RTDpzu8n6OIaok_Qt/view?usp=sharing",
+     "https://drive.google.com/file/d/1R_KJ9xpxX1C15Q0lMcp-HAk1SjKUPPYJ/view?usp=sharing",
+     "https://drive.google.com/file/d/1RapZsnrNciEQYI_v_XoGXH1du7IdJ4cZ/view?usp=sharing",
+     # MedicsSuites XL
+     "https://drive.google.com/file/d/1RdMxDR0RSGbjg8cOta9CClTrAiB93GVF/view?usp=sharing",
+     "https://drive.google.com/file/d/1Rf5QRCAjyaGpU4WXiQfnIxOojM8OfIIQ/view?usp=sharing",
+     "https://drive.google.com/file/d/1RfZRsgTFJslKQkQQuu7LCB21u55GI5uJ/view?usp=sharing",
+     "https://drive.google.com/file/d/1Rft7f_Uq21dtFHO66GkdnLbdD7xqcYfX/view?usp=sharing",
+     "https://drive.google.com/file/d/1RjRReePgnN7e4AWCF9q2GGAoXGqsrEUb/view?usp=sharing",
+     "https://drive.google.com/file/d/1RyRZbI_YXCsJqyyXGI0ydgV6PajPZhcT/view?usp=sharing",
+     # MedicsSuites L
+     "https://drive.google.com/file/d/1SC0wAnYypRT85AgOrI7ionAcavVjYg_m/view?usp=sharing",
+     "https://drive.google.com/file/d/1SIyuvHTT-202dE4ASqkR8WCC3esaqqR6/view?usp=sharing",
+     "https://drive.google.com/file/d/1SKEPK7HBdjD_IpnBUa02WoHkW5SCtc0i/view?usp=sharing",
+     "https://drive.google.com/file/d/1SLO4xP7RU_6elzW8I5xu6rz2SlFKicgu/view?usp=sharing",
+     "https://drive.google.com/file/d/1SXb1zbCRbav2bfAqA5fpJbefktBsBIgr/view?usp=sharing",
+     "https://drive.google.com/file/d/1Sm9oh_rKllULznJHkRFaT6IGAobD4n6F/view?usp=sharing",
+     "https://drive.google.com/file/d/1StzqtchqjiWAouaFhwAO_1dSfjqvRht6/view?usp=sharing"
+]
