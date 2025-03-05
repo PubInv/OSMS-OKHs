@@ -36,7 +36,7 @@ image = [
 ]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
-cpc-patent-class = "A41D 13/00"
+cpc-patent-class = "B65D 83/75"
 # tsdc = "MEC/ASM/etc." 
 manufacturing-instructions = "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/tree/master?ref_type=heads"
 source = [
