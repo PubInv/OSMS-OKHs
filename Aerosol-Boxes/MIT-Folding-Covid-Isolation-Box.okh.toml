@@ -1,0 +1,59 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "MIT-Folding-Covid-Isolation-Box"
+repo = "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box"
+license = "LicenseRef-NOASSERTION"
+licensor = "Alfonso Parra Rubio <https://gitlab.cba.mit.edu/alfonso>"
+function = "Lightweight, flat-pack and disposable design featuring PETG sheeting. Easy to assemble and stackable for quick access in a busy environment. This design can be laser cut for scaled production."
+documentation-language = "en"
+organization = "Massachusetts Institute of Technology"
+release = "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/commit/ebc6efb9499abe48cc4bb9447b1606690f654b15"
+readme = "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/blob/master/README.md?ref_type=heads"
+image = [
+  "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/blob/master/img/MIT%20Box%201-min.jpg?ref_type=heads",
+  "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/blob/master/img/MIT%20Box%202-min.jpg?ref_type=heads",
+  "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/blob/master/img/all_versions.jpeg?ref_type=heads",
+  "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/blob/master/img/comp.jpeg?ref_type=heads",
+  "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/blob/master/img/corner_detail.jpeg?ref_type=heads",
+  "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/blob/master/img/curve_crease.jpeg?ref_type=heads",
+  "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/blob/master/img/cutted_shape.jpeg?ref_type=heads",
+  "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/blob/master/img/foldedboxV2.jpeg?ref_type=heads",
+  "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/blob/master/img/foldmap.png?ref_type=heads",
+  "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/blob/master/img/foldmap_instructions.png?ref_type=heads",
+  "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/blob/master/img/foldmap_instructions1.png?ref_type=heads",
+  "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/blob/master/img/foldmap_instructions2.png?ref_type=heads",
+  "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/blob/master/img/foldmap_instructions3.png?ref_type=heads",
+  "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/blob/master/img/foldmap_instructions4.png?ref_type=heads",
+  "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/blob/master/img/foldmap_instructions5.png?ref_type=heads",
+  "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/blob/master/img/foldmap_instructions6.png?ref_type=heads",
+  "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/blob/master/img/foldmap_instructions7.png?ref_type=heads",
+  "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/blob/master/img/frontdetaill.jpeg?ref_type=heads",
+  "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/blob/master/img/opaquev8.jpeg?ref_type=heads",
+  "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/blob/master/img/pcomparation.jpeg?ref_type=heads",
+  "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/blob/master/img/rotul.png?ref_type=heads",
+  "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/blob/master/img/smheigh.jpeg?ref_type=heads",
+  "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/blob/master/img/structural_integrity.gif?ref_type=heads",
+  "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/blob/master/img/tall.jpeg?ref_type=heads",
+  "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/blob/master/img/transparentv8.jpeg?ref_type=heads",
+  "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/blob/master/img/v8dxf.png?ref_type=heads",
+  "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/blob/master/img/weight.jpeg?ref_type=heads"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "B65D 83/75"
+# tsdc = "MEC/ASM/etc." 
+bom = "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/tree/master?ref_type=heads#040820"
+manufacturing-instructions = "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box#assembly-instructions"
+source = [
+     "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/blob/master/files/MIT_CBA_Folding_Int_Box_V14.dxf?ref_type=heads",
+     "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/blob/master/files/v14.stl?ref_type=heads",
+     "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/blob/master/files/v16.dxf?ref_type=heads"
+     ]
+
+[outer-dimensions]
+width = 609.6
+depth = 508
+height = 558.8
