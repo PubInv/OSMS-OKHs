@@ -1,0 +1,42 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "VectorSpace-HQ-Folding-Intubation-Box"
+repo = "https://github.com/VectorSpaceHQ/Folding-Intubation-Box"
+license = "GPL-3.0 License"
+licensor = "Joel Doe <joel.doe@example.com>"
+function = "Flat-pack, foldable intubation box using clear polycarbonate and PVC hinges. Pieces can be cut with CNC or basic woodworking tools."
+documentation-language = "en"
+organization = "VectorSpace HQ"
+release = "https://gitlab.com/YOU/your-awesome-project/-/releases/1.0.0"
+readme = "https://github.com/VectorSpaceHQ/Folding-Intubation-Box/blob/master/README.md"
+image = [
+  "https://github.com/VectorSpaceHQ/Folding-Intubation-Box/blob/master/images/IMG_1689.JPG",
+  "https://github.com/VectorSpaceHQ/Folding-Intubation-Box/blob/master/images/IMG_1690.JPG",
+  "https://github.com/VectorSpaceHQ/Folding-Intubation-Box/blob/master/images/IMG_1691.JPG",
+  "https://github.com/VectorSpaceHQ/Folding-Intubation-Box/blob/master/images/IMG_1692.JPG",
+  "https://github.com/VectorSpaceHQ/Folding-Intubation-Box/blob/master/images/IMG_1694.JPG",
+  "https://github.com/VectorSpaceHQ/Folding-Intubation-Box/blob/master/images/IMG_1695.JPG",
+  "https://github.com/VectorSpaceHQ/Folding-Intubation-Box/blob/master/images/IMG_1697.JPG",
+  "https://github.com/VectorSpaceHQ/Folding-Intubation-Box/blob/master/images/IMG_1698.JPG",
+  "https://github.com/VectorSpaceHQ/Folding-Intubation-Box/blob/master/images/intubation_box_setup.gif"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "B65D 83/75"
+tsdc = "LAS" 
+bom = "https://github.com/VectorSpaceHQ/Folding-Intubation-Box#materials"
+manufacturing-instructions = "https://github.com/VectorSpaceHQ/Folding-Intubation-Box/tree/master#instructions"
+source = [
+     "https://github.com/VectorSpaceHQ/Folding-Intubation-Box/blob/master/cad-cam/VS_folding_intubation_box.FCStd",
+     "https://github.com/VectorSpaceHQ/Folding-Intubation-Box/blob/master/cad-cam/glove_flange.ngc",
+     "https://github.com/VectorSpaceHQ/Folding-Intubation-Box/blob/master/templates/side_panel.dxf",
+     "https://github.com/VectorSpaceHQ/Folding-Intubation-Box/blob/master/templates/side_panel.svg"
+     ]
+
+[outer-dimensions]
+width = 20
+depth = 21.5
+height = 150
