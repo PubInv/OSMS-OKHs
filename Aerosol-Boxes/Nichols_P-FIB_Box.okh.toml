@@ -1,0 +1,25 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Nichols_P-FIB_Box"
+repo = "https://drive.google.com/drive/folders/1k1tKiLN6RvnaCHWD8iqgNKTuU20dCAcm?usp=sharing"
+license = "LicenseRef-NOASSERTION"
+licensor = "kimly"
+function = "Affordable build with easily sourced materials such as PVC pipe and saran wrap. This design is lightweight and portable enough to protect the patient’s head during inpatient or ambulance transport."
+documentation-language = "en-GB"
+organization = "Nichols"
+image = "https://drive.google.com/file/d/1rqOqsRNu_J8o7xlp8y9SKfWMzJEYQjae/view?usp=sharing"
+technology-readiness-level = "OTRL-2"
+documentation-readiness-level = "ODRL-1"
+cpc-patent-class = "B65D 83/75"
+# tsdc = "MEC/ASM/etc." 
+bom = "https://drive.google.com/file/d/1yR5UmnyepuZnd2lN6XMNK0UfGg-zMr2g/view?usp=sharing"
+manufacturing-instructions = "https://drive.google.com/file/d/1VbseMD-dElqB9EznNxvsf_iGd0I9U6Fi/view?usp=sharing"
+source = "https://drive.google.com/file/d/1VbseMD-dElqB9EznNxvsf_iGd0I9U6Fi/view?usp=sharing"
+
+[outer-dimensions]
+width = 520.7
+depth = 673.1
+height = 520.7
