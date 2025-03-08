@@ -1,0 +1,33 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Crocheted-Ear-Saver"
+repo = "https://www.ravelry.com/patterns/library/sore-ear-savers?fbclid=IwAR3DDcLaEintspyF7kdVQynX00yeff3KJp7n_KGySWJu564b-3Nvf395m5w"
+license = "Copyright"
+licensor = "Cuddly Crochet Creations <cuddlycrochetcreatons@gmail.com>"
+function = "Crocheted ear coverings. Easy pattern for sewists or fiber crafters to make. Recommend laundering after use."
+documentation-language = "en"
+organization = "Ravelry"
+readme = "https://www.ravelry.com/patterns/library/sore-ear-savers?fbclid=IwAR3DDcLaEintspyF7kdVQynX00yeff3KJp7n_KGySWJu564b-3Nvf395m5w"
+image = [
+  # logo
+  "https://style-cdn.ravelrycache.com/images/assets/logos/primary.svg",
+  # product-photo
+  "https://images4-g.ravelrycache.com/uploads/Drleto3/693993378/webp/PicsArt_04-07-07.40.34_small2.webp#jpg",
+  "https://images4-f.ravelrycache.com/uploads/Drleto3/693993190/webp/PicsArt_04-07-07.38.10_small2.webp#jpg",
+  "https://images4-f.ravelrycache.com/uploads/Drleto3/693993380/webp/PicsArt_04-07-07.41.10_small2.webp#jpg"
+]
+technology-readiness-level = "OTRL-2"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A42B 1/00"
+tsdc = "ASM" 
+bom = "https://www.ravelry.com/patterns/library/sore-ear-savers?fbclid=IwAR3DDcLaEintspyF7kdVQynX00yeff3KJp7n_KGySWJu564b-3Nvf395m5w"
+manufacturing-instructions = "https://www.ravelry.com/patterns/library/sore-ear-savers?fbclid=IwAR3DDcLaEintspyF7kdVQynX00yeff3KJp7n_KGySWJu564b-3Nvf395m5w#"
+
+[outer-dimensions]
+# Depth estimated.
+width = 50.8
+depth = 12.7
+height = 76.2
