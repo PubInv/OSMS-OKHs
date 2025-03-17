@@ -1,0 +1,35 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Surgical-Mask-Tension-Release-Band"
+repo = "https://3d.nih.gov/entries/3dpx-013410"
+version = "2.0.0"
+license = "Public Domain"
+licensor = "Davis Becker <https://3d.nih.gov/users/davis-becker>"
+function = "This design has been tested clinically and is recommended when constructed without modification."
+documentation-language = "en-US"
+organization = "National Institute of Allergy and Infectious Diseases"
+release = "https://3d.nih.gov/builds/158"
+readme = "https://3d.nih.gov/entries/3dpx-013410"
+contribution-guide = "https://3d.nih.gov/entries/3dpx-013410#attribution"
+image = [
+  # logo
+  "https://3d.nih.gov/images/niaid-logo-white.svg",
+  # product-photo
+  "https://3d.nih.gov/api/submissions/17302/files/input/385191",
+  "https://3d.nih.gov/api/submissions/17302/files/input/385194",
+  "https://3d.nih.gov/api/submissions/17302/files/input/385195",
+  "https://3d.nih.gov/api/submissions/17302/files/input/385190",
+  "https://3d.nih.gov/api/submissions/17302/runs/c4027d4b-cdb7-4afe-a208-d660aa8fb11f/output-files/Surgical_Mask_Strap_Remix_thumb_NIH3D.png"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+# A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
+cpc-patent-class = "A62B 9/04"
+tsdc = "3DP" 
+bom = "https://3d.nih.gov/entries/3dpx-013410#printing"
+manufacturing-instructions = "https://3d.nih.gov/entries/3dpx-013410#printing"
+source = "https://3d.nih.gov/entries/download/13410/2"
+
