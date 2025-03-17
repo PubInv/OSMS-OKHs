@@ -1,0 +1,30 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0" 
+name = "Surgical_Mask_Band-Extra_Security_V2"
+repo = "https://3d.nih.gov/entries/3dpx-013574"
+version = "2.0.0"
+license = "Public Domain"
+licensor = "W Stadolnik <wstadolnik@gmail.com>"
+function = "This design has been tested clinically and is recommended when constructed without modification."
+documentation-language = "en-US"
+organization = "National Institute of Allergy and Infectious Diseases"
+release = "https://3d.nih.gov/builds/97"
+readme = "https://3d.nih.gov/entries/3dpx-013574"
+image = [
+  # logo
+  "https://3d.nih.gov/images/niaid-logo-white.svg",
+  # product-photo
+  "https://3d.nih.gov/api/submissions/17564/files/input/388531",
+  "https://3d.nih.gov/api/submissions/17564/files/input/388533",
+  "https://3d.nih.gov/api/submissions/17564/runs/b95d37c9-67da-4c39-841b-05f89fcc6bd0/output-files/Surgical%2520Mask%2520Band%2520for%2520Ear%2520Comfort%2520-%2520Extra%2520Security_1_thumb_NIH3D.png"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A62B 9/04"
+tsdc = "3DP" 
+bom = "https://3d.nih.gov/entries/3dpx-013574#specs"
+manufacturing-instructions = "https://3d.nih.gov/entries/3dpx-013574"
+source = "https://3d.nih.gov/api/submissions/17564/files/input/388534"
