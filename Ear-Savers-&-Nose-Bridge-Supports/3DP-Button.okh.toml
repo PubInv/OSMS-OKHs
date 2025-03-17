@@ -1,0 +1,20 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "3DP-Button"
+repo = "https://drive.google.com/drive/folders/1E2DzErky6VbJ2RK1tKQ-mS7QzlIeSMAf?usp=sharing"
+license = "LicenseRef-NOASSERTION"
+licensor = "Kimly <kimly@opensourcemedicals.org>"
+function = "Sporadic button shortages due to headband making can be solved with this 3DP version for a flat or raised button."
+documentation-language = "en"
+organization = "Open Source Medicals"
+technology-readiness-level = "OTRL-1"
+documentation-readiness-level = "ODRL-1"
+cpc-patent-class = "A44B 1/02"
+tsdc = "3DP" 
+source = [
+     "https://drive.google.com/file/d/1E5S81mTKnYMfK-qozi2esBAwXH1MFFLh/view?usp=sharing",
+     "https://drive.google.com/file/d/1E2eYVRYimnB2eyq4bBkmoh_JZM_-NNAP/view?usp=sharing"
+     ]
