@@ -1,0 +1,47 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Sea-Mass_Ear_Saver"
+repo = "https://www.thingiverse.com/thing:4318427?fbclid=IwAR1qYllqIeSL5fKwZCOZiKyx-MVzzqWGsf2Tm45F9oUvUEjuhlXjfmaVLNI"
+license = "CC BY 4.0"
+licensor = "Nick Frankllin <https://www.thingiverse.com/messages/compose?username=dunderMethods>"
+function = "Thin, flexible and versatile design that doesn’t tangle in hair. Uses less filament and prints faster compared to other popular designs. Length is easily customizable."
+documentation-language = "en-US"
+organization = "Thingiverse"
+release = "https://www.thingiverse.com/make:853462"
+readme = "https://www.thingiverse.com/thing:4318427"
+image = [
+  "https://cdn.thingiverse.com/assets/a9/d4/e8/69/70/large_display_IMG_20200505_225336_296.jpg",
+  "https://cdn.thingiverse.com/assets/2f/cf/7a/eb/b3/large_display_IMG_20200505_225336_295.jpg",
+  "https://cdn.thingiverse.com/assets/b5/c8/63/29/83/large_display_20200429_173654.jpg",
+  "https://cdn.thingiverse.com/assets/1a/44/5e/dd/3a/large_display_20200427_114947.jpg",
+  "https://cdn.thingiverse.com/assets/f4/3e/ab/0f/2c/large_display_20200427_004515.jpg",
+  "https://cdn.thingiverse.com/assets/49/0f/ac/7d/5e/large_display_20200426_222444.jpg",
+  "https://cdn.thingiverse.com/assets/ee/6d/50/f6/0b/large_display_20200426_225032.jpg",
+  "https://cdn.thingiverse.com/assets/01/93/4d/3f/03/large_display_20200427_205925.jpg",
+  "https://cdn.thingiverse.com/assets/56/e1/b6/f7/c7/large_display_20200426_225407.jpg",
+  "https://cdn.thingiverse.com/assets/df/7b/9e/99/0b/large_display_Cut_strap.PNG",
+  "https://cdn.thingiverse.com/assets/63/9d/38/21/1b/large_display_Strap_Customized_Tabs.PNG",
+  "https://cdn.thingiverse.com/assets/5c/ec/49/a3/c0/large_display_Strap_Customized.PNG",
+  "https://cdn.thingiverse.com/assets/ab/1d/37/28/e2/large_display_Standard_hook.jpg",
+  "https://cdn.thingiverse.com/assets/6d/64/7c/fc/de/large_display_Lock2-1.jpg",
+  "https://cdn.thingiverse.com/assets/96/f4/d9/9a/35/large_display_Lock2-2.jpg",
+  "https://cdn.thingiverse.com/assets/35/10/f0/91/ef/large_display_Lock1.jpg",
+  "https://cdn.thingiverse.com/assets/ab/9a/e0/96/9d/large_display_20200427_005245.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A62B 18/08"
+tsdc = "3DP" 
+manufacturing-instructions = "https://www.thingiverse.com/thing:4318427"
+source = [
+     "https://www.thingiverse.com/download:8078226",
+     "https://www.thingiverse.com/download:8097378",
+     "https://www.thingiverse.com/download:8099085",
+     "https://www.thingiverse.com/download:8101491",
+     "https://www.thingiverse.com/download:8173093",
+     "https://www.thingiverse.com/download:8275744",
+     "https://www.thingiverse.com/thing:4318427/files"
+     ]
