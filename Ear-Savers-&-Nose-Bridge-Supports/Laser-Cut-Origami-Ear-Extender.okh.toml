@@ -1,0 +1,24 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Laser-Cut-Origami-Ear-Extender"
+repo = "https://drive.google.com/drive/folders/1EF_JMYHGvaZpEpRVaI6WjnWRKaSxvNEj?usp=sharing"
+license = "LicenseRef-NOASSERTION"
+licensor = "Kimly <kimly@opensourcemedicals.org>"
+function = "The fastening strap for the Origami face shield was modified to become an ear saver. This design is laser cut, which can be faster and cheaper than 3DP, and lays flat against the head. A scrub cap can be worn over this design. The deep-cut grooves hold mask loops securely."
+documentation-language = "en"
+organization = "Open Source Medicals"
+technology-readiness-level = "OTRL-2"
+documentation-readiness-level = "ODRL-1"
+cpc-patent-class = "A62B 9/04"
+# tsdc = "LAS" 
+source = [
+     "https://drive.google.com/file/d/1EKQbZbewVFHBR-3IDS5ji4SUbfkVibW8/view?usp=sharing",
+     "https://drive.google.com/file/d/1EJtLzQCc1njzDjBgAV_Mj0tZvfJhzkdf/view?usp=sharing",
+     "https://drive.google.com/file/d/1E_Hd2uutYV53afPBfR9O2Jqlht7P217h/view?usp=sharing",
+     "https://drive.google.com/file/d/1ES0fGdWgSWe3xuSG1bJRzUlLxKAXmGLj/view?usp=sharing",
+     "https://drive.google.com/file/d/1EfXJMZWc0uvHYE0rBfMYQRDI3IH4NJSj/view?usp=sharing",
+     "https://drive.google.com/file/d/1EIC296Y2VuNqRiKL2_dZF9mx6mKN0LRs/view?usp=sharing"
+]
