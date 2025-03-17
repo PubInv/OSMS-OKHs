@@ -1,0 +1,39 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Headband-with-Buttons"
+repo = "https://theseamanmom.com/about-easy-peasy-creative-ideas/"
+license = "LicenseRef-NOASSERTION"
+licensor = "Petro Neagu <https://theseamanmom.com/contact-and-pr/>"
+function = "All these designs can be laundered. Select buttons with a smooth face. Any button designs with deep grooves or patterns could hold infection."
+documentation-language = "en"
+organization = "Easy Peasy Creative Ideas"
+# In the case of no releases, can link to the latest commit.
+release = "https://www.youtube.com/watch?v=BLAYByOvLbY"
+readme = "https://www.youtube.com/watch?v=BLAYByOvLbY"
+image = [
+  # logo
+  "https://theseamanmom.com/",
+  # product-photo
+  "https://theseamanmom.com/wp-content/uploads/2020/04/20200403_151511.jpg",
+  "https://theseamanmom.com/wp-content/uploads/2020/04/20200403_151826.jpg",
+  "https://theseamanmom.com/wp-content/uploads/2020/06/Cotton-face-mask.jpg",
+  "https://theseamanmom.com/wp-content/uploads/2020/04/20200403_151710.jpg",
+  "https://theseamanmom.com/wp-content/uploads/2020/04/20200403_151604.jpg",
+  "https://theseamanmom.com/wp-content/uploads/2020/04/20200403_151437.jpg",
+  "https://theseamanmom.com/wp-content/uploads/2020/04/20200402_1217131.jpg",
+  "https://theseamanmom.com/wp-content/uploads/2020/04/20200402_123534.jpg",
+  "https://theseamanmom.com/wp-content/uploads/2020/04/20200402_124609.jpg",
+  "https://theseamanmom.com/wp-content/uploads/2020/04/20200402_125005.jpg",
+  "https://theseamanmom.com/wp-content/uploads/2020/04/20200402_130736.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A41D 20/00"
+# tsdc = "MEC/ASM" 
+bom = "https://drive.google.com/open?id=1bOO-LXIXoJZLNmrTPweFvuqZPQHBgtfD"
+manufacturing-instructions = "https://www.youtube.com/watch?v=BLAYByOvLbY&t=51s"
+source = "https://drive.google.com/file/d/1bOO-LXIXoJZLNmrTPweFvuqZPQHBgtfD/view?usp=sharing"
+
