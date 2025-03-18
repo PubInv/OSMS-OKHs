@@ -1,0 +1,23 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Infinite-Resource-Eye-Shield"
+repo = "https://drive.google.com/open?id=1hTAns69FP0wuneapmiJC8xBCHZ6P8AD5"
+license = "LicenseRef-NOASSERTION"
+licensor = "Kimly <kimly@opensourcemedicals.org>"
+function = "Features acetate sheeting and acrylic rod with CNC form."
+documentation-language = "en"
+organization = "MakerLab Durango"
+readme = "https://drive.google.com/file/d/1hjQq8F6Uletkm1hdSSBOklXi0CSm3g-K/view?usp=sharing"
+technology-readiness-level = "OTRL-2"
+documentation-readiness-level = "ODRL-1"
+cpc-patent-class = "A61F 9/02"
+# tsdc = "MEC/ASM/etc." 
+manufacturing-instructions = "https://drive.google.com/file/d/1hWBeSP2W2Jnc02KSmjjPP1PIcNqsJJAU/view?usp=sharing"
+source = [
+     "https://drive.google.com/file/d/1hcDWrydSAVRZIsdNAiqTcjLxOAzzkueY/view?usp=sharing",
+     "https://drive.google.com/file/d/1heIMJw38IhhZ5MzUwy1AKRZpHMJBhdmw/view?usp=sharing",
+     "https://drive.google.com/file/d/1hfsPbZ0VKcPvWLlTNRsw8segduHlC2Qi/view?usp=sharing"
+     ]
