@@ -1,0 +1,38 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "C-Frame_Ear_Saver"
+repo = "https://www.thingiverse.com/thing:4551658?fbclid=IwAR1pkdsksSFGdUg4bAb2keCNcHcmQ7S0ylUrxk3XXvLB7w4GT39Hq2iS4SE"
+version = "2.0.0"
+license = "CC BY-NC-ND"
+licensor = "Bernard Choi <https://www.thingiverse.com/messages/compose?username=somer156>"
+function = "Allows one handed mask loop removal so the mask stays attached to the saver while one side is free, e.g. the wearer can undo one ear loop, take a drink of water, then reattach the one loop to the saver without taking the mask completely off."
+documentation-language = "en"
+organization = "Thingiverse"
+release = "https://www.thingiverse.com/make:906162"
+readme = "https://www.thingiverse.com/thing:4551658"
+image = [
+  "https://cdn.thingiverse.com/assets/d8/9b/5f/22/b2/large_display_IMG_1748.jpg",
+  "https://cdn.thingiverse.com/assets/7c/a1/12/da/9a/large_display_IMG_1754.jpg",
+  "https://cdn.thingiverse.com/assets/61/3b/75/37/c3/large_display_IMG_1784.jpg",
+  "https://cdn.thingiverse.com/assets/a9/17/78/3d/65/large_display_IMG_1785.jpg",
+  "https://cdn.thingiverse.com/assets/e0/8d/a2/02/68/large_display_IMG_1749.jpg",
+  "https://cdn.thingiverse.com/assets/99/38/39/ab/7b/large_display_IMG_1751.jpg",
+  "https://cdn.thingiverse.com/assets/c6/dd/d9/30/e9/large_display_IMG_1750.jpg",
+  "https://cdn.thingiverse.com/assets/b8/83/c0/83/bf/large_display_IMG_1786.jpg",
+  "https://cdn.thingiverse.com/assets/ab/01/99/ac/25/large_display_CF4_Core.png",
+  "https://cdn.thingiverse.com/assets/e3/b8/f9/5a/68/large_display_CF4_Sides.png"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A62B 18/08"
+tsdc = "3DP"
+manufacturing-instructions = "https://www.youtube.com/watch?v=RW0C9vpFlBI"
+source = [
+     "https://www.thingiverse.com/download:8544930",
+     "https://www.thingiverse.com/download:8544931",
+     "https://www.thingiverse.com/download:8544932",
+     "https://www.thingiverse.com/thing:4551658/files"
+     ]
