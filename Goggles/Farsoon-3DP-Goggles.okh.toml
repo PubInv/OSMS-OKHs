@@ -1,0 +1,29 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Farsoon-3DP-Goggles"
+repo = "https://www.3dprintingmedia.network/safety-goggles-to-fight-covid-19/"
+license = "LicenseRef-NOASSERTION"
+licensor = "Victor Anusci <https://www.voxelmatters.com/author/victor-anusci/>"
+function = "This design is printable for Laser Sintering (SLS), Fused Deposition Modeling (FDM) and Stereolithography (SLA) technologies."
+documentation-language = "en-GB"
+organization = "VoxelMatters"
+readme = "https://www.voxelmatters.com/safety-goggles-to-fight-covid-19/"
+image = [
+  # logo
+  "https://www.voxelmatters.com/wp-content/uploads/2024/03/VoxelMatters-Logo.svg",
+  # product-photo
+  "https://www.voxelmatters.com/wp-content/uploads/2020/03/Farsoon_safety-goggles_3-780x470.jpg.avif",
+  "https://www.voxelmatters.com/wp-content/uploads/2020/03/safety-goggle.png.avif",
+  "https://www.voxelmatters.com/wp-content/uploads/2020/03/goggle-farsoon.png.avif"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A61F 9/02"
+# tsdc = "MEC/ASM/etc." 
+source = [
+     "https://www.voxelmatters.com//wp-content/uploads/2020/03/Farsoon3Dprintedgoggle-LargeSize.zip",
+     "https://www.voxelmatters.com//wp-content/uploads/2020/03/Farsoon3Dprintedgoggle-SmallSize.zip"
+]
