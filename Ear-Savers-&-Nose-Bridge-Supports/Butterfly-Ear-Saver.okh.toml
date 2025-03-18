@@ -1,0 +1,29 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Butterfly-Ear-Saver"
+repo = "https://www.thingiverse.com/thing:4264697?fbclid=IwAR1gea7Y9CSHaS9sXNw16QSoGpcye2fHvQxs39Svv0-ypkBx9HcPDiKFp1o"
+version = "3.0.0"
+license = "CC BY"
+licensor = "Kim Samson <https://www.thingiverse.com/messages/compose?username=Locry>"
+function = "By sitting low on the neck, this ear saver avoids the slippery-on-hair problem from alternate designs. A .dxf conversion could potentially be made from neoprene, rubber, or clear PETG film."
+documentation-language = "en"
+organization = "Thingiverse"
+release = "https://www.thingiverse.com/thing:4264697/comments"
+readme = "https://www.thingiverse.com/thing:4264697?fbclid=IwAR1gea7Y9CSHaS9sXNw16QSoGpcye2fHvQxs39Svv0-ypkBx9HcPDiKFp1o"
+image = [
+  "https://cdn.thingiverse.com/assets/2f/86/c5/d0/60/received_635765426969698_2.jpeg",
+  "https://cdn.thingiverse.com/assets/77/65/ce/a5/4e/received_210885136874114_2.jpeg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A62B 18/08"
+tsdc = "3DP" 
+bom = "https://www.thingiverse.com/thing:4264697"
+manufacturing-instructions = "https://www.thingiverse.com/thing:4264697"
+source = [
+     "https://www.thingiverse.com/download:7941257",
+     "https://www.thingiverse.com/download:7940938"
+]
