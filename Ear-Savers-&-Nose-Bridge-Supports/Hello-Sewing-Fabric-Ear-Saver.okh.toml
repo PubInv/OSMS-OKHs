@@ -1,0 +1,46 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Hello-Sewing-Fabric-Ear-Saver"
+repo = "https://hellosewing.com/diy-ear-saver-for-face-masks/?fbclid=IwAR3hj7X3IEGPtUoVIgWxOPbYTyR04gDtl2sQLGWwfLWgJm_zg5z7Yf7O6tU"
+license = "LicenseRef-NOASSERTION"
+licensor = "Helen Spencer <https://hellosewing.com/about-and-contact/>"
+function = "Pattern and video tutorial for fabric ear savers with buttons. These can be customized to a desired length and laundered."
+documentation-language = "en"
+organization = "Hello Sewing"
+readme = "https://hellosewing.com/diy-ear-saver-for-face-masks/?fbclid=IwAR3hj7X3IEGPtUoVIgWxOPbYTyR04gDtl2sQLGWwfLWgJm_zg5z7Yf7O6tU"
+image = [
+  # logo
+  "https://hellosewing.com/wp-content/uploads/hellosewing-logo-lq.jpg",
+  # product-photo
+  "https://hellosewing.com/wp-content/uploads/ear-saver-featured-681x510.jpg",
+  "https://hellosewing.com/wp-content/uploads/ear-savers-finished.jpg",
+  "https://hellosewing.com/wp-content/uploads/ear-saver-materials.jpg",
+  "https://hellosewing.com/wp-content/uploads/ear-savers-markings.jpg",
+  "https://hellosewing.com/wp-content/uploads/ear-saver-sew.jpg",
+  "https://hellosewing.com/wp-content/uploads/ear-saver-trim-snip.jpg",
+  "https://hellosewing.com/wp-content/uploads/ear-saver-turn-rso.jpg",
+  "https://hellosewing.com/wp-content/uploads/ear-saver-pressing.jpg",
+  "https://hellosewing.com/wp-content/uploads/ear-saver-topstitch.jpg",
+  "https://hellosewing.com/wp-content/uploads/ear-saver-machine-sewing-button.jpg",
+  "https://hellosewing.com/wp-content/uploads/ear-guard-hand-sewing-buttons.jpg",
+  "https://hellosewing.com/wp-content/uploads/ear-guards-lined-up.jpg",
+  "https://hellosewing.com/wp-content/uploads/ear-guard-modelled.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A62B 18/08"
+# tsdc = "MEC/ASM/etc." 
+bom = "https://hellosewing.com/diy-ear-saver-for-face-masks/?fbclid=IwAR3hj7X3IEGPtUoVIgWxOPbYTyR04gDtl2sQLGWwfLWgJm_zg5z7Yf7O6tU#Supplies_and_tools"
+manufacturing-instructions = [
+   "https://hellosewing.com/diy-ear-saver-for-face-masks/?fbclid=IwAR3hj7X3IEGPtUoVIgWxOPbYTyR04gDtl2sQLGWwfLWgJm_zg5z7Yf7O6tU#How_To_Sew_Ear_Savers",
+   "https://youtu.be/XjaJzRBA1z0"
+]
+
+[outer-dimensions]
+# Depth estimated, will be however thick the cloth is.
+width = 38.1
+depth = 0.254
+height = 228.6
