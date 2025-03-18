@@ -1,0 +1,40 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Metal-Nose-Bridge-Support"
+repo = "http://web.archive.org/web/20200804170222/https://learnmaketeachshare.org/mask/2020/04/21/making-nose-strips.for-people-sewing-masks.html"
+license = "LicenseRef-NOASSERTIONr"
+licensor = "Stephen Bannasch <stephen.bannasch@gmail.com>"
+function = "Clear instructions for making metal mask nose strips out of galvanized steel sheeting. These strips may be used for cloth mask making or as support for commercial grade N95 or KN95 nose bridges, depending on facility needs."
+documentation-language = "en"
+organization = "Learn Make Teach Share"
+readme = "https://web.archive.org/web/20200804170222/https://learnmaketeachshare.org/mask/2020/04/21/making-nose-strips.for-people-sewing-masks.html#nose-strips-for-people-sewing-masks"
+image = [
+  "https://web.archive.org/web/20200804170222im_/https://learnmaketeachshare.org/assets/images/masks/nose-strips-00.jpg",
+  "https://web.archive.org/web/20200804170222im_/https://learnmaketeachshare.org/assets/images/masks/n95-mask-01.jpg",
+  "https://web.archive.org/web/20200804170222im_/https://learnmaketeachshare.org/assets/images/masks/n95-mask-02.jpg",
+  "https://web.archive.org/web/20200804170222im_/https://learnmaketeachshare.org/assets/images/masks/n95-mask-03.jpg",
+  "https://web.archive.org/web/20200804170222im_/https://learnmaketeachshare.org/assets/images/masks/nose-strips-02.jpg",
+  "https://web.archive.org/web/20200804170222im_/https://learnmaketeachshare.org/assets/images/masks/mask-00.jpg",
+  "https://web.archive.org/web/20200804170222im_/https://learnmaketeachshare.org/assets/images/masks/mask-01.jpg",
+  "https://web.archive.org/web/20200804170222im_/https://learnmaketeachshare.org/assets/images/masks/mask-02.jpg",
+  "https://web.archive.org/web/20200804170222im_/https://learnmaketeachshare.org/assets/images/masks/nose-strips-1000-03.jpg",
+  "https://web.archive.org/web/20200804170222im_/https://learnmaketeachshare.org/assets/images/masks/shearing-sheet-steel-into-3.5-inch-strips.jpg",
+  "https://web.archive.org/web/20200804170222im_/https://learnmaketeachshare.org/assets/images/masks/small-notching-shear-00.jpg",
+  "https://web.archive.org/web/20200804170222im_/https://learnmaketeachshare.org/assets/images/masks/round-four-corners-00.jpg",
+  "https://web.archive.org/web/20200804170222im_/https://learnmaketeachshare.org/assets/images/masks/vibratory-tumbler-00.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A62B 18/084"
+# tsdc = "MEC/ASM/etc." 
+bom = "https://web.archive.org/web/20200804170222im_/https://learnmaketeachshare.org/assets/images/masks/ceramic-deburring-media.jpg"
+manufacturing-instructions = "https://web.archive.org/web/20200804170222/https://learnmaketeachshare.org/mask/2020/04/21/making-nose-strips.for-people-sewing-masks.html#making-strips"
+
+[outer-dimensions]
+# Depth is estimated.
+width = 4.7625
+depth = 0.254
+height = 88.9
