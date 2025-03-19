@@ -1,0 +1,16 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "CAD-Patterns-Hat"
+repo = "https://cadpatterns.com/product/9503/?fbclid=IwAR0nVjGF5l3RpbYWQYvDbIz4Wel16y77i39wvugb_BZYIeRoGEjyaMNSf0A"
+license = "LicenseRef-NOASSERTION"
+licensor = "CAD Patterns <info@cadpatterns.com>"
+function = "Woven jersey fabric would be ideal for this design. Curved sections allow a close fit to the head. Does not use bias tape or elastic."
+documentation-language = "en"
+organization = "CAD Patterns"
+technology-readiness-level = "OTRL-2"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A41D 13/11"
+# tsdc = "MEC/ASM/etc." 
