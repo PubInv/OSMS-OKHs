@@ -1,0 +1,48 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "SeeKateSew-Scrub-Hat"
+repo = "https://seekatesew.com/surgical-cap-sewing-pattern/?fbclid=IwAR0fiMOchQTh7mHxQ9osiuE9l8aLt0ehaVxPFRVFH_hguih6CYttEbWnA8"
+license = "LicenseRef-NOASSERTION"
+licensor = "Kate Blocher <https://seekatesew.com/contact/>"
+function = "Surgical-cap design using shaped fabric for ties, avoiding bias tape and elastic."
+documentation-language = "en"
+organization = "SeeKateSew"
+image = [
+  "https://seekatesew.com/wp-content/uploads/2020/04/scrub-cap-tutorial.jpg",
+  "https://seekatesew.com/wp-content/uploads/2020/04/scrub-hat-pattern-sewing-.jpg",
+  "https://seekatesew.com/wp-content/uploads/2020/04/surgical-cap-sewing-pattern-1.jpg",
+  "https://seekatesew.com/wp-content/uploads/2020/04/scrub-hat-and-mask.jpg",
+  "https://seekatesew.com/wp-content/uploads/2020/04/scrub-hat-tutorial.jpg",
+  "https://seekatesew.com/wp-content/uploads/2020/04/surgical-cap-tutorial-1.jpg",
+  "https://seekatesew.com/wp-content/uploads/2020/04/surgical-cap-tutorial-2.jpg",
+  "https://seekatesew.com/wp-content/uploads/2020/04/surgical-cap-tutorial-3.jpg",
+  "https://seekatesew.com/wp-content/uploads/2020/04/surgical-cap-tutorial-4.jpg",
+  "https://seekatesew.com/wp-content/uploads/2020/04/scrub-hat-sewing.jpg",
+  "https://seekatesew.com/wp-content/uploads/2020/04/surgical-scrub-hat-pattern.jpg",
+  "https://seekatesew.com/wp-content/uploads/2020/04/surgical-cap-tutorial-5.jpg",
+  "https://seekatesew.com/wp-content/uploads/2020/04/surgical-cap-tutorial-6.jpg",
+  "https://seekatesew.com/wp-content/uploads/2020/04/instructions-for-surgical-cap.jpg",
+  "https://seekatesew.com/wp-content/uploads/2020/04/scrub-cap-instructions.jpg",
+  "https://seekatesew.com/wp-content/uploads/2020/04/surgical-cap-tutorial-7.jpg",
+  "https://seekatesew.com/wp-content/uploads/2020/04/sewing-scrub-hat.jpg",
+  "https://seekatesew.com/wp-content/uploads/2020/04/back-of-scrub-hat.jpg",
+  "https://seekatesew.com/wp-content/uploads/2020/04/scrub-hat-binding.jpg",
+  "https://seekatesew.com/wp-content/uploads/2020/04/surgical-cap-tutorial-8.jpg",
+  "https://seekatesew.com/wp-content/uploads/2020/04/surgical-cap-tutorial9.jpg",
+  "https://seekatesew.com/wp-content/uploads/2020/04/surgical-cap-tutorial-10.jpg",
+  "https://seekatesew.com/wp-content/uploads/2020/04/surgical-cap-tutorial-11.jpg",
+  "https://seekatesew.com/wp-content/uploads/2020/04/surgical-cap-tutorial-12.jpg",
+  "https://seekatesew.com/wp-content/uploads/2020/04/surgical-cap-tutorial-13.jpg",
+  "https://seekatesew.com/wp-content/uploads/2020/04/surgical-cap-tutorial-14.jpg",
+  "https://seekatesew.com/wp-content/uploads/2020/04/scrub-hat-tie.jpg",
+  "https://seekatesew.com/wp-content/uploads/2020/04/scrub-hat-pattern-sewing-4.jpg",
+  "https://seekatesew.com/wp-content/uploads/2020/04/make-a-scrub-hat.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A41D 13/11"
+# tsdc = "MEC/ASM/etc."
+manufacturing-instructions = "https://seekatesew.com/surgical-cap-sewing-pattern/?fbclid=IwAR0fiMOchQTh7mHxQ9osiuE9l8aLt0ehaVxPFRVFH_hguih6CYttEbWnA88"
