@@ -10,42 +10,42 @@ licensor = "iczfirz <https://www.printables.com/@iczfirz>"
 function = "Features TPU and no nozzle travel or material oozing. Design hugs the face to create a seal, which is more protective than a simple eye shield."
 documentation-language = "en-GB"
 organization = "Printables"
-# In the case of no releases, can link to the latest commit.
-release = "https://gitlab.com/YOU/your-awesome-project/-/releases/1.0.0"
-readme = "README.md"
-contribution-guide = "CONTRIBUTING.md"
+readme = "https://www.printables.com/model/59044-flexible-goggles-optimised-for-3dp-print-on-transp"
 image = [
-  # logo
-  "imgs/xxx.jpg",
-  # product-photo
-  "imgs/yyy.jpg"
+  "https://media.printables.com/media/prints/59044/images/618162_43d53e5e-8773-42fa-9a4f-07a80dfc051c/thumbs/inside/1280x960/jpg/large_display_img_5666_59044.webp",
+  "https://media.printables.com/media/prints/59044/images/618163_f48061ed-26b9-4ea2-bc10-77358309ef1f/large_display_goggles_59044.gif",
+  "https://media.printables.com/media/prints/59044/images/618164_9c10b704-115f-42bb-838a-b2b07623c96b/thumbs/inside/1280x960/jpg/large_display_goggles_59044.webp",
+  "https://media.printables.com/media/prints/59044/images/618165_8d23f698-647c-458f-967d-11c681147550/thumbs/inside/1280x960/png/large_display_screen_shot_2020-04-27_at_44320_pm_.webp",
+  "https://media.printables.com/media/prints/59044/images/618166_ba48e40a-f8bc-461d-afd5-830366030998/thumbs/inside/1280x960/jpg/large_display_img_5651_59044.webp",
+  "https://media.printables.com/media/prints/59044/images/618167_75b132ec-b4a5-4a01-9a19-cdcd0a339e45/thumbs/inside/1280x960/jpg/large_display_img_5668_59044.webp",
+  "https://media.printables.com/media/prints/59044/images/618168_069c9bf9-94eb-45ce-a5b6-77fcf83a6cfe/thumbs/inside/1280x960/jpg/large_display_img_5655_59044.webp",
+  "https://media.printables.com/media/prints/59044/images/618169_ba2093cd-04f6-447c-9d0f-e5c76cfaaa5a/thumbs/inside/1280x960/jpg/large_display_img_5662_59044.webp",
+  "https://media.printables.com/media/prints/59044/images/618170_fcaee2db-c099-4d0b-9f6d-3dcd7f2234d3/thumbs/inside/1280x960/jpg/large_display_img_5658_59044.webp",
+  "https://media.printables.com/media/prints/59044/images/618171_14799195-5453-4880-8aa9-98ee1b5ded86/thumbs/inside/1280x960/jpg/large_display_img_5670_59044.webp",
+  "https://media.printables.com/media/prints/59044/images/618172_f9a1b478-4f50-4b48-90d5-df39a7ccf68d/thumbs/inside/1280x960/jpg/large_display_img_5664_59044.webp",
+  "https://media.printables.com/media/prints/59044/images/618173_cc503084-29e1-487b-a99a-596062a003df/thumbs/inside/1280x960/jpg/large_display_img_5656_59044.webp",
+  "https://media.printables.com/media/prints/59044/images/618174_d79e221e-9062-4d80-b6f4-c8f0508ac1ee/thumbs/inside/1280x960/jpg/large_display_img_5649_59044.webp",
+  "https://media.printables.com/media/prints/59044/images/618175_c473d5f1-5390-4960-8f00-cbd4b8636c7f/thumbs/inside/1280x960/png/large_display_manygoogles_59044.webp",
+  "https://media.printables.com/media/prints/59044/images/618176_b0a8c2b8-d168-4541-addf-b77d236b4977/thumbs/inside/1280x960/png/large_display_goggles_m_59044.webp",
+  "https://media.printables.com/media/prints/59044/images/618178_d8212f03-8a70-4689-bee2-003b2bcc8df6/thumbs/inside/1280x960/png/large_display_roll_of_stripe_59044.webp",
+  "https://media.printables.com/media/prints/59044/images/618179_fffa9527-a785-485e-a2af-16998c88ba26/thumbs/inside/1280x960/png/large_display_goggles_cover_m_59044.webp",
+  "https://media.printables.com/media/prints/59044/images/618180_8dba7442-66fd-45ff-9159-bfe9b8ffee84/thumbs/inside/1280x960/png/large_display_optional_buckle4slot7mmstripewidth_.webp",
+  "https://media.printables.com/media/prints/59044/images/618181_5780cd88-a657-4fda-8ec4-4fcfc3ca20be/thumbs/inside/1280x960/png/large_display_optional_buckle2slot7mmstripewidth_.webp",
+  "https://media.printables.com/media/prints/59044/images/618182_341a9c7a-9559-4e39-90ca-99bd049c1263/thumbs/inside/1280x960/png/rolley_body_cura_travel_59044.webp",
+  "https://media.printables.com/media/prints/59044/images/618184_5dfa13df-70c3-4c71-b825-40f7cf199f98/thumbs/inside/1280x960/jpg/large_display_ahsokamc_c3_u4_dsc01255_59044.webp",
+  "https://media.printables.com/media/prints/59044/images/618183_60a48139-a36e-4719-87b0-73e1d654f576/thumbs/inside/1280x960/png/large_display_rolley_body_cura_wall_59044.webp",
+  "https://media.printables.com/media/prints/59044/images/618185_db8c0904-feaf-4d93-b2f1-e88f249856f8/thumbs/inside/1280x960/jpg/large_display_spidermanmc_thingiverse_59044.webp",
+  "https://media.printables.com/media/prints/59044/images/618186_6a2e8d30-ba4c-4ff3-ad26-57833c5289b2/thumbs/inside/1280x960/jpg/featured_preview_ep008covert_59044.webp",
+  "https://media.printables.com/media/prints/59044/images/618187_00c7990d-f65e-4750-84b0-7d6120ad0dd8/thumbs/inside/1280x960/png/rolley_body_cura_travel_59044.webp"
 ]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
-attestation = "https://certification.oshwa.org/cl000001.html"
-publication = "https://doi.org/10.1371/journal.pone.0193087"
-# A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
-cpc-patent-class = "A41D 13/11"
-tsdc = "MEC/ASM/etc." # Void if there is no valid licence. Possible values for the project listed here: https://gitlab.com/OSEGermany/oh-tsdc/-/blob/master/OH-TsDC.md?ref_type=heads.
-bom = "BoM.csv"
-manufacturing-instructions = "Documentation/Assembly_Guide/AssemblyGuide.md"
-user-manual = "Documentation/User_Guide/UserGuide.md"
-# Sources for the parts information
-source = [
-     "main.scad",
-     "part_a.scad",
-     "part_b.scad",
-     "params.csv"
-     ]
-# Any mass always has to be in g (gramms)
-mass= 50330.0
-
-[outer-dimensions]
-# Any dimension value always has to be in [mm] (milli-meters). Need all 3.
-width = 400
-depth = 350
-height = 150
-
-[[software]]
-release = "https://github.com/arduino/ArduinoCore-mbed/releases/tag/1.3.2"
-installation-guide = "https://github.com/arduino/ArduinoCore-mbed/blob/a2c06d768f5ebb6821ae6505b2032ee58f4ef70d/README.md"
+cpc-patent-class = "A61F 9/02"
+tsdc = "3DP" 
+bom = "https://files.printables.com/media/prints/59044/pdfs/59044-flexible-goggles-optimised-for-3dp-print-on-transparent-film-challenge-7-size-covid-19-b41a637b-7957-4c39-b1fe-2304a6212ad2.pdf?_gl=1*qomeui*_gcl_au*NDcxNzk4MTExLjE3NDIyNzA4MjI.*_ga*MjU4MjYyNTAzLjE3NDIyNzA4MTg.*_ga_3HK7B7RT5V*MTc0MjQwNzU1NC4yLjAuMTc0MjQwNzU1NC42MC4wLjA."
+manufacturing-instructions = [
+   "https://files.printables.com/media/prints/59044/pdfs/59044-flexible-goggles-optimised-for-3dp-print-on-transparent-film-challenge-7-size-covid-19-b41a637b-7957-4c39-b1fe-2304a6212ad2.pdf?_gl=1*qomeui*_gcl_au*NDcxNzk4MTExLjE3NDIyNzA4MjI.*_ga*MjU4MjYyNTAzLjE3NDIyNzA4MTg.*_ga_3HK7B7RT5V*MTc0MjQwNzU1NC4yLjAuMTc0MjQwNzU1NC42MC4wLjA.",
+   "https://youtu.be/TRsTjk00IgQ",
+   "https://youtu.be/nfWeykv4wZI"
+]
+source = "https://www.printables.com/model/59044-flexible-goggles-optimised-for-3dp-print-on-transp/files"
