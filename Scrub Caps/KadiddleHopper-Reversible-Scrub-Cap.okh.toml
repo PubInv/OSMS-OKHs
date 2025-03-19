@@ -1,0 +1,46 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "KadiddleHopper-Reversible-Scrub-Cap"
+repo = "https://katiekadiddlehopper.blogspot.com/2019/07/reversible-scrub-cap-tutorial-with-free.html?m=1&fbclid=IwAR2t3F6xHMzFtogfe4UIJkIOQzsia1l9U5RGc9AbXxjc2XGilOxKcXDJkTU"
+license = "LicenseRef-NOASSERTION"
+function = "Surgical cap style pattern with reversible option. Uses bias tape for edging and ties, no elastic needed."
+documentation-language = "en"
+organization = "KadiddleHopper"
+image = [
+  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh3shb0B9ZXXZOWJHW9OVvjogXfVWnVEePtPFAfBYPw5L03p1G7Hj8MK6KomUjEQn-dDp7Kz2sONbGyKj_yN_ct8GJ4FWsDcWTv5u0kudFDcLU-ARCUBbXwNXzQn4G15ZbgfFBRX5PD3zQ/s320/IMAG2301-01.jpeg",
+  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-uwX6ueVVXDIkEqhddDlsovY9jmixSCdWNdDcaDVP3nBXc6OXzcw2_CMNlm0ParKnQj0AgihoIOmZICk5ggizlwj3C15utH8iIkmOdNlqN50JguVaLNJ4tZ_BZv4DxU4c6FwlEqIwzPS4/s280/1906-2019-0139583129249007872203.jpeg",
+  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw17wN8moEAyeyr8rLoDVU9dPCW-i3oRIr7nxkVb0mK4C21C2vHDmoZiqhUdnaAdjGaEcelQ-17ITOatyCqM3UKUWdRD2F8eo2TnILsA0rC6TUt_E69XyKY5MwswLFn1DU8MsKmOmvW_-0/s280/PSX_20190619_133548.jpg",
+  "https://lh6.googleusercontent.com/T7mF8oyAlwTfJyXAw8r-VT2xihIg53tMIxtEhjQKt-ki9MYrIDHtY-W9PmthRRREgoN5ZGIQPDrDrzefEr163PLCbRsS1uPV8o2JU7M9ZJs4E2AdkgQu7K3PsURGxOD4Qir67m2X",
+  "https://lh4.googleusercontent.com/3AgNNyqcaTUz4RPbqNCZl5eQAxUhSPnmL7rlK67q2_r5hpvyzkyV5WwOLFbdyIQ3nFiAwSxETNOrPu82Hvear6V_QjqLdtFMAU6Cy6dyg711WKSJcU7l5VS6zkRjwFPB3CSvpq9w",
+  "https://lh3.googleusercontent.com/fZ4QAJ12GeNsVeu8UqTu5XIzXz49ya4jtQa6t6H15mUYPcAi0nNBzmrCtJd3e16qhW3jdd2hSUknHLdIi44UPy51CTB0I-LgPoUwEvgM9Hc52BTmvY3sVTWp_6tn7Ols5SRSi99P",
+  "https://lh3.googleusercontent.com/uxmVqCrSbRLtSsddZmIpmCtJYY-DvF2lqzMCBvakZskbkL9PL8hmTawrfycU6ytsfSlhSK-HzsaVYfCmWPvGYuP4v4wpCs24M6s1ruIGvg00O4SlZSyp5khIJsjqz-vLzyd9R5U3",
+  "https://lh5.googleusercontent.com/K8yxWDNqf8Jg0PCUIQu9wsmgQ6Au36-7cYKtGwY3-4mlafWkXCfg6ZxTdECOcLdZs3r_HBxLDenr-3-2ABTGbqYOjbyw3Y_2PlD0-bxXZ-KPUnUThqIcemsACjHTrndygscTuWh7",
+  "https://lh3.googleusercontent.com/G79pU7i4E-SJb6iUuuPI4u362ldtLc_6OmR12wONhtP0hVPV1Crhjn5yNtBnZHLOuU2JVZuZoMd27rF3J0VLM2tMSeHubJyGRyJXPWqzDMqaf3H2oRC3WF3s0l2ohXIlZdE5i43S",
+  "https://lh5.googleusercontent.com/EiWJQrZdmO3Fak9JbFukjIXKJ8EPShXVIjuHz2pPZvwmRQE2VXyr-FXsOG0n27CLPe2qsw5emCG8GBaL9ZShhftfGl-0AIEQ_T4o9W-ypQPot98UwKqf2QLDtcf6MveJInilRr4l",
+  "https://lh6.googleusercontent.com/-17kGfyrj1ZltMNATDKG3w-hcSq2ZHLsdj-MyKDnxBESkOHaJBu_EZLbVF05jmCDUN_GQ-9LdU5n3q42-KVcNDhx7RkpRG9SXfGrEuDVjTeKpGBHUS8iyGVGTsvq3bpFgWkF3AOO",
+  "https://lh3.googleusercontent.com/M9QPQ-uTVS00xxIkUAv5EBuhtXamK05IWOflnen3c5esU40-Xwwd2zJ7Feu_6V2Lm5F4idTxcZtJdZHXOM-fV5Cd_i7tWhoCY6Jr3WbUpMyMUdO-0Vr3i04KpRQmhgk6Enqc9X10",
+  "https://lh5.googleusercontent.com/BHtqGnfga1UU8oIjWJFxHd5UeMoc-hSNmGxTtfMdeHHhV9Ffd5GEzVHUDKw3AYNAxkXbnBKe4YG6i0qUbfCv-yVzbf85IaBKjg1kSBAKChuUytcU9jwp9nc2QoRhjBKnEdM4Nyd1",
+  "https://lh6.googleusercontent.com/P0nGzTJNYEaSpBcvuSpSy8_woXCyHx0T8JJF6hb0Nf6597nXZsGi5cqpJdmP-j7J5DMvTs0RYRwHYc6t94p2bfkqNbpHBQybjoqf16ORCG9lV80JTJcVkoThk4Ca4rfPqqfypVSg",
+  "https://lh6.googleusercontent.com/0siKrlWQS4TsE65Esk4_v2lGT5a1h1rzJgzMMB4p97NXgqqENOyK-_sLRZ7vQIppa1hTZ3IBPOESv_Ev7wFglJekqYYOomCIyrd_Qjgnh7LnNLJphB0aW9t4j-yU_h0LgiZG4pyi",
+  "https://lh6.googleusercontent.com/a-Lo_NiYk2yqTSK961T_nEMi9cZtFNGOkG4TA0pmB3JrTpvfngC8HNJMhOlLy2Gkw9FHbYlZEU7FbaJSUVM26UkUs5azpP87TDzqLU61iyYP5CcJkWjQZnf6Y5Ak1BxmmpnF-ug1"
+]
+technology-readiness-level = "OTRL-2"
+documentation-readiness-level = "ODRL-2"
+# A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
+cpc-patent-class = "A41D 13/11"
+# tsdc = "MEC/ASM/etc." 
+bom = "https://drive.google.com/file/d/16YMnywWx6kgFRrtN9cUkrEWSu-182UeR/view"
+manufacturing-instructions = "https://drive.google.com/file/d/16YMnywWx6kgFRrtN9cUkrEWSu-182UeR/view"
+source = [
+     "https://drive.google.com/file/d/1NpjEqdmsLQd4l5b4y9WrrA2gR3zeEGLX/view?usp=sharing",
+     "https://drive.google.com/open?id=1ml-I4u1TdYHBW8P_arIpW4QxILestCq2"
+     ]
+
+[outer-dimensions]
+# Height estimated.
+width = 171.6532
+depth = 264.3632
+height = 127
