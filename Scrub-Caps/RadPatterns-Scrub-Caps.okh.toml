@@ -1,0 +1,35 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "RadPatterns-Scrub-Caps"
+repo = "https://www.radpatterns.com/product/surgical-cap-free-pattern/?fbclid=IwAR0BkpHkc-9-_9E7hamOIYLiWskwOpv6CCb4fk5v9SyWYiesjiyLZfsjD9U"
+license = "LicenseRef-NOASSERTION"
+licensor = "Rad Patterns <https://radpatterns.com/contact/>"
+function = "Two designs using shaped fabric ties. The bouffant style contains long hair effectively. Does not use bias tape or elastic."
+documentation-language = "en"
+organization = "Rad Patterns"
+image = [
+  "https://i0.wp.com/radpatterns.com/wp-content/uploads/2020/04/Photo-Apr-03-11-01-10-AM.jpg?fit=683%2C960&ssl=1",
+  "https://i0.wp.com/radpatterns.com/wp-content/uploads/2020/04/Photo-Apr-03-11-06-04-AM.png?fit=2208%2C1242&ssl=1",
+  "https://i0.wp.com/radpatterns.com/wp-content/uploads/2020/04/Photo-Apr-03-11-01-18-AM.jpg?fit=720%2C960&ssl=1",
+  "https://i0.wp.com/radpatterns.com/wp-content/uploads/2020/04/Photo-Apr-03-11-02-20-AM.jpg?fit=1740%2C1160&ssl=1",
+  "https://i0.wp.com/radpatterns.com/wp-content/uploads/2020/04/Photo-Apr-03-11-02-10-AM.jpg?fit=1740%2C1160&ssl=1",
+  "https://i0.wp.com/radpatterns.com/wp-content/uploads/2020/04/Photo-Apr-03-11-02-14-AM.jpg?fit=1740%2C1160&ssl=1",
+  "https://i0.wp.com/radpatterns.com/wp-content/uploads/2020/04/Photo-Apr-03-11-01-55-AM.jpg?fit=720%2C960&ssl=1",
+  "https://i0.wp.com/radpatterns.com/wp-content/uploads/2020/04/Photo-Apr-03-11-02-57-AM.jpg?fit=1536%2C2048&ssl=1",
+  "https://i0.wp.com/radpatterns.com/wp-content/uploads/2020/04/Photo-Apr-03-11-03-06-AM.jpg?fit=1536%2C2048&ssl=1",
+  "https://i0.wp.com/radpatterns.com/wp-content/uploads/2020/04/Photo-Apr-03-11-01-31-AM.jpg?fit=2048%2C2048&ssl=1",
+  "https://i0.wp.com/radpatterns.com/wp-content/uploads/2020/04/Photo-Apr-03-11-01-43-AM.jpg?fit=2048%2C2048&ssl=1",
+  "https://i0.wp.com/radpatterns.com/wp-content/uploads/2020/04/Photo-Apr-03-11-01-35-AM.jpg?fit=2048%2C2048&ssl=1",
+  "https://i0.wp.com/radpatterns.com/wp-content/uploads/2020/04/Photo-Apr-03-11-02-31-AM.jpg?fit=1740%2C1160&ssl=1",
+  "https://i0.wp.com/radpatterns.com/wp-content/uploads/2020/04/Photo-Apr-03-11-02-26-AM.jpg?fit=1740%2C1160&ssl=1",
+  "https://i0.wp.com/radpatterns.com/wp-content/uploads/2020/04/Photo-Apr-03-11-01-40-AM.jpg?fit=2048%2C2048&ssl=1",
+  "https://i0.wp.com/radpatterns.com/wp-content/uploads/2020/04/Photo-Apr-03-11-02-44-AM.jpg?fit=1740%2C1160&ssl=1"
+]
+technology-readiness-level = "OTRL-2"
+documentation-readiness-level = "ODRL-1"
+cpc-patent-class = "A41D 13/11"
+# tsdc = "MEC/ASM/etc."
+manufacturing-instructions = "https://radpatterns.com/product/surgical-cap-free-pattern/?fbclid=IwAR0BkpHkc-9-_9E7hamOIYLiWskwOpv6CCb4fk5v9SyWYiesjiyLZfsjD9U"
