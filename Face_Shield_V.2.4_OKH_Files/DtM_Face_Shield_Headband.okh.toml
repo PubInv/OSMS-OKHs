@@ -6,7 +6,7 @@ okhv = "OKH-LOSHv1.0"
 name = "DtM_Face_Shield_Headband"
 repo = "https://3d.nih.gov/entries/3dpx-013359"
 version = "3.1"
-license = "Public Domain"
+license = "Unlicense"
 licensor = [
    "Elizabeth Johnson <elizabeth.johansen@olin.edu>",
    "David Packman",
