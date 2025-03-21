@@ -5,7 +5,7 @@
 okhv = "OKH-LOSHv1.0"
 name = "VectorSpace-HQ-Folding-Intubation-Box"
 repo = "https://github.com/VectorSpaceHQ/Folding-Intubation-Box"
-license = "GPL-3.0 License"
+license = "GPL-3.0-only"
 licensor = "Joel Doe <joel.doe@example.com>"
 function = "Flat-pack, foldable intubation box using clear polycarbonate and PVC hinges. Pieces can be cut with CNC or basic woodworking tools."
 documentation-language = "en"
