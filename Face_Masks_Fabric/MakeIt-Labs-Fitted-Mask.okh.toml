@@ -5,7 +5,7 @@
 okhv = "OKH-LOSHv1.0"
 name = "MakeIt-Labs-Fitted-Mask"
 repo = "https://www.makeitlabs.com/fittedmask"
-license = "CC BY 4.0"
+license = "CC-BY-4.0"
 licensor = "MakeIt Labs <info@makeitlabs.com>"
 function = "Non-pleated shaped style mask designed for heat sealing construction with non-woven polypropylene. The medium pattern, when printed at 75% and 90%, can be used for children’s masks."
 documentation-language = "en"
