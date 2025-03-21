@@ -5,7 +5,7 @@
 okhv = "OKH-LOSHv1.0"
 name = "Jersey-City-Face-Shield"
 repo = "https://technochic.net/blogs/tech-craft-tutorials/the-jersey-city-face-shield-project#About"
-license = "Attribution-NonCommercial-ShareAlike CC BY-NC-SA"
+license = "CC-BY-NC-SA-4.0"
 licensor = "Natasha Dzurny <natasha@technochic.net>"
 function = "Face shield made to be reusable and inexpensive. It uses zip ties because they are cheaper, faster to assemble, and will not fall off. The design also includes an optional cover for over the top of the head and tourniquet bands as the elastic."
 documentation-language = "en-US"
