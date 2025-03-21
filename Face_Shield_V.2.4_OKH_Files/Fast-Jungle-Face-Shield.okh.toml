@@ -6,7 +6,7 @@ okhv = "OKH-LOSHv1.0"
 name = "Fast-Jungle-Face-Shield"
 repo = "https://www.dinalab.net/2020/04/01/face-shield/?fbclid=IwAR2D-qJWqaQI9g6vZVTNsU1ZsHlHttXBVa2l-4ZqQxoZgVJnhpjEeIVAmb0"
 version = "1.1"
-license = "Creative Commons Attribution-NonCommercial 4.0"
+license = "CC-BY-NC-4.0"
 licensor = [
    "General <info@dinalab.net>",
    "Kitty Kelly <kitty@dinalab.net>",
