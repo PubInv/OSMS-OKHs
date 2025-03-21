@@ -5,7 +5,7 @@
 okhv = "OKH-LOSHv1.0"
 name = "Liftup-Face-Shield-with-AutoLock"
 repo = "https://www.thingiverse.com/thing:4264137"
-license = "Creative Commons - Attribution"
+license = "CC-BY-4.0"
 licensor = "Hanoch Hemmerich <https://www.thingiverse.com/hanochh/designs>"
 function = "The shield lifts upwards 90 degrees and locks in place. It requires no hole punching."
 documentation-language = "en"
