@@ -5,7 +5,7 @@
 okhv = "OKH-LOSHv1.0"
 name = "Bauhaus-UniVisor"
 repo = "https://github.com/bauhausformandfunctionlab/covid19/tree/master/BauhausUniVisor"
-license = "Creative Commons (4.0 International License) Attribution"
+license = "CC-BY-NC-SA-4.0"
 licensor = "Andreas Mühlenberend <andreas.muehlenberend[at]uni-weimar.de>"
 function = "Flexible laser-cut design with incorporated adjustable fastener. One material necessary, such as PETG or PET film."
 documentation-language = [
