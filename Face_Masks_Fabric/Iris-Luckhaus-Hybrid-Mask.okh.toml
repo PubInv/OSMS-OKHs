@@ -6,7 +6,7 @@ okhv = "OKH-LOSHv1.0"
 name = "Iris-Luckhaus-Hybrid-Mask"
 repo = "https://www.irisluckhaus.de/en/2020/diy-cloth-mask/?fbclid=IwAR21stk43cp6XHZTcjqjxawuMKPDOo8T4kmj4eOeQuMA8oPCJSphIzlzUCs"
 version = "6.0.0"
-license = "Only Non-Commercial Use"
+license = "LicenseRef-NOASSERTION"
 licensor = "Iris Luckhaus <https://www.irisluckhaus.de/en/contact/>"
 function = "Mask making community discussions report that this mask is very comfortable to wear and reduces eyeglass fogging due to the unique nose bridge design. This can be made with elastic or fabric ties and has a pocket for an optional filter placement. The nose bridge wire is easily removed. The pleating is a bit different than other pleated designs, so refer to the highly detailed construction and pictorial tutorials. The No-Sew version has options for a woven or non-woven fabric with staples, paperclips, and elastic as easily sourced materials."
 documentation-language = [
