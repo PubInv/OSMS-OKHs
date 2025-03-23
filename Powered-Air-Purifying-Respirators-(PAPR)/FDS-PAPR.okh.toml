@@ -6,8 +6,8 @@ okhv = "OKH-LOSHv1.0"
 name = "FDS-PAPR"
 repo = "https://github.com/nathanjds001/fdspapr"
 license = [
-   "GNU General Public License v3.0",
-   "CC BY-NC-SA 4.0"
+   "GPL-3.0",
+   "CC-BY-NC-SA-4.0"
 ]
 licensor = "nathanjds001 <https://github.com/nathanjds001>"
 function = "Lightweight, personal PAPR with a low-decibel fan that allows functional speaking and hearing and ear access for stethoscope use. Easily the most impressive open-source PAPR yet, this design incorporates 3DP, simple electronics soldering and sewing for an intermediate-advanced build."
