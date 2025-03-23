@@ -5,7 +5,7 @@
 okhv = "OKH-LOSHv1.0"
 name = "CTC-Isolation-Gown"
 repo = "https://wikifactory.com/+ctc/ctc-isolation-gown"
-license = "BY-NC-SA 4.0"
+license = "CC-BY-NC-SA-4.0"
 licensor = "Dries Verbruggen <https://wikifactory.com/@driesverbruggen>"
 function = "Project files include patterns for industrial and home sewing. This design has an unfinished cuff, with the intention that the end user will modify it to facility needs using a knit fabric cuff or elastic casing (if making a washable gown) or a thumbhole (if making a disposable gown)."
 documentation-language = [
