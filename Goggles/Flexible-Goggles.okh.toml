@@ -5,7 +5,7 @@
 okhv = "OKH-LOSHv1.0"
 name = "Flexible-Goggles"
 repo = "https://www.printables.com/model/59044-flexible-goggles-optimised-for-3dp-print-on-transp"
-license = "CC BY 4.0"
+license = "CC-BY-4.0"
 licensor = "iczfirz <https://www.printables.com/@iczfirz>"
 function = "Features TPU and no nozzle travel or material oozing. Design hugs the face to create a seal, which is more protective than a simple eye shield."
 documentation-language = "en-GB"
