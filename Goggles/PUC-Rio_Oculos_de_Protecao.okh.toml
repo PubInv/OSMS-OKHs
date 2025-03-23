@@ -5,7 +5,7 @@
 okhv = "OKH-LOSHv1.0"
 name = "PUC-Rio_Oculos_de_Protecao"
 repo = "https://drive.google.com/drive/folders/1O5yAkDuu6TZSS_KA0XeO9hOJu2UZJwbH?sort=13&direction=a"
-license = "Creative Commons Attribution-Noncommercial 4.0"
+license = "CC-BY-NC-4.0"
 licensor = "João Azevedo <jvictor@puc-rio.br>"
 function = "Fabrication instructions are in Brazilian Portuguese. Eye shield design featuring a 3DP frame and clear plastic shield."
 documentation-language = [
