@@ -7,7 +7,7 @@ name = "VentMon"
 repo = "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor"
 version = "0.5"
 # This needs to be a valid SPDX [License Expression](https://spdx.github.io/spdx-spec/v2-draft/SPDX-license-expressions/). Usually that is a single SPDX license ID, foudn in the "Identifier" column in this table: https://spdx.org/licenses/
-license = "	AGPL-3.0-only"
+license = "AGPL-3.0-only"
 licensor = "Robert Read <read.robert@gmail.com>"
 function = "VentMon is an open source IoT-enabled spriometer for testing medical ventilators"
 documentation-language = "en-US"
