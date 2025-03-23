@@ -5,7 +5,7 @@
 okhv = "OKH-LOSHv1.0"
 name = "Prusa_Children's_Face_Shield-USA_Version"
 repo = "https://www.printables.com/model/35798-childrens-face-shield-usa-version"
-license = "CC BY-NC 4.0"
+license = "CC-BY-NC-4.0"
 licensor = "Yo-Stuff <https://www.printables.com/@YoStuff_78734>"
 function = "Child-sized version of the Prusa shield, featuring a visor design compatible with an American 3-hole punch."
 documentation-language = "en-US"
