@@ -5,7 +5,7 @@
 okhv = "OKH-LOSHv1.0"
 name = "Sabrina_Lafone_Disposable_Gown_Tech-Pack"
 repo = "https://drive.google.com/drive/folders/11cCivlndHEprOTOcdcpswAFmmX8DlMAN?usp=sharing"
-license = "Fair Use Copyright"
+license = "LicenseRef-NOASSERTION"
 licensor = "Sabrina Lafone <hello@sabrinalafon.com>"
 function = "Pattern and instructions for a single-use disposable gown. Note that wrist elastic binding is optional, a thumbhole could be constructed there as an alternative. When using binding for the neck and belt, make sure it is the same weight as the rest of the gown material, e.g. don’t use a washable cotton binding for a disposable polypropylene gown."
 documentation-language = [
