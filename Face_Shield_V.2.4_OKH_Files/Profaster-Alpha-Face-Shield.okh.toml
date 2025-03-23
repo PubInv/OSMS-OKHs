@@ -6,7 +6,7 @@ okhv = "OKH-LOSHv1.0"
 name = "Profaster-Alpha-Face-Shield"
 repo = "https://www.thingiverse.com/thing:4314285?fbclid=IwAR0vNdbzibLIA8-O982qT9OdbSWV7VYHPRqa2SPIOAsaglPz6H2IYI6TdM0"
 version = "2"
-license = "Creative Commons - Attribution - Non-Commercial - No Derivatives"
+license = "CC-BY-NC-ND-4.0"
 licensor = "PhoenixEquipement <https://www.thingiverse.com/phoenixequipement/designs>"
 function = "Fast printing shield with forehead coverage adaptable to 3DP, laser cutting, and CNC."
 documentation-language = [
