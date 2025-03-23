@@ -5,7 +5,7 @@
 okhv = "OKH-LOSHv1.0"
 name = "UW-DFab_Non-Surgical_Disposable_Isolation_Gown_for_Minimal-to-Low_Barrier_Protection"
 repo = "https://dfab.uw.edu/covid-19-fabrication/gown-assembly-and-production/"
-license = "CC-BY-SA"
+license = "CC-BY-SA-4.0"
 licensor = "Digital Fabrication at UW <dfab@uw.edu>"
 function = "Features a CNC vinyl cutter and 2 mil plastic sheeting. Gowns are intended to meet Level 1 & 2 barrier protection requirements. Post-production gown disinfection may be facility specific- always establish expected requirements from the end user."
 documentation-language = "en"
