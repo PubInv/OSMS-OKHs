@@ -10,7 +10,7 @@ version = "1.0.0"
 license = "LicenseRef-NOASSERTION"
 licensor = "So Sew Easy <https://so-sew-easy.com/contact/>"
 function = "PDF pattern for scrub elastic waist pant sizes from S-3XL. Includes step-by-step instructable for sewing adjustments."
-documentation-language = "en-GB"
+documentation-language = "en"
 organization = "So Sew Easy"
 image = [
   # logo
@@ -41,15 +41,10 @@ technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/00"
 # tsdc = "MEC/ASM/etc." 
-bom = "BoM.csv"
+bom = "https://so-sew-easy.com/unisex-scrubs-pants-pattern/"
 manufacturing-instructions = "https://youtu.be/2P_idySKaiY"
 user-manual = "https://so-sew-easy.com/five-ways-to-disinfect-clothes/"
-source = [
-     "https://payhip.com/b/MwP3",
-     "part_a.scad",
-     "part_b.scad",
-     "params.csv"
-     ]
+source = "https://payhip.com/b/MwP3"
 
 [outer-dimensions]
 # These are the dimensions for pants size S. Depth estimated.
