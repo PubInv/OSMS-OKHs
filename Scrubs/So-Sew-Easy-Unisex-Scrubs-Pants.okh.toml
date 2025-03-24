@@ -4,10 +4,7 @@
 
 okhv = "OKH-LOSHv1.0"
 name = "So-Sew-Easy-Unisex-Scrubs-Pants"
-repo = [
-   "https://so-sew-easy.com/easy-surgical-scrub-top-pattern/",
-   "https://so-sew-easy.com/unisex-scrubs-pants-pattern/"
-]
+repo = "https://so-sew-easy.com/unisex-scrubs-pants-pattern/"
 version = "1.0.0"
 # If none listed, value is LicenseRef-NOASSERTION. The value needs to be a valid SPDX [License Expression](https://spdx.github.io/spdx-spec/v2-draft/SPDX-license-expressions/). Usually that is a single SPDX license ID, foudn in the "Identifier" column in this table: https://spdx.org/licenses/
 license = "LicenseRef-NOASSERTION"
