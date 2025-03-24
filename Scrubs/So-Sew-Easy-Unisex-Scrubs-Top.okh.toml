@@ -1,0 +1,54 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "So-Sew-Easy-Unisex-Scrubs-Top"
+repo = "https://so-sew-easy.com/easy-surgical-scrub-top-pattern/"
+version = "1.0.0"
+license = "LicenseRef-NOASSERTION"
+licensor = "So Sew Easy <https://so-sew-easy.com/contact/>"
+function = "PDF pattern for scrub top. Includes step-by-step instructable for sewing adjustments."
+documentation-language = "en"
+organization = "So Sew Easy"
+image = [
+  # logo
+  "https://so-sew-easy.com/wp-content/uploads/2014/11/New-website-banner-revise2.jpg",
+  # product-photo-top
+  "https://so-sew-easy.com/wp-content/uploads/2020/04/2-2.jpg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/04/IMG_3193-393x650.jpg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/04/IMG_3206-418x650.jpg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/04/IMG_3199-450x650.jpg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/04/Scrub-topPH.jpg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/04/IMG_3159-500x401.jpeg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/04/4-2-500x375.jpg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/04/Untitled-design-4-500x375.jpg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/04/IMG_3162-500x342.jpeg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/04/IMG_3160-500x375.jpeg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/04/IMG_3161-500x375.jpeg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/04/IMG_3164-500x375.jpeg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/04/IMG_3165-500x375.jpeg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/04/IMG_3166-500x375.jpeg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/04/IMG_3167-500x417.jpeg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/04/IMG_3169-500x375.jpeg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/04/1-1-500x375.jpg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/04/Untitled-design-500x375.jpg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/04/Untitled-design-1-500x375.jpg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/04/Untitled-design-2-500x375.jpg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/04/Untitled-design-3-500x375.jpg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/04/Untitled-1-500x375.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A41D 13/00"
+# tsdc = "MEC/ASM/etc." 
+bom = "https://so-sew-easy.com/easy-surgical-scrub-top-pattern/"
+manufacturing-instructions = "https://so-sew-easy.com/easy-surgical-scrub-top-pattern/"
+user-manual = "https://so-sew-easy.com/five-ways-to-disinfect-clothes/"
+source = "https://payhip.com/b/263y"
+
+[outer-dimensions]
+# These are the dimensions for top size S. Depth estimated.
+width = 1066.8
+depth = 25.4
+height = 622.3
