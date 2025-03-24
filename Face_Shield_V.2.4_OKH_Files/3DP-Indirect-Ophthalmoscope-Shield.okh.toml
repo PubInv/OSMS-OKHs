@@ -5,7 +5,7 @@
 okhv = "OKH-LOSHv1.0"
 name = "3DP-Indirect-Ophthalmoscope-Shield"
 repo = "https://makernexuswiki.com/wiki/3D_printed_Indirect_Ophthalmoscope_shields?fbclid=IwAR2krTFmzUo0L729KpnQj9A_BIOEz0LWkAoUiXptsMYAeU3xx-GpTqUxa7Q"
-license = "CC BY-NC-SA 3.0 US"
+license = "CC-BY-NC-SA-3.0-US"
 licensor = "Maker Nexus"
 function = "Shield designed to fit specific versions of Heine ophthalmoscopy headgear."
 documentation-language = "en"
