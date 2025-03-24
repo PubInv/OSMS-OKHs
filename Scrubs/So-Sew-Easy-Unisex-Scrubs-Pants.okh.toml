@@ -1,0 +1,61 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "So-Sew-Easy-Unisex-Scrubs-Pants"
+repo = [
+   "https://so-sew-easy.com/easy-surgical-scrub-top-pattern/",
+   "https://so-sew-easy.com/unisex-scrubs-pants-pattern/"
+]
+version = "1.0.0"
+# If none listed, value is LicenseRef-NOASSERTION. The value needs to be a valid SPDX [License Expression](https://spdx.github.io/spdx-spec/v2-draft/SPDX-license-expressions/). Usually that is a single SPDX license ID, foudn in the "Identifier" column in this table: https://spdx.org/licenses/
+license = "LicenseRef-NOASSERTION"
+licensor = "So Sew Easy <https://so-sew-easy.com/contact/>"
+function = "PDF pattern for scrub elastic waist pant sizes from S-3XL. Includes step-by-step instructable for sewing adjustments."
+documentation-language = "en-GB"
+organization = "So Sew Easy"
+image = [
+  # logo
+  "https://so-sew-easy.com/wp-content/uploads/2014/11/New-website-banner-revise2.jpg",
+  # product-photo-pants
+  "https://so-sew-easy.com/wp-content/uploads/2020/03/2.jpg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3220-379x650.jpg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3208-369x650.jpg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3213-433x650.jpg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/03/Untitled-1.jpg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3189.jpeg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3179-scaled-e1585445728838.jpg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3181.jpeg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3183.jpeg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3184.jpeg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3185.jpeg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3187.jpeg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3192.jpeg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_B800F738ABEE-1.jpeg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/03/Untitled-2.jpg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3196-2-scaled-e1585446146907.jpeg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3197.jpeg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3198.jpeg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3199.jpeg",
+  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3204.jpeg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A41D 13/00"
+# tsdc = "MEC/ASM/etc." 
+bom = "BoM.csv"
+manufacturing-instructions = "https://youtu.be/2P_idySKaiY"
+user-manual = "https://so-sew-easy.com/five-ways-to-disinfect-clothes/"
+source = [
+     "https://payhip.com/b/MwP3",
+     "part_a.scad",
+     "part_b.scad",
+     "params.csv"
+     ]
+
+[outer-dimensions]
+# These are the dimensions for pants size S. Depth estimated.
+width = 914.4
+depth = 25.4
+height = 914.4
