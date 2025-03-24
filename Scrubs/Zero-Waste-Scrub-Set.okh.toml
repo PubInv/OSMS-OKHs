@@ -1,0 +1,53 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Zero-Waste-Scrub-Set"
+repo = "https://decodecodecode.com/ZERO-WASTE-SCRUB-SET"
+version = "3.0.0"
+license = "LicenseRef-NOASSERTION"
+licensor = "Danielle Elsener <https://decode.design/contact-form>"
+function = "Scrub top and scrub pant pattern printable on A3 and A4 paper. Originally designed to address the UK NHS scrub shortage, this sustainable zero-waste layout aligns pattern sections for maximum fabric use."
+documentation-language = "en"
+organization = "Decode Design"
+readme = "https://decode.design/page-b"
+image = [
+  "https://freight.cargo.site/w/350/h/466/i/J1652443001135900651245213790379/SCRUBS_FULL_4.png",
+  "https://freight.cargo.site/w/249/h/464/i/R1652443637696145146814420955307/Screenshot_20211214-104849.png",
+  "https://freight.cargo.site/w/350/h/482/i/H1652445243042494905461859889323/ELSENER_7.jpg",
+  "https://freight.cargo.site/w/300/h/421/i/F1652444124763975669041421824171/ELSENER_SCRUBS.png",
+  "https://freight.cargo.site/w/300/h/400/i/D1652444702608233777993126195371/DECODE_PREP_2.png",
+  "https://freight.cargo.site/w/350/h/449/i/K1652457968436660433627494428843/C8922E8E9670FF02B7B58464CBE2CB6DAE08AC3C.jpg"
+]
+technology-readiness-level = "OTRL-2"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A41D 13/00"
+# tsdc = "MEC/ASM/etc." 
+bom = "https://drive.google.com/file/d/1fL72w-jc-lzq4HqLAt-iya8xHLJMlLqB/view?usp=sharing"
+manufacturing-instructions = "https://drive.google.com/file/d/1fL72w-jc-lzq4HqLAt-iya8xHLJMlLqB/view?usp=sharing"
+source = [
+     "https://drive.google.com/file/d/1V5JVfXNNBxAsP-XdhP6T69_4cDEFxmsF/view?usp=sharing",
+     "https://drive.google.com/file/d/1r_w1EEzHxB-AP08bzVPyGkHu0q22wmfV/view?usp=sharing",
+     "https://drive.google.com/file/d/1SHYiPpuPMgPCYjnyCZAa3KcoFtKaVtOA/view?usp=sharing",
+     "https://drive.google.com/file/d/1hiq5VGNpQJgt5z8CH5yEKPnUJk09PFlg/view?usp=sharing",
+     "https://drive.google.com/file/d/1Con72-Kv_LhU_QEeEi6ZV5Q8xWlDIV-O/view?usp=sharing",
+     "https://drive.google.com/file/d/1bp9ffPcq9GDtZ6rjwCoFoG9PLja_ixzx/view?usp=sharing",
+     "https://drive.google.com/file/d/1U4mJq5DuOkZQZ85sPMZlBKlOMaz7Vwjo/view?usp=sharing",
+     "https://drive.google.com/file/d/12qmLzwuHWs7Z9DjM68W_2Wj52CztUOfg/view?usp=sharing",
+     "https://drive.google.com/file/d/10mep5lSEx5xgsUbCtV3W8ppZuyOp00wf/view?usp=sharing",
+     "https://drive.google.com/file/d/18hthf1ZkBg19h2-fSniIssSmlibC2Ft7/view?usp=sharing",
+     "https://drive.google.com/file/d/1wHb27NOKnuPSvWmQ2Ze4QBG3PHLi26w9/view?usp=sharing",
+     "https://drive.google.com/file/d/1F_NEzvnB6K4x5-NStj7qqFV89UfJZslc/view?usp=sharing",
+     # A4
+     "https://drive.google.com/file/d/1ahf7XPV-Mu6sbgKRiXuXRyxK_pMZhvXb/view?usp=sharing",
+     "https://drive.google.com/file/d/1Nlf5LMyfC3SWXyuaBhV0dxwc0A-cL-yJ/view?usp=sharing",
+     "https://drive.google.com/file/d/1q3sutnQgzsuQJ-aZnkS_0ET9evxXHZFa/view?usp=sharing",
+     "https://drive.google.com/file/d/1tqF1MugMw3uB7AiwzY-jWAHvPjAveMpw/view?usp=sharing"
+]
+
+[outer-dimensions]
+# Dimensions from XS size. Depth estimated.
+width = 540
+depth = 0.1
+height = 1940
