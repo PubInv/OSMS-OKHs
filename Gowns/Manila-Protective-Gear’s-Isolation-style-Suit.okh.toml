@@ -6,6 +6,10 @@ okhv = "OKH-LOSHv1.0"
 name = "Manila-Protective-Gear’s-Isolation-style-Suit"
 repo = "https://drive.google.com/open?id=1-Xr-67gs2qw0o44-hy-INb89I9m-wcLD"
 license = "LicenseRef-NOASSERTION"
+licensor = [
+     "Kendi Maristela",
+     "Mich Dulce"
+]
 function = "This design produces a working isolation suit if seams are sealed. The recommended material is Tyvek 1433R. Please read through the techpack for full construction details based on what kind of machine you have accessible. Dupont has a guide for seaming & sealing Tyvek to itself in order to make sealed seams. See Gown Materials Resource List for information about Tyvek 1222A."
 documentation-language = "en"
 organization = "Manila Protective Gear"
