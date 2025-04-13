@@ -4,10 +4,7 @@
 
 okhv = "OKH-LOSHv1.0"
 name = "Hela-Disposable-Gown"
-repo = [
-   "https://drive.google.com/drive/u/2/folders/1FRvMs0q8EPllUBijbE52-wXz7ee4fI-T",
-   "https://drive.google.com/drive/u/2/folders/13pir2QUJzeY57lpPxIg0RNzn3Pe7jH3z"
-]
+repo = "https://drive.google.com/drive/u/0/folders/1oucDrWkrzXV3u6frnn6d9WZqNB437EFF"
 license = "LicenseRef-NOASSERTION"
 licensor = "Licensor <acrease77@gmail.com>"
 function = "This single-use disposable gown is intended for plastic-based fabric such as 1mil or 2mil plastic sheeting and non-woven polypropylene. It is based on the most commercially accepted isolation gown patterns from Medline, Kimberly Clark, and Cardinal Health. This design has been specially modified to improve staff wearability by thumbhole adjustment and increasing the underarm fabric area. Use the Folding Guide and Folding Board to prep your gowns correctly for staff, i.e. they must be folded this way so staff insert their hands into the interior sleeve area when opening a gown package. This is a very important step. Use the Instructable to map out a production line for several different fabric widths, equipment and pattern choices, including a slide presentation for a CNC template. Use the gown sticker as inspiration for making your own organization graphic to label packaged gowns for delivery."
