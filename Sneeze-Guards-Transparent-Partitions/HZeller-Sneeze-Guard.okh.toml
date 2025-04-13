@@ -1,0 +1,40 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "HZeller-Sneeze-Guard"
+repo = "https://github.com/hzeller/sneeze-guard"
+license = "LicenseRef-NOASSERTION"
+licensor = "Henner Zeller <h.zeller@acm.org>"
+function = "Acrylic table divider with surface anchoring supports."
+documentation-language = "en"
+organization = "hzeller"
+# In the case of no releases, can link to the latest commit.
+release = "https://github.com/hzeller/sneeze-guard/commit/1cb03d3d0bf6cad3832baf9fce57112b9ba51711"
+readme = "https://github.com/hzeller/sneeze-guard#"
+image = [
+  "https://github.com/hzeller/sneeze-guard/blob/master/img/sneeze-guard-build-2table.png",
+  "https://github.com/hzeller/sneeze-guard/blob/master/img/sneeze-guard.png"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+# A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
+cpc-patent-class = "A47F 5/00"
+# tsdc = "MEC/ASM/etc." 
+manufacturing-instructions = "https://github.com/hzeller/sneeze-guard/blob/master/sneeze-guard.scad"
+source = [
+     "https://github.com/hzeller/sneeze-guard/blob/master/.gitignore",
+     "https://github.com/hzeller/sneeze-guard/blob/master/L-pieces.3mf",
+     "https://github.com/hzeller/sneeze-guard/blob/master/L-pieces_0.3mm_PETG_MK3S.gcode",
+     "https://github.com/hzeller/sneeze-guard/blob/master/Makefile",
+	 "https://github.com/hzeller/sneeze-guard/blob/master/center-enhancer.3mf",
+     "https://github.com/hzeller/sneeze-guard/blob/master/center-enhancer_0.3mm_PETG_MK3S.gcode",
+     "https://github.com/hzeller/sneeze-guard/blob/master/long_support.3mf",
+     "https://github.com/hzeller/sneeze-guard/blob/master/long_support_0.3mm_PETG_MK3S.gcode",
+     "https://github.com/hzeller/sneeze-guard/blob/master/one-sneeze-guard.3mf",
+     "https://github.com/hzeller/sneeze-guard/blob/master/one-sneeze-guard_0.3mm_PETG_MK3S.gcode",
+     "https://github.com/hzeller/sneeze-guard/blob/master/sneeze-guard.3mf",
+     "https://github.com/hzeller/sneeze-guard/blob/master/sneeze-guard.scad",
+     "https://github.com/hzeller/sneeze-guard/blob/master/sneeze-guard_0.3mm_PETG_MK3S.gcode"
+     ]
