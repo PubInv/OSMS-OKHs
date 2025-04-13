@@ -1,0 +1,33 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "UW-DFab_Shoe_Cover"
+repo = "https://3d.nih.gov/entries/3DPX-014692"
+version = "1.0.0"
+license = "CC-BY-SA-4.0"
+licensor = "Jeffrey Lipton <https://3d.nih.gov/users/jeffreyilipton>"
+function = "DXF and PDF files for mass production of a disposable SMS or polypropylene."
+documentation-language = "en-US"
+organization = "National Institute of Allergy and Infectious Diseases"
+readme = "https://3d.nih.gov/entries/download/14692/2"
+image = [
+  # logo
+  "https://3d.nih.gov/images/niaid-logo-white.svg",
+  # product-photo
+  "https://3d.nih.gov/api/submissions/19236/files/input/416659",
+  "https://3d.nih.gov/api/submissions/19236/files/input/416655"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A43B 3/00"
+tsdc = "ASM" 
+manufacturing-instructions = "https://3d.nih.gov/api/submissions/19236/files/input/416657"
+source = [
+     "https://3d.nih.gov/api/submissions/19236/files/input/416653",
+     "https://3d.nih.gov/api/submissions/19236/files/input/416657",
+     "https://3d.nih.gov/api/submissions/19236/files/input/416654",
+     "https://3d.nih.gov/api/submissions/19236/files/input/416656",
+     "https://3d.nih.gov/api/submissions/19236/files/input/416658"
+]
