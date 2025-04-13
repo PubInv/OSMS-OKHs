@@ -4,11 +4,7 @@
 
 okhv = "OKH-LOSHv1.0"
 name = "EPAM-Continuum-GENTL-Mask"
-repo = [
-   "https://solutionshub.epam.com/solution/epam-gentl-face-mask",
-   "https://drive.google.com/drive/folders/1KuoJeEBToZh5dw8I54Ip9GklcJ5swzzV",
-   "https://drive.google.com/file/d/12tLkwZiPgyj7NeeM11CQ21U_FzxI230n/view"
-]
+repo = "https://solutionshub.epam.com/solution/epam-gentl-face-mask"   
 version = "2.0.0"
 # If none listed, value is LicenseRef-NOASSERTION. The value needs to be a valid SPDX [License Expression](https://spdx.github.io/spdx-spec/v2-draft/SPDX-license-expressions/). Usually that is a single SPDX license ID, foudn in the "Identifier" column in this table: https://spdx.org/licenses/
 license = "LicenseRef-NOASSERTION"
@@ -17,7 +13,10 @@ function = "The non-woven filtered version can be rapidly produced by heat bondi
 documentation-language = "en"
 organization = "EPAM Continuum"
 release = "https://drive.google.com/file/d/1qUaq8ebHcI862l_TDIAOUIdNPZ2I2Vr1/view?usp=sharing"
-readme = "https://epamsolutions.a.bigcontent.io/v1/static/GENTL_Mask_Presentation"
+readme = [
+   "https://epamsolutions.a.bigcontent.io/v1/static/GENTL_Mask_Presentation",
+   "https://drive.google.com/drive/folders/1KuoJeEBToZh5dw8I54Ip9GklcJ5swzzV"
+]
 image = [
   # logo
   "https://classic.cdn.media.amplience.net/i/epammarketplace/GENTL_Logo_Final?w=96&v=596798141487",
