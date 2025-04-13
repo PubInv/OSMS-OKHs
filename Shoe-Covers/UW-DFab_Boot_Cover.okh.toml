@@ -1,0 +1,37 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "UW-DFab_Boot_Cover"
+repo = "https://3dprint.nih.gov/discover/3dpx-014691"
+version = "2.0.0"
+license = "CC-BY-SA-4.0"
+licensor = "Jeffrey Lipton <https://3d.nih.gov/users/jeffreyilipton>"
+function = "Disposable boot cover with elastic sewn to ankle and knee points. Files intended for mass production."
+documentation-language = "en-US"
+organization = "National Institute of Allergy and Infectious Diseases"
+readme = "https://3d.nih.gov/entries/download/14691/2"
+image = [
+  # logo
+  "https://3d.nih.gov/images/niaid-logo-white.svg",
+  # product-photo
+  "https://3d.nih.gov/api/submissions/19234/runs/167a9a9e-edc6-429e-949f-8565a83138c1/output-files/Boot%2520Cover%2520upper_thumb_NIH3D.png",
+  "https://3d.nih.gov/api/submissions/19234/runs/b99c866a-c78f-4e1a-a731-dcdddeeb60d9/output-files/Boot%2520Cover%2520foot_thumb_NIH3D.png",
+  "https://3d.nih.gov/api/submissions/19234/files/input/416627",
+  "https://3d.nih.gov/api/submissions/19234/files/input/416632",
+  "https://3d.nih.gov/api/submissions/19234/files/input/416628"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A43B 3/00"
+tsdc = "ASM"
+manufacturing-instructions = "https://3d.nih.gov/api/submissions/19234/files/input/416636"
+source = [
+     "https://3d.nih.gov/api/submissions/19234/files/input/416629",
+     "https://3d.nih.gov/api/submissions/19234/files/input/416630",
+     "https://3d.nih.gov/api/submissions/19234/files/input/416631",
+     "https://3d.nih.gov/api/submissions/19234/files/input/416633",
+     "https://3d.nih.gov/api/submissions/19234/files/input/416636",
+     "https://3d.nih.gov/api/submissions/19234/files/input/416639"
+]
