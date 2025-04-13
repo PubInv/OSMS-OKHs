@@ -3,41 +3,38 @@
 # SPDX-License-Identifier: CC0-1.0
 
 okhv = "OKH-LOSHv1.0"
-name = "Hello-Sewing-Child-Masks"
-repo = "https://hellosewing.com/kids-face-mask-template/?fbclid=IwAR19sHzuef7QBVcyCVJxHxuYXHw-WBkY7mhmT1mmko5OwlR0hPwO4lX7qIs"
+name = "Hello-3D-Face-Mask"
+repo = "https://hellosewing.com/3d-face-mask-diy/?fbclid=IwAR0lFcHea11VMDZNYNeSL0HXyzDGUkqg4NOHrQetOmOQdI_VJMZrg7su7EI"
 license = "LicenseRef-NOASSERTION"
 licensor = "Helen Spencer <https://hellosewing.com/about-and-contact/>"
-function = "Box pleated, two-layer fabric design with three pattern sizes for children 2 years old to teenager."
+function = "Design stands away from the face and features options for a filter pocket, nose bridge support, and elastic ear loops."
 documentation-language = "en"
 organization = "Hello Sewing"
-readme = "https://hellosewing.com/kids-face-mask-template/?fbclid=IwAR19sHzuef7QBVcyCVJxHxuYXHw-WBkY7mhmT1mmko5OwlR0hPwO4lX7qIs#How_to_make_kids_face_mask"
+readme = "https://hellosewing.com/3d-face-mask-diy/#How_to_make_3d_face_mask"
 image = [
   # logo
   "https://hellosewing.com/wp-content/uploads/hellosewing-logo-lq.jpg",
   # product-photo
-  "https://hellosewing.com/wp-content/uploads/kids-face-mask-featured-680x510.jpg",
-  "https://hellosewing.com/wp-content/uploads/kids-face-mask-finished.jpg",
-  "https://hellosewing.com/wp-content/uploads/kids-face-mask-materials.jpg",
-  "https://hellosewing.com/wp-content/uploads/kids-face-mask-tshirt-ties.jpg",
-  "https://hellosewing.com/wp-content/uploads/kids-face-mask-layering.jpg",
-  "https://hellosewing.com/wp-content/uploads/kids-face-mask-pinned-marked.jpg",
-  "https://hellosewing.com/wp-content/uploads/kids-face-mask-nose-wire.jpg",
-  "https://hellosewing.com/wp-content/uploads/kids-face-mask-pleats.jpg",
-  "https://hellosewing.com/wp-content/uploads/kids-face-mask21.jpg",
-  "https://hellosewing.com/wp-content/uploads/kids-face-masks-side-view.jpg"
+  "https://hellosewing.com/wp-content/uploads/3d-facemask-featured.jpg",
+  "https://hellosewing.com/wp-content/uploads/IMG_20200629_174436.jpg",
+  "https://hellosewing.com/wp-content/uploads/3d-facemask.jpg",
+  "https://hellosewing.com/wp-content/uploads/3d-facemask5.jpg",
+  "https://hellosewing.com/wp-content/uploads/3d-facemask6.jpg",
+  "https://hellosewing.com/wp-content/uploads/3d-facemask9.jpg",
+  "https://hellosewing.com/wp-content/uploads/3d-facemask15.jpg",
+  "https://hellosewing.com/wp-content/uploads/3d-facemask18.jpg",
+  "https://hellosewing.com/wp-content/uploads/3d-face-mask-90degrees.jpg",
+  "https://hellosewing.com/wp-content/uploads/3d-facemask20.jpg",
+  "https://hellosewing.com/wp-content/uploads/IMG_20200629_175200-1536x1152.jpg",
+  "https://hellosewing.com/wp-content/uploads/3d-face-mask-pin1.jpg"
 ]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
 # tsdc = "MEC/ASM/etc." 
-bom = "https://hellosewing.com/kids-face-mask-template/?fbclid=IwAR19sHzuef7QBVcyCVJxHxuYXHw-WBkY7mhmT1mmko5OwlR0hPwO4lX7qIs#Supplies_and_tools"
+bom = "https://hellosewing.com/3d-face-mask-diy/#3D_Mask_Supplies_and_tools"
 manufacturing-instructions = [
-   "https://youtu.be/LuqJ-T8lij4",
-   "https://hellosewing.com/kids-face-mask-template/?fbclid=IwAR19sHzuef7QBVcyCVJxHxuYXHw-WBkY7mhmT1mmko5OwlR0hPwO4lX7qIs#INSTRUCTIONS"
+   "https://hellosewing.com/3d-face-mask-diy/#3D_FACE_MASK_INSTRUCTIONS",
+   "https://www.youtube.com/watch?v=qjqweGdyDuA"
 ]
-
-[outer-dimensions]
-# Based off size large (teens). Depth estimated.
-width = 203.2
-depth = 76.2
-height = 152.4
+source = "https://deft-designer-6802.ck.page/698a0c7d84"
