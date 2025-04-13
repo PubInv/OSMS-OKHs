@@ -5,7 +5,7 @@
 okhv = "OKH-LOSHv1.0"
 name = "Metal-Nose-Bridge-Support"
 repo = "http://web.archive.org/web/20200804170222/https://learnmaketeachshare.org/mask/2020/04/21/making-nose-strips.for-people-sewing-masks.html"
-license = "LicenseRef-NOASSERTIONr"
+license = "LicenseRef-NOASSERTION"
 licensor = "Stephen Bannasch <stephen.bannasch@gmail.com>"
 function = "Clear instructions for making metal mask nose strips out of galvanized steel sheeting. These strips may be used for cloth mask making or as support for commercial grade N95 or KN95 nose bridges, depending on facility needs."
 documentation-language = "en"
