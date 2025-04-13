@@ -10,6 +10,10 @@ Members of the project team discussed the OKH formatting and exceptions to accom
 
 Completed conversion of the OSH registry to the OKH format. Validated existing files with the krawler, then tweaked the template and files in accordance with feedback. Continued creation of OKH files working through the OSMS Project Library. 
 
+**March 2025**
+
+Project folders including Aerosol Boxes, Ear Savers & Nose Bridge Supports, Face Masks Fabric, Face Shields, Goggles, Gowns, N95 Respirators, Powered Air Purifying Respirators (PAPR), Scrub Caps, and Scrubs were uploaded to the Open Source searchable database.
+
 ## Important notes:
   * These are .toml files. If interested in learning more, check out this link:[TOML](https://toml.io/en/)
   * This project is in partnership with both [Public Invention](https://www.pubinv.org/volunteer/) and [OSMS](https://opensourcemedicalsupplies.org/), with collaboration from members of [OSEGermany](https://gitlab.com/OSEGermany). Check out their websites if you would like to get involved in similar projects.
