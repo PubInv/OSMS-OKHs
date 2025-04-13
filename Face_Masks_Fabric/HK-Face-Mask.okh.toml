@@ -4,10 +4,7 @@
 
 okhv = "OKH-LOSHv1.0"
 name = "HK-Face-Mask"
-repo = [
-   "https://youtu.be/ZusqX4Cfa3w",
-   "https://drive.google.com/drive/folders/1MVJY4mwtFCFEMFlf3zx3yg_dJpbD4pNG?fbclid=IwAR3MY8TfjfKro1EwKBaGESBMjM53daExrKJo99bEcNSKPXMswW2kpehwfZE"
-]
+repo = "https://drive.google.com/drive/folders/1MVJY4mwtFCFEMFlf3zx3yg_dJpbD4pNG?fbclid=IwAR3MY8TfjfKro1EwKBaGESBMjM53daExrKJo99bEcNSKPXMswW2kpehwfZE"
 license = "LicenseRef-NOASSERTION"
 licensor = "Dr. K Kwong <https://www.youtube.com/@sewonstudio401>"
 function = "This design does not incorporate pleats, which may allow for more rapid production. The addition of a filter is optional, as well as wire nose bridge support. This design may be useful as a protective cover for the dome-shaped N95 mask. OSMS recommends using non-latex elastic or more preferably fabric ties if donating to healthcare workers. The DXF files can be used to make a manual fabric cutting template or one for laser cutting fabric."
@@ -26,7 +23,7 @@ bom = [
    "https://youtu.be/ZusqX4Cfa3w?t=8",
    "https://youtu.be/ZusqX4Cfa3w?t=21"
 ]
-manufacturing-instructions = "https://youtu.be/ZusqX4Cfa3w?t=72"
+manufacturing-instructions = "https://youtu.be/ZusqX4Cfa3w"
 user-manual = "https://www.youtube.com/watch?v=bttYhG1laJk"
 source = [
     "https://drive.google.com/file/d/1-n7STq86N49tSGerCVExY4IT7orLUybH/view?usp=sharing",
