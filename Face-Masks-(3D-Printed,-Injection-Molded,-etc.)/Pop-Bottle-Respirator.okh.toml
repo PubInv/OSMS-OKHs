@@ -1,0 +1,39 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Pop-Bottle-Respirator"
+repo = "https://www.thingiverse.com/thing:4310969"
+license = "CC-BY-4.0"
+licensor = "Christian Hanson <https://www.thingiverse.com/crhsculpt/designs>"
+function = "Mask body fabricated from a clear soda bottle top, finished with 3DP attachments. Allows for various filter materials."
+documentation-language = "en"
+organization = "Thingiverse"
+readme = "https://www.thingiverse.com/thing:4310969"
+image = [
+  "https://cdn.thingiverse.com/assets/43/f3/14/99/24/medium_preview_RespiratorSide.jpg",
+  "https://cdn.thingiverse.com/assets/9b/40/92/d3/3c/medium_preview_RespiratorParts.jpg",
+  "https://cdn.thingiverse.com/assets/05/40/28/88/f5/medium_preview_RespiratorInside.jpg",
+  "https://cdn.thingiverse.com/assets/dd/46/4f/33/15/large_display_DIYRespirator.jpg",
+  "https://cdn.thingiverse.com/assets/87/9a/f7/6d/83/medium_preview_2373C37F-20C2-422C-8C95-CCB9829F1B7E.jpeg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A62B 7/00"
+tsdc = "3DP" 
+bom = "https://www.thingiverse.com/thing:4310969"
+manufacturing-instructions = "https://www.thingiverse.com/thing:4310969"
+source = [
+     "https://www.thingiverse.com/download:8060489",
+     "https://www.thingiverse.com/download:8060487",
+     "https://www.thingiverse.com/download:8066744",
+     "https://www.thingiverse.com/download:8060487",
+     "https://www.thingiverse.com/download:8066743",
+     "https://www.thingiverse.com/download:8066742",
+     "https://www.thingiverse.com/download:8246077",
+     "https://www.thingiverse.com/download:8246078",
+     "https://www.thingiverse.com/download:8250700",
+     "https://www.thingiverse.com/download:8250699",
+     "https://www.thingiverse.com/download:8250701"
+]
