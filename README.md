@@ -12,7 +12,19 @@ Completed conversion of the OSH registry to the OKH format. Validated existing f
 
 **March 2025**
 
-Project folders including Aerosol Boxes, Ear Savers & Nose Bridge Supports, Face Masks Fabric, Face Shields, Goggles, Gowns, N95 Respirators, Powered Air Purifying Respirators (PAPR), Scrub Caps, and Scrubs were uploaded to the Open Source searchable database.
+The following project folders were uploaded to the Open Source searchable database:
+* Aerosol Boxes
+* Ear Savers & Nose Bridge Supports
+* Face Masks Fabric
+* Face Shields
+* Goggles
+* Gowns
+* N95 Respirators
+* Powered Air Purifying Respirators (PAPR)
+* Scrub Caps
+* Scrubs
+
+Additionally, licenses and duplicate repositories were fixed.
 
 ## Important notes:
   * These are .toml files. If interested in learning more, check out this link:[TOML](https://toml.io/en/)
