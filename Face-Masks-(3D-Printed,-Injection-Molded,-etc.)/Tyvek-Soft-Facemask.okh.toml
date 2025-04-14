@@ -1,0 +1,41 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Tyvek-Soft-Facemask"
+repo = "https://www.thingiverse.com/thing:4257706?fbclid=IwAR3kf1TPndvgbJBko3u5LhUB-mfFUCDu01khFlNCN21vBMrifof3LLYPakg#google_vignette"
+version = "2.0.0"
+license = "CC-BY-4.0"
+licensor = "Mark Gaponoff <https://www.thingiverse.com/boring_pilot/designs>"
+function = "Tyvek mask body with 3DP filter attachments."
+documentation-language = "en-US"
+organization = "National Institute of Allergy and Infectious Diseases"
+readme = "https://3d.nih.gov/entries/download/13519/2"
+image = [
+  # logo
+  "https://3d.nih.gov/images/niaid-logo-white.svg",
+  # product-photo
+  "https://3d.nih.gov/api/submissions/17480/files/input/387118",
+  "https://3d.nih.gov/api/submissions/17480/files/input/387122",
+  "https://3d.nih.gov/api/submissions/17480/files/input/387128",
+  "https://3d.nih.gov/api/submissions/17480/files/input/387133",
+  "https://3d.nih.gov/api/submissions/17480/files/input/387123"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A41D 13/11"
+tsdc = "3DP" 
+bom = "https://3d.nih.gov/api/submissions/17480/files/input/387117"
+manufacturing-instructions = "https://3d.nih.gov/api/submissions/17480/files/input/387117"
+source = [
+     "https://3d.nih.gov/api/submissions/17480/files/input/387131",
+     "https://www.thingiverse.com/download:7922388",
+     "https://www.thingiverse.com/download:7922388",
+     "https://www.thingiverse.com/download:7939884",
+     "https://www.thingiverse.com/download:7993815",
+     "https://www.thingiverse.com/download:8109926",
+     "https://www.thingiverse.com/download:8164725",
+     "https://www.thingiverse.com/download:7922389",
+     "https://www.thingiverse.com/download:8109930"
+]
