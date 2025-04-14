@@ -1,0 +1,35 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "William-Hess-Silicone-Mask"
+repo = "https://www.thingiverse.com/thing:4400671?fbclid=IwAR2hN0pHC6mzHgXtjWogrYUOWLP4o_3rrZZL5AnJrq1PTZk_nRuOpZu7jmA"
+license = "CC-BY-4.0"
+licensor = "William Hess <https://www.thingiverse.com/uglyrobe/designs>"
+function = "Three-part 3DP mold for a bi-vent silicone mask. This design will require advanced knowledge of silicone pouring and molding fabrication."
+documentation-language = "en"
+organization = "Thingiverse"
+readme = "https://www.thingiverse.com/thing:4400671?fbclid=IwAR2hN0pHC6mzHgXtjWogrYUOWLP4o_3rrZZL5AnJrq1PTZk_nRuOpZu7jmA"
+image = [
+  "https://cdn.thingiverse.com/assets/10/8a/46/6a/c0/large_display_00000IMG_00000_BURST20200522114218282_COVER.jpg",
+  "https://cdn.thingiverse.com/assets/64/d7/24/61/47/large_display_00100dPORTRAIT_00100_BURST20200522113232001_COVER.jpg",
+  "https://cdn.thingiverse.com/assets/6b/5d/2d/0f/d2/large_display_00100dPORTRAIT_00100_BURST20200522113144061_COVER.jpg",
+  "https://cdn.thingiverse.com/assets/18/81/2f/c5/9c/large_display_IMG_20200522_113526.jpg",
+  "https://cdn.thingiverse.com/assets/1a/cb/f3/ae/45/large_display_IMG_20200522_093448.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A41D 13/11"
+tsdc = "3DP"
+bom = "https://www.thingiverse.com/thing:4400671?fbclid=IwAR2hN0pHC6mzHgXtjWogrYUOWLP4o_3rrZZL5AnJrq1PTZk_nRuOpZu7jmA"
+manufacturing-instructions = "https://www.thingiverse.com/thing:4400671?fbclid=IwAR2hN0pHC6mzHgXtjWogrYUOWLP4o_3rrZZL5AnJrq1PTZk_nRuOpZu7jmA"
+source = [
+     "https://www.thingiverse.com/download:8268425",
+     "https://www.thingiverse.com/download:8268424",
+     "https://www.thingiverse.com/download:8268415",
+     "https://www.thingiverse.com/download:8268418",
+     "https://www.thingiverse.com/download:8268416",
+     "https://www.thingiverse.com/download:8268414",
+     "https://www.thingiverse.com/download:8268417"
+]
