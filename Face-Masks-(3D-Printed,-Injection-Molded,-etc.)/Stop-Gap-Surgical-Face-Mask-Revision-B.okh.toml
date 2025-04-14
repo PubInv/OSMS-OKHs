@@ -1,0 +1,45 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Stop-Gap-Surgical-Face-Mask-Revision-B"
+repo = "https://3d.nih.gov/entries/3DPX-014168"
+version = "2.0.0"
+license = "CC-BY-4.0"
+licensor = "VHA Innovation Ecosystem <https://3d.nih.gov/users/vha-innovation-ecosystem>"
+function = "This mask should only be printed with Multi-Jet Fusion (MJF) or Selective Laser Sintering (SLS) technologies using powder-bed nylon."
+documentation-language = "en-US"
+organization = "National Institute of Allergy and Infectious Diseases"
+readme = "https://3d.nih.gov/entries/download/14168/2"
+image = [
+  # logo
+  "https://3d.nih.gov/images/niaid-logo-white.svg",
+  # product-photo
+  "https://3d.nih.gov/api/submissions/18486/files/input/401165",
+  "https://3d.nih.gov/api/submissions/18486/runs/0bf72843-72da-49de-8b10-4c26118fa844/output-files/SFM%2520RevB%2520Small_thumb_NIH3D.png",
+  "https://3d.nih.gov/api/submissions/18486/runs/2a2e80e7-5a4c-4939-bd44-991c8b93385d/output-files/SFM%2520RevB%2520Large_thumb_NIH3D.png",
+  "https://3d.nih.gov/api/submissions/18486/runs/8e1f6ddb-ac6d-4e79-a364-ae9c8fbc2636/output-files/SFM%2520RevB%2520Medium_thumb_NIH3D.png",
+  "https://3d.nih.gov/api/submissions/18486/runs/99cf4c29-9b58-4100-9be1-5bd2bc202056/output-files/SFM%2520RevG%2520Cover_thumb_NIH3D.png"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A41D 13/11"
+tsdc = "3DP"
+bom = "https://3d.nih.gov/api/submissions/18486/files/input/401147"
+manufacturing-instructions = [
+   "https://3d.nih.gov/api/submissions/18486/files/input/401153",
+   "https://3d.nih.gov/api/submissions/18486/files/input/401160",
+   "https://3d.nih.gov/api/submissions/18486/files/input/401161",
+   "https://3d.nih.gov/api/submissions/18486/files/input/401163"
+]
+user-manual = "https://3d.nih.gov/api/submissions/18486/files/input/401164"
+source = [
+     "https://3d.nih.gov/api/submissions/18486/files/input/401157",
+     "https://3d.nih.gov/api/submissions/18486/files/input/401162",
+     "https://3d.nih.gov/api/submissions/18486/files/input/401150",
+     "https://3d.nih.gov/api/submissions/18486/files/input/401154",
+     "https://3d.nih.gov/api/submissions/18486/files/input/401159",
+     "https://3d.nih.gov/api/submissions/18486/files/input/401167",
+     "https://3d.nih.gov/api/submissions/18486/files/input/567634"
+]
