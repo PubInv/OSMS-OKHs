@@ -1,0 +1,84 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Design-Antivirus-Neoprene-Face-Mask"
+repo = "https://www.instructables.com/id/%C3%8APA-the-Covi-19-Safe-Face-Mask/?fbclid=IwAR34a9TH73ZIzPAA2neLGT_4ROMMssWVCiViissAFcauvsAv8xKilltw5hs"
+license = "CC-BY-NC-SA-4.0"
+licensor = "Pedro Zohrer <https://www.instructables.com/assets/svg/message-24x24.svg>"
+function = "Form-fitting design featuring a neoprene or E.V.A foam shell with a bi-vent made from large curtain eyelets. Mask can be cleaned with soap and water or alcohol-based solutions. Designed for tight-sealing comfort with toggle-adjusted elastic ties."
+documentation-language = "en"
+organization = "AutoDesk Instructables"
+release = "https://youtu.be/kEAQ2Vj_IFQ"
+readme = "https://www.instructables.com/%C3%8APA-the-Covi-19-Safe-Face-Mask/?fbclid=IwAR34a9TH73ZIzPAA2neLGT_4ROMMssWVCiViissAFcauvsAv8xKilltw5hs"
+image = [
+  # logo
+  "https://www.instructables.com/assets/img/instructables-logo-2023.svg",
+  # product-photo
+  "https://content.instructables.com/FDA/1G4O/KAPD1HBD/FDA1G4OKAPD1HBD.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wNS0yNyAwOTozMDo1MC4w",
+  "https://content.instructables.com/FTC/1HI0/KAWI8CBP/FTC1HI0KAWI8CBP.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wNi0wMSAwODowMDowOC4w",
+  "https://content.instructables.com/FDL/7SA1/KAWI8CJ9/FDL7SA1KAWI8CJ9.jpg?auto=webp&frame=1&fit=bounds&md=MjAyMC0wNi0wMSAwODowMDoyMS4w",
+  "https://content.instructables.com/FQR/O8ES/KAQSHO3F/FQRO8ESKAQSHO3F.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wNS0yOCAxMToxMTowMS4w",
+  "https://content.instructables.com/FDF/PYON/KAQSHOOC/FDFPYONKAQSHOOC.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wNS0yOCAxMTozMDowNS4w",
+  "https://content.instructables.com/FTI/8Z8E/KAQSHO7H/FTI8Z8EKAQSHO7H.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wNS0yOCAxMToyMDoyNi4w",
+  "https://content.instructables.com/FAL/JCZ9/KAPPFZH2/FALJCZ9KAPPFZH2.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wNS0yOCAwNjowMDoyOC4w",
+  "https://content.instructables.com/F67/J2Q2/KAQSHO3Q/F67J2Q2KAQSHO3Q.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wNS0yOCAxMToxMTowNC4w",
+  "https://content.instructables.com/F4U/J2P4/KAPD1HBE/F4UJ2P4KAPD1HBE.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wNS0yNyAwOTozMDo1Mi4w",
+  "https://content.instructables.com/FRJ/RJNY/KAPPEO34/FRJRJNYKAPPEO34.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wNS0yNyAxMjo0MDozNy4w",
+  "https://content.instructables.com/FFH/XBJ7/KAPPFZH4/FFHXBJ7KAPPFZH4.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wNS0yOCAwNjowMDoyOC4w",
+  "https://content.instructables.com/FU3/D7VD/KAPPFZI2/FU3D7VDKAPPFZI2.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wNS0yOCAwNjowMDoyOS4w",
+  "https://content.instructables.com/FML/0UPC/KAPPFZI3/FML0UPCKAPPFZI3.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wNS0yOCAwNjoxMDowMS4w",
+  "https://content.instructables.com/FAG/YSA9/KAQSGY3N/FAGYSA9KAQSGY3N.jpg?auto=webp&frame=1&fit=bounds&md=MjAyMC0wNS0yOCAwNjoxMDo0NS4w",
+  "https://content.instructables.com/F52/BNSE/KAQSHOU3/F52BNSEKAQSHOU3.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wNS0yOCAxMTozMDoxNy4w",
+  "https://content.instructables.com/FTX/BC3L/KAQSH0SB/FTXBC3LKAQSH0SB.jpg?auto=webp&frame=1&fit=bounds&md=MjAyMC0wNS0yOCAwNjo0MDo0Ni4w",
+  "https://content.instructables.com/F4Y/F19X/KAPPEYTC/F4YF19XKAPPEYTC.jpg?auto=webp&frame=1&fit=bounds&md=MjAyMC0wNS0yNyAxODowMDoyNi4w",
+  "https://content.instructables.com/F88/12YQ/KAPPEYTI/F8812YQKAPPEYTI.jpg?auto=webp&frame=1&fit=bounds&md=MjAyMC0wNS0yNyAxODowMDoyOC4w",
+  "https://content.instructables.com/FKK/JJF9/KAPPEYVG/FKKJJF9KAPPEYVG.jpg?auto=webp&frame=1&fit=bounds&md=MjAyMC0wNS0yNyAxODowMDoyOS4w",
+  "https://content.instructables.com/F2J/L774/KAQSH5BB/F2JL774KAQSH5BB.jpg?auto=webp&frame=1&fit=bounds&md=MjAyMC0wNS0yOCAwNzozMDoxMy4w",
+  "https://content.instructables.com/F2I/D4B7/KAPPEYWS/F2ID4B7KAPPEYWS.jpg?auto=webp&frame=1&fit=bounds&md=MjAyMC0wNS0yNyAxODowMDozMS4w",
+  "https://content.instructables.com/F9A/C9W5/KAPPEYWR/F9AC9W5KAPPEYWR.jpg?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMC0wNS0yNyAxODowMDozMC4w",
+  "https://content.instructables.com/FAC/WB4Y/KAPPEXYW/FACWB4YKAPPEXYW.jpg?auto=webp&frame=1&fit=bounds&md=MjAyMC0wNS0yNyAxNzo0MDoxNC4w",
+  "https://content.instructables.com/FVE/W0GX/KAPPEYXH/FVEW0GXKAPPEYXH.jpg?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMC0wNS0yNyAxODowMDozMi4w",
+  "https://content.instructables.com/F0A/OBQ5/KAPPEYXI/F0AOBQ5KAPPEYXI.jpg?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMC0wNS0yNyAxODowMDozMy4w",
+  "https://content.instructables.com/FNM/55R4/KAPPEY3W/FNM55R4KAPPEY3W.jpg?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMC0wNS0yNyAxNzo1MDoxMS4w",
+  "https://content.instructables.com/FAU/LOGW/KAPPEYXL/FAULOGWKAPPEYXL.jpg?auto=webp&frame=1&height=1024&fit=bounds&md=MjAyMC0wNS0yNyAxODowMDozNi4w",
+  "https://content.instructables.com/F3T/ILYU/KAPD19XU/F3TILYUKAPD19XU.jpg?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMC0wNS0yNyAwODoxMToyMC4w",
+  "https://content.instructables.com/FB8/X0GP/KAQSH4LX/FB8X0GPKAQSH4LX.jpg?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMC0wNS0yOCAwNzoyMTowOC4w",
+  "https://content.instructables.com/FQY/G0QN/KAQSH4M0/FQYG0QNKAQSH4M0.jpg?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMC0wNS0yOCAwNzoyMTowOS4w",
+  "https://content.instructables.com/FFH/YZ24/KAPD19ZL/FFHYZ24KAPD19ZL.jpg?auto=webp&frame=1&height=1024&fit=bounds&md=MjAyMC0wNS0yNyAwODoxMToyMy4w",
+  "https://content.instructables.com/FQ2/UUS2/KAPD1A0M/FQ2UUS2KAPD1A0M.jpg?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMC0wNS0yNyAwODoxMToyNy4w",
+  "https://content.instructables.com/FST/N47T/KAQSH6CO/FSTN47TKAQSH6CO.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wNS0yOCAwNzo1MDowMi4w",
+  "https://content.instructables.com/FAK/PIDB/KAQSHFLX/FAKPIDBKAQSHFLX.jpg?auto=webp&frame=1&fit=bounds&md=MjAyMC0wNS0yOCAwOToyMDoxNy4w",
+  "https://content.instructables.com/FDL/C2GD/KAQSHE9H/FDLC2GDKAQSHE9H.jpg?auto=webp&frame=1&height=1024&fit=bounds&md=MjAyMC0wNS0yOCAwOTowMDo0NS4w",
+  "https://content.instructables.com/FTI/CE85/KAQSHE9P/FTICE85KAQSHE9P.jpg?auto=webp&frame=1&fit=bounds&md=MjAyMC0wNS0yOCAwOTowMDo0Ni4w",
+  "https://content.instructables.com/F0U/6VPZ/KAQSHEAC/F0U6VPZKAQSHEAC.jpg?auto=webp&frame=1&fit=bounds&md=MjAyMC0wNS0yOCAwOTowMDo0Ny4w",
+  "https://content.instructables.com/F16/OM1F/KAQSHEAX/F16OM1FKAQSHEAX.jpg?auto=webp&frame=1&fit=bounds&md=MjAyMC0wNS0yOCAwOTowMDo0OC4w",
+  "https://content.instructables.com/FGJ/UZUG/KAQSHEAY/FGJUZUGKAQSHEAY.jpg?auto=webp&frame=1&fit=bounds&md=MjAyMC0wNS0yOCAwOTowMDo1MC4w",
+  "https://content.instructables.com/FK0/26SA/KAPD1A19/FK026SAKAPD1A19.jpg?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMC0wNS0yNyAwODoxMToyOC4w",
+  "https://content.instructables.com/FZG/8J50/KAPD1A1E/FZG8J50KAPD1A1E.jpg?auto=webp&frame=1&height=1024&fit=bounds&md=MjAyMC0wNS0yNyAwODoyMDowMS4w",
+  "https://content.instructables.com/F4R/ID2S/KAQSHHHZ/F4RID2SKAQSHHHZ.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wNS0yOCAwOTozMDo0Mi4w",
+  "https://content.instructables.com/F3G/03Q3/KAQSHLDM/F3G03Q3KAQSHLDM.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wNS0yOCAxMDoyMDozOC4w",
+  "https://content.instructables.com/F76/ZBPX/KAQSHJQY/F76ZBPXKAQSHJQY.jpg?auto=webp&frame=1&fit=bounds&md=MjAyMC0wNS0yOCAxMDowMDoyMS4w",
+  "https://content.instructables.com/FIZ/JDUR/KAQSHKGZ/FIZJDURKAQSHKGZ.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wNS0yOCAxMDoxMDoyNS4w",
+  "https://content.instructables.com/F1K/JOGQ/KAQSHJQZ/F1KJOGQKAQSHJQZ.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wNS0yOCAxMDowMDoyMi4w",
+  "https://content.instructables.com/FYD/XH5A/KAQSHJR2/FYDXH5AKAQSHJR2.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wNS0yOCAxMDowMDoyMy4w",
+  "https://content.instructables.com/FTR/J07B/KAQSHJR3/FTRJ07BKAQSHJR3.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wNS0yOCAxMDowMDoyNC4w",
+  "https://content.instructables.com/FYX/4O93/KAQSHJR9/FYX4O93KAQSHJR9.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wNS0yOCAxMDowMDoyNy4w",
+  "https://content.instructables.com/F89/2N0X/KAQSHJRF/F892N0XKAQSHJRF.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wNS0yOCAxMDowMDozMC4w",
+  "https://content.instructables.com/FBA/3BJL/KAQSHJS8/FBA3BJLKAQSHJS8.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wNS0yOCAxMDowMDozMy4w",
+  "https://content.instructables.com/FMM/YA31/KAQSHOCR/FMMYA31KAQSHOCR.jpg?auto=webp&frame=1&fit=bounds&md=MjAyMC0wNS0yOCAxMToyMDo0MS4w"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A41D 13/11"
+tsdc = "3DP" 
+bom = "https://www.instructables.com/%C3%8APA-the-Covi-19-Safe-Face-Mask/?fbclid=IwAR34a9TH73ZIzPAA2neLGT_4ROMMssWVCiViissAFcauvsAv8xKilltw5hs"
+manufacturing-instructions = "https://www.instructables.com/%C3%8APA-the-Covi-19-Safe-Face-Mask/?fbclid=IwAR34a9TH73ZIzPAA2neLGT_4ROMMssWVCiViissAFcauvsAv8xKilltw5hs"
+user-manual = "https://content.instructables.com/FZW/UEMX/KAQSHKTF/FZWUEMXKAQSHKTF.jpg?auto=webp&frame=1&width=489&height=1024&fit=bounds&md=MjAyMC0wNS0yOCAxMDoxMDozNS4w"
+source = "https://content.instructables.com/FH8/X4EZ/KAPPEWA8/FH8X4EZKAPPEWA8.pdf"
+
+[outer-dimensions]
+width = 236
+depth = 2
+height = 90
