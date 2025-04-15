@@ -1,0 +1,57 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "NCPPE_Covid-19_Face_Mask"
+repo = "https://www.thingiverse.com/thing:4429673?fbclid=IwAR14lbvf0vavRvekZHHJDeulNalcaFDu_h9uC3JUXgqUOjsxPnsilRVs36Y"
+version = "1.0.0"
+license = "CC-BY-NC-4.0"
+licensor = "Geert Bevin <https://www.thingiverse.com/gbevin/designs>"
+function = "3DP face mask in four sizes with a comfort lining from weatherstripping. The YouTube bio contains a list of all fabrication materials."
+documentation-language = "en"
+organization = "Thingiverse"
+readme = "https://www.youtube.com/watch?v=jknAvTIV7uo"
+image = [
+  "https://cdn.thingiverse.com/assets/92/33/1c/78/4c/large_display_IMG_5565.jpeg",
+  "https://cdn.thingiverse.com/assets/95/28/c1/89/22/large_display_IMG_5570.jpeg",
+  "https://cdn.thingiverse.com/assets/9a/d8/41/52/99/large_display_IMG_5572.jpeg",
+  "https://cdn.thingiverse.com/assets/ec/48/0b/17/b8/large_display_IMG_5578.jpeg",
+  "https://cdn.thingiverse.com/assets/a4/c5/64/d3/e2/large_display_IMG_5579.jpeg",
+  "https://cdn.thingiverse.com/assets/59/a2/3e/5f/5f/large_display_IMG_6023.jpeg",
+  "https://cdn.thingiverse.com/assets/6e/25/fe/36/94/large_display_IMG_6025.jpeg",
+  "https://cdn.thingiverse.com/assets/e4/d2/0a/86/1c/large_display_IMG_6024.jpeg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A41D 13/11"
+tsdc = "3DP" 
+bom = [
+  "https://www.amazon.com/dp/B01G382DX4/ref=cm_sw_em_r_mt_dp_U_mwo2Eb4A8RDQ7",
+  "https://www.amazon.com/dp/B0000CBIFC/ref=cm_sw_em_r_mt_dp_U_Vxo2Eb5Y7MWTH",
+  "https://sites.google.com/view/material-filter-testing/breathability-filtration",
+  "https://nytimes.com/article/coronavirus-homemade-mask-material-DIY-face-mask-ppe.html",
+  "https://smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus",
+  "https://www.amazon.com/dp/B00QW2VOAU/ref=cm_sw_em_r_mt_dp_U_lHo2Eb6TYPCX7",
+  "https://www.airfiltersdelivered.com/20x36-merv13media-p=P25media",
+  "https://www.amazon.com/dp/B078SCYSHK/ref=cm_sw_em_r_mt_dp_U_7Jo2EbSECZVQZ"
+]
+manufacturing-instructions = "https://www.youtube.com/watch?v=jknAvTIV7uo"
+source = [
+     "https://www.thingiverse.com/download:8496906",
+     "https://www.thingiverse.com/download:8496903",
+     "https://www.thingiverse.com/download:8496907",
+     "https://www.thingiverse.com/download:8496909",
+     "https://www.thingiverse.com/download:8496894",
+     "https://www.thingiverse.com/download:8496902",
+     "https://www.thingiverse.com/download:8496908",
+     "https://www.thingiverse.com/download:8496904",
+     "https://www.thingiverse.com/download:8496905",
+     "https://www.thingiverse.com/download:8496961"
+]
+
+[outer-dimensions]
+# Height from the small size listed in project link. Width and depth estimated.
+width = 76.2
+depth = 50.8
+height = 101.6
