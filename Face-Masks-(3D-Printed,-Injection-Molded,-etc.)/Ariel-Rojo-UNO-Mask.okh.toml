@@ -1,0 +1,48 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Ariel-Rojo-UNO-Mask"
+repo = "https://www.arielrojo.com/es/sistema-imprimible-3d-covid19?fbclid=IwAR27R4Oh0d5rjgSBP7NJof5bZepLwXD52rZIINNee6phk9D3v6TsakCV3Bk"
+version = "2.0.0"
+license = "LicenseRef-NOASSERTION"
+licensor = "Ariel Rojo <info@arielrojo.com>"
+function = "Substitute for a Decathlon or Denier scuba diving mask. Files include mask, filter, splitter, connector and PEEP valve schematics."
+documentation-language = [
+   "en",
+   "es"
+]
+organization = "Makers Mexico"
+readme = "https://www.arielrojo.com/en/printable-3d-system-covid19"
+contribution-guide = "https://www.arielrojo.com/en/printable-3d-system-covid19"
+image = [
+  # logo
+  "https://www.arielrojo.com/img/logo-full.svg",
+  # product-photo
+  "https://www.arielrojo.com/img/hero-cv19-1.jpg",
+  "https://www.arielrojo.com/img/gr-maskuno-1.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A41D 13/11"
+# tsdc = "3DP" 
+bom = "https://www.arielrojo.com/files/covid19/en/COVID19_MASK_UNO_eng.rar"
+manufacturing-instructions = "https://www.arielrojo.com/files/covid19/en/COVID19_MASK_UNO_eng.rar"
+source = [
+     # Zip files
+     "https://www.arielrojo.com/files/covid19/en/COVID19_MASK_UNO_eng.rar",
+     # Individual files
+     "https://www.arielrojo.com/files/covid19/en/COVID19_I_connector_eng.rar",
+     "https://www.arielrojo.com/files/covid19/en/COVID19_FF_Connector_eng.rar",
+     "https://www.arielrojo.com/files/covid19/en/COVID19_Y_Screw_Connector.zip",
+     "https://www.arielrojo.com/files/covid19/en/COVID19_3dPrinting_Map_eng.pdf",
+     "https://www.arielrojo.com/files/covid19/en/COVID19_MASK_UNO_eng.pdf",
+     "https://www.arielrojo.com/files/covid19/en/COVID19_MASKV1_eng_nd.pdf",
+     "https://www.arielrojo.com/files/covid19/en/COVID19_MASK_DOC_en.pdf"
+]
+
+[outer-dimensions]
+width = 19
+depth = 3.05
+height = 11.1
