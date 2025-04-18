@@ -1,0 +1,33 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "3M-5n11-Respirator-Filter-Adapter"
+repo = "https://www.thingiverse.com/thing:4227960?fbclid=IwAR00OGk81qYygDu2UjyZOuDLUz-eYMpN_7qs_zpTLf1U-hr04DacTULm0mM"
+license = "CC-BY-4.0"
+licensor = "Brooks Dillahunty <https://www.thingiverse.com/bdillahunty/designs#google_vignette>"
+function = "This cartridge-style respirator has been heavily affected by supply chain shortages. The adapter allows replacement filter media to be used with the mask when cartridges can’t be found."
+documentation-language = "en"
+organization = "Thingiverse"
+release = "https://www.thingiverse.com/make:1198992"
+image = [
+  # logo
+  "https://img.thingiverse.com/cdn-cgi/image/fit=cover,quality=90,width=48,height=48/https://cdn.thingiverse.com/renders/b3/4d/d0/74/68/592f16ba945687fff3a23db586703d4b_thumb_medium.jpg",
+  # product-photo
+  "https://cdn.thingiverse.com/assets/9d/2f/51/44/71/large_display_IMG_1365.jpg",
+  "https://cdn.thingiverse.com/assets/a9/bb/28/00/76/large_display_IMG_1366.jpg",
+  "https://cdn.thingiverse.com/assets/65/19/9d/58/f4/large_display_IMG_1370.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A61M 1/0227"
+tsdc = "3DP"
+bom = "https://www.thingiverse.com/thing:4227960"
+manufacturing-instructions = "https://www.thingiverse.com/thing:4227960"
+source = [
+     "https://www.thingiverse.com/download:7927468",
+     "https://www.thingiverse.com/download:7927475",
+     "https://www.thingiverse.com/download:7927513",
+     "https://www.thingiverse.com/thing:4227960/files"
+]
