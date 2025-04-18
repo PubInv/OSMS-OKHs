@@ -1,0 +1,32 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "3M-501-Filter-Cap"
+repo = "https://pinshape.com/items/70422-3d-printed-filter-cap-3m-501-for-3m-mask?fbclid=IwAR3V6200RYIDv14UbHkNCReV4AcSVJwskkl4FC5KCXQxcnFjFnQVb9E6_x4"
+license = "CC-BY-4.0"
+licensor = "Von Harold Sampot <https://www.facebook.com/vanharold>"
+function = "Particulate filter retainer cap for the 3M 501 mask. This design could potentially fit the 3M 5000/6000 series, and the 3M Filter Adapter 603."
+documentation-language = "en"
+organization = "Pinshape"
+image = [
+  # logo
+  "https://assets.pinshape.com/uploads/user/avatar/752837/small_IMG_1698gws_2_12x2.jpg",
+  # product-photo
+  "https://assets.pinshape.com/uploads/image/file/311650/container_filter-cap-3m-501-for-3m-mask-3d-printing-311650.png",
+  "https://assets.pinshape.com/uploads/image/file/311665/container_filter-cap-3m-501-for-3m-mask-3d-printing-311665.jpg",
+  "https://assets.pinshape.com/uploads/image/file/311666/container_filter-cap-3m-501-for-3m-mask-3d-printing-311666.jpg",
+  "https://assets.pinshape.com/uploads/image/file/311667/container_filter-cap-3m-501-for-3m-mask-3d-printing-311667.jpg",
+  "https://assets.pinshape.com/uploads/image/file/311668/container_filter-cap-3m-501-for-3m-mask-3d-printing-311668.jpg",
+  "https://assets.pinshape.com/uploads/image/file/311669/container_filter-cap-3m-501-for-3m-mask-3d-printing-311669.jpg",
+  "https://assets.pinshape.com/uploads/image/file/311670/container_filter-cap-3m-501-for-3m-mask-3d-printing-311670.jpg",
+  "https://assets.pinshape.com/uploads/image/file/311671/container_filter-cap-3m-501-for-3m-mask-3d-printing-311671.jpg",
+  "https://assets.pinshape.com/uploads/shape_file/thumbnail/1664081/Filter_Cover__3M_501_.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "B01D 37/00"
+tsdc = "3DP" 
+bom = "https://pinshape.com/items/70422-3d-printed-filter-cap-3m-501-for-3m-mask?fbclid=IwAR3V6200RYIDv14UbHkNCReV4AcSVJwskkl4FC5KCXQxcnFjFnQVb9E6_x4"
+manufacturing-instructions = "https://pinshape.com/items/70422-3d-printed-filter-cap-3m-501-for-3m-mask?fbclid=IwAR3V6200RYIDv14UbHkNCReV4AcSVJwskkl4FC5KCXQxcnFjFnQVb9E6_x4"
