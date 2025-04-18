@@ -1,0 +1,30 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Crohyvd-Contactless-Door-Opener_Hygiene-Hook"
+repo = "https://cults3d.com/en/3d-model/tool/crovhyd-contactless-door-opener-crochet-d-hygiene?fbclid=IwAR09lSFBg2O8BXQGIsK2Wm9V5g9HVddTeLwWfY4Y5BS6q1hxEuCTnE5jVcI"
+license = "CC-BY-NC-ND-4.0"
+licensor = "Phoenix Equipement <https://cults3d.com/en/users/PhoenixEquipement/comments>"
+function = "Versatile 3DP door opener designed for several entry styles. Includes pattern for a storage sheath."
+documentation-language = "en"
+organization = "Pheonix Equipement"
+release = "https://cults3d.com/en/3d-printing/vvampireronin"
+image = [
+  # logo
+  "https://images.cults3d.com/AHmEYfLCw_ej_4xWXot5e3Lfl3o=/120x120/https://fbi.cults3d.com/uploads/user/avatar/15032671/logo_format_carre.png",
+  # product-photo
+  "https://images.cults3d.com/-cCOAQHEl1xVrY5FyEY15-6FUAQ=/516x516/filters:no_upscale():format(webp)/https://fbi.cults3d.com/uploaders/15032671/illustration-file/9a8bdc9b-eeb5-4b77-aad3-1f1e95a9b77d/Couverture%20C3D%20CROVHYD.jpg",
+  "https://images.cults3d.com/_Y5NoYWKw7neyPUzgh9ElVC5xdM=/516x516/filters:no_upscale():format(webp)/https://fbi.cults3d.com/uploaders/15032671/illustration-file/8824c4d0-a3ab-498a-9042-d14a75d5beba/Collage%201600x1200%20CROVHYD.png",
+  "https://images.cults3d.com/wRxCmBkN_Ql6cdvRLXmyuWiIfx0=/516x516/filters:no_upscale():format(webp)/https://fbi.cults3d.com/uploaders/15032671/illustration-file/c7a96b7a-8527-4a01-adf9-d478d1eb30f7/Collage%20teasing%20CROVHYD.png",
+  "https://images.cults3d.com/8HTEVwcv11fLQbjfQmopzs1bNZI=/516x516/filters:no_upscale():format(webp)/https://fbi.cults3d.com/uploaders/15032671/illustration-file/9125318c-a8f6-414c-9dae-8ac52c515e99/IMG_2017%20BATCH%201600px.jpg",
+  "https://images.cults3d.com/5xIMSdGasVPBakVZgyrEDhNYLBI=/516x516/filters:no_upscale():format(webp)/https://fbi.cults3d.com/uploaders/15032671/illustration-file/a8075d21-6e37-4146-a5d5-bc1b855f4014/IMG_1391%20BATCH%201600px%20BATCH%201600px.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "E05B 9/00"
+tsdc = "3DP"
+bom = "https://cults3d.com/en/users/sign-in"
+manufacturing-instructions = "https://cults3d.com/en/users/sign-in"
+user-manual = "https://youtu.be/AfEmXWfQd1Y"
