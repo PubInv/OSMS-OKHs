@@ -1,0 +1,36 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Materialise_Hands-Free_Door_Opener"
+repo = "https://www.thingiverse.com/thing:4229224"
+license = "CC-BY-4.0"
+licensor = "Jonas Goiris <https://www.thingiverse.com/jonasgoiris/designs>"
+function = "Design for lever style door handles. Use the Trinckle configuring resource to customize for individual needs, no CAD experience required."
+documentation-language = "en"
+organization = "Materialise"
+release = "https://www.thingiverse.com/make:776629"
+image = [
+  # logo
+  "https://www.materialise.com/assets/materialise-logo.svg",
+  # product-photo
+  "https://cdn.thingiverse.com/assets/40/62/1d/96/c6/large_display_IMG_20200318_105752.jpg",
+  "https://cdn.thingiverse.com/assets/c8/33/e6/12/04/large_display_Screenshot_20200318-120048.jpg",
+  "https://cdn.thingiverse.com/assets/ee/d3/78/b7/f5/large_display_IMG_20200318_115637.jpg",
+  "https://cdn.thingiverse.com/assets/3f/01/89/80/7a/large_display_IMG_20200318_115425.jpg",
+  "https://cdn.thingiverse.com/assets/ef/92/74/b3/ef/large_display_IMG_20200318_115538.jpg",
+  "https://cdn.thingiverse.com/assets/ac/7f/dd/b1/83/large_display_IMG_20200318_115039.jpg",
+  "https://cdn.thingiverse.com/assets/c9/99/07/a0/6a/large_display_hands-free-door-opener-sticker.png"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A41D 13/11"
+tsdc = "ASM" 
+bom = "https://www.thingiverse.com/thing:4229224"
+manufacturing-instructions = "https://www.thingiverse.com/thing:4229224"
+source = [
+     "https://www.thingiverse.com/download:7841447",
+     "https://cdn.thingiverse.com/assets/30/02/e1/bb/90/large_display_M5_Handsfree_Door_Opener_FixPlate.png",
+     "https://www.thingiverse.com/thing:4229224/files"
+]
