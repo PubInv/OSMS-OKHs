@@ -1,0 +1,63 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "3M-6000_7500_7502-Series-Half-Face-Mask-Adapter"
+repo = "https://www.thingiverse.com/thing:4167750"
+version = "4.0.0"
+license = "CC-BY-NC-SA-4.0"
+licensor = "Jacky Cheung <https://www.thingiverse.com/milktea3d/designs>"
+function = "Left/right housings for replacement filtration. The factory set exhale outlet does not have a filtration housing but media could be added under the respirator cover."
+documentation-language = "en"
+organization = "Thingiverse"
+release = "https://www.thingiverse.com/thing:4167750/comments"
+readme = "https://cults3d.com/en/3d-model/gadget/filter-cassette?fbclid=IwAR2XKudI5jN0QaDvTvUWf5jxfYRn9AYf-q7AaYDrAd2Lr2PwKbkOLpmlOWw"
+image = [
+  # logo
+  "https://img.thingiverse.com/cdn-cgi/image/fit=cover,quality=90,width=48,height=48/https://cdn.thingiverse.com/assets/1c/cc/e0/03/91/Logo-01_crop_2.png",
+  # product-photo-thingiverse
+  "https://cdn.thingiverse.com/assets/15/c6/ae/2a/7a/large_display_IMG_3998.JPG",
+  "https://cdn.thingiverse.com/assets/76/c9/01/0b/90/large_display_IMG-20200214-WA0021.jpg",
+  "https://cdn.thingiverse.com/assets/66/a2/6c/36/db/large_display_IMG_4000.JPG",
+  "https://cdn.thingiverse.com/assets/fb/27/ce/99/a5/large_display_DSC_3244.JPG",
+  "https://cdn.thingiverse.com/assets/23/ff/cb/a2/43/large_display_DSC_3245.JPG",
+  "https://cdn.thingiverse.com/assets/07/2f/04/49/5f/large_display_IMG_3163_a.JPG",
+  "https://cdn.thingiverse.com/assets/d4/b6/8e/6a/57/large_display_IMG_3164_a.JPG",
+  "https://cdn.thingiverse.com/assets/59/75/a9/1a/be/large_display_IMG_3166_a.JPG",
+  "https://cdn.thingiverse.com/assets/3b/de/16/46/bc/large_display_IMG_3168_a.JPG",
+  "https://cdn.thingiverse.com/assets/37/81/1f/ba/cb/large_display_IMG_3169_a.JPG",
+  "https://cdn.thingiverse.com/assets/9d/e9/7e/69/cd/large_display_IMG_3171_a.JPG",
+  "https://cdn.thingiverse.com/assets/9e/05/0a/b8/0e/large_display_IMG_3172_a.JPG",
+  "https://cdn.thingiverse.com/assets/b5/42/66/ce/d4/large_display_IMG_3177_a.JPG",
+  "https://cdn.thingiverse.com/assets/a0/32/6f/f6/25/large_display_IMG_3181_a.JPG",
+  # product-photo-cults
+  "https://images.cults3d.com/gvl6PCibST7psQbfopn1pH_wILY=/516x516/filters:no_upscale():format(webp)/https://fbi.cults3d.com/uploaders/14479147/illustration-file/ab49137b-3d91-459c-82fd-67686d04f650/IMG_20200214_194202.jpg",
+  "https://images.cults3d.com/QdoKqOVwMs9V-0Y6A2fOX2jkggA=/516x516/filters:no_upscale():format(webp)/https://fbi.cults3d.com/uploaders/14479147/illustration-file/abb18da8-6212-475d-b508-5da076536e24/IMG_20200214_194216.jpg",
+  "https://images.cults3d.com/QYlqAF2LNEwXMgd8OjZqlBHz9sI=/113x113/top/filters:format(webp)/https://fbi.cults3d.com/uploaders/14479147/illustration-file/ebc4a4ab-f65a-4029-b543-8034eed4e1c8/IMG_20200302_183058.jpg",
+  "https://images.cults3d.com/UKvKoLRX48vH1ECeGU-VEhXbVFE=/113x113/top/filters:format(webp)/https://fbi.cults3d.com/uploaders/14479147/illustration-file/0e8d9abc-0c8a-4cd5-a1de-3e1655cc2de0/IMG_20200214_194603.jpg",
+  "https://images.cults3d.com/O_vi61BCNvcIDnRHq3YZDqTqJ2Q=/516x516/filters:no_upscale():format(webp)/https://fbi.cults3d.com/uploaders/14479147/illustration-file/edb39f82-ac5f-46ce-90f4-c851e65cfc37/IMG_20200214_191830.jpg",
+  "https://images.cults3d.com/5DTZPsqkW3ahip9SCD_lxHpXuIE=/113x113/top/filters:format(webp)/https://fbi.cults3d.com/uploaders/14479147/illustration-file/0dfa7d54-6a6f-47e7-b900-80fc503a25ba/IMG_20200214_192635.jpg",
+  "https://images.cults3d.com/Fh9jQnwwXp6mx1PIaOjMdjPF06Q=/516x516/filters:no_upscale():format(webp)/https://fbi.cults3d.com/uploaders/14479147/illustration-file/3817428b-0d16-4cc5-9f8a-1542ff13034d/IMG_20200214_193051.jpg",
+  "https://images.cults3d.com/UYIHvk0hFVty4MMWhjsLIzqf68c=/113x113/top/filters:format(webp)/https://fbi.cults3d.com/uploaders/14479147/illustration-file/40c541b0-832f-4b29-b0e2-03a078175692/IMG_20200214_193637.jpg",
+  "https://images.cults3d.com/msUlIEex7q74YRSzOguRslzy4y4=/113x113/top/filters:format(webp)/https://fbi.cults3d.com/uploaders/14479147/illustration-file/6e7426bc-3df7-435b-8e75-764a52f7f5e3/IMG_20200214_193451.jpg",
+  "https://images.cults3d.com/jhOwso_pAPrtBwd3twBbLNBvZKM=/516x516/filters:no_upscale():format(webp)/https://fbi.cults3d.com/uploaders/14479147/illustration-file/fb91eabc-55eb-4c45-9973-486da07f5f0e/filter_Parts_x4.png",
+  "https://fbi.cults3d.com/uploads/blueprint/previews/000/353/634/preview/craster.png",
+  "https://fbi.cults3d.com/uploads/blueprint/previews/000/353/635/preview/craster.png",
+  "https://fbi.cults3d.com/uploads/blueprint/previews/000/353/632/preview/craster.png",
+  "https://fbi.cults3d.com/uploads/blueprint/previews/000/356/616/preview/craster.png"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "B01D 37/00"
+tsdc = "3DP" 
+bom = "https://www.thingiverse.com/thing:4167750"
+manufacturing-instructions = "https://www.thingiverse.com/thing:4167750"
+user-manual = "https://cults3d.com/en/3d-model/gadget/filter-cassette?fbclid=IwAR2XKudI5jN0QaDvTvUWf5jxfYRn9AYf-q7AaYDrAd2Lr2PwKbkOLpmlOWw"
+source = [
+     "https://www.thingiverse.com/download:7840316",
+     "https://www.thingiverse.com/download:7969032",
+     "https://www.thingiverse.com/download:7969031",
+     "https://www.thingiverse.com/download:7969030",
+     "https://www.thingiverse.com/thing:4167750/files"
+]
