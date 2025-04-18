@@ -1,0 +1,40 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Smart-Blood-Oxygen-And-Heart-Rate-Monitor-With-Automatic-Data-Saving-System-(Hindi-And-English-Video)"
+repo = "https://www.electronicsforu.com/electronics-projects/smart-blood-oxygen-and-heart-rate-monitor-with-automatic-data-saving-system"
+license = "LicenseRef-NOASSERTION"
+licensor = "Ashwini Sinha <https://www.electronicsforu.com/author/ashwini-sinha>"
+function = "Design includes a bluetooth to phone component, with code, that is intended to allow for the recording of pulse ox data in a text file that can be sent to a healthcare provider remotely."
+documentation-language = "en"
+organization = "ElectronicsForU"
+image = [
+  # logo
+  "https://electronicsforu.com/wp-content/uploads/2016/03/electronicsforudotcom_NEW-LOGO-1-300x68.png",
+  # product-photo
+  "https://www.electronicsforu.com/wp-contents/uploads/2019/06/fig1-500x293.png",
+  "https://www.electronicsforu.com/wp-contents/uploads/2019/06/code1-500x292.png",
+  "https://www.electronicsforu.com/wp-contents/uploads/2019/06/code3-500x246.png",
+  "https://www.electronicsforu.com/wp-contents/uploads/2019/06/code4-500x285.png",
+  "https://www.electronicsforu.com/wp-contents/uploads/2019/06/code5-500x319.png",
+  "https://www.electronicsforu.com/wp-contents/uploads/2019/06/code6-500x227.png",
+  "https://www.electronicsforu.com/wp-contents/uploads/2019/06/mit2-3-500x234.png",
+  "https://www.electronicsforu.com/wp-contents/uploads/2019/06/mit1-500x232.png",
+  "https://www.electronicsforu.com/wp-contents/uploads/2019/06/Screenshot_20190606-102408.png"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A61B 5/00"
+tsdc = "MEC" 
+bom = "https://www.electronicsforu.com/electronics-projects/smart-blood-oxygen-and-heart-rate-monitor-with-automatic-data-saving-system#components"
+manufacturing-instructions = "https://www.electronicsforu.com/electronics-projects/smart-blood-oxygen-and-heart-rate-monitor-with-automatic-data-saving-system#app-making"
+user-manual = "https://www.electronicsforu.com/electronics-projects/smart-blood-oxygen-and-heart-rate-monitor-with-automatic-data-saving-system#testing"
+source = [
+     "https://www.electronicsforu.com/electronics-projects/smart-blood-oxygen-and-heart-rate-monitor-with-automatic-data-saving-system#coding",
+     "https://www.electronicsforu.com/electronics-projects/smart-blood-oxygen-and-heart-rate-monitor-with-automatic-data-saving-system#connection",
+     "https://www.electronicsforu.com/wp-contents/uploads/2019/06/Code-3.zip",
+     "https://youtu.be/470L-MT51LQ"
+]
+     
