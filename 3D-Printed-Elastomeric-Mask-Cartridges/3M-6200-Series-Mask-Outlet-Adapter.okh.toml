@@ -1,0 +1,32 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "3M-6200-Series-Mask-Outlet-Adapter"
+repo = "https://www.thingiverse.com/thing:4162847?fbclid=IwAR32Du0i927Vil3POBVWOIOulwfpXtf2pUxW2D-XwLnBMUbv4B-l7zaYf4s#google_vignette"
+license = "CC-BY-4.0"
+licensor = "Chew Kian <https://www.thingiverse.com/locutus01/designs>"
+function = "Quick print, two piece housing that filters the mask exhalation port."
+documentation-language = "en"
+organization = "Thingiverse"
+release = "https://www.thingiverse.com/make:1068807"
+image = [
+  "https://cdn.thingiverse.com/assets/33/10/66/0e/55/large_display_WhatsApp_Image_2020-02-14_at_22.03.17.jpeg",
+  "https://cdn.thingiverse.com/assets/8e/83/7e/75/c4/large_display_WhatsApp_Image_2020-02-14_at_22.03.17_1.jpeg",
+  "https://cdn.thingiverse.com/assets/bd/00/d7/c2/d4/large_display_WhatsApp_Image_2020-02-14_at_22.03.17_2.jpeg",
+  "https://cdn.thingiverse.com/assets/57/12/b5/15/d6/large_display_WhatsApp_Image_2020-02-14_at_22.03.17_3.jpeg",
+  "https://cdn.thingiverse.com/assets/f7/61/e7/2d/7f/WhatsApp_Image_2020-02-14_at_22.26.01.jpeg",
+  "https://cdn.thingiverse.com/assets/df/31/45/24/20/WhatsApp_Image_2020-02-14_at_22.31.27.jpeg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "B01D 37/00"
+tsdc = "3DP" 
+bom = "https://www.thingiverse.com/thing:4162847"
+manufacturing-instructions = "https://www.thingiverse.com/thing:4162847"
+source = [
+     "https://cdn.thingiverse.com/assets/9e/3b/00/19/d5/large_display_3m_6200_Nose_Guard_v2.png",
+     "https://cdn.thingiverse.com/assets/bb/ea/58/3a/29/large_display_3m_6200_Nose_Guard_Filter_Holder.png",
+     "https://www.thingiverse.com/thing:4162847/files"
+]
