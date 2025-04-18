@@ -1,0 +1,38 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Create-a-Simple-Pulse-Oximeter-with-EFM32-Tiny-Gecko"
+repo = "https://www.silabs.com/community/projects.entry.html/2012/11/26/create_a_simple_puls-zfXZ"
+version = "3.0.0"
+license = "LicenseRef-NOASSERTION"
+licensor = "Silicon Labs Admin <https://community.silabs.com/s/profile/0051M00000AiYYkQAN?language=en_US>"
+function = "Different approach to the pulse oximeter open source build (no MAX30100 type chip). Does not appear to have coding for calculating O2 saturation yet."
+documentation-language = "en"
+organization = "Silicon Labs"
+release = "https://github.com/EnergyMicro/HackaGecko/tree/master/pulse_oximeter"
+readme = "https://community.silabs.com/s/share/a5U1M000000ko98UAA/create-a-simple-pulse-oximeter-with-efm32-tiny-gecko?language=en_US"
+image = [
+  "https://community.silabs.com/servlet/rtaImage?eid=a5U1M000000ko98&feoid=00N1M00000FHepX&refid=0EM1M000001grBW",
+  "https://community.silabs.com/servlet/rtaImage?eid=a5U1M000000ko98&feoid=00N1M00000FHepX&refid=0EM1M000001grBX",
+  "https://community.silabs.com/servlet/rtaImage?eid=a5U1M000000ko98&feoid=00N1M00000FHepX&refid=0EM1M000001grBY",
+  "https://community.silabs.com/servlet/rtaImage?eid=a5U1M000000ko98&feoid=00N1M00000FHepX&refid=0EM1M000001grBZ",
+  "https://community.silabs.com/servlet/rtaImage?eid=a5U1M000000ko98&feoid=00N1M00000FHepX&refid=0EM1M000001grBa",
+  "https://community.silabs.com/servlet/rtaImage?eid=a5U1M000000ko98&feoid=00N1M00000FHepX&refid=0EM1M000001grBb",
+  "https://community.silabs.com/servlet/rtaImage?eid=a5U1M000000ko98&feoid=00N1M00000FHepX&refid=0EM1M000001grBc",
+  "https://community.silabs.com/servlet/rtaImage?eid=a5U1M000000ko98&feoid=00N1M00000FHepX&refid=0EM1M000001grBe",
+  "https://community.silabs.com/servlet/rtaImage?eid=a5U1M000000ko98&feoid=00N1M00000FHepX&refid=0EM1M000001grBf"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A61B 5/00"
+tsdc = "MEC" 
+bom = "https://community.silabs.com/s/share/a5U1M000000ko98UAA/create-a-simple-pulse-oximeter-with-efm32-tiny-gecko?language=en_US"
+manufacturing-instructions = "https://community.silabs.com/s/share/a5U1M000000ko98UAA/create-a-simple-pulse-oximeter-with-efm32-tiny-gecko?language=en_US"
+source = [
+     "https://github.com/EnergyMicro/HackaGecko/tree/master/pulse_oximeter/efm32",
+     "https://github.com/EnergyMicro/HackaGecko/tree/master/pulse_oximeter/pc",
+     "https://www.sparkfun.com/products/9873",
+     "http://www.energymicro.com/tools/efm32-tiny-gecko-starter-kit"
+]
