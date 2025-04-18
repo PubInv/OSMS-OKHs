@@ -1,0 +1,31 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "3M-6502-Series-Gas-Mask_Respirator-Conversion"
+repo = "https://www.thingiverse.com/thing:4236057"
+license = "CC-BY-NC-4.0"
+licensor = "Ted Ted <https://www.thingiverse.com/asps946701/designs>"
+function = "Design converts a gas mask housing into a particulate respirator with filtration material."
+documentation-language = [
+   "en",
+   "zh"
+]
+organization = "Thingiverse"
+image = [
+  "https://cdn.thingiverse.com/assets/43/2f/be/5f/9f/large_display_DSC09355.jpg",
+  "https://cdn.thingiverse.com/assets/66/ff/88/9b/d0/large_display_DSC09354.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A62B 9/022"
+tsdc = "3DP" 
+bom = "https://www.thingiverse.com/thing:4236057"
+manufacturing-instructions = "https://www.thingiverse.com/thing:4236057"
+source = [
+     "https://www.thingiverse.com/download:7865800",
+     "https://www.thingiverse.com/download:7865802",
+     "https://www.thingiverse.com/download:7865800",
+     "https://www.thingiverse.com/thing:4236057/files"
+]
