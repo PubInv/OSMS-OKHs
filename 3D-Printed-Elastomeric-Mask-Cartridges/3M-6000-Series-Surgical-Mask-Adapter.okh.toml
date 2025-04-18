@@ -1,0 +1,32 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "3M-6000-Series-Surgical-Mask-Adapter"
+repo = "https://www.thingiverse.com/thing:4181922?fbclid=IwAR1FvA61G4pMNst_whADHCrMM8zoEtDg-zIQ7bAH2g9566_x2fzYsbvMXrU"
+license = "CC-BY-4.0"
+licensor = "Joel Doe <joel.doe@example.com>"
+function = "Project prints a left/right pair in 3 hours. Adapter has a thin, sturdy housing for securing filtration material."
+documentation-language = "en"
+organization = "Thingiverse"
+release = "https://www.thingiverse.com/make:812866"
+image = [
+  "https://cdn.thingiverse.com/assets/5d/d8/ff/03/3d/large_display_WhatsApp_Image_2020-02-25_at_01.32.21_1.jpeg",
+  "https://cdn.thingiverse.com/assets/16/3c/3c/13/e0/large_display_Build_plate.JPG",
+  "https://cdn.thingiverse.com/assets/9a/5a/aa/70/61/large_display_WhatsApp_Image_2020-02-25_at_01.32.21.jpeg",
+  "https://cdn.thingiverse.com/assets/8f/62/36/b4/23/large_display_WhatsApp_Image_2020-02-25_at_01.46.00_1.jpeg",
+  "https://cdn.thingiverse.com/assets/d4/87/23/15/af/large_display_WhatsApp_Image_2020-02-25_at_01.46.00.jpeg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A61M 1/0227"
+tsdc = "3DP"
+bom = "https://www.thingiverse.com/thing:4181922"
+manufacturing-instructions = "https://www.thingiverse.com/thing:4181922"
+source = [
+     "https://cdn.thingiverse.com/assets/8e/6b/67/76/a0/large_display_3m_6200_Valve_Adaptor_Locutus.png",
+     "https://cdn.thingiverse.com/assets/50/d4/25/dd/cd/large_display_Locutus_3M_6200_Filter_Cap_12_grooves.png",
+     "https://cdn.thingiverse.com/assets/1a/da/64/0f/d9/large_display_Locutus_3M_6200_Filter_Cap_12_grooves_Mesh.png",
+     "https://www.thingiverse.com/thing:4181922/files"
+]
