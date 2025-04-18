@@ -1,0 +1,18 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "MU3DMask"
+repo = "https://drive.google.com/file/d/1V5W9ABqhHy140gxZaKc2Loqz7PtC2GS0/view?usp=sharing"
+license = "LicenseRef-NOASSERTION"
+licensor = "Mercer University School of Engineering <info@mercer.edu>"
+function = "Developed by Mercer University School of Engineering, this mask can be sanitized and reused. The mask shell is constructed from durable resin on a FormLabs SLA printer and incorporates HEPA filtration material on the respiration port. Follow FormLabs post-processing guidelines for cleaning and curing the resin."
+documentation-language = "en"
+organization = "Mercer University School of Engineering"
+technology-readiness-level = "OTRL-2"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A41D 13/11"
+# tsdc = "3DP" 
+bom = "https://drive.google.com/file/d/1V5W9ABqhHy140gxZaKc2Loqz7PtC2GS0/view?usp=sharing"
+manufacturing-instructions = "https://drive.google.com/file/d/1V5W9ABqhHy140gxZaKc2Loqz7PtC2GS0/view?usp=sharing"
