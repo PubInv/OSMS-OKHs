@@ -29,7 +29,7 @@ image = [
 ]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
-cpc-patent-class = "A41D 13/11"
+cpc-patent-class = "E05B 9/00"
 tsdc = "ASM" 
 bom = "https://www.thingiverse.com/thing:4445698"
 manufacturing-instructions = "https://www.thingiverse.com/thing:4445698"
