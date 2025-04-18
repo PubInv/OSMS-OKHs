@@ -1,0 +1,32 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "3M-7500-Series"
+repo = "https://www.thingiverse.com/thing:4444335?fbclid=IwAR3AAHtnpMFUmXLJYwC52x09T874BFEQPq95UlWWixw6vCthJfSbWM03kC4"
+license = "CC-BY-NC-4.0"
+licensor = "Sean Auffinger <https://www.thingiverse.com/seanauff/designs>"
+function = "This adapter allows the wearer to protect surroundings from contaminated outflow. Be mindful of the filtration material directionality for individual use."
+documentation-language = "en"
+organization = "Thingiverse"
+release = "https://www.thingiverse.com/make:830064"
+image = [
+  "https://cdn.thingiverse.com/assets/70/11/f0/d7/31/large_display_20200610-DSC_8213.jpg",
+  "https://cdn.thingiverse.com/assets/06/03/02/ec/ba/large_display_20200610-DSC_8212.jpg",
+  "https://cdn.thingiverse.com/assets/b3/8b/a4/07/b4/large_display_20200610-DSC_8211.jpg",
+  "https://cdn.thingiverse.com/assets/c7/e7/a5/fd/3b/large_display_20200610-DSC_8209.jpg",
+  "https://cdn.thingiverse.com/assets/15/b6/7d/99/6c/large_display_20200630-DSC_8214.jpg",
+  "https://cdn.thingiverse.com/assets/86/60/18/b9/c4/large_display_Annotation_2020-06-10_114300.png"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "B01D 41/00"
+tsdc = "3DP" 
+bom = "https://www.thingiverse.com/thing:4444335"
+manufacturing-instructions = "https://www.thingiverse.com/thing:4444335"
+source = [
+     "https://www.thingiverse.com/download:8341478",
+     "https://www.thingiverse.com/download:8452667",
+     "https://www.thingiverse.com/thing:4444335/files"
+]
