@@ -1,0 +1,45 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Manila-Protective-Gear’s-Isolation-Suit"
+repo = "https://drive.google.com/open?id=1-Xr-67gs2qw0o44-hy-INb89I9m-wcLD"
+license = "LicenseRef-NOASSERTION"
+licensor = "Manila Protective Gear Sewing Club <https://www.facebook.com/groups/manilaprotectivegearsewingclub/>"
+function = "This design produces a working isolation suit if seams are sealed. The recommended material is Tyvek 1433R. Please read through the techpack for full construction details based on what kind of machine you have accessible. Dupont has a guide for seaming & sealing Tyvek to itself in order to make sealed seams.4/21/2020 see Materials update regarding new DuPont fabric 1222A."
+documentation-language = "en-GB"
+organization = "Manila Protective Gear Sewing Club"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A41D 13/00"
+tsdc = "ASM" 
+manufacturing-instructions = "https://drive.google.com/file/d/1c75m2-KEB9cPt1zyrYzLEQjHgimGDogY/view?usp=sharing"
+source = [
+	 # Zipper
+     "https://drive.google.com/file/d/1LeN_L6kg4e3tiySoFtv2roa0BjOnpcHQ/view?usp=sharing",
+     "https://drive.google.com/file/d/18j8mNPI8c-PRdpX08DO1BtZZ6dIqYk10/view?usp=sharing",
+     "https://drive.google.com/file/d/1d5Lp9hYY_RvaLF64r8SQTTFMBpk0PjOS/view?usp=sharing",
+     "https://drive.google.com/file/d/1G76GSUU752fHeX7UzzxyXGd5s5S4YkGv/view?usp=sharing",
+     "https://drive.google.com/file/d/1xOnKnk4mbZ68Sm-1NsYU7uzWvc0Ok3RX/view?usp=sharing",
+     "https://drive.google.com/file/d/18I661VDIlIeaLSqQAoBdOszdxMkpWcxt/view?usp=sharing",
+     "https://drive.google.com/file/d/11H5yIDgDvz5my-wFuIk6rwxk655VzXYA/view?usp=sharing",
+     "https://drive.google.com/file/d/1dAK0PFcYjiPHTOwZp-pew9nRy5JnBaqn/view?usp=sharing",
+     "https://drive.google.com/file/d/1IAdOucetnf1wRBOoHEMuUrGEyUQrK8jO/view?usp=sharing",
+     "https://drive.google.com/file/d/14Et2YlvOQwLZABMhBqMR6YVJXnJqDCMq/view?usp=sharing",
+     # Velcro
+     "https://drive.google.com/file/d/16ss3iLSz34u7YpH-WdLfj4S6j8sZMAF4/view?usp=sharing",
+     "https://drive.google.com/file/d/1IOygrNH9gzsV0mexUAd655zUGbpKVMFQ/view?usp=sharing",
+     "https://drive.google.com/file/d/1jIPoMpX8Cnvfp963JozWCQ78Dwbivz-Z/view?usp=sharing",
+     "https://drive.google.com/file/d/1j_JMJdDEieihod1j7EeVrOGhJ6eqWMXH/view?usp=sharing",
+     "https://drive.google.com/file/d/1t-0POggPpTEnQEQGkU-n5IeDGesMetQL/view?usp=sharing",
+     "https://drive.google.com/file/d/1HHHbm-iJWkDrtO86JEPSD62gxncHa44T/view?usp=sharing",
+     "https://drive.google.com/file/d/1K0KeCCIBOFHi4gsG5qJ48Qd9JNg0ozW2/view?usp=sharing",
+     "https://drive.google.com/file/d/1DIFtnJ-LHpxsaUGFOCQzCTThgc6-46H4/view?usp=sharing"
+]
+
+[outer-dimensions]
+# Roughly estimated from pattern. Depth estimated.
+width = 590.55
+depth = 12.7
+height = 1625.6
