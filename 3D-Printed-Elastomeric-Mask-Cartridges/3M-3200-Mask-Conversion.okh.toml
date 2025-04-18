@@ -1,0 +1,30 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "3M-3200-Mask-Conversion"
+repo = "https://cults3d.com/en/3d-model/gadget/filter-cassette-for-3m-3200-gas-mask-oksnake?fbclid=IwAR32Du0i927Vil3POBVWOIOulwfpXtf2pUxW2D-XwLnBMUbv4B-l7zaYf4s"
+license = "CC-BY-NC-SA-4.0"
+licensor = "oksnake <https://cults3d.com/en/users/oksnake/comments>"
+function = "Two piece filter housing that converts a gas respirator to a surgical mask. Optional splash guard file included."
+documentation-language = "en"
+organization = "Cults."
+image = [
+  # logo
+  "https://assets.cults3d.com/assets/avatars/cults/avatar-15-v3-abde5376e49a6785b199228bbab0904cdc7fa456f7c21862c79a1c70db50a0f9.png",
+  # product-photo
+  "https://images.cults3d.com/TkDvArzvTNTPKFKOq1KmI4ZO1Gk=/516x516/filters:no_upscale():format(webp)/https://fbi.cults3d.com/uploaders/14479147/illustration-file/4c78a7ec-b90b-453d-b5a4-e68cb8e80c11/IMG_20200302_141237.jpg",
+  "https://images.cults3d.com/PYa3ea__n4JMT0ZhJ8WSUFBqLF0=/516x516/filters:no_upscale():format(webp)/https://fbi.cults3d.com/uploaders/14479147/illustration-file/c24ba46e-2d86-4bdd-8b4d-23dc2e63c526/IMG_20200302_141713.jpg",
+  "https://images.cults3d.com/yYvw5bdFUM55SSbCfM4YHnlkJY0=/516x516/filters:no_upscale():format(webp)/https://fbi.cults3d.com/uploaders/14479147/illustration-file/e0d98f1f-f27b-4911-b7c2-d6c1dc81ae43/IMG_20200302_141135.jpg",
+  "https://images.cults3d.com/1j1G5En-6uvPPMyMqVOSW9Zzlh0=/516x516/filters:no_upscale():format(webp)/https://fbi.cults3d.com/uploaders/14479147/illustration-file/a8cfef9a-7314-4bbe-8cf7-cf364e302a7c/IMG_20200302_135948.jpg",
+  "https://fbi.cults3d.com/uploads/blueprint/previews/000/369/705/preview/craster.png",
+  "https://fbi.cults3d.com/uploads/blueprint/previews/000/369/704/preview/craster.png",
+  "https://fbi.cults3d.com/uploads/blueprint/previews/000/369/703/preview/craster.png"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "B01D 37/00"
+tsdc = "3DP" 
+bom = "https://cults3d.com/en/3d-model/gadget/filter-cassette-for-3m-3200-gas-mask-oksnake?fbclid=IwAR32Du0i927Vil3POBVWOIOulwfpXtf2pUxW2D-XwLnBMUbv4B-l7zaYf4s"
+manufacturing-instructions = "https://cults3d.com/en/3d-model/gadget/filter-cassette-for-3m-3200-gas-mask-oksnake?fbclid=IwAR32Du0i927Vil3POBVWOIOulwfpXtf2pUxW2D-XwLnBMUbv4B-l7zaYf4s"
