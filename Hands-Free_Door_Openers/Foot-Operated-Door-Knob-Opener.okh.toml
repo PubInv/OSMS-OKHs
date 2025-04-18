@@ -1,0 +1,43 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Foot-Operated-Door-Knob-Opener"
+repo = "https://www.thingiverse.com/thing:4445698"
+license = "CC-BY-SA-3.0"
+licensor = "Tony Youngblood <https://www.thingiverse.com/tonyyoungblood/designs>"
+function = "Project for knob style door handle with opening and closing via foot-operated lever system."
+documentation-language = "en"
+organization = "Thingiverse"
+image = [
+  # logo
+  "https://yt3.ggpht.com/ytc/AIdro_mwr3YkfB_-LR5SbaqJS9yE2L1GHDVhzrnZq3qp0OzkxcE=s48-c-k-c0x00ffffff-no-rj",
+  # product-photo
+  "https://cdn.thingiverse.com/assets/54/a6/b0/d9/b9/large_display_20200609_210532.jpg",
+  "https://cdn.thingiverse.com/assets/a2/c1/5d/77/ac/large_display_20200609_210558.jpg",
+  "https://cdn.thingiverse.com/assets/82/e8/84/34/43/large_display_20200609_210812.jpg",
+  "https://cdn.thingiverse.com/assets/53/82/89/41/60/large_display_20200609_210631.jpg",
+  "https://cdn.thingiverse.com/assets/89/4c/16/3f/be/large_display_20200520_181059.jpg",
+  "https://cdn.thingiverse.com/assets/4b/ea/d7/76/1d/large_display_Example.png",
+  "https://cdn.thingiverse.com/assets/db/13/fd/ac/32/large_display_20200609_210619.jpg",
+  "https://cdn.thingiverse.com/assets/73/53/48/71/51/large_display_20200609_211604.png",
+  "https://cdn.thingiverse.com/assets/2c/70/6f/13/8b/large_display_20200609_211637.jpg",
+  "https://cdn.thingiverse.com/assets/00/17/7b/03/1e/large_display_20200609_211711.jpg",
+  "https://cdn.thingiverse.com/assets/f9/17/6e/2a/31/large_display_20200609_210752.jpg",
+  "https://cdn.thingiverse.com/assets/b9/45/84/4e/1d/large_display_20200504_164746.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A41D 13/11"
+tsdc = "ASM" 
+bom = "https://www.thingiverse.com/thing:4445698"
+manufacturing-instructions = "https://www.thingiverse.com/thing:4445698"
+user-manual = "https://www.youtube.com/watch?v=2Y6TB94vhrs"
+# Sources for the parts information
+source = [
+     "https://www.thingiverse.com/download:8345825",
+     "https://www.thingiverse.com/download:8345821",
+     "https://www.thingiverse.com/download:8345820",
+     "https://www.thingiverse.com/thing:4445698/files"
+     ]
