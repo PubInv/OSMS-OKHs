@@ -1,0 +1,60 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Pulse-Oximeter-Fabrication-Review"
+repo = "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/pulseox/README.md"
+version = "4.0.0"
+license = "LicenseRef-NOASSERTION"
+licensor = "Zach Fredin <https://gitlab.cba.mit.edu/zfredin>"
+function = "Review of the practicality of a fabricatable pulse oximeter and designs related to the fabrication of a pulse oximeter."
+documentation-language = "en"
+organization = "Massachusetts Institute of Technology"
+release = "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/commit/0d96c692aae8b6da49b9f80be30ad48b557cd26c"
+readme = "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/pulseox/README.md"
+image = [
+  # logo
+  "https://gitlab.cba.mit.edu/uploads/-/system/user/avatar/667/avatar.png?width=64",
+  # product-photo
+  "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/apparatus.jpg?ref_type=heads",
+  "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/apparatus_layout.png?ref_type=heads",
+  "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/apparatus_schematic.png?ref_type=heads",
+  "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/hemoglobin_curve.png?ref_type=heads",
+  "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/pulseox_1.jpg?ref_type=heads",
+  "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/pulseox_2.jpg?ref_type=heads",
+  "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/pulseox_3.jpg?ref_type=heads",
+  "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/pulseox_curve.jpg?ref_type=heads",
+  "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/rawdata_sensors_zoomed_more.png?ref_type=heads",
+  "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/rawdata_spo2.png?ref_type=heads",
+  "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/zacurate_r_vs_spo2.png?ref_type=heads"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A61B 5/00"
+# tsdc = "MEC/ASM/etc." 
+bom = "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/tree/master/pulseox?ref_type=heads"
+manufacturing-instructions = "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/tree/master/pulseox?ref_type=heads"
+source = [
+     "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/pulseox/cad/pulseox_snooper%20v4.f3d?ref_type=heads",
+     "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/pulseox/cad/pulseox_snooper%20v4.step?ref_type=heads",
+     "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/pulseox/v1_teensy/v1_teensy.pretty/JST_SH_6pos.kicad_mod?ref_type=heads",
+     "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/pulseox/v1_teensy/v1_teensy.pretty/teensy_4-0.kicad_mod?ref_type=heads",
+     "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/pulseox/v1_teensy/fp-info-cache?ref_type=heads",
+     "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/pulseox/v1_teensy/fp-lib-table?ref_type=heads",
+     "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/pulseox/v1_teensy/sym-lib-table?ref_type=heads",
+     "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/pulseox/v1_teensy/v1_teensy-brd.svg?ref_type=heads",
+     "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/pulseox/v1_teensy/v1_teensy-cache.lib?ref_type=heads",
+     "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/pulseox/v1_teensy/v1_teensy.bck?ref_type=heads",
+     "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/pulseox/v1_teensy/v1_teensy.dcm?ref_type=heads",
+     "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/pulseox/v1_teensy/v1_teensy.kicad_pcb?ref_type=heads",
+     "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/pulseox/v1_teensy/v1_teensy.kicad_pcb-bak?ref_type=heads",
+     "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/pulseox/v1_teensy/v1_teensy.lib?ref_type=heads",
+     "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/pulseox/v1_teensy/v1_teensy.net?ref_type=heads",
+     "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/pulseox/v1_teensy/v1_teensy.pro?ref_type=heads",
+     "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/pulseox/v1_teensy/v1_teensy_copper.svg?ref_type=heads",
+     "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/pulseox/v1_teensy/v1_teensy_holes.svg?ref_type=heads",
+     "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/pulseox/v1_teensy/v1_teensy_outline.svg?ref_type=heads",
+     "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/pulseox/teensy_firmware/teensy_firmware.ino?ref_type=heads",
+     "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/pulseox/snooper/main.py?ref_type=heads"
+]
