@@ -1,0 +1,53 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Hackaday-Oximeter-do-it-yourself"
+repo = "https://hackaday.io/project/170752-oximeter-do-it-yourself"
+license = "LicenseRef-NOASSERTION"
+licensor = "Giulio Pons <https://hackaday.io/ginoplusio>"
+function = "Uses LED light and KY-039 chip for top and bottom arrangement of emitter and sensor, does not appear to have coding for calculating o2 saturation yet."
+documentation-language = "en"
+organization = "Hackaday.io"
+readme = "https://hackaday.io/project/170752-oximeter-do-it-yourself#menu-description"
+image = [
+  # logo
+  "https://hackaday.io/img/hackaday-logo.svg",
+  # product-photo
+  "https://cdn.hackaday.io/images/487221586012921276.jpg",
+  "https://cdn.hackaday.io/images/1979381586012954546.jpg",
+  "https://cdn.hackaday.io/images/2434501586772537673.jpg",
+  "https://cdn.hackaday.io/images/1490691586772555199.jpg",
+  "https://cdn.hackaday.io/images/9116531587314463642.jpg",
+  "https://cdn.hackaday.io/images/4930801591709395606.jpg",
+  "https://cdn.hackaday.io/images/1802361586017409908.jpg",
+  "https://cdn.hackaday.io/images/2518261586703356511.jpg",
+  "https://cdn.hackaday.io/images/7429241586018731562.jpg",
+  "https://cdn.hackaday.io/images/5438951586770445094.jpg",
+  "https://cdn.hackaday.io/images/4622951586705485902.jpg",
+  "https://cdn.hackaday.io/images/resize/600x600/487221586012921276.jpg",
+  "https://cdn.hackaday.io/images/459211586726439131.jpg",
+  "https://img.youtube.com/vi/ssMag56u1q0/hqdefault.jpg",
+  "https://img.youtube.com/vi/QHLhGQ2gw6Y/hqdefault.jpg",
+  "https://cdn.hackaday.io/images/3835371591546171189.jpg",
+  "https://img.youtube.com/vi/8KEvTnuBixk/hqdefault.jpg",
+  "https://cdn.hackaday.io/images/1880651587819853759.jpg",
+  "https://cdn.hackaday.io/images/8550771587820706479.jpg",
+  "https://cdn.hackaday.io/images/9272521586984103204.jpg",
+  "https://cdn.hackaday.io/images/8043751586985532767.jpg",
+  "https://cdn.hackaday.io/images/5952681586987021258.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A61B 5/00"
+tsdc = "MEC" 
+bom = "https://hackaday.io/project/170752-oximeter-do-it-yourself#menu-components"
+manufacturing-instructions = "https://hackaday.io/project/170752-oximeter-do-it-yourself/details"
+user-manual = "https://youtu.be/QHLhGQ2gw6Y"
+source = [
+     "https://cdn.hackaday.io/files/1707527305453568/oximeter-diy-ok-092.ino",
+     "https://cdn.hackaday.io/files/1707527305453568/oximeter-diy-ok.ino",
+     "https://cdn.hackaday.io/files/1707527305453568/oximeter-diy.ino",
+     "https://hackaday.io/project/170752-oximeter-do-it-yourself#menu-files"
+]
