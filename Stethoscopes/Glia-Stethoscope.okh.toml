@@ -1,0 +1,52 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Glia-Stethoscope"
+repo = "https://github.com/GliaX/Stethoscope"
+version = "1.0.0"
+license = "TAPR-OHL-1.0"
+licensor = "Glia <info@glia.org>"
+function = "Disposable stethoscope; research-validated in peer-reviewed journal; QC instructions and potential assembly issues addressed in video."
+documentation-language = "en"
+organization = "Glia"
+release = "https://github.com/GliaX/Stethoscope/commit/3029e4feec9b79a3c200f78042434890ff1513d0"
+readme = "https://github.com/GliaX/Stethoscope/blob/master/README.md"
+contribution-guide = "https://github.com/GliaX/Stethoscope/graphs/contributors"
+user-manual = [
+   "https://github.com/GliaX/Stethoscope/blob/master/manual/box-insert_top-print.xcf",
+   "https://github.com/GliaX/Stethoscope/blob/master/manual/box-insert_top.png?raw=true",
+   "https://raw.githubusercontent.com/GliaX/Stethoscope/3029e4feec9b79a3c200f78042434890ff1513d0/manual/box-insert_top.svg"
+]
+image = [
+  # logo
+  "https://avatars.githubusercontent.com/u/5991230?s=48&v=4",
+  # product-photo
+  "https://github.com/GliaX/Stethoscope/blob/master/testing/AllStethComp.png?raw=true",
+  "https://github.com/GliaX/Stethoscope/blob/master/testing/Litt3vsGlia2.png?raw=true",
+  "https://github.com/GliaX/Stethoscope/blob/master/testing/ModelSetup.PNG?raw=true"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+publication = "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0193087"
+cpc-patent-class = "A61B 5/00"
+tsdc = "ASM" 
+bom = "https://github.com/GliaX/Stethoscope/tree/master#bill-of-materials"
+manufacturing-instructions = [
+   "https://www.youtube.com/watch?v=u-KNTc0POLA",
+   "https://github.com/GliaX/Stethoscope?tab=readme-ov-file#assembly-instructions"
+]
+source = [
+     "https://github.com/GliaX/Stethoscope/tree/master/testing",
+     "https://github.com/GliaX/Stethoscope/blob/master/source_files/stl/Head%20Diaphragm%20Template(Cutting%20Guide).stl",
+     "https://github.com/GliaX/Stethoscope/blob/master/source_files/stl/eartube.stl",
+     "https://github.com/GliaX/Stethoscope/blob/master/source_files/stl/head.stl",
+     "https://github.com/GliaX/Stethoscope/blob/master/source_files/stl/ring.stl",
+     "https://github.com/GliaX/Stethoscope/blob/master/source_files/stl/spring.stl",
+     "https://github.com/GliaX/Stethoscope/blob/master/source_files/stl/y_piece.stl",
+     "https://github.com/GliaX/Stethoscope/tree/master/source_files/scad",
+     "https://github.com/GliaX/Stethoscope/tree/master/source_files/scad/stethoscope_head",
+     "https://github.com/GliaX/Stethoscope/tree/master/source_files/scad/stethoscope_head/lib/assemblies",
+     "https://github.com/GliaX/Stethoscope/tree/master/source_files/scad/stethoscope_head/lib/printed"
+]
