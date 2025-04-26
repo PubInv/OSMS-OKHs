@@ -1,0 +1,33 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Test-Tube-Opener"
+repo = "https://www.thingiverse.com/thing:4272124?fbclid=IwAR2P_LhKaO6gpGP-jcJeQ6qfJLwXsNGC0Mz70xWdZMaUt69EAvn3mF70ABw"
+version = "1.0.0"
+license = "	CC-BY-NC-SA-4.0"
+licensor = "Jiří Kubík <https://www.thingiverse.com/kvant/designs>"
+function = "Developed by a robotics group in collaboration with microbiologists at Charles University, Czechoslovakia. Meant for use in a medical laboratory to diminish hand fatigue in opening numerous test tubes. Originally designed for the FL Medical Sterile test tube but is easily modified."
+documentation-language = "en"
+organization = "Thingiverse"
+release = "https://www.thingiverse.com/make:791927"
+readme = "https://www.thingiverse.com/thing:4272124"
+image = [
+  "https://cdn.thingiverse.com/assets/ac/d7/59/37/13/large_display_IMG_20200409_121554.jpg",
+  "https://cdn.thingiverse.com/assets/24/22/d8/3b/d4/large_display_IMG_20200409_122029.jpg",
+  "https://cdn.thingiverse.com/assets/81/3d/c2/77/2f/large_display_IMG_20200409_121353.jpg",
+  "https://cdn.thingiverse.com/assets/96/2b/c2/92/ce/large_display_IMG_20200409_121521.jpg",
+  "https://cdn.thingiverse.com/assets/24/21/6b/4a/35/large_display_IMG_20200409_121533.jpg",
+  "https://cdn.thingiverse.com/assets/4e/d3/80/9d/f5/large_display_IMG_20200409_125518.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "B01L 99/00"
+tsdc = "3DP" 
+bom = "https://www.thingiverse.com/thing:4272124"
+manufacturing-instructions = "https://www.thingiverse.com/thing:4272124"
+source = [
+     "https://www.thingiverse.com/download:7961413",
+     "https://www.thingiverse.com/thing:4272124/files"
+]
