@@ -1,0 +1,35 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "FDM-Nasopharyngeal-(NP)-Testing-Swab"
+repo = "https://3d.nih.gov/entries/3DPX-014504"
+version = "2.0.0"
+license = "CC-BY-4.0"
+licensor = "Helpful Engineering <info@helpfulengineering.org>"
+function = "Flexible TPA or PLU 3DP swab for FDM printers. Fabricate as instructed with no modifications."
+documentation-language = "en"
+organization = "Helpful Engineering"
+contribution-guide = "https://3d.nih.gov/entries/3DPX-014504#attribution"
+image = [
+  # logo
+  "https://helpfulengineering.org/wp-content/uploads/2021/08/Helpful-RGB-logo.svg",
+  # product-photo
+  "https://3d.nih.gov/api/submissions/18992/files/input/411572",
+  "https://3d.nih.gov/api/submissions/18992/files/input/411574",
+  "https://3d.nih.gov/api/submissions/18992/files/input/411575",
+  "https://3d.nih.gov/api/submissions/18992/files/input/411576",
+  "https://3d.nih.gov/api/submissions/18992/files/input/411579",
+  "https://3d.nih.gov/api/submissions/18992/files/input/411581",
+  "https://3d.nih.gov/api/submissions/18992/files/input/411577"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+# A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
+cpc-patent-class = "A61B 1/005"
+tsdc = "3DP"
+bom = "https://3d.nih.gov/entries/3DPX-014504#printing"
+manufacturing-instructions = "https://3d.nih.gov/entries/3DPX-014504#printing"
+user-manual = "https://youtu.be/eSveAXCoLv0"
+source = "https://3d.nih.gov/entries/download/14504/2"
