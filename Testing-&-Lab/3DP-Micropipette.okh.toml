@@ -1,0 +1,64 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "3DP-Micropipette"
+repo = "https://open-labware.net/projects/biropettes/"
+version = "1.0.0"
+license = "CC-BY-SA-3.0"
+licensor = "Thomas Baden <thomas.baden@uni-tuebingen.de>"
+function = "Laboratory micropipette including assembly files and design for an optional pipette rack. Use the Thingiverse customizer for different volume and precision builds."
+documentation-language = "en"
+organization = "TReND in Africa"
+release = "https://www.thingiverse.com/make:780389"
+readme = "https://www.thingiverse.com/thing:255519"
+image = [
+  # logo
+  "https://open-labware.net/wp-content/uploads/2015/11/open-labware-logo.jpg?w=346",
+  # product-photo
+  "https://i0.wp.com/open-labware.net/wp-content/uploads/2015/11/chj_2619.jpg?w=212&h=318&ssl=1",
+  "https://i0.wp.com/open-labware.net/wp-content/uploads/2015/11/chj_2723.jpg?w=152&h=227&ssl=1",
+  "https://i0.wp.com/open-labware.net/wp-content/uploads/2015/11/2015-07-29-16-45-13.jpg?w=152&h=114&ssl=1",
+  "https://i0.wp.com/open-labware.net/wp-content/uploads/2015/11/2015-09-12-17-37-04.jpg?w=152&h=114&ssl=1",
+  "https://i0.wp.com/open-labware.net/wp-content/uploads/2015/11/chj_2650.jpg?w=212&h=141&ssl=1",
+  "https://i0.wp.com/open-labware.net/wp-content/uploads/2015/11/2014-02-22-18-19-33.jpg?w=347&h=463&ssl=1",
+  "https://cdn.thingiverse.com/renders/02/f9/4d/b1/29/eece7680df6d43771f41ff467437b7df_display_large.jpg",
+  "https://cdn.thingiverse.com/renders/35/91/97/40/20/e60cebd16c72e466347a2d048b3fa244_display_large.jpg",
+  "https://cdn.thingiverse.com/renders/3b/16/61/96/e8/0f155ce137fd8cb8f378f9b799769c5c_display_large.jpg",
+  "https://cdn.thingiverse.com/renders/c9/59/4f/bb/0f/38fbaf5a7b05cad2a8099345e7fef217_display_large.jpg",
+  "https://cdn.thingiverse.com/renders/ba/3d/bb/30/9c/ab9a20b9922eddfd2f767d0e77d1ba95_display_large.jpg",
+  "https://cdn.thingiverse.com/renders/26/85/dd/2d/4e/92d44c2444bc5603cb49edbf06b189d5_display_large.jpg",
+  "https://cdn.thingiverse.com/renders/a7/9f/07/c6/a1/e182ce17a575da13b7cb14a5a989c1c2_display_large.jpg",
+  "https://cdn.thingiverse.com/renders/99/7c/ed/0a/f3/bc5000fd873e9b01b86e0dcd7276fa46_display_large.jpg",
+  "https://cdn.thingiverse.com/renders/1d/32/d4/c5/d3/a6e61aa15aed498749a7496acec65563_display_large.jpg",
+  "https://cdn.thingiverse.com/renders/8c/32/1c/0b/18/60dcdc2d02b5c4ca70e220269fd5a861_display_large.jpg",
+  "https://cdn.thingiverse.com/renders/f2/67/d5/5c/11/67ec1ade5d1eec52e7cfd265f454420f_display_large.jpg",
+  "https://cdn.thingiverse.com/renders/d8/99/79/37/3e/a5bad0b03fd4a09defb0d296c62a96e0_display_large.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "B01L 3/021"
+tsdc = "3DP" 
+bom = "https://open-labware.net/wp-content/uploads/2015/11/pipette-v15.pdf"
+manufacturing-instructions = "https://open-labware.net/wp-content/uploads/2015/11/pipette-v15.pdf"
+user-manual = [
+   "https://www.youtube.com/watch?v=iw-suQJaudM",
+   "https://www.youtube.com/watch?v=xSZF4PS-I2Q",
+   "https://youtu.be/iw-suQJaudM"
+]
+source = [
+     "https://www.thingiverse.com/download:467620",
+     "https://www.thingiverse.com/download:469968",
+     "https://www.thingiverse.com/download:467633",
+     "https://www.thingiverse.com/download:467630",
+     "https://www.thingiverse.com/download:467628",
+     "https://www.thingiverse.com/download:467631",
+     "https://www.thingiverse.com/download:467625",
+     "https://www.thingiverse.com/download:467624",
+     "https://www.thingiverse.com/download:467626",
+     "https://www.thingiverse.com/download:467632",
+     "https://www.thingiverse.com/download:467627",
+     "https://www.thingiverse.com/download:467629",
+     "https://www.thingiverse.com/thing:255519/files"
+]
