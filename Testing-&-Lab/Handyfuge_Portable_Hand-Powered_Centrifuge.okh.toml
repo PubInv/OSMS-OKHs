@@ -1,0 +1,37 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Handyfuge_Portable_Hand-Powered_Centrifuge"
+repo = "https://github.com/ethanjli/handyfuge?fbclid=IwAR2381vcTMv0g18EMmC-btxzCohUrMZncDF-Saqgr9Em1hbs5oGVGxstZCU"
+version = "2.0.0"
+license = "CERN-OHL-W-2.0"
+licensor = "Ethan Li <ethanli@stanford.edu>"
+function = "Designed to hold microcentrifuge tubes for LAMP assay. Features readily available materials for a $5 build per unit."
+documentation-language = "en"
+organization = "Prakash Lab"
+release = "https://github.com/prakashlab/handyfuge/commit/986a05e038c09362cc542312b1fe06306bd49d0a"
+readme = "https://github.com/prakashlab/handyfuge/blob/master/README.md"
+image = [
+  # logo
+  "https://avatars.githubusercontent.com/u/69774755?s=48&v=4",
+  # product-photo
+  "https://raw.githubusercontent.com/ethanjli/handyfuge/master/docs/images/v0.1.0_bottom.jpg",
+  "https://raw.githubusercontent.com/ethanjli/handyfuge/master/docs/images/v0.1.0_top.jpg",
+  "https://raw.githubusercontent.com/ethanjli/handyfuge/master/docs/images/v0.2.1_top.jpg",
+  "https://drive.google.com/file/d/1yVK8ijzrQXc99b7NtF6zJqdZ-8bI2YoC/view?usp=sharing",
+  "https://drive.google.com/drive/folders/1ZNTd_ySJtXn2qwRWTb83T112aYDAMxPa"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "B04B 1/00"
+tsdc = "ASM" 
+bom = "https://github.com/prakashlab/handyfuge/tree/master/designs/v0.2.3"
+manufacturing-instructions = "https://github.com/prakashlab/handyfuge/tree/master/designs/v0.2.3"
+source = [
+     "https://cad.onshape.com/documents/2cf671f300bec1e37c7aebdd/w/50c80549fc61639971846d73/e/14e672d36cf51ed47f4d48e6",
+     "https://github.com/prakashlab/handyfuge/tree/master/designs",
+     "https://github.com/prakashlab/handyfuge/blob/master/designs/v0.2.3/1.5%20mL%20tubes%2C%20no%20rotor%20guard%2C%20small%20rotor/2%20mm/Laser%20Cuts%20Panelized.pdf",
+     "https://github.com/prakashlab/handyfuge/blob/master/designs/v0.2.3/1.5%20mL%20tubes%2C%20no%20rotor%20guard%2C%20small%20rotor/2%20mm/Laser%20Cuts%20Panelized.ai"
+     ]
