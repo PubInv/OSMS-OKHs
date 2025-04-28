@@ -1,0 +1,50 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Open-PCR"
+repo = "https://openpcr.org/#build-pcr"
+version = "1.0.0"
+license = "GPL-3.0-only"
+licensor = "Open PCR <feedback@openpcr.org>"
+function = "An open source PCR thermocycler with hardware, software, calibration, and BOM files needed for use. Licensed under GNU GPlv3."
+documentation-language = "en"
+organization = "Open PCR"
+readme = "https://openpcr.org/design/"
+image = "https://openpcr.org/assets/machine-34ba9a259de2ce130a96f9f6380cc9da.png"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "C12Q 1/00"
+tsdc = "MEC"
+bom = "https://docs.google.com/spreadsheets/d/1qU8JTjpcS9T-dLh-J5UMDSYR0hK_6NiMx2Ur3dYi_4g"
+manufacturing-instructions = "https://openpcr.org/downloads/build/OpenPCR-BuildInstructions-1.2.pdf"
+user-manual = "https://openpcr.org/downloads/build/OpenPCR-BuildInstructions-1.2.pdf"
+source = [
+     "https://github.com/jperfetto/OpenPCR/tree/master",
+     "https://openpcr.org/downloads/design/OpenPCR-CAD-1.0.zip",
+     "https://openpcr.org/downloads/design/OpenPCR-BoardDesign-1.0.zip",
+     "https://www.chaibio.com/openqpcr"
+]
+mass= 3500
+
+[outer-dimensions]
+width = 130
+depth = 200
+height = 250
+
+[[software]]
+release = "https://github.com/jperfetto/OpenPCR/releases/tag/a1.0.2"
+installation-guide = "https://github.com/jperfetto/OpenPCR/commit/e5c91b0fab3db9082520366c296a64f9496109ca"
+
+[[software]]
+release = "https://github.com/jperfetto/OpenPCR/releases/tag/f1.0.3"
+installation-guide = "https://github.com/jperfetto/OpenPCR/commit/6d1d7eed2f672998e7709f149d7189e6f484ea67"
+
+[[software]]
+release = "https://github.com/jperfetto/OpenPCR/releases/tag/a1.0.1"
+installation-guide = "https://github.com/jperfetto/OpenPCR/commit/6d1d7eed2f672998e7709f149d7189e6f484ea67"
+
+[[software]]
+release = "https://github.com/jperfetto/OpenPCR/releases/tag/v1.0.0"
+installation-guide = "https://github.com/jperfetto/OpenPCR/commit/08142480371b0219a2b163a558b6a7f5e65c58cc"
