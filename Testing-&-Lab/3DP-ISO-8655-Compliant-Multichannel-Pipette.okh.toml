@@ -1,0 +1,43 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "3DP-ISO-8655-Compliant-Multichannel-Pipette"
+repo = "https://www.appropedia.org/Open_Source_3-D_Printed_ISO_8655_Compliant_Multichannel_Pipette"
+version = "1.0.0"
+license = "GPL-3.0-only"
+licensor = "Joshua Pearce <https://osf.io/6psy8/>"
+function = "Developed by Western University’s Free Appropriate Sustainability Technology (FAST) Research Group, this ergonomic, ISO compliant pipette can be constructed with a basic desktop 3D printer and a materials cost under $50, featuring readily available, interchangeable components. Each syringe operates an individual tip, which prevents cross-contamination, and can be easily replaced for a variety of experiments."
+documentation-language = "en"
+organization = "Western University’s Free Appropriate Sustainability Technology (FAST) Research Group"
+readme = "https://www.appropedia.org/Open_Source_3-D_Printed_ISO_8655_Compliant_Multichannel_Pipette"
+contribution-guide = "https://osf.io/9tn6e/metadata/osf"
+image = [
+  # logo
+  "https://www.appropedia.org/w/images/thumb/4/41/Purplefast.png/75px-Purplefast.png",
+  # product-photo
+  "https://www.appropedia.org/w/images/thumb/a/a7/Multichannelpip.png/300px-Multichannelpip.png",
+  "https://www.appropedia.org/w/images/thumb/d/d4/Buildmultipip.png/700px-Buildmultipip.png"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+publication = "https://ojs.lib.uwo.ca/index.php/openhardware/article/view/17853"
+cpc-patent-class = "B01L 3/0231"
+tsdc = "3DP" 
+bom = "https://osf.io/9tn6e/files/osfstorage/5fd8fc660694b703f5f3780e"
+manufacturing-instructions = "https://www.appropedia.org/Open_Source_3-D_Printed_ISO_8655_Compliant_Multichannel_Pipette"
+source = [
+     "https://osf.io/9tn6e/files/osfstorage/5fd8fc4ff0df5403bb2ed134",
+     "https://osf.io/9tn6e/files/osfstorage/5fd8fc070694b703f5f3769b",
+     "https://osf.io/9tn6e/files/osfstorage/5fd8fc08149e7503bc028ec4",
+     "https://osf.io/9tn6e/files/osfstorage/5fd8fc07149e7503bb028323",
+     "https://osf.io/9tn6e/files/osfstorage/5fd8fc090694b703f4f36bef",
+     "https://osf.io/9tn6e/files/osfstorage/5fd8fbcd0694b703f5f375a9",
+     "https://osf.io/9tn6e/files/osfstorage/5fd8fc240694b703f4f36c1b",
+     "https://osf.io/9tn6e/files/osfstorage/5fd8fbd9f0df5403be2ed819",
+     "https://osf.io/9tn6e/files/osfstorage/5fd8fc25f0df5403be2ed8c7",
+     "https://osf.io/9tn6e/files/osfstorage/5fd8fbd3149e7503b8027c84",
+     "https://osf.io/9tn6e/files/osfstorage/5fd8fc240694b703f0f35fcd",
+     "https://osf.io/9tn6e/files/osfstorage/5fd8fbdc149e7503b8027c91"
+]
