@@ -1,0 +1,40 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Komposit-&-Mekanik-Test-Tube-DeCapper"
+repo = "http://www.kompositmekanik.se/portfolio/Covid-19%20test%20tube%20decapper/Covid-19%20test%20tube%20decapper.htm?fbclid=IwAR2kDWVhG4sUpd-pHLllhAx9ekPw1qrVejJ4OKdXMEObGNlTwFncOS6ZlCs"
+version = "1.0.0"
+license = "CC-BY-4.0"
+licensor = "Lars Hässler <lasse@kompositmekanik.se>"
+function = "Laboratory test tube de-capper requiring stainless steel machining and a foot-operated motor. Three of these machines were made for and successfully used in Swedish hospitals."
+documentation-language = "en"
+organization = "Komposit & Mekanik"
+readme = "https://www.kompositmekanik.se/portfolio/Covid-19%20test%20tube%20decapper/Covid-19%20test%20tube%20decapper.htm?fbclid=IwAR2kDWVhG4sUpd-pHLllhAx9ekPw1qrVejJ4OKdXMEObGNlTwFncOS6ZlCs"
+contribution-guide = "https://www.kompositmekanik.se/portfolio/Covid-19%20test%20tube%20decapper/Covid-19%20test%20tube%20decapper.htm?fbclid=IwAR2kDWVhG4sUpd-pHLllhAx9ekPw1qrVejJ4OKdXMEObGNlTwFncOS6ZlCs"
+image = [
+  "https://www.kompositmekanik.se/portfolio/Covid-19%20test%20tube%20decapper/Covid%2019.jpg",
+  "https://www.kompositmekanik.se/portfolio/Covid-19%20test%20tube%20decapper/covid%2019%201.jpg",
+  "https://www.kompositmekanik.se/portfolio/Covid-19%20test%20tube%20decapper/covid%2019%202.jpg",
+  "https://www.kompositmekanik.se/portfolio/Covid-19%20test%20tube%20decapper/covid%2019%203b.jpg",
+  "https://www.kompositmekanik.se/portfolio/Covid-19%20test%20tube%20decapper/covid%2019%204.jpg",
+  "https://www.kompositmekanik.se/portfolio/Covid-19%20test%20tube%20decapper/covid%2019%205.jpg",
+  "https://www.kompositmekanik.se/portfolio/Covid-19%20test%20tube%20decapper/covid%2019%20air%20pressure%20gauge.jpg",
+  "https://www.kompositmekanik.se/portfolio/Covid-19%20test%20tube%20decapper/covid%2019%206.jpg",
+  "https://www.kompositmekanik.se/portfolio/Covid-19%20test%20tube%20decapper/covid%2019%201a.jpg",
+  "https://www.kompositmekanik.se/portfolio/Covid-19%20test%20tube%20decapper/covid%2019%20baksida%202.jpg",
+  "https://www.kompositmekanik.se/portfolio/Covid-19%20test%20tube%20decapper/covid%2019%20baksida.jpg",
+  "https://www.kompositmekanik.se/portfolio/Covid-19%20test%20tube%20decapper/covid%2019%20under.jpg",
+  "https://www.kompositmekanik.se/portfolio/Covid-19%20test%20tube%20decapper/covid%2019%20sida.jpg",
+  "https://www.kompositmekanik.se/portfolio/Covid-19%20test%20tube%20decapper/covid%2019%20cad1.jpg",
+  "https://www.kompositmekanik.se/portfolio/Covid-19%20test%20tube%20decapper/covid%2019%20cad2.jpg",
+  "https://www.kompositmekanik.se/portfolio/Covid-19%20test%20tube%20decapper/covid%2019%20cad3.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "B01L 99/00"
+tsdc = "MEC"
+manufacturing-instructions = "https://www.kompositmekanik.se/portfolio/Covid-19%20test%20tube%20decapper/Covid-19%20test%20tube%20decapper.htm?fbclid=IwAR2kDWVhG4sUpd-pHLllhAx9ekPw1qrVejJ4OKdXMEObGNlTwFncOS6ZlCs"
+user-manual = "https://youtu.be/Bd8h5vkMEtw"
+source = "https://www.kompositmekanik.se/portfolio/Covid-19%20test%20tube%20decapper/Water%20jet.jpg"
