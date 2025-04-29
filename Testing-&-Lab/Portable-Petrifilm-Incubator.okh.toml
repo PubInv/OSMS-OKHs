@@ -1,0 +1,77 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Portable-Petrifilm-Incubator"
+repo = "https://www.instructables.com/Portable-Petrifilm-Incubator-for-Inexpensive-In-Fi/"
+version = "1.0.0"
+license = "CC-BY-NC-SA-4.0"
+licensor = "Robert Read <read.robert@gmail.com>"
+function = "A low-cost, portable incubator for water quality testing developed by Engineers Without Borders. This project uses easily accessible materials and is valuable for rural, low resources areas testing E. coli water safety standards."
+documentation-language = "en-US"
+organization = "Engineers Without Borders USA"
+readme = "https://www.instructables.com/Portable-Petrifilm-Incubator-for-Inexpensive-In-Fi/"
+contribution-guide = "https://www.instructables.com/Portable-Petrifilm-Incubator-for-Inexpensive-In-Fi/"
+image = [
+  # logo
+  "https://ewbgreateraustin.org/wp-content/uploads/2021/03/greater-austin-chapter-02-1.png?w=200",
+  # product-photo
+  "https://content.instructables.com/FFE/JMGP/IVO3NPAT/FFEJMGPIVO3NPAT.jpg?auto=webp&frame=1&width=493&height=1024&fit=bounds&md=MjAxNi0xMS0yMSAxNzo1MDoyNy4w",
+  "https://content.instructables.com/F5I/JW6H/IVO3NSGM/F5IJW6HIVO3NSGM.jpg?auto=webp&frame=1&width=707&fit=bounds&md=MjAxNi0xMS0yMSAxODoxMDozNS4w",
+  "https://content.instructables.com/FNG/9BX3/IVO5A7SH/FNG9BX3IVO5A7SH.jpg?auto=webp&frame=1&height=1024&fit=bounds&md=MjAxNi0xMS0yOCAxNTozMTowOS4w",
+  "https://content.instructables.com/FN4/CCJF/IVO3NQ80/FN4CCJFIVO3NQ80.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0xMS0yMSAxODowMDoxNS4w",
+  "https://content.instructables.com/F5F/NYNW/IMWB8HZ3/F5FNYNWIMWB8HZ3.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0wNC0xMSAxMTozMzoyMS4w",
+  "https://content.instructables.com/FWD/W71G/IMWB8HOU/FWDW71GIMWB8HOU.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0wNC0xMSAxMTozMjo0NS4w",
+  "https://content.instructables.com/FXH/N3QL/IMWB8IAN/FXHN3QLIMWB8IAN.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0wNC0xMSAxMTo0NDoxOC4w",
+  "https://content.instructables.com/FY8/IRXC/IVO3NPZ0/FY8IRXCIVO3NPZ0.jpg?auto=webp&frame=1&width=600&height=1024&fit=bounds&md=MjAxNi0xMS0yMSAxODowMDowNy4w",
+  "https://content.instructables.com/FSS/ST0N/IVO3NPXT/FSSST0NIVO3NPXT.jpg?auto=webp&frame=1&width=600&height=1024&fit=bounds&md=MjAxNi0xMS0yMSAxNzo1MDo1NS4w",
+  "https://content.instructables.com/F10/5UH4/IVO3NRZ1/F105UH4IVO3NRZ1.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0xMS0yMSAxODowMjozMy4w",
+  "https://content.instructables.com/FA1/8ZWZ/IVO3NRYH/FA18ZWZIVO3NRYH.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0xMS0yMSAxODowMjoyOC4w",
+  "https://content.instructables.com/FGM/3QPY/IVO3NRYA/FGM3QPYIVO3NRYA.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0xMS0yMSAxODowMjoyMS4w",
+  "https://content.instructables.com/FNG/6F69/IVO534IB/FNG6F69IVO534IB.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0xMS0yNyAxNjo1MTozOC4w",
+  "https://content.instructables.com/F22/Y8QB/IVO3NS15/F22Y8QBIVO3NS15.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0xMS0yMSAxODoxMDoxNC4w",
+  "https://content.instructables.com/FSO/YZA1/IVO3NS0Z/FSOYZA1IVO3NS0Z.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0xMS0yMSAxODoxMDowMy4w",
+  "https://content.instructables.com/FCX/2N8O/IVO3NS0L/FCX2N8OIVO3NS0L.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0xMS0yMSAxODowMjo0OS4w",
+  "https://content.instructables.com/FVU/KNNA/IVO3NS05/FVUKNNAIVO3NS05.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0xMS0yMSAxODowMjo0NC4w",
+  "https://content.instructables.com/FM1/RTLH/IMWB8I77/FM1RTLHIMWB8I77.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0wNC0xMSAxMTo0MzoyNC4w",
+  "https://content.instructables.com/FTU/MGLR/IMWB8I8M/FTUMGLRIMWB8I8M.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0wNC0xMSAxMTo0Mzo1NS4w",
+  "https://content.instructables.com/F8S/5A72/IMWB8I6Z/F8S5A72IMWB8I6Z.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0wNC0xMSAxMTo0MzoyMC4w",
+  "https://content.instructables.com/FHT/JJU8/IVO53NQ7/FHTJJU8IVO53NQ7.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0xMS0yNyAxNzoxMDozNy4w",
+  "https://content.instructables.com/FRC/VNAD/IVO53QAO/FRCVNADIVO53QAO.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0xMS0yNyAxNzoxMTowOS4w",
+  "https://content.instructables.com/FLM/8UU4/IN4TRX4B/FLM8UU4IN4TRX4B.png?auto=webp&frame=1&width=511&fit=bounds&md=MjAxNi0wNC0xNyAxODo1MDozMy4w",
+  "https://content.instructables.com/F0M/QKE2/ING9BJT7/F0MQKE2ING9BJT7.png?auto=webp&frame=1&width=307&fit=bounds&md=MjAxNi0wNC0yNSAxODo1MTowNC4w",
+  "https://content.instructables.com/FSX/S2VJ/IVO53UOM/FSXS2VJIVO53UOM.jpg?auto=webp&frame=1&width=307&height=1024&fit=bounds&md=MjAxNi0xMS0yNyAxNzoyMTo0Ni4w",
+  "https://content.instructables.com/F3Z/U34F/IVO53UOR/F3ZU34FIVO53UOR.jpg?auto=webp&frame=1&width=307&height=1024&fit=bounds&md=MjAxNi0xMS0yNyAxNzoyMTo1MC4w",
+  "https://content.instructables.com/FMO/K446/IVO53YWJ/FMOK446IVO53YWJ.jpg?auto=webp&frame=1&crop=3:2&width=905&height=1024&fit=bounds&md=MjAxNi0xMS0yNyAxNzozMDoyNi4w",
+  "https://content.instructables.com/FWW/7YOQ/IVO53ZMQ/FWW7YOQIVO53ZMQ.jpg?auto=webp&frame=1&width=295&height=1024&fit=bounds&md=MjAxNi0xMS0yNyAxNzozMDo0OS4w",
+  "https://content.instructables.com/FEE/1D8W/IVO53ZOG/FEE1D8WIVO53ZOG.jpg?auto=webp&frame=1&width=295&height=1024&fit=bounds&md=MjAxNi0xMS0yNyAxNzozMDo1My4w",
+  "https://content.instructables.com/FU0/PR4U/IVO53ZMI/FU0PR4UIVO53ZMI.jpg?auto=webp&frame=1&width=295&height=1024&fit=bounds&md=MjAxNi0xMS0yNyAxNzozMDo0NS4w",
+  "https://content.instructables.com/FTU/Q4V9/IVO541PM/FTUQ4V9IVO541PM.jpg?auto=webp&frame=1&width=972&height=1024&fit=bounds&md=MjAxNi0xMS0yNyAxNzo0MDozMC4w",
+  "https://content.instructables.com/FCA/SBK6/IVO5AABQ/FCASBK6IVO5AABQ.jpg?auto=webp&frame=1&width=228&height=1024&fit=bounds&md=MjAxNi0xMS0yOCAxNjowMDo0OS4w",
+  "https://content.instructables.com/F8K/0J5L/IVO540WK/F8K0J5LIVO540WK.jpg?auto=webp&frame=1&width=228&height=1024&fit=bounds&md=MjAxNi0xMS0yNyAxNzo0MDoxNC4w",
+  "https://content.instructables.com/FN4/H5NX/IVO540Y8/FN4H5NXIVO540Y8.jpg?auto=webp&frame=1&width=228&height=1024&fit=bounds&md=MjAxNi0xMS0yNyAxNzo0MDoxOC4w",
+  "https://content.instructables.com/F5Q/EDDU/IVO54290/F5QEDDUIVO54290.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0xMS0yNyAxNzo0MTowNS4w",
+  "https://content.instructables.com/FQI/8QNX/IVO542CC/FQI8QNXIVO542CC.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0xMS0yNyAxNzo0MToxMi4w",
+  "https://content.instructables.com/FZ3/SS9V/IVO542G7/FZ3SS9VIVO542G7.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0xMS0yNyAxNzo0MToyNS4w",
+  "https://content.instructables.com/FMH/WO8R/IVO542E6/FMHWO8RIVO542E6.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0xMS0yNyAxNzo0MToxNy4w",
+  "https://content.instructables.com/FIW/SLXJ/IVO542IG/FIWSLXJIVO542IG.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0xMS0yNyAxNzo0MTozMS4w",
+  "https://content.instructables.com/FKI/YZ5G/IVO542IM/FKIYZ5GIVO542IM.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0xMS0yNyAxNzo0MTozNS4w",
+  "https://content.instructables.com/FEI/RC78/IVO544TW/FEIRC78IVO544TW.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0xMS0yNyAxODowMDoyMS4w",
+  "https://content.instructables.com/F3U/XRN6/IVO544D5/F3UXRN6IVO544D5.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0xMS0yNyAxNzo1MToyMi4w",
+  "https://content.instructables.com/FD4/CRQ7/IMWBBYO5/FD4CRQ7IMWBBYO5.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0wNC0xMSAyMDowMToxNS4w"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+publication = "https://jhe.ewb.org.au/index.php/jhe/article/view/127"
+cpc-patent-class = "C12N 1/04"
+tsdc = "ASM" 
+bom = "https://content.instructables.com/FDT/N7U5/IVO5ASZ0/FDTN7U5IVO5ASZ0.pdf"
+manufacturing-instructions = "https://www.instructables.com/Portable-Petrifilm-Incubator-for-Inexpensive-In-Fi/"
+source = "https://content.instructables.com/FVY/KN3H/IVO5ARRV/FVYKN3HIVO5ARRV.pdf"
+
+[outer-dimensions]
+# Dimensions roughly from templates.
+width = 184.15
+depth = 251.46
+height = 114.3
