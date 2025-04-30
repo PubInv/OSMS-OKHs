@@ -1,0 +1,54 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "3DP-Laboratory-Sample-Rotator-Mixer-and-Shaker"
+repo = "https://www.appropedia.org/Open_Source_Laboratory_Sample_Rotator_Mixer_and_Shaker"
+version = "1.0.0"
+license = "GPL-3.0-only"
+licensor = "Joshua Pearce <https://osf.io/6psy8/>"
+function = "Developed by Michigan Tech’s Open Sustainability Technology Lab (MOST), this sample mixer is portable, battery operated, and can be constructed for less than $100. Materials include an Arduino USB microcontroller and PLA filament."
+documentation-language = "en-US"
+organization = "Michigan Tech’s Open Sustainability Technology Lab"
+contribution-guide = "https://osf.io/q3nr5/metadata/osf"
+image = [
+  # logo
+  "https://www.appropedia.org/w/images/thumb/c/c2/Sunhusky.png/79px-Sunhusky.png",
+  # product-photo
+  "https://www.appropedia.org/w/images/5/56/Osrot.jpg",
+  "https://www.hardware-x.com/cms/10.1016/j.ohx.2016.07.001/asset/03a682af-8967-457e-982c-fa19f9328b69/main.assets/gr1_lrg.jpg",
+  "https://www.hardware-x.com/cms/10.1016/j.ohx.2016.07.001/asset/ad6933ea-f0e6-4720-9b8e-f60bd87a24f5/main.assets/gr2_lrg.jpg",
+  "https://www.hardware-x.com/cms/10.1016/j.ohx.2016.07.001/asset/6b7ddf34-d323-40bb-8c8c-a74b8f566da1/main.assets/gr3_lrg.jpg",
+  "https://www.hardware-x.com/cms/10.1016/j.ohx.2016.07.001/asset/6a9abbc4-bc93-427e-93d8-45b6c72c41c4/main.assets/gr4_lrg.jpg",
+  "https://www.hardware-x.com/cms/10.1016/j.ohx.2016.07.001/asset/11796a06-900e-4234-af1f-028dd206b01c/main.assets/gr5_lrg.jpg",
+  "https://www.hardware-x.com/cms/10.1016/j.ohx.2016.07.001/asset/81739609-b94e-4109-83bb-a20fd8e0eb9d/main.assets/gr6_lrg.jpg",
+  "https://www.hardware-x.com/cms/10.1016/j.ohx.2016.07.001/asset/4280fcfc-68a0-4a16-a8cf-00f6510c3bef/main.assets/gr7_lrg.jpg",
+  "https://www.hardware-x.com/cms/10.1016/j.ohx.2016.07.001/asset/8ce319a5-cb90-4cf3-ad9e-04e49fd17414/main.assets/gr8_lrg.jpg",
+  "https://www.hardware-x.com/cms/10.1016/j.ohx.2016.07.001/asset/d2f0d31c-8f82-4ecc-9a9e-7e84699f1cbb/main.assets/gr9_lrg.jpg",
+  "https://www.hardware-x.com/cms/10.1016/j.ohx.2016.07.001/asset/3f31dacd-20bf-4272-8b1a-8694ee5e6c4c/main.assets/gr10_lrg.jpg",
+  "https://www.hardware-x.com/cms/10.1016/j.ohx.2016.07.001/asset/59e187a6-471e-4b1b-8297-d3dc9001da01/main.assets/gr11_lrg.jpg",
+  "https://www.hardware-x.com/cms/10.1016/j.ohx.2016.07.001/asset/d4a430a4-fb7f-426c-b4b9-66751b96325a/main.assets/gr12_lrg.jpg",
+  "https://www.hardware-x.com/cms/10.1016/j.ohx.2016.07.001/asset/d87e11f7-c2e3-420c-9956-d56c0c3270ea/main.assets/gr13_lrg.jpg",
+  "https://www.hardware-x.com/cms/10.1016/j.ohx.2016.07.001/asset/c8466432-869f-4627-a319-736fc505f517/main.assets/fx2_lrg.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+attestation = "https://www.appropedia.org/scripts/retrieveOshwaMetadata.php?title=Open_Source_Laboratory_Sample_Rotator_Mixer_and_Shaker"
+publication = [
+   "https://www.academia.edu/32407856/Open_source_laboratory_sample_rotator_mixer_and_shaker#124",
+   "https://www.hardware-x.com/article/S2468-0672(16)30004-9/fulltext"
+]
+cpc-patent-class = "B01F 23/45"
+tsdc = "ASM" 
+bom = "https://osf.io/q3nr5/files/osfstorage/573e06ae6c613b01f0bd1dcc"
+manufacturing-instructions = "https://youtu.be/bFaAfKn8STc"
+user-manual = [
+   "https://youtu.be/Ta2ACV1oIjI",
+   "https://youtu.be/cj2Bp5qAUJA"
+]
+source = "https://files.osf.io/v1/resources/q3nr5/providers/osfstorage/?zip="
+
+[[software]]
+release = "https://osf.io/q3nr5/components"
+installation-guide = "https://osf.io/q3nr5/components"
