@@ -1,0 +1,23 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Dr.-Yuri-Gelland-Simple-Bubble-Helmet"
+repo = "https://www.helmetbasedventilation.com/post/yuri-gelland-simple-bubble-helmet-design-covid"
+version = "1.0.0"
+license = "LicenseRef-NOASSERTION"
+licensor = "Yuri Gelland <https://twitter.com/GellandMD>"
+function = "A video description of a bubble helmet DIY design using a ziplock bag connected to common hospital airway support items."
+documentation-language = "en"
+organization = "Sharp Grossmont Hospital"
+image = [
+  "https://static.wixstatic.com/media/4af7e1_287dcf8a295b4117bce80064c6c11a78~mv2.png/v1/fill/w_115,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/helmet_logo_1600px%20%20croped%20navigation%20small%202.png",
+  "https://images.ctfassets.net/pxcfulgsd9e2/4EUfec0p4fCfl9KFTM28Wa/d779cac50515656f7ff40335e69370e2/gelland_yuri_68005_2012.jpg?f=face&fit=fill&fm=webp&h=1140&q=85&w=1140"
+]
+technology-readiness-level = "OTRL-2"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A62B 7/00"
+tsdc = "ASM"
+bom = "https://www.helmetbasedventilation.com/post/yuri-gelland-simple-bubble-helmet-design-covid"
+manufacturing-instructions = "https://www.helmetbasedventilation.com/post/yuri-gelland-simple-bubble-helmet-design-covid"
