@@ -1,0 +1,55 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "3DP-Nutating-Mixer"
+repo = "https://www.appropedia.org/Open_Source_3-D_Printed_Nutating_Mixer"
+version = "1.0.0"
+license = "GPL-3.0-only"
+licensor = "Joshua Pearce <https://osf.io/6psy8/>"
+function = "Developed by Michigan Tech’s Open Sustainability Technology Lab (MOST), this laboratory nutating mixer provides a gentle three-dimensional (gyrating) agitation of chemical or biological samples without foam formation. Device material cost is less than $50, is easily repaired, and can be customized for individual sample sizes and mixing velocities."
+documentation-language = "en-US"
+organization = "Michigan Tech's Open Sustainability Technology Lab"
+readme = "https://www.appropedia.org/Open_Source_3-D_Printed_Nutating_Mixer"
+contribution-guide = "https://osf.io/bqysc/metadata/osf"
+image = [
+  # logo
+  "https://www.appropedia.org/w/images/thumb/c/c2/Sunhusky.png/79px-Sunhusky.png",
+  # product-photo
+  "https://www.appropedia.org/w/images/thumb/2/24/Mixer-nutating.jpg/300px-Mixer-nutating.jpg",
+  "https://pub.mdpi-res.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-ag-550.jpg?1569545903",
+  "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g001-550.jpg",
+  "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g002-550.jpg",
+  "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g003-550.jpg",
+  "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g004-550.jpg",
+  "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g005-550.jpg",
+  "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g006-550.jpg",
+  "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g007-550.jpg",
+  "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g008-550.jpg",
+  "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g009-550.jpg",
+  "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g010-550.jpg",
+  "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g011-550.jpg",
+  "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g012-550.jpg",
+  "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g013-550.jpg",
+  "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g014-550.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+attestation = "https://www.appropedia.org/scripts/retrieveOshwaMetadata.php?title=Open_Source_3-D_Printed_Nutating_Mixer"
+publication = [
+   "https://www.mdpi.com/2076-3417/7/9/942",
+   "https://www.academia.edu/34589801/Open_Source_3_D_Printed_Nutating_Mixer"
+]
+cpc-patent-class = "B01F 23/45"
+tsdc = "3DP"
+bom = [
+   "https://www.mdpi.com/2076-3417/7/9/942#table_body_display_applsci-07-00942-t001",
+   "https://www.mdpi.com/2076-3417/7/9/942#table_body_display_applsci-07-00942-t002"
+]
+manufacturing-instructions = "https://www.mdpi.com/2076-3417/7/9/942/pdf?version=1505304786"
+user-manual = "https://youtu.be/j2lg2GZs5lI"
+source = [
+   "https://files.osf.io/v1/resources/bqysc/providers/osfstorage/?zip=",
+   "https://youmagine.com/designs/open-source-nutating-mixer/files#files"
+]
