@@ -1,0 +1,43 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Clarivent-Bubble-Helmet"
+repo = "https://github.com/COSMIC-medical/bubble-helmet"
+version = "2.0.0"
+license = "LicenseRef-NOASSERTION"
+licensor = "Clarivent Medical <info@Clariventmedical.com>"
+function = "Well researched NIV project developed by University of British Columbia medical faculty, including device test results and directions for use. This design features a flexible, transparent hood, which allows a patient to recline comfortably in various positions with no compromise in oxygen treatment."
+documentation-language = "en"
+organization = "Clarivent Medical"
+release = "https://github.com/COSMIC-medical/bubble-helmet/commit/95b6d7db51b177e363861683e7719dfcc95bb981"
+readme = "https://github.com/COSMIC-medical/bubble-helmet/blob/master/README.md"
+contribution-guide = "https://github.com/COSMIC-medical/bubble-helmet/graphs/contributors"
+image = [
+  "https://ieeexplore.ieee.org/ielx7/8782705/8819998/9252125/graphical_abstract/ojemb-gagraphic-3036742.jpg",
+  "https://ieeexplore.ieee.org/mediastore/IEEE/content/media/8782705/8819998/9252125/gusti1-3036742-small.gif",
+  "https://ieeexplore.ieee.org/mediastore/IEEE/content/media/8782705/8819998/9252125/gusti2-3036742-small.gif",
+  "https://ieeexplore.ieee.org/mediastore/IEEE/content/media/8782705/8819998/9252125/gusti.t1-3036742-small.gif"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+publication = "https://ieeexplore.ieee.org/document/9252125"
+cpc-patent-class = "A42B 3/28"
+tsdc = "ASM" 
+bom = "https://drive.google.com/file/d/1jZ0a25pySPNCMuQ5Tw7bzMXcM6IB1M9-/view?usp=sharing"
+manufacturing-instructions = "https://drive.google.com/file/d/1jZ0a25pySPNCMuQ5Tw7bzMXcM6IB1M9-/view?usp=sharing"
+user-manual = [
+   "https://drive.google.com/file/d/1f-uzGGQ7v-nkxufN2XQz1fgZZebpPn_1/view?usp=sharing",
+   "https://github.com/COSMIC-medical/bubble-helmet/blob/master/Bubble%20Helmet%20Directions%20for%20use-CM.pdf"
+]
+source = [
+     "https://www.cosmicmedical.ca/s/COSMIC-Medical-GitHub-Open-Source-v2.pdf",
+     "https://github.com/COSMIC-medical/bubble-helmet/blob/master/Bubble%20Helmet%20-%20Testing%20Results-CMJune21.pdf"
+]
+
+[outer-dimensions]
+# Dimensions roughly estimated.
+width = 127
+depth = 12.7
+height = 254
