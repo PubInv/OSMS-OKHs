@@ -1,0 +1,50 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Helpful_Engineering-Project_Apollo"
+repo = "https://github.com/oxycon/ProjectApollo"
+version = "2.0.0"
+license = "MIT"
+licensor = "Helpful Engineering <info@helpfulengineering.org>"
+function = "Project with an aspirational goal of 90% oxygenation at 5 liters per minute (LPM) with affordable, off shelf materials. Design includes zeolite, external air compressor, and an Arduino control board."
+documentation-language = "en"
+organization = "Helpful Engineering"
+release = "https://github.com/oxycon/ProjectApollo/commit/e9dce060e55b708489106f58cf334be1f9ba677a"
+readme = "https://github.com/oxycon/ProjectApollo/blob/master/README.md"
+contribution-guide = "https://github.com/oxycon/ProjectApollo/graphs/contributors"
+image = [
+  # logo
+  "https://helpfulengineering.org/wp-content/uploads/2021/08/Helpful-RGB-logo.svg",
+  # product-photo
+  "https://helpfulengineering.org/wp-content/uploads/2020/06/Apollo-Oxygen-Concentrator-1-1792x2048.jpg",
+  "https://helpfulengineering.org/wp-content/uploads/2020/06/Apollo-Oxygen-Concentrator-2-1536x1366.jpg",
+  "https://helpfulengineering.org/wp-content/uploads/2020/06/Apollo-Oxygen-Concentrator-3-1536x1507.jpg",
+  "https://helpfulengineering.org/wp-content/uploads/2020/06/Apollo-Oxygen-Concentrator-4-1736x2048.jpg",
+  "https://helpfulengineering.org/wp-content/uploads/2020/06/Apollo-Oxygen-Concentrator-5-1536x1479.jpg",
+  "https://helpfulengineering.org/wp-content/uploads/2020/06/Apollo-Oxygen-Concentrator-diagram-768x1056.png"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+publication = [
+   "https://helpfulengineering.org/project-spotlight-apollo-oxygen-concentrator/",
+   "https://github.com/oxycon/ProjectApollo/blob/master/docs/Project%20Apollo%20RespiCon%20v11.pdf"
+]
+cpc-patent-class = "F25J 3/0625"
+tsdc = "ASM"
+bom = "https://github.com/oxycon/ProjectApollo/tree/master/prototypes/Apollo%20v2/BOM"
+manufacturing-instructions = "https://github.com/oxycon/ProjectApollo/blob/master/prototypes/Apollo%20v2/docs/Building%20instructions%20-%20prototype%20v2.pdf"
+user-manual = [
+   "https://www.youtube.com/playlist?list=PL34ykrB-qW7X6d74_VnCFfBaVkm8pQXZK",
+   "https://www.youtube.com/playlist?list=PL34ykrB-qW7VGt1Hwd10Zb3s1eCDftkK8"
+]
+source = [
+     "https://github.com/oxycon/ProjectApollo/tree/master/prototypes/Apollo%20v2",
+     "https://github.com/oxycon/ProjectApollo/tree/master/simulation",
+     "https://github.com/oxycon/ProjectApollo/tree/master/teardowns/Teardown%20-%20Invacare%20PlatinumXL",
+     "https://github.com/oxycon/ProjectApollo/tree/master/.vs",
+     "https://github.com/oxycon/ProjectApollo/tree/master/docs",
+     "https://github.com/oxycon/ProjectApollo/tree/master/electrical",
+     "https://github.com/oxycon/ProjectApollo/tree/master/firmware"
+]
