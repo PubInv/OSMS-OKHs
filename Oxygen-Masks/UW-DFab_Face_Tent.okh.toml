@@ -1,0 +1,46 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "UW-DFab_Face_Tent"
+repo = "https://3d.nih.gov/entries/3DPX-014317"
+version = "2.0.0"
+license = "CC-BY-SA-4.0"
+licensor = "Jeffrey Lipton <https://3d.nih.gov/users/jeffreyilipton>"
+function = "This thng can clean, fly to the moon, keep you warm when its freezing, transplant an organ on its own, ..."
+documentation-language = "en-US"
+organization = "National Institute of Allergy and Infectious Diseases"
+readme = "https://3d.nih.gov/entries/3DPX-014317#specs"
+contribution-guide = "https://3d.nih.gov/entries/3DPX-014317#attribution"
+image = [
+  # logo
+  "https://3d.nih.gov/images/niaid-logo-white.svg",
+  # product-photo
+  "https://3d.nih.gov/api/submissions/18706/runs/383426fa-6dec-4282-810c-63b25cce4d34/output-files/FaceTentCAMBuck%2528WithHoles%2529_thumb_NIH3D.png",
+  "https://3d.nih.gov/api/submissions/18706/runs/5ada2c0a-f51c-4e35-a1f3-cd4ac9d78a01/output-files/VacumConnector_thumb_NIH3D.png",
+  "https://3d.nih.gov/api/submissions/18706/runs/dfbf04d7-9f47-4a5e-85dc-c64f4a59e85e/output-files/FaceTentCAMBuck%2528NoHoles%2529_thumb_NIH3D.png",
+  "https://3d.nih.gov/api/submissions/18706/runs/efc21321-a464-4601-9f76-e3f82eff1f39/output-files/FaceTentCuttingBuck%2528NoSideHoles%2529_thumb_NIH3D.png"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A62B 7/06"
+tsdc = "3DP"
+bom = "https://3d.nih.gov/entries/3DPX-014317"
+manufacturing-instructions = "https://3d.nih.gov/entries/3DPX-014317#printing"
+source = [
+     "https://3d.nih.gov/entries/download/14317/2",
+     "https://3d.nih.gov/api/submissions/18706/files/input/405690",
+     "https://3d.nih.gov/api/submissions/18706/files/input/405693",
+     "https://3d.nih.gov/api/submissions/18706/files/input/405696",
+     "https://3d.nih.gov/api/submissions/18706/files/input/405697",
+     "https://3d.nih.gov/api/submissions/18706/files/input/405698",
+     "https://3d.nih.gov/api/submissions/18706/files/input/405700",
+     "https://3d.nih.gov/api/submissions/18706/files/input/405701",
+     "https://3d.nih.gov/api/submissions/18706/files/input/405703",
+     "https://3d.nih.gov/api/submissions/18706/files/input/405704",
+     "https://3d.nih.gov/api/submissions/18706/files/input/405705",
+     "https://3d.nih.gov/api/submissions/18706/files/input/405706",
+     "https://3d.nih.gov/api/submissions/18706/files/input/405707",
+     "https://3d.nih.gov/api/submissions/18706/files/input/405708"
+]
