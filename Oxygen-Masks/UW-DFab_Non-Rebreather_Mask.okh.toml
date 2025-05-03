@@ -1,0 +1,54 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "UW-DFab_Non-Rebreather_Mask"
+repo = "https://3d.nih.gov/entries/3DPX-014316"
+version = "2.0.0"
+license = "CC-BY-SA-4.0"
+licensor = "Jeffrey Lipton <https://3d.nih.gov/users/jeffreyilipton>"
+function = "Vacuum formed, scalable design using PETG and polystyrene. Includes 3DP oxygen connector and mask valves. The receiving facility will need to provide a bag attachment for the mask to work as a non-rebreather."
+documentation-language = "en-US"
+organization = "National Institute of Allergy and Infectious Diseases"
+readme = "https://3d.nih.gov/entries/3DPX-014316"
+contribution-guide = "https://3d.nih.gov/entries/3DPX-014316#attribution"
+image = [
+  # logo
+  "https://3d.nih.gov/images/niaid-logo-white.svg",
+  # product-photo
+  "https://3d.nih.gov/api/submissions/18704/files/input/405653",
+  "https://3d.nih.gov/api/submissions/18704/files/input/405658",
+  "https://3d.nih.gov/api/submissions/18704/files/input/405663",
+  "https://3d.nih.gov/api/submissions/18704/files/input/405665",
+  "https://3d.nih.gov/api/submissions/18704/files/input/405666",
+  "https://3d.nih.gov/api/submissions/18704/files/input/405671",
+  "https://3d.nih.gov/api/submissions/18704/files/input/405680",
+  "https://3d.nih.gov/api/submissions/18704/files/input/405683",
+  "https://3d.nih.gov/api/submissions/18704/files/input/405650"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A62B 7/06"
+tsdc = "3DP"
+bom = "https://3d.nih.gov/entries/3DPX-014316"
+manufacturing-instructions = "https://3d.nih.gov/entries/3DPX-014316#printing"
+source = [
+     "https://3d.nih.gov/entries/download/14316/2",
+     "https://3d.nih.gov/api/submissions/18704/files/input/405629",
+     "https://3d.nih.gov/api/submissions/18704/files/input/405634",
+     "https://3d.nih.gov/api/submissions/18704/files/input/405639",
+     "https://3d.nih.gov/api/submissions/18704/files/input/405640",
+     "https://3d.nih.gov/api/submissions/18704/files/input/405641",
+     "https://3d.nih.gov/api/submissions/18704/files/input/405642",
+     "https://3d.nih.gov/api/submissions/18704/files/input/405643",
+     "https://3d.nih.gov/api/submissions/18704/files/input/405644",
+     "https://3d.nih.gov/api/submissions/18704/files/input/405646",
+     "https://3d.nih.gov/api/submissions/18704/files/input/405659",
+     "https://3d.nih.gov/api/submissions/18704/files/input/405660",
+     "https://3d.nih.gov/api/submissions/18704/files/input/405661",
+     "https://3d.nih.gov/api/submissions/18704/files/input/405662",
+     "https://3d.nih.gov/api/submissions/18704/files/input/405664",
+     "https://3d.nih.gov/api/submissions/18704/files/input/405669",
+     "https://3d.nih.gov/api/submissions/18704/files/input/405685"
+]
