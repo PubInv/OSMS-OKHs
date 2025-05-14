@@ -1,0 +1,36 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Cohen-Lab-Princeton-PEEP-Expiratory-Valves"
+repo = "https://github.com/CohenLabPrinceton/pvp/tree/master/assets/cad/PEEP-expiratory-valve"
+version = "1.0.0"
+license = "CERN-OHL-W-2.0"
+licensor = "Johnny Saunders <https://social.coop/@jonny>"
+function = "A collection of PEEP valve schematics which can also be used as expiratory valves with slight modifications. These valves are intended for use in medical applications when commercial sources are unavailable."
+documentation-language = "en"
+organization = "Princeton"
+release = "https://github.com/CohenLabPrinceton/pvp/releases/tag/v1.0"
+readme = "https://github.com/CohenLabPrinceton/pvp/blob/master/assets/cad/PEEP-expiratory-valve/README.md"
+contribution-guide = "https://github.com/CohenLabPrinceton/pvp/graphs/contributors"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A62B 9/02"
+tsdc = "3DP" 
+bom = "https://github.com/CohenLabPrinceton/pvp/blob/master/assets/cad/PEEP-expiratory-valve/README.md"
+manufacturing-instructions = "https://github.com/CohenLabPrinceton/pvp/blob/master/assets/cad/PEEP-expiratory-valve/READ.md"
+source = [
+     "https://github.com/CohenLabPrinceton/pvp/blob/master/assets/cad/PEEP-expiratory-valve/3D_PRINTABLE_PEEP_VALVE.SLDASM",
+     "https://github.com/CohenLabPrinceton/pvp/blob/master/assets/cad/PEEP-expiratory-valve/3D_PRINTABLE_PEEP_VALVE.STEP",
+     "https://github.com/CohenLabPrinceton/pvp/blob/master/assets/cad/PEEP-expiratory-valve/DIAPHRAGM_RETAINER_RING.STEP",
+     "https://github.com/CohenLabPrinceton/pvp/blob/master/assets/cad/PEEP-expiratory-valve/DIAPHRAGM_RETAINER_RING.STL",
+     "https://github.com/CohenLabPrinceton/pvp/blob/master/assets/cad/PEEP-expiratory-valve/PEEP_VALVE_DIAPHRAGM.SLDPRT",
+     "https://github.com/CohenLabPrinceton/pvp/blob/master/assets/cad/PEEP-expiratory-valve/PEEP_VALVE_DIAPHRAGM.STEP",
+     "https://github.com/CohenLabPrinceton/pvp/blob/master/assets/cad/PEEP-expiratory-valve/PEEP_VALVE_DIAPHRAGM_CUP.SLDPRT",
+     "https://github.com/CohenLabPrinceton/pvp/blob/master/assets/cad/PEEP-expiratory-valve/PEEP_VALVE_DIAPHRAGM_CUP.STEP",
+     "https://github.com/CohenLabPrinceton/pvp/blob/master/assets/cad/PEEP-expiratory-valve/PEEP_VALVE_DIAPHRAGM_CUP.STL",
+     "https://github.com/CohenLabPrinceton/pvp/blob/master/assets/cad/PEEP-expiratory-valve/PEEP_VALVE_LOWER_CUP.SLDPRT",
+     "https://github.com/CohenLabPrinceton/pvp/blob/master/assets/cad/PEEP-expiratory-valve/PEEP_VALVE_LOWER_CUP.STEP",
+     "https://github.com/CohenLabPrinceton/pvp/blob/master/assets/cad/PEEP-expiratory-valve/PEEP_VALVE_LOWER_CUP.STL"
+]
