@@ -1,0 +1,22 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Three-Port-Oxygen-22mm-Adapter"
+repo = "https://grabcad.com/library/three-port-oxygen-22mm-adapter-1?fbclid=IwAR2HSMMj9pyb2aEhvvIL1llibAZUsmg1uRG8l0u9LNSIJikijB2u5_6J-Xo"
+version = "2.0.0"
+license = "LicenseRef-NOASSERTION"
+licensor = "Scott Loree <https://grabcad.com/scott.loree-1>"
+function = "Originally designed for use with a NIV (Non-Invasive Helmet) oxygenation system, this adapter attaches three standard 7mm oxygen tubes to a single 22mm inlet port. Could potentially be used as a splitter to deliver oxygen to multiple patients."
+documentation-language = "en"
+organization = "Grab CAD"
+image = [
+  "https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/d16af68b0218045975fe4073487f7f9a/large.png",
+  "https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/missing_medium.png"
+]
+technology-readiness-level = "OTRL-2"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A62B 9/022"
+# tsdc = "MEC/ASM/etc." 
+manufacturing-instructions = "https://grabcad.com/library/three-port-oxygen-22mm-adapter-1/details?folder_id=8425942"
