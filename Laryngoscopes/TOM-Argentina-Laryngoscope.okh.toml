@@ -1,0 +1,19 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "TOM-Argentina-Laryngoscope"
+repo = "https://drive.google.com/file/d/1uyB9btZTjrVCuYz3W9q6paJJtDhht2YV/view?usp=sharing"
+version = "1.0.0"
+license = "LicenseRef-NOASSERTION"
+licensor = "Christina Cole <christina@opensourcemedicalsupplies.org>"
+function = "3DP laryngoscope based on the Macintosh style, No. 4 (large adult). This blade was produced under the direction of medical specialists in Buenos Aires and is compatible with an Android and PC Flexible Endoscope."
+documentation-language = "en"
+organization = "Open Source Medical Supplies"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A41D 13/11"
+tsdc = "3DP" 
+bom = "https://drive.google.com/file/d/1uyB9btZTjrVCuYz3W9q6paJJtDhht2YV/view"
+source = "https://drive.google.com/file/d/1uyB9btZTjrVCuYz3W9q6paJJtDhht2YV/view"
