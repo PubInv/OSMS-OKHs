@@ -1,0 +1,39 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Prusa-Printer-Silvana-Decathlon-Mask-Adapters-(Injection-Molded)"
+repo = "https://www.prusaprinters.org/prints/37677-injection-mould-silvana-decathlon-mask-adapter-wit"
+version = "1.0.0"
+license = "CC-BY-NC-4.0"
+licensor = "Vincent Groenhuis <https://www.printables.com/@VincentGroenhuis>"
+function = "These adapters allow the Decathlon scuba mask to be modified for patient CPAP use or healthcare worker PAPR application. Injection molding allows uniform fit and sterilization."
+documentation-language = "en"
+organization = "Printables"
+image = [
+  "https://media.printables.com/media/prints/37677/images/371799_d313fb87-b655-4e5e-b311-c7c58eee046e/thumbs/inside/1600x1200/jpg/08-dsc00585.webp",
+  "https://media.printables.com/media/prints/37677/images/371794_2881e851-de23-49ca-91c2-b4262ccc7b8b/thumbs/inside/1600x1200/jpg/02-dsc00571.webp",
+  "https://media.printables.com/media/prints/37677/images/371796_61954ed2-fcb8-43d7-b757-e0c2cbad564b/thumbs/inside/1600x1200/jpg/04-dsc00578.webp",
+  "https://media.printables.com/media/prints/37677/images/371801_22dfc0d5-8b10-44ab-be9d-d62f5d6bd531/thumbs/inside/1600x1200/jpg/05-dsc00581.webp",
+  "https://media.printables.com/media/prints/37677/images/371803_a9cedcb2-5bb0-4633-b327-828ee0d2dd65/thumbs/inside/1600x1200/jpg/09-dsc00588.webp",
+  "https://media.printables.com/media/prints/37677/images/371798_51911b09-7ac6-4502-ab5d-7616dde7ff8f/thumbs/inside/1600x1200/jpg/06-dsc00583.webp",
+  "https://media.printables.com/media/prints/37677/images/371797_19d175f9-396f-42be-84c1-e46eece30166/thumbs/inside/1600x1200/jpg/03-dsc00575.webp",
+  "https://media.printables.com/media/prints/37677/images/371802_c7a16d4c-2575-484a-9ed5-4bd3ee38cd87/thumbs/inside/1600x1200/jpg/10-dsc00589.webp",
+  "https://media.printables.com/media/prints/37677/images/371804_5a2d11ab-656c-45f8-b1fd-e50326f7df2d/thumbs/inside/1600x1200/jpg/11-dsc00595.webp",
+  "https://media.printables.com/media/prints/37677/images/371795_0f64ca9e-43a1-41a6-ac2c-e3a431fc7278/thumbs/inside/1600x1200/jpg/01-dsc00569.webp",
+  "https://media.printables.com/media/prints/37677/images/371805_a8f60e4c-aea6-476b-ad23-ae9eed583433/thumbs/inside/1600x1200/jpg/12-dsc00599.webp",
+  "https://media.printables.com/media/prints/37677/images/371800_4e6af3b3-bdf9-4704-8626-b5113a4089f9/thumbs/inside/1600x1200/jpg/07-dsc00584.webp",
+  "https://media.printables.com/media/prints/37677/images/371807_a4e7a51a-2ec6-441d-8b5b-00433aee82b0/thumbs/inside/1600x1200/jpg/13-dsc00601.webp",
+  "https://media.printables.com/media/prints/37677/images/371806_4206f931-50a4-4fec-b754-3b7cd2555c26/thumbs/inside/1600x1200/jpg/14-dsc00602.webp",
+  "https://media.printables.com/media/prints/37677/images/371809_e867cf60-0a49-4171-9b26-07faee76d905/thumbs/inside/1600x1200/jpg/16-dsc00606.webp",
+  "https://media.printables.com/media/prints/37677/images/371808_9cdd6c94-847e-4caa-a2c7-d86f4665a14f/thumbs/inside/1600x1200/jpg/15-dsc00603.webp",
+  "https://media.printables.com/media/prints/37677/images/371811_472fa6d6-fbed-4e83-b880-6e7f917d6aa6/thumbs/inside/1600x1200/jpg/17-dsc00607.webp",
+  "https://media.printables.com/media/prints/37677/images/371810_9ba57f13-3b2d-43dd-a6be-815127f4a391/thumbs/inside/1600x1200/jpg/18-dsc00611.webp"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A41D 13/11"
+tsdc = "3DP"
+manufacturing-instructions = "https://www.prusaprinters.org/prints/27214-silvana-decathlon-face-mask-adapters"
+source = "https://www.printables.com/model/37677-injection-mould-silvana-decathlon-mask-adapter-wit/files"
