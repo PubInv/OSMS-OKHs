@@ -1,0 +1,44 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Prusa-Printer-Silvana-Decathlon-Mask-Adapters-(3DP)"
+repo = "https://www.prusaprinters.org/prints/27214-silvana-decathlon-face-mask-adapters"
+version = "1.0.0"
+license = "CC-BY-NC-4.0"
+licensor = "Vincent Groenhuis <https://www.printables.com/@VincentGroenhuis>"
+function = "Multiple size 3DP configurations for tri-port and bi-port Decathlon mask adapters for medical respiratory applications."
+documentation-language = "en"
+organization = "Printables"
+release = "https://www.printables.com/model/27214-silvana-decathlon-face-mask-adapters/comments"
+image = [
+  "https://media.printables.com/media/prints/27214/images/275819_f10cd022-209e-4f91-ab00-1971caf784de/thumbs/inside/1600x1200/jpg/1-dsc00495.webp",
+  "https://media.printables.com/media/prints/27214/images/290754_c813f186-1610-493e-87ed-a4995573cedf/thumbs/inside/1600x1200/png/configurationssmall.webp",
+  "https://media.printables.com/media/prints/27214/images/290753_29583435-8ebf-43ef-b3dc-3fb516fccfde/thumbs/inside/1600x1200/png/configurationslarge.webp",
+  "https://media.printables.com/media/prints/27214/images/277900_3305085e-8c75-4f40-b6c0-aa92c9d0adb7/thumbs/inside/1600x1200/jpg/1-2020-03-031.webp",
+  "https://media.printables.com/media/prints/27214/images/275818_fb8f4d44-d44d-44ba-92e4-d0f379a4c01f/thumbs/inside/1600x1200/jpg/2-dsc00489.webp",
+  "https://media.printables.com/media/prints/27214/images/275820_bcaa5bf7-b558-4ba3-9c0a-60880a49f723/thumbs/inside/1600x1200/jpg/3-dsc00490.webp",
+  "https://media.printables.com/media/prints/27214/images/275821_24d66e28-7727-4427-9c36-b3f510ec0405/thumbs/inside/1600x1200/jpg/4-dsc00493.webp",
+  "https://media.printables.com/media/prints/27214/images/275822_a6a6bd01-445c-4b65-a509-786ebeced40d/thumbs/inside/1600x1200/jpg/5-dsc00496.webp",
+  "https://media.printables.com/media/prints/27214/images/275824_4f175013-8ec9-416a-80f4-28336a77e098/thumbs/inside/1600x1200/jpg/2-2020-03-27-071124.webp",
+  "https://media.printables.com/media/prints/27214/images/275826_5779e9f0-673e-47fe-94a2-25cb3fc6d9bc/thumbs/inside/1600x1200/jpg/4-2020-03-27-083450.webp",
+  "https://media.printables.com/media/prints/27214/images/275825_58543762-f07b-4242-a2fe-098748d810af/thumbs/inside/1600x1200/jpg/3-2020-03-27-083406.webp",
+  "https://media.printables.com/media/prints/27214/images/275823_196f0672-7406-474a-b9be-425e2e050073/thumbs/inside/1600x1200/jpg/1-2020-03-27-071019.webp",
+  "https://media.printables.com/media/prints/27214/images/275827_01b8e27c-236b-4537-8425-ff2df6458751/thumbs/inside/1600x1200/jpg/1-2020-03-27-142526.webp",
+  "https://media.printables.com/media/prints/27214/images/275828_be83bd96-4634-481e-a040-04fc56ede20f/thumbs/inside/1600x1200/jpg/1-whatsapp-image-2020-03-27-at-083038-1.webp",
+  "https://media.printables.com/media/prints/27214/images/280254_de5401ef-70f2-4bae-aeb9-fb2b48313f4c/thumbs/inside/1600x1200/png/small-d_v086_cutview1.webp",
+  "https://media.printables.com/media/prints/27214/images/287889_8721c886-61f4-4472-b652-d9ec9ed52e44/thumbs/inside/1600x1200/jpg/1-dsc00512.webp",
+  "https://media.printables.com/media/prints/27214/images/287891_01606f60-5b23-4a08-979b-46fe00680384/thumbs/inside/1600x1200/jpg/2-dsc00517.webp",
+  "https://media.printables.com/media/prints/27214/images/287892_52751c6d-2afc-4c2c-b829-463d8a1697de/thumbs/inside/1600x1200/jpg/3-dsc00514.webp",
+  "https://media.printables.com/media/prints/27214/images/287888_c6ff0804-1984-45e7-84a9-f66acb7adfba/thumbs/inside/1600x1200/jpg/6-2020-04-08-134109.webp",
+  "https://media.printables.com/media/prints/27214/images/287887_4b63d081-72dc-4491-b616-297b7055a32d/thumbs/inside/1600x1200/jpg/5-2020-04-08-134217.webp",
+  "https://media.printables.com/media/prints/27214/images/287890_0d95b6a8-3421-4486-b085-500fbc12193d/thumbs/inside/1600x1200/jpg/4-dsc00507.webp"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A62B 9/022"
+tsdc = "3DP" 
+manufacturing-instructions = "https://www.printables.com/model/27214-silvana-decathlon-face-mask-adapters/comments"
+source = "https://www.printables.com/model/27214-silvana-decathlon-face-mask-adapters/files"
+     
