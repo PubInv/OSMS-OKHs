@@ -1,0 +1,26 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "3DP-Accessible-Pill-Bottle"
+repo = "https://www.thingiverse.com/thing:4719834"
+version = "5.0.0"
+license = "CC-BY-4.0"
+licensor = "David Exler <https://www.thingiverse.com/hungryengineer/designs>"
+function = "In early 2021, a Parkinson Pill Bottle design appeared on TikTok and took the 3D printing world by storm. Since then, the bottle has undergone many modifications and improvements, resulting in version 5 linked here. The insert version can be used in a commercial pharmacy bottle. Both designs are still undergoing changes based on user feedback, so be sure to check project comments for relevant updates. The pill bottle allows easier access and dispensing for small pills, which are often a challenge for tremor-affected patients to self-administer."
+documentation-language = "en"
+organization = "HungryEngineer"
+image = "https://cdn.thingiverse.com/assets/06/78/af/a3/e0/large_display_Screenshot_2021-01-11_231617.png"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A61J 1/03"
+tsdc = "3DP"
+bom = "https://www.thingiverse.com/thing:4719834"
+manufacturing-instructions = "https://www.thingiverse.com/thing:4719834"
+source = [
+     "https://www.thingiverse.com/download:9125007",
+     "https://www.thingiverse.com/download:9125010",
+     "https://www.thingiverse.com/download:9125009",
+     "https://www.thingiverse.com/download:9125008"
+]
