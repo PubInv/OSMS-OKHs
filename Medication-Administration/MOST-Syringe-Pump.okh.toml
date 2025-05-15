@@ -1,0 +1,69 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "MOST-Syringe-Pump"
+repo = "https://www.appropedia.org/Open-source_syringe_pump"
+version = "1.0.0"
+license = "AGPL-3.0"
+licensor = "Bas Wijnen <wijnen@debian.org>"
+function = "Notes: 3DP, CAD and Raspberry Pi supported syringe pump which was developed, tested, and published by Michigan Tech’s Open Sustainability Technology Lab. This design is intended for use in research labs, reducing potentially prohibitive cost and time delays compared to commercially available products."
+documentation-language = "en"
+organization = "Michigan Tech's Open Sustainability Technology Lab"
+release = "https://github.com/mtu-most/franklin/releases/tag/2022-03-29"
+readme = [
+   "https://github.com/mtu-most/franklin/blob/stable/README.md",
+   "https://youtu.be/iX-3VDjBqws"
+]
+contribution-guide = "https://github.com/mtu-most/franklin/graphs/contributors"
+image = [
+  # logo
+  "https://avatars.githubusercontent.com/u/4359317?s=200&v=4",
+  # product-photo
+  "https://www.appropedia.org/w/images/thumb/0/08/Double-pump.jpg/300px-Double-pump.jpg",
+  "https://www.appropedia.org/w/images/thumb/3/3a/MOST_syringe_pump_material.JPG/400px-MOST_syringe_pump_material.JPG",
+  "https://www.appropedia.org/w/images/thumb/5/53/MOST_syringe_pump_tools.JPG/400px-MOST_syringe_pump_tools.JPG",
+  "https://www.appropedia.org/w/images/thumb/2/2e/MOST_step01.JPG/300px-MOST_step01.JPG",
+  "https://www.appropedia.org/w/images/thumb/2/2a/MOST_step02.JPG/300px-MOST_step02.JPG",
+  "https://www.appropedia.org/w/images/thumb/d/dd/MOST_step06.JPG/300px-MOST_step06.JPG",
+  "https://www.appropedia.org/w/images/thumb/f/ff/MOST_step032.JPG/300px-MOST_step032.JPG",
+  "https://www.appropedia.org/w/images/thumb/9/90/MOST_step04.JPG/300px-MOST_step04.JPG",
+  "https://www.appropedia.org/w/images/thumb/f/fd/MOST_step05.JPG/300px-MOST_step05.JPG",
+  "https://www.appropedia.org/w/images/thumb/1/18/Connector033.jpg/300px-Connector033.jpg",
+  "https://www.appropedia.org/w/images/thumb/e/e1/MOST_step07.JPG/300px-MOST_step07.JPG",
+  "https://www.appropedia.org/w/images/thumb/4/4d/MOST_step08.JPG/300px-MOST_step08.JPG",
+  "https://www.appropedia.org/w/images/thumb/c/c5/MOST_step09.JPG/300px-MOST_step09.JPG",
+  "https://www.appropedia.org/w/images/thumb/b/ba/MOST_step10.JPG/300px-MOST_step10.JPG",
+  "https://www.appropedia.org/w/images/thumb/4/45/MOST_step11.JPG/300px-MOST_step11.JPG",
+  "https://www.appropedia.org/w/images/thumb/9/96/MOST_step121.JPG/300px-MOST_step121.JPG",
+  "https://www.appropedia.org/w/images/thumb/8/8a/MOST_step13.JPG/300px-MOST_step13.JPG",
+  "https://www.appropedia.org/w/images/thumb/0/01/MOST_pump01.png/800px-MOST_pump01.png",
+  "https://www.appropedia.org/w/images/thumb/1/1c/MOST_pump02.png/800px-MOST_pump02.png",
+  "https://www.appropedia.org/w/images/thumb/4/40/MOST_pump03.png/800px-MOST_pump03.png",
+  "https://www.appropedia.org/w/images/thumb/9/9a/MOST_pump04.png/800px-MOST_pump04.png",
+  "https://www.appropedia.org/w/images/thumb/6/66/MOST_pump05.png/800px-MOST_pump05.png",
+  "https://www.appropedia.org/w/images/thumb/1/1a/MOST_pump06.png/800px-MOST_pump06.png",
+  "https://www.appropedia.org/w/images/thumb/d/d6/MOST_pump07.png/800px-MOST_pump07.png",
+  "https://www.appropedia.org/w/images/thumb/5/5a/MOST_pump08.png/800px-MOST_pump08.png",
+  "https://www.appropedia.org/w/images/thumb/a/a1/MOST_pump09.png/800px-MOST_pump09.png",
+  "https://www.appropedia.org/w/images/7/79/Emilypump.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+attestation = "https://www.appropedia.org/scripts/retrieveOshwaMetadata.php?title=Open-source_syringe_pump"
+publication = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0107216"
+cpc-patent-class = "A61M 5/00"
+tsdc = "3DP" 
+bom = "https://www.appropedia.org/Open-source_syringe_pump#Materials_and_Tools"
+manufacturing-instructions = "https://www.appropedia.org/Open-source_syringe_pump#How_to_Build_an_Open-source_Syringe_Pump"
+source = [
+     "https://github.com/mtu-most/franklin/tree/stable/arch",
+     "https://github.com/mtu-most/franklin/tree/stable/calibrate",
+     "https://github.com/mtu-most/franklin/tree/stable/debian",
+     "https://github.com/mtu-most/franklin/tree/stable/doc",
+     "https://github.com/mtu-most/franklin/tree/stable/firmware",
+     "https://github.com/mtu-most/franklin/tree/stable/server",
+     "https://github.com/mtu-most/franklin/tree/stable/test",
+     "https://github.com/mtu-most/franklin/tree/stable/util"
+]
