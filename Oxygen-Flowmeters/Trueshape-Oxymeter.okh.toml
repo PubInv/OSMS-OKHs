@@ -1,0 +1,40 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Trueshape-Oxymeter"
+repo = "https://github.com/FracktalWorks/trushape-flowmeter"
+version = "1.0.0"
+license = "CERN-OHL-S-2.0"
+licensor = "Fraktal Works <support@fracktal.in>"
+function = "During oxygen supply shortages, patients sometimes receive oxygen treatment from tanks when in-house titration systems are overloaded. This flowmeter design allows oxygen tanks to be titrated directly at the source, thus extending the oxygen supply and ensuring correct patient treatment. This practical alternative was developed during the 2021 oxygen supply crisis in India, and can be made with CNC and 3D printed parts."
+documentation-language = "en"
+organization = "Fraktal Works"
+release = "https://github.com/FracktalWorks/trushape-flowmeter/commit/1febbf6ac064feb151c972a555e368e5a0a3f733"
+readme = "https://github.com/FracktalWorks/trushape-flowmeter/blob/master/README.md"
+image = [
+  # logo
+  "https://avatars.githubusercontent.com/u/6223295?s=48&v=4",
+  # product-photo
+  "https://github.com/FracktalWorks/trushape-flowmeter/blob/master/Images/Assembly.png",
+  "https://github.com/FracktalWorks/trushape-flowmeter/blob/master/Images/Exploded%20View.JPG",
+  "https://github.com/FracktalWorks/trushape-flowmeter/blob/master/Images/Front%20View.JPG",
+  "https://github.com/FracktalWorks/trushape-flowmeter/blob/master/Images/Photo.jpg",
+  "https://github.com/FracktalWorks/trushape-flowmeter/blob/master/Images/Photo_readme.jpg",
+  "https://github.com/FracktalWorks/trushape-flowmeter/blob/master/Images/Side%20View.JPG",
+  "https://github.com/FracktalWorks/trushape-flowmeter/blob/master/Images/Top%20View.JPG"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A61M 1/00"
+tsdc = "3DP" 
+bom = "https://github.com/FracktalWorks/trushape-flowmeter/blob/master/Process%20Parameters/Manufacturing%20Methodology%20v1.pdf"
+manufacturing-instructions = [
+   "https://github.com/FracktalWorks/trushape-flowmeter/tree/master/Assembly%20Manual",
+   "https://github.com/FracktalWorks/trushape-flowmeter/tree/master/Process%20Parameters"
+]
+source = [
+     "https://github.com/FracktalWorks/trushape-flowmeter/tree/master/CAD%20Parts",
+     "https://github.com/FracktalWorks/trushape-flowmeter/tree/master/STL%20Files%20for%203D%20Printing"
+]
