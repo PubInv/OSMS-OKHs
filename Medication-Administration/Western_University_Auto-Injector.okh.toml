@@ -1,0 +1,54 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Western_University_Auto-Injector"
+repo = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288696"
+version = "1.0.0"
+license = "CC-BY-4.0"
+licensor = "J.M. Pearce <joshua.pearce@uwo.ca>"
+function = "Notes: Peer reviewed publication presenting design, testing, and regulatory discussion of a 3DP Auto-Injector, a Class II device. Component cost is less than CAD$10 and print time is just over 12 hours."
+documentation-language = "en"
+organization = "Western University"
+release = "https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0288696"
+readme = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288696#sec001"
+contribution-guide = "https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0288696"
+image = [
+  "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0288696.g010",
+  "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0288696.g011",
+  "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0288696.g014",
+  "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0288696.g015",
+  "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0288696.g001",
+  "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0288696.g002",
+  "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0288696.g003",
+  "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0288696.g004",
+  "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0288696.g005",
+  "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0288696.g006",
+  "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0288696.g007",
+  "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0288696.g008",
+  "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0288696.g009"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+publication = "https://plos.altmetric.com/details/151524803/news"
+cpc-patent-class = "A61M 5/00"
+tsdc = "3DP" 
+bom = [
+   "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0288696.t001",
+   "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0288696.t003"
+]
+manufacturing-instructions = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288696#sec002"
+user-manual = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288696#sec014"
+source = [
+     "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0288696.t004",
+     "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0288696.t005",
+     "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0288696.t006",
+     "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0288696.t007",
+     "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0288696.g012",
+     "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0288696.g013",
+     "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0288696.t002",
+     "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0288696.g007"
+]
+# Mass estimated from BOM chart.
+mass= 112.61
