@@ -1,0 +1,29 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "3DP-NG-Tube-Clip"
+repo = "https://www.thingiverse.com/thing:5153512"
+version = "1.0.0"
+license = "CC-BY-NC-4.0"
+licensor = "Amanda Cullen <https://www.thingiverse.com/barngirl425/designs>"
+function = "Nasogastric (NG) tubes are often placed for extended use outside the hospital, creating a tubing management problem for patient clothing and variable ambient temperatures. This clip is available in 8, 10, and 12 French (FR) sizes, allowing the NG tube to be securely and discreetly fastened to clothing or headwear, such as a riding helmet or baseball cap. Printing in PETG or ABS ensures stability during ambient heat exposure."
+documentation-language = "en"
+organization = "Barngirl425"
+image = [
+  "https://cdn.thingiverse.com/assets/17/c1/f8/0a/dc/large_display_NGTubeClip.jpg",
+  "https://cdn.thingiverse.com/assets/0f/ef/2c/89/5e/large_display_NGTubeClip1.jpg"
+]
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "F16B 2/02"
+tsdc = "3DP" 
+bom = "https://www.thingiverse.com/thing:5153512#google_vignette"
+manufacturing-instructions = "https://www.thingiverse.com/thing:5153512#google_vignette"
+source = [
+     "https://www.thingiverse.com/download:11176866",
+     "https://www.thingiverse.com/download:11176865",
+     "https://www.thingiverse.com/thing:5153512/files",
+     "https://drive.google.com/file/d/1-op9IeRdfjGRgRF7LyVScKLugQ6usBFc/view?usp=sharing"
+]
