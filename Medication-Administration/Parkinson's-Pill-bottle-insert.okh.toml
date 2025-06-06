@@ -19,8 +19,7 @@ image = [
   "https://media.printables.com/media/prints/52157/images/515195_4e579651-3332-4624-93d7-f0bf3b469490/thumbs/inside/1600x1200/jpg/img_3419.webp",
   "https://media.printables.com/media/prints/52157/images/515197_335f2b40-7a57-401b-b81b-697501def24f/thumbs/inside/1600x1200/jpg/img_3423.webp",
   "https://media.printables.com/media/prints/52157/images/515200_51cdbee5-ac90-47f0-a22d-af238efa55d3/thumbs/inside/1600x1200/jpg/img_3431.webp",
-  "https://media.printables.com/media/prints/52157/images/515196_92216010-91f8-4207-9e81-4bd248f9f828/thumbs/inside/1600x1200/jpg/img_3421.webp",
-  "data:image/svg+xml,%3csvg%20width='800'%20height='800'%20viewBox='0%200%20800%20800'%20version='1.1'%20xmlns='http://www.w3.org/2000/svg'%20xmlns:svg='http://www.w3.org/2000/svg'%3e%3cpath%20d='m%20680.14429,102.36264%20c%20-131.72203,-131.722038%20-345.22674,-131.722038%20-476.94877,0%20-131.722035,131.72203%20-131.722035,345.22674%200,476.94877%20z'%20fill='%23363636'%20/%3e%3cpath%20d='m%20123.79757,699.53056%20c%20131.72203,131.72203%20345.22674,131.72203%20476.94877,0%20131.72204,-131.72204%20131.72204,-345.22674%200,-476.94877'%20fill='%23ed6b21'%20/%3e%3c/svg%3e"
+  "https://media.printables.com/media/prints/52157/images/515196_92216010-91f8-4207-9e81-4bd248f9f828/thumbs/inside/1600x1200/jpg/img_3421.webp"
 ]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
