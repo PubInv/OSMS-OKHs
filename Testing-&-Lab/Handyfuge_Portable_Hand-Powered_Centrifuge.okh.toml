@@ -13,16 +13,6 @@ documentation-language = "en"
 organization = "Prakash Lab"
 release = "https://github.com/prakashlab/handyfuge/commit/986a05e038c09362cc542312b1fe06306bd49d0a"
 readme = "https://github.com/prakashlab/handyfuge/blob/master/README.md"
-image = [
-  # logo
-  "https://avatars.githubusercontent.com/u/69774755?s=48&v=4",
-  # product-photo
-  "https://raw.githubusercontent.com/ethanjli/handyfuge/master/docs/images/v0.1.0_bottom.jpg",
-  "https://raw.githubusercontent.com/ethanjli/handyfuge/master/docs/images/v0.1.0_top.jpg",
-  "https://raw.githubusercontent.com/ethanjli/handyfuge/master/docs/images/v0.2.1_top.jpg",
-  "https://drive.google.com/file/d/1yVK8ijzrQXc99b7NtF6zJqdZ-8bI2YoC/view?usp=sharing",
-  "https://drive.google.com/drive/folders/1ZNTd_ySJtXn2qwRWTb83T112aYDAMxPa"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "B04B 1/00"
@@ -35,3 +25,33 @@ source = [
      "https://github.com/prakashlab/handyfuge/blob/master/designs/v0.2.3/1.5%20mL%20tubes%2C%20no%20rotor%20guard%2C%20small%20rotor/2%20mm/Laser%20Cuts%20Panelized.pdf",
      "https://github.com/prakashlab/handyfuge/blob/master/designs/v0.2.3/1.5%20mL%20tubes%2C%20no%20rotor%20guard%2C%20small%20rotor/2%20mm/Laser%20Cuts%20Panelized.ai"
      ]
+
+[[image]]
+location = "https://avatars.githubusercontent.com/u/69774755?s=48&v=4"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://raw.githubusercontent.com/ethanjli/handyfuge/master/docs/images/v0.1.0_bottom.jpg"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://raw.githubusercontent.com/ethanjli/handyfuge/master/docs/images/v0.1.0_top.jpg"
+
+[[image]]
+location = "https://raw.githubusercontent.com/ethanjli/handyfuge/master/docs/images/v0.2.1_top.jpg"
+
+[[image]]
+location = "https://drive.google.com/file/d/1yVK8ijzrQXc99b7NtF6zJqdZ-8bI2YoC/view?usp=sharing"
+
+[[image]]
+location = "https://drive.google.com/drive/folders/1ZNTd_ySJtXn2qwRWTb83T112aYDAMxPa"

@@ -14,24 +14,6 @@ organization = "Public Invention"
 release = "https://github.com/PubInv/Ox/commit/751568cced500a0659e9dff345946a4bf13eea54"
 readme = "https://github.com/PubInv/Ox/blob/develop/README.md"
 contribution-guide = "https://github.com/PubInv/Ox/graphs/contributors"
-image = [
-  # logo
-  "https://avatars.githubusercontent.com/u/11892727?s=48&v=4",
-  # product-photo
-  "https://github.com/PubInv/Ox/blob/develop/docs/img/concept_sketch.jpg",
-  "https://github.com/PubInv/Ox/blob/develop/docs/img/intercooler.jpg",
-  "https://github.com/PubInv/Ox/blob/develop/docs/img/pioc-build-001.jpg",
-  "https://github.com/PubInv/Ox/blob/develop/docs/img/pioc-build-002.jpg",
-  "https://github.com/PubInv/Ox/blob/develop/docs/img/pioc-mockup.jpg",
-  "https://github.com/PubInv/Ox/blob/develop/docs/img/pioc_circuit.jpg",
-  "https://github.com/PubInv/Ox/blob/develop/docs/img/pioc_firstrun.jpg",
-  "https://github.com/PubInv/Ox/blob/develop/docs/img/pneumatic_circuit_prototype_v1.jpg",
-  "https://github.com/PubInv/Ox/blob/develop/docs/img/pneumatic_circuit_sketch.jpg",
-  "https://github.com/PubInv/Ox/blob/develop/docs/img/pneumatic_circuit_wall_mounted.jpg",
-  "https://github.com/PubInv/Ox/blob/develop/docs/img/valve_contamination.jpg",
-  "https://github.com/PubInv/Ox/blob/develop/docs/img/ventmon95o2.jpg",
-  "https://github.com/PubInv/Ox/blob/develop/docs/img/ventmonadaptor.jpg"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "F25J 3/0625"
@@ -47,3 +29,57 @@ manufacturing-instructions = [
    "https://github.com/PubInv/Ox/tree/develop/firmware",
    "https://github.com/PubInv/Ox/tree/develop/mech"
 ]
+
+[[image]]
+location = "https://avatars.githubusercontent.com/u/11892727?s=48&v=4"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://github.com/PubInv/Ox/blob/develop/docs/img/concept_sketch.jpg"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://github.com/PubInv/Ox/blob/develop/docs/img/intercooler.jpg"
+
+[[image]]
+location = "https://github.com/PubInv/Ox/blob/develop/docs/img/pioc-build-001.jpg"
+
+[[image]]
+location = "https://github.com/PubInv/Ox/blob/develop/docs/img/pioc-build-002.jpg"
+
+[[image]]
+location = "https://github.com/PubInv/Ox/blob/develop/docs/img/pioc-mockup.jpg"
+
+[[image]]
+location = "https://github.com/PubInv/Ox/blob/develop/docs/img/pioc_circuit.jpg"
+
+[[image]]
+location = "https://github.com/PubInv/Ox/blob/develop/docs/img/pioc_firstrun.jpg"
+
+[[image]]
+location = "https://github.com/PubInv/Ox/blob/develop/docs/img/pneumatic_circuit_prototype_v1.jpg"
+
+[[image]]
+location = "https://github.com/PubInv/Ox/blob/develop/docs/img/pneumatic_circuit_sketch.jpg"
+
+[[image]]
+location = "https://github.com/PubInv/Ox/blob/develop/docs/img/pneumatic_circuit_wall_mounted.jpg"
+
+[[image]]
+location = "https://github.com/PubInv/Ox/blob/develop/docs/img/valve_contamination.jpg"
+
+[[image]]
+location = "https://github.com/PubInv/Ox/blob/develop/docs/img/ventmon95o2.jpg"
+
+[[image]]
+location = "https://github.com/PubInv/Ox/blob/develop/docs/img/ventmonadaptor.jpg"

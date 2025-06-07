@@ -11,14 +11,6 @@ function = "Face shield made to be reusable and inexpensive. It uses zip ties be
 documentation-language = "en-US"
 organization = "TechnoChic"
 contribution-guide = "https://blogstudio.s3.amazonaws.com/technochic/85bd8708f8d5d4768a5f8ce79c7462bf.png"
-image = [
-  # logo
-  "https://technochic.net/cdn/shop/files/technochicLOGO_x45.svg?v=1721331694",
-  # product-photo
-  "https://blogstudio.s3.amazonaws.com/technochic/a671c7aaafde5a116ec4603025e57fe2.jpeg",
-  "https://blogstudio.s3.amazonaws.com/technochic/6219a1bcb75779b1a50210c5779f9032.jpeg",
-  
-]
 technology-readiness-level = "OTRL-4"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
@@ -36,3 +28,24 @@ width = 304.8
 height = 355.6
 # Depth based on the thickness of the shield material, not the completed shield.
 depth = 0.1778
+
+[[image]]
+location = "https://technochic.net/cdn/shop/files/technochicLOGO_x45.svg?v=1721331694"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://blogstudio.s3.amazonaws.com/technochic/a671c7aaafde5a116ec4603025e57fe2.jpeg"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://blogstudio.s3.amazonaws.com/technochic/6219a1bcb75779b1a50210c5779f9032.jpeg"

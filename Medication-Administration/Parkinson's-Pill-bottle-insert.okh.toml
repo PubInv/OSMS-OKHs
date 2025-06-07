@@ -12,15 +12,6 @@ function = "In early 2021, a Parkinson Pill Bottle design appeared on TikTok and
 documentation-language = "en"
 organization = "3DPT"
 readme = "https://www.youtube.com/watch?v=jC7ye_0ZjIc"
-image = [
-  # logo
-  "https://yt3.ggpht.com/ytc/AIdro_kzbqV9IXDwvFp3H4BVRt6ocs11SQC1nXLzBQCS2Ml2mw=s48-c-k-c0x00ffffff-no-rj",
-  # product-photo
-  "https://media.printables.com/media/prints/52157/images/515195_4e579651-3332-4624-93d7-f0bf3b469490/thumbs/inside/1600x1200/jpg/img_3419.webp",
-  "https://media.printables.com/media/prints/52157/images/515197_335f2b40-7a57-401b-b81b-697501def24f/thumbs/inside/1600x1200/jpg/img_3423.webp",
-  "https://media.printables.com/media/prints/52157/images/515200_51cdbee5-ac90-47f0-a22d-af238efa55d3/thumbs/inside/1600x1200/jpg/img_3431.webp",
-  "https://media.printables.com/media/prints/52157/images/515196_92216010-91f8-4207-9e81-4bd248f9f828/thumbs/inside/1600x1200/jpg/img_3421.webp"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A61J 1/03"
@@ -28,3 +19,30 @@ tsdc = "3DP"
 bom = "https://www.printables.com/model/52157-parkinsons-pill-bottle-insert"
 manufacturing-instructions = "https://www.printables.com/model/52157-parkinsons-pill-bottle-insert"
 source = "https://www.printables.com/model/52157-parkinsons-pill-bottle-insert/files"
+
+[[image]]
+location = "https://yt3.ggpht.com/ytc/AIdro_kzbqV9IXDwvFp3H4BVRt6ocs11SQC1nXLzBQCS2Ml2mw=s48-c-k-c0x00ffffff-no-rj"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://media.printables.com/media/prints/52157/images/515195_4e579651-3332-4624-93d7-f0bf3b469490/thumbs/inside/1600x1200/jpg/img_3419.webp"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://media.printables.com/media/prints/52157/images/515197_335f2b40-7a57-401b-b81b-697501def24f/thumbs/inside/1600x1200/jpg/img_3423.webp"
+
+[[image]]
+location = "https://media.printables.com/media/prints/52157/images/515200_51cdbee5-ac90-47f0-a22d-af238efa55d3/thumbs/inside/1600x1200/jpg/img_3431.webp"
+
+[[image]]
+location = "https://media.printables.com/media/prints/52157/images/515196_92216010-91f8-4207-9e81-4bd248f9f828/thumbs/inside/1600x1200/jpg/img_3421.webp"

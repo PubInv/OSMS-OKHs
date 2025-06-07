@@ -11,14 +11,6 @@ function = "This design is printable for Laser Sintering (SLS), Fused Deposition
 documentation-language = "en-GB"
 organization = "VoxelMatters"
 readme = "https://www.voxelmatters.com/safety-goggles-to-fight-covid-19/"
-image = [
-  # logo
-  "https://www.voxelmatters.com/wp-content/uploads/2024/03/VoxelMatters-Logo.svg",
-  # product-photo
-  "https://www.voxelmatters.com/wp-content/uploads/2020/03/Farsoon_safety-goggles_3-780x470.jpg.avif",
-  "https://www.voxelmatters.com/wp-content/uploads/2020/03/safety-goggle.png.avif",
-  "https://www.voxelmatters.com/wp-content/uploads/2020/03/goggle-farsoon.png.avif"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A61F 9/02"
@@ -27,3 +19,27 @@ source = [
      "https://www.voxelmatters.com//wp-content/uploads/2020/03/Farsoon3Dprintedgoggle-LargeSize.zip",
      "https://www.voxelmatters.com//wp-content/uploads/2020/03/Farsoon3Dprintedgoggle-SmallSize.zip"
 ]
+
+[[image]]
+location = "https://www.voxelmatters.com/wp-content/uploads/2024/03/VoxelMatters-Logo.svg"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://www.voxelmatters.com/wp-content/uploads/2020/03/Farsoon_safety-goggles_3-780x470.jpg.avif"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://www.voxelmatters.com/wp-content/uploads/2020/03/safety-goggle.png.avif"
+
+[[image]]
+location = "https://www.voxelmatters.com/wp-content/uploads/2020/03/goggle-farsoon.png.avif"

@@ -10,28 +10,6 @@ licensor = "Twelve Bees <https://www.blogger.com/share-post.g?blogID=28852385602
 function = "Thorough instructions for surgical cap construction. Uses serged overlocked seams and optional button placement for mask ear loops."
 documentation-language = "en"
 organization = "Twelve Bees"
-image = [
-  # logo
-  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUDm5sbKmXu9i62bwdHDAUO-Sxt9V96Hzu2Z2hOKyDhzFE0tnJ6ykhPRmdk7XYYjR-c-XfRVxE9mDDQO-hvUcN8LJGRR_1q1Rn3ls0ZmEDl7g4iMGyuscVg4ZsE0Lv3Ov-YpX-nAsqC0w/s1600/IMG_1869+%25281%2529.jpg",
-  # product-photo
-  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlY-IT6lKFn5ioHT3IY5te4sRvPLkACeBXtZohWwzRPV9mgOSiOB6ayKV54Rpz59lFpvDzltonj5IAyqrm0NlZroFy_RADGpcLRPYtiXcw8ZpdDFpi89pNCf8-Lra5xwOpgIkjurJDlhc/s320/IMG_3638.jpg",
-  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQMIbaydQCncmbl2aBLXiC0JPFDzJLaz4HfZ5WQOnh_yc1XY08rUhkwFX4Mv_f5O8nad4QQOSRQygunoZMNHX9Vn2PMazddCB7DksFfsbGefXllLWQY9eni5pVyxAZ449F91zRISWNSz8/s400/Surgical+Cap+Pattern+-+Scale.jpg",
-  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1LEE7t0pw6Zd83yi_CrSi9Y7oIXoQX_2bezJghJyPa3RoF5wRMnLDSCiiO15ljVJgeg312edCE48ZcsihrPvT2YI6DdLpLIwnedloyxlUzrjoHR8y4SLCNXJSXno7G1h5mRe_0Oxm_EM/s400/IMG_3603.jpg",
-  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPG7MZzcCCTfssO8GulgjHgkleHE5cl7I4elSsNzNV8qNLLFpMgQnQNzNhXivgAU9I5g90Gl0PNNbgRfM23kxurc5XeExOdnt3xXL-iCjijb81hhfQM68FyQCom6ch3DHqeQ9S0M3UBUg/s400/IMG_3587.jpg",
-  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6JWbqqt3c9ESGlCdo739raIeOqeg8QB6R65-kW5ts-cH0SCmkuJU67SGyrXaeI_t8msLzWHMPtHAZ3fucxhGxX2zUCz_JLlYf-RVi39MqBABBF6FsSiWb62371Xvjx06k2ABJ3KajA7Y/s400/IMG_3604.jpg",
-  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWEpEdwxADpp1kfZcWfnX1cApiv9WHAF6l6RT-jtgDeX8aTIPkslAhIGocwtQnLG9ySu9JHjCuAiOARSYYLK5wxoNhui6GW3Sx7yBrChmJlQ1iSbwcL-EmRufuo52IGeBpAzUswM5MNQc/s400/IMG_3607.jpg",
-  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYarahfNMxPypEHmJ1FsFeiEkeH2WVi25ab5XHC1qQYyqDZUlFJKqI3F1BgUf6dVhVDByLveoX9Qm3ml9yF6nvURwyvx2blSn2wRcb44CbWVMcIjbNz3M85502KQgzt9Q2c13yHvcIoSo/s400/IMG_3608.jpg",
-  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3M7-ly5JYuK8M21DzBp9jGOiKWU-EwHtUyam15HWyxqt1R5HuwCQMd0mVZks6yMlkUoWKjGSJ6ySOsWsDPM-96Qvw7BFWwD8DSxZ1PGO00vGoBmAMHG8G20MnlX4mXSQiODPSvQ91VTU/s400/IMG_3610.jpg",
-  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRT4wGmKc5P3YC7wu0JOUGbn-RTObEYId_GWJYpZ5qAuf8OYbKiR_qJO0zEWZb6Dlv-SZ_CaJALEjtyicYrnOaJR4zIGtz1DuclYneZmgijGG8S02M-PI-IVOxI-DSsESIs0HEpuP_Sf8/s400/IMG_3591.jpg",
-  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmgWS7bssyFZK8g5OT5ry3Y25gfM2HIPDO_XkZzbnt5eOe_ergKP3-vSsUc_WUiGrBh-UEQ07XbUJa1jyeAgHkyg5a2UFRhfJX5HbHAlyN_WtaFyiL2yuA1ZS60kwrkH_IX3Pennb6wY0/s400/IMG_3613.jpg",
-  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR6ovxzM5dtBi1-4Mptmj97ZIIYE3Yh7tVfx_mmaPUw8du2-5fzQNCoIdTe0G5VxilY8FqJG4T_7ndD3LhKK-ahoIqvR61nEzgojvz4QnhfowLQ0f4Khn-U4vk8fGPpM6MIzm1dDGPieI/s400/IMG_3597.jpg",
-  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VK8V2DVzyOhEwwG53isMzxeMu6YxVDxGqCDuAe-T4iN3Py5-Iv_0ZqaZHXhn6ycR1TpO51DM5aysyEj27jTGDC3abMJNrwEavYcucsVVoRTg7Fuaz4bQJGOPcGEe2ocunmXIvj8QMdY/s400/IMG_3614.jpg",
-  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvbciFTvdKupPhQ1r25hqEJ7JZVUo_sy6VJNTYVxF5tEUkorhjBPcp3vtr35s9QJ0EzTjW5fLzICDeXxYV4m3TpOZwVBb5xK4O5V9M_FwbYK1NhLvmeEEPP0iQV3l48phR7sgK-xH3rF0/s400/IMG_3599.jpg",
-  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY-P9yPPENqAUh3q3iaHiEdPYvhMmSvhbi3jmeSCS6hV7Zu0V3-wnVErVH0FTxRAhtBaZ2xlXB2Ry3LP3fAZTy1A4PMJhMSvGGMR4ENmYwjwgwNo5Kngdv8R4HOXw26ly78VKfh5BJaVw/s400/IMG_3640.jpg",
-  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcsFPnmnSkOLTOJHDQs9V8LS-UQ8jD-UE0em7Lh2UVmn2DOcEwlzZl4QGGe39qCMRo2zsbfe5UmbqMkvytwlzrq9Lm-6ZwRd0cg1OWMdVWSIAbaghV4TRDgxSUx7pcshHxA1JeWzlVak4/s400/IMG_3639.jpg",
-  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRCh_buPdXxK0_afD6m4L-_EzTY0mET2_gzXJKbwxJs4VSLrx6sbNtHBR1TYj7tb6g9dRXe6cEGRDk7JJ8h4DX4Wod_ZaDk2EoLGjrZ-zdDHIsEk99ZsC_QJQZ2N7E6j6nab7DrIIUV58/s400/IMG_3649.JPG",
-  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbiqTnYao5FdMoET91szu3SqNDQhCefBmJfSeJxss_99nlxXaZ7v8D1e22fYCgfJw2T0N7uOTjwmLSYpxruOn5Oe5ZcbC1zPoBpqBROAtndz4S8TrZhbZ1TWSLgzCJocQbe7uGZZD7vrw/s320/IMG_3571.jpg"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
@@ -48,3 +26,69 @@ source = [
 width = 247.65
 depth = 190.5
 height = 152.4
+
+[[image]]
+location = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUDm5sbKmXu9i62bwdHDAUO-Sxt9V96Hzu2Z2hOKyDhzFE0tnJ6ykhPRmdk7XYYjR-c-XfRVxE9mDDQO-hvUcN8LJGRR_1q1Rn3ls0ZmEDl7g4iMGyuscVg4ZsE0Lv3Ov-YpX-nAsqC0w/s1600/IMG_1869+%25281%2529.jpg"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlY-IT6lKFn5ioHT3IY5te4sRvPLkACeBXtZohWwzRPV9mgOSiOB6ayKV54Rpz59lFpvDzltonj5IAyqrm0NlZroFy_RADGpcLRPYtiXcw8ZpdDFpi89pNCf8-Lra5xwOpgIkjurJDlhc/s320/IMG_3638.jpg"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQMIbaydQCncmbl2aBLXiC0JPFDzJLaz4HfZ5WQOnh_yc1XY08rUhkwFX4Mv_f5O8nad4QQOSRQygunoZMNHX9Vn2PMazddCB7DksFfsbGefXllLWQY9eni5pVyxAZ449F91zRISWNSz8/s400/Surgical+Cap+Pattern+-+Scale.jpg"
+
+[[image]]
+location = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1LEE7t0pw6Zd83yi_CrSi9Y7oIXoQX_2bezJghJyPa3RoF5wRMnLDSCiiO15ljVJgeg312edCE48ZcsihrPvT2YI6DdLpLIwnedloyxlUzrjoHR8y4SLCNXJSXno7G1h5mRe_0Oxm_EM/s400/IMG_3603.jpg"
+
+[[image]]
+location = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPG7MZzcCCTfssO8GulgjHgkleHE5cl7I4elSsNzNV8qNLLFpMgQnQNzNhXivgAU9I5g90Gl0PNNbgRfM23kxurc5XeExOdnt3xXL-iCjijb81hhfQM68FyQCom6ch3DHqeQ9S0M3UBUg/s400/IMG_3587.jpg"
+
+[[image]]
+location = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6JWbqqt3c9ESGlCdo739raIeOqeg8QB6R65-kW5ts-cH0SCmkuJU67SGyrXaeI_t8msLzWHMPtHAZ3fucxhGxX2zUCz_JLlYf-RVi39MqBABBF6FsSiWb62371Xvjx06k2ABJ3KajA7Y/s400/IMG_3604.jpg"
+
+[[image]]
+location = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWEpEdwxADpp1kfZcWfnX1cApiv9WHAF6l6RT-jtgDeX8aTIPkslAhIGocwtQnLG9ySu9JHjCuAiOARSYYLK5wxoNhui6GW3Sx7yBrChmJlQ1iSbwcL-EmRufuo52IGeBpAzUswM5MNQc/s400/IMG_3607.jpg"
+
+[[image]]
+location = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYarahfNMxPypEHmJ1FsFeiEkeH2WVi25ab5XHC1qQYyqDZUlFJKqI3F1BgUf6dVhVDByLveoX9Qm3ml9yF6nvURwyvx2blSn2wRcb44CbWVMcIjbNz3M85502KQgzt9Q2c13yHvcIoSo/s400/IMG_3608.jpg"
+
+[[image]]
+location = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3M7-ly5JYuK8M21DzBp9jGOiKWU-EwHtUyam15HWyxqt1R5HuwCQMd0mVZks6yMlkUoWKjGSJ6ySOsWsDPM-96Qvw7BFWwD8DSxZ1PGO00vGoBmAMHG8G20MnlX4mXSQiODPSvQ91VTU/s400/IMG_3610.jpg"
+
+[[image]]
+location = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRT4wGmKc5P3YC7wu0JOUGbn-RTObEYId_GWJYpZ5qAuf8OYbKiR_qJO0zEWZb6Dlv-SZ_CaJALEjtyicYrnOaJR4zIGtz1DuclYneZmgijGG8S02M-PI-IVOxI-DSsESIs0HEpuP_Sf8/s400/IMG_3591.jpg"
+
+[[image]]
+location = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmgWS7bssyFZK8g5OT5ry3Y25gfM2HIPDO_XkZzbnt5eOe_ergKP3-vSsUc_WUiGrBh-UEQ07XbUJa1jyeAgHkyg5a2UFRhfJX5HbHAlyN_WtaFyiL2yuA1ZS60kwrkH_IX3Pennb6wY0/s400/IMG_3613.jpg"
+
+[[image]]
+location = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR6ovxzM5dtBi1-4Mptmj97ZIIYE3Yh7tVfx_mmaPUw8du2-5fzQNCoIdTe0G5VxilY8FqJG4T_7ndD3LhKK-ahoIqvR61nEzgojvz4QnhfowLQ0f4Khn-U4vk8fGPpM6MIzm1dDGPieI/s400/IMG_3597.jpg"
+
+[[image]]
+location = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VK8V2DVzyOhEwwG53isMzxeMu6YxVDxGqCDuAe-T4iN3Py5-Iv_0ZqaZHXhn6ycR1TpO51DM5aysyEj27jTGDC3abMJNrwEavYcucsVVoRTg7Fuaz4bQJGOPcGEe2ocunmXIvj8QMdY/s400/IMG_3614.jpg"
+
+[[image]]
+location = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvbciFTvdKupPhQ1r25hqEJ7JZVUo_sy6VJNTYVxF5tEUkorhjBPcp3vtr35s9QJ0EzTjW5fLzICDeXxYV4m3TpOZwVBb5xK4O5V9M_FwbYK1NhLvmeEEPP0iQV3l48phR7sgK-xH3rF0/s400/IMG_3599.jpg"
+
+[[image]]
+location = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY-P9yPPENqAUh3q3iaHiEdPYvhMmSvhbi3jmeSCS6hV7Zu0V3-wnVErVH0FTxRAhtBaZ2xlXB2Ry3LP3fAZTy1A4PMJhMSvGGMR4ENmYwjwgwNo5Kngdv8R4HOXw26ly78VKfh5BJaVw/s400/IMG_3640.jpg"
+
+[[image]]
+location = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcsFPnmnSkOLTOJHDQs9V8LS-UQ8jD-UE0em7Lh2UVmn2DOcEwlzZl4QGGe39qCMRo2zsbfe5UmbqMkvytwlzrq9Lm-6ZwRd0cg1OWMdVWSIAbaghV4TRDgxSUx7pcshHxA1JeWzlVak4/s400/IMG_3639.jpg"
+
+[[image]]
+location = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRCh_buPdXxK0_afD6m4L-_EzTY0mET2_gzXJKbwxJs4VSLrx6sbNtHBR1TYj7tb6g9dRXe6cEGRDk7JJ8h4DX4Wod_ZaDk2EoLGjrZ-zdDHIsEk99ZsC_QJQZ2N7E6j6nab7DrIIUV58/s400/IMG_3649.JPG"
+
+[[image]]
+location = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbiqTnYao5FdMoET91szu3SqNDQhCefBmJfSeJxss_99nlxXaZ7v8D1e22fYCgfJw2T0N7uOTjwmLSYpxruOn5Oe5ZcbC1zPoBpqBROAtndz4S8TrZhbZ1TWSLgzCJocQbe7uGZZD7vrw/s320/IMG_3571.jpg"

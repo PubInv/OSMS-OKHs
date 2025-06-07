@@ -11,14 +11,6 @@ function = "This cartridge-style respirator has been heavily affected by supply 
 documentation-language = "en"
 organization = "Thingiverse"
 release = "https://www.thingiverse.com/make:1198992"
-image = [
-  # logo
-  "https://img.thingiverse.com/cdn-cgi/image/fit=cover,quality=90,width=48,height=48/https://cdn.thingiverse.com/renders/b3/4d/d0/74/68/592f16ba945687fff3a23db586703d4b_thumb_medium.jpg",
-  # product-photo
-  "https://cdn.thingiverse.com/assets/9d/2f/51/44/71/large_display_IMG_1365.jpg",
-  "https://cdn.thingiverse.com/assets/a9/bb/28/00/76/large_display_IMG_1366.jpg",
-  "https://cdn.thingiverse.com/assets/65/19/9d/58/f4/large_display_IMG_1370.jpg"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A61M 1/0227"
@@ -31,3 +23,27 @@ source = [
      "https://www.thingiverse.com/download:7927513",
      "https://www.thingiverse.com/thing:4227960/files"
 ]
+
+[[image]]
+location = "https://img.thingiverse.com/cdn-cgi/image/fit=cover,quality=90,width=48,height=48/https://cdn.thingiverse.com/renders/b3/4d/d0/74/68/592f16ba945687fff3a23db586703d4b_thumb_medium.jpg"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/9d/2f/51/44/71/large_display_IMG_1365.jpg"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/a9/bb/28/00/76/large_display_IMG_1366.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/65/19/9d/58/f4/large_display_IMG_1370.jpg"

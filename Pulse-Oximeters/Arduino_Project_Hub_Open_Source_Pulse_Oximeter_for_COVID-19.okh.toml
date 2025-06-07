@@ -11,18 +11,6 @@ licensor = "Cerebrum 2020 <https://projecthub.arduino.cc/cerebrum_2020>"
 function = "Uses the MAX30100 type chipset. Includes 3d print files for case and code for display and o2 saturation calculation."
 documentation-language = "en"
 organization = "Arduino Project Hub"
-image = [
-  # logo
-  "https://projecthub.arduino.cc/_next/static/media/project_header_small.a7b5938b.svg",
-  # product-photo
-  "https://projects.arduinocontent.cc/cover-images/61f60f73-c9c3-42de-bfc2-11ef97044147.blob",
-  "https://projects.arduinocontent.cc/d2740809-04da-4efb-aca3-cae73c36b5d2.jpg",
-  "https://projects.arduinocontent.cc/c0eaa508-7a2f-436e-9ee3-f4a46085a6ad.jpg",
-  "https://projects.arduinocontent.cc/f46799c5-3d51-447d-af3d-62eaae1c8aea.jpg",
-  "https://projects.arduinocontent.cc/e3e5536b-7c41-426e-a4cb-64917d1ff20d.jpg",
-  "https://projects.arduinocontent.cc/52386e61-4afb-4ddf-a594-516f701809a3.jpg",
-  "https://projects.arduinocontent.cc/8534f702-a267-49f6-a0ad-c8839c210e3b.jpg"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A61B 5/00"
@@ -30,3 +18,39 @@ tsdc = "MEC"
 bom = "https://projecthub.arduino.cc/cerebrum_2020/pulse-oximeter-for-emergency-use-during-coronavirus-disease-75758a"
 manufacturing-instructions = "https://projecthub.arduino.cc/cerebrum_2020/pulse-oximeter-for-emergency-use-during-coronavirus-disease-75758a"
 user-manual = "https://youtu.be/UvQw2iB7McM"
+
+[[image]]
+location = "https://projecthub.arduino.cc/_next/static/media/project_header_small.a7b5938b.svg"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://projects.arduinocontent.cc/cover-images/61f60f73-c9c3-42de-bfc2-11ef97044147.blob"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://projects.arduinocontent.cc/d2740809-04da-4efb-aca3-cae73c36b5d2.jpg"
+
+[[image]]
+location = "https://projects.arduinocontent.cc/c0eaa508-7a2f-436e-9ee3-f4a46085a6ad.jpg"
+
+[[image]]
+location = "https://projects.arduinocontent.cc/f46799c5-3d51-447d-af3d-62eaae1c8aea.jpg"
+
+[[image]]
+location = "https://projects.arduinocontent.cc/e3e5536b-7c41-426e-a4cb-64917d1ff20d.jpg"
+
+[[image]]
+location = "https://projects.arduinocontent.cc/52386e61-4afb-4ddf-a594-516f701809a3.jpg"
+
+[[image]]
+location = "https://projects.arduinocontent.cc/8534f702-a267-49f6-a0ad-c8839c210e3b.jpg"

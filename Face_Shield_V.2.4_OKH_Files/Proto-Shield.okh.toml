@@ -13,17 +13,6 @@ documentation-language = "en-US"
 organization = "New York University"
 readme = "https://open-face-ppe.vercel.app/"
 contribution-guide = "https://open-face-ppe.vercel.app/about"
-image = [
-  # logo
-  "https://open-face-ppe.vercel.app/NYU_torch.svg",
-  # product-photo
-  "https://open-face-ppe.vercel.app/bd.png",
-  "https://open-face-ppe.vercel.app/use.png",
-  "https://open-face-ppe.vercel.app/raw.png",
-  "https://open-face-ppe.vercel.app/visor.png",
-  "https://open-face-ppe.vercel.app/band.png",
-  "https://open-face-ppe.vercel.app/foam.png"
-]
 technology-readiness-level = "OTRL-5"
 documentation-readiness-level = "ODRL-3"
 # A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
@@ -44,3 +33,36 @@ width = 317.5
 height = 260.35
 # Depth based roughly on thickness of PETG sheet and foam combined. Likely larger depth when fully constructed.
 depth = 12.954
+
+[[image]]
+location = "https://open-face-ppe.vercel.app/NYU_torch.svg"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://open-face-ppe.vercel.app/bd.png"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://open-face-ppe.vercel.app/use.png"
+
+[[image]]
+location = "https://open-face-ppe.vercel.app/raw.png"
+
+[[image]]
+location = "https://open-face-ppe.vercel.app/visor.png"
+
+[[image]]
+location = "https://open-face-ppe.vercel.app/band.png"
+
+[[image]]
+location = "https://open-face-ppe.vercel.app/foam.png"

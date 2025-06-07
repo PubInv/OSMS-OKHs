@@ -13,27 +13,6 @@ documentation-language = "en-US"
 organization = "Michigan Tech's Open Sustainability Technology Lab"
 readme = "https://www.appropedia.org/Open_Source_3-D_Printed_Nutating_Mixer"
 contribution-guide = "https://osf.io/bqysc/metadata/osf"
-image = [
-  # logo
-  "https://www.appropedia.org/w/images/thumb/c/c2/Sunhusky.png/79px-Sunhusky.png",
-  # product-photo
-  "https://www.appropedia.org/w/images/thumb/2/24/Mixer-nutating.jpg/300px-Mixer-nutating.jpg",
-  "https://pub.mdpi-res.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-ag-550.jpg?1569545903",
-  "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g001-550.jpg",
-  "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g002-550.jpg",
-  "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g003-550.jpg",
-  "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g004-550.jpg",
-  "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g005-550.jpg",
-  "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g006-550.jpg",
-  "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g007-550.jpg",
-  "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g008-550.jpg",
-  "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g009-550.jpg",
-  "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g010-550.jpg",
-  "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g011-550.jpg",
-  "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g012-550.jpg",
-  "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g013-550.jpg",
-  "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g014-550.jpg"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 attestation = "https://www.appropedia.org/scripts/retrieveOshwaMetadata.php?title=Open_Source_3-D_Printed_Nutating_Mixer"
@@ -53,3 +32,66 @@ source = [
    "https://files.osf.io/v1/resources/bqysc/providers/osfstorage/?zip=",
    "https://youmagine.com/designs/open-source-nutating-mixer/files#files"
 ]
+
+[[image]]
+location = "https://www.appropedia.org/w/images/thumb/c/c2/Sunhusky.png/79px-Sunhusky.png"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://www.appropedia.org/w/images/thumb/2/24/Mixer-nutating.jpg/300px-Mixer-nutating.jpg"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://pub.mdpi-res.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-ag-550.jpg?1569545903"
+
+[[image]]
+location = "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g001-550.jpg"
+
+[[image]]
+location = "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g002-550.jpg"
+
+[[image]]
+location = "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g003-550.jpg"
+
+[[image]]
+location = "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g004-550.jpg"
+
+[[image]]
+location = "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g005-550.jpg"
+
+[[image]]
+location = "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g006-550.jpg"
+
+[[image]]
+location = "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g007-550.jpg"
+
+[[image]]
+location = "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g008-550.jpg"
+
+[[image]]
+location = "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g009-550.jpg"
+
+[[image]]
+location = "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g010-550.jpg"
+
+[[image]]
+location = "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g011-550.jpg"
+
+[[image]]
+location = "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g012-550.jpg"
+
+[[image]]
+location = "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g013-550.jpg"
+
+[[image]]
+location = "https://www.mdpi.com/applsci/applsci-07-00942/article_deploy/html/images/applsci-07-00942-g014-550.jpg"

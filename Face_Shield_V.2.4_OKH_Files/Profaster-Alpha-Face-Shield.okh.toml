@@ -14,18 +14,6 @@ documentation-language = [
     "fr"
 ]
 organization = "Phoenix Equipement"
-image = [
-  # logo
-  "https://static.wixstatic.com/media/dfe802_7f89760a4e8b42b5971f3e3c6655c760~mv2.png/v1/fill/w_200,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20PXE%202018%20Vectoriel_edited.png",
-  # product-photo
-  "https://cdn.thingiverse.com/assets/e4/48/3a/ee/08/large_display_Couverture_Thingiverse_PROFASTER_ALPHA.jpg",
-  "https://cdn.thingiverse.com/assets/90/ec/0e/71/25/large_display_IMG_1232_BATCH_1600px.jpg",
-  "https://cdn.thingiverse.com/assets/38/3a/4e/8e/5f/large_display_IMG_1273_BATCH_1600px.jpg",
-  "https://cdn.thingiverse.com/assets/48/aa/02/cf/53/large_display_IMG_1278_BATCH_1600px.jpg",
-  "https://cdn.thingiverse.com/assets/bd/5c/c3/42/69/large_display_PROFASTER_ALPHA_impression_stack_x40.jpg",
-  "https://cdn.thingiverse.com/assets/1b/47/0d/8e/4b/large_display_PROFASTER_ALPHA_x140_livraison.jpg",
-  "https://cdn.thingiverse.com/assets/ab/3e/c1/7b/7b/large_display_Parametres_recommandes.jpg"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 attestation = "https://certification.oshwa.org/cl000001.html"
@@ -53,3 +41,39 @@ source = [
 # width = 400
 # height = 150
 # depth = 350
+
+[[image]]
+location = "https://static.wixstatic.com/media/dfe802_7f89760a4e8b42b5971f3e3c6655c760~mv2.png/v1/fill/w_200,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20PXE%202018%20Vectoriel_edited.png"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/e4/48/3a/ee/08/large_display_Couverture_Thingiverse_PROFASTER_ALPHA.jpg"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/90/ec/0e/71/25/large_display_IMG_1232_BATCH_1600px.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/38/3a/4e/8e/5f/large_display_IMG_1273_BATCH_1600px.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/48/aa/02/cf/53/large_display_IMG_1278_BATCH_1600px.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/bd/5c/c3/42/69/large_display_PROFASTER_ALPHA_impression_stack_x40.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/1b/47/0d/8e/4b/large_display_PROFASTER_ALPHA_x140_livraison.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/ab/3e/c1/7b/7b/large_display_Parametres_recommandes.jpg"

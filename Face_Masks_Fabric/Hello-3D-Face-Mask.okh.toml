@@ -11,23 +11,6 @@ function = "Design stands away from the face and features options for a filter p
 documentation-language = "en"
 organization = "Hello Sewing"
 readme = "https://hellosewing.com/3d-face-mask-diy/#How_to_make_3d_face_mask"
-image = [
-  # logo
-  "https://hellosewing.com/wp-content/uploads/hellosewing-logo-lq.jpg",
-  # product-photo
-  "https://hellosewing.com/wp-content/uploads/3d-facemask-featured.jpg",
-  "https://hellosewing.com/wp-content/uploads/IMG_20200629_174436.jpg",
-  "https://hellosewing.com/wp-content/uploads/3d-facemask.jpg",
-  "https://hellosewing.com/wp-content/uploads/3d-facemask5.jpg",
-  "https://hellosewing.com/wp-content/uploads/3d-facemask6.jpg",
-  "https://hellosewing.com/wp-content/uploads/3d-facemask9.jpg",
-  "https://hellosewing.com/wp-content/uploads/3d-facemask15.jpg",
-  "https://hellosewing.com/wp-content/uploads/3d-facemask18.jpg",
-  "https://hellosewing.com/wp-content/uploads/3d-face-mask-90degrees.jpg",
-  "https://hellosewing.com/wp-content/uploads/3d-facemask20.jpg",
-  "https://hellosewing.com/wp-content/uploads/IMG_20200629_175200-1536x1152.jpg",
-  "https://hellosewing.com/wp-content/uploads/3d-face-mask-pin1.jpg"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
@@ -38,3 +21,54 @@ manufacturing-instructions = [
    "https://www.youtube.com/watch?v=qjqweGdyDuA"
 ]
 source = "https://deft-designer-6802.ck.page/698a0c7d84"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/hellosewing-logo-lq.jpg"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/3d-facemask-featured.jpg"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/IMG_20200629_174436.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/3d-facemask.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/3d-facemask5.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/3d-facemask6.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/3d-facemask9.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/3d-facemask15.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/3d-facemask18.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/3d-face-mask-90degrees.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/3d-facemask20.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/IMG_20200629_175200-1536x1152.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/3d-face-mask-pin1.jpg"

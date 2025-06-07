@@ -12,12 +12,6 @@ function = "Montreal-based design for high-scale, high-speed gown production. 20
 documentation-language = "en"
 organization = "Luxury Men's Apparel Group"
 readme = "https://docs.google.com/presentation/d/12uj3bCugSUNHekStDyfMvfGHe9wVN6kAbxIIvWg7TCI/edit#slide=id.g980c403701_0_0"
-image = [
-  # logo
-  "https://drive.google.com/file/d/11CM6r9uq9zEkbPxjo9SYOQnqCCbg1N_n/view?usp=sharing",
-  # product-photo
-  "imgs/yyy.jpg"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/00"
@@ -32,3 +26,21 @@ source = [
      "https://drive.google.com/file/d/1y9rIHJZUQq6EFqmrlqHjoRwNBpUkc4_B/view?usp=sharing",
      "https://drive.google.com/file/d/130fdXEjo6BHJMmr7cXuudS0XSegLEBqj/view?usp=sharing"
      ]
+
+[[image]]
+location = "https://drive.google.com/file/d/11CM6r9uq9zEkbPxjo9SYOQnqCCbg1N_n/view?usp=sharing"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "imgs/yyy.jpg"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]

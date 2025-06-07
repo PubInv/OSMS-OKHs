@@ -11,14 +11,6 @@ licensor = "Nathan de Souza <njds337@gmail.com>"
 function = "This device is a lightweight powered air-purifying respirator (PAPR) that provides filtered air, face and eye protection, and skin surface cooling."
 documentation-language = "en-au"
 organization = "Autodesk Instructables"
-image = [
-  # product-photo
-  "https://content.instructables.com/FVA/WNDF/LILYUDDY/FVAWNDFLILYUDDY.png",
-  # product-photo
-  "https://content.instructables.com/FBQ/O9NK/LEE9CN58/FBQO9NKLEE9CN58.png",
-  # product-photo
-  "https://content.instructables.com/FKI/LHY5/LEE9CN57/FKILHY5LEE9CN57.jpg"
-]
 technology-readiness-level = "OTRL-5"
 documentation-readiness-level = "ODRL-3"
 # attestation = "NA"
@@ -41,3 +33,24 @@ mass= 220
 width = 170
 height = 240
 depth = 210
+
+[[image]]
+location = "https://content.instructables.com/FVA/WNDF/LILYUDDY/FVAWNDFLILYUDDY.png"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://content.instructables.com/FBQ/O9NK/LEE9CN58/FBQO9NKLEE9CN58.png"
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://content.instructables.com/FKI/LHY5/LEE9CN57/FKILHY5LEE9CN57.jpg"
+tags = [
+  "photo",
+]

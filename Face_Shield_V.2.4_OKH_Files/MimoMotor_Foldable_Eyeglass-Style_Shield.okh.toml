@@ -11,13 +11,6 @@ function = "Unique design featuring a foldable, eyeglass-style armature which is
 documentation-language = "en-GB"
 organization = "MIMO Motor Pte Ltd"
 # In the case of no releases, can link to the latest commit.
-image = [
-  # logo
-  "https://www.mimomotor.com/gallery_gen/bf7cf9b98954c7164913d80f6b67bc71_326x78_fit.png?ts=1735364376",
-  # product-photo
-  "https://www.mimomotor.com/gallery_gen/5c1ce155fbf93610f20d4a611fa75107_592x854_fit.jpg?ts=1735364379",
-  "https://www.mimomotor.com/gallery/fs_foldable_design-ts1589686707.jpg?ts=1735364379"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 attestation = "https://certification.oshwa.org/cl000001.html"
@@ -31,3 +24,24 @@ width = 254
 height = 200
 # Depth based on given printbed size, rough guess.
 depth = 150
+
+[[image]]
+location = "https://www.mimomotor.com/gallery_gen/bf7cf9b98954c7164913d80f6b67bc71_326x78_fit.png?ts=1735364376"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://www.mimomotor.com/gallery_gen/5c1ce155fbf93610f20d4a611fa75107_592x854_fit.jpg?ts=1735364379"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://www.mimomotor.com/gallery/fs_foldable_design-ts1589686707.jpg?ts=1735364379"

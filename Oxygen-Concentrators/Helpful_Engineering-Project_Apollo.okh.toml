@@ -14,17 +14,6 @@ organization = "Helpful Engineering"
 release = "https://github.com/oxycon/ProjectApollo/commit/e9dce060e55b708489106f58cf334be1f9ba677a"
 readme = "https://github.com/oxycon/ProjectApollo/blob/master/README.md"
 contribution-guide = "https://github.com/oxycon/ProjectApollo/graphs/contributors"
-image = [
-  # logo
-  "https://helpfulengineering.org/wp-content/uploads/2021/08/Helpful-RGB-logo.svg",
-  # product-photo
-  "https://helpfulengineering.org/wp-content/uploads/2020/06/Apollo-Oxygen-Concentrator-1-1792x2048.jpg",
-  "https://helpfulengineering.org/wp-content/uploads/2020/06/Apollo-Oxygen-Concentrator-2-1536x1366.jpg",
-  "https://helpfulengineering.org/wp-content/uploads/2020/06/Apollo-Oxygen-Concentrator-3-1536x1507.jpg",
-  "https://helpfulengineering.org/wp-content/uploads/2020/06/Apollo-Oxygen-Concentrator-4-1736x2048.jpg",
-  "https://helpfulengineering.org/wp-content/uploads/2020/06/Apollo-Oxygen-Concentrator-5-1536x1479.jpg",
-  "https://helpfulengineering.org/wp-content/uploads/2020/06/Apollo-Oxygen-Concentrator-diagram-768x1056.png"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 publication = [
@@ -48,3 +37,36 @@ source = [
      "https://github.com/oxycon/ProjectApollo/tree/master/electrical",
      "https://github.com/oxycon/ProjectApollo/tree/master/firmware"
 ]
+
+[[image]]
+location = "https://helpfulengineering.org/wp-content/uploads/2021/08/Helpful-RGB-logo.svg"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://helpfulengineering.org/wp-content/uploads/2020/06/Apollo-Oxygen-Concentrator-1-1792x2048.jpg"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://helpfulengineering.org/wp-content/uploads/2020/06/Apollo-Oxygen-Concentrator-2-1536x1366.jpg"
+
+[[image]]
+location = "https://helpfulengineering.org/wp-content/uploads/2020/06/Apollo-Oxygen-Concentrator-3-1536x1507.jpg"
+
+[[image]]
+location = "https://helpfulengineering.org/wp-content/uploads/2020/06/Apollo-Oxygen-Concentrator-4-1736x2048.jpg"
+
+[[image]]
+location = "https://helpfulengineering.org/wp-content/uploads/2020/06/Apollo-Oxygen-Concentrator-5-1536x1479.jpg"
+
+[[image]]
+location = "https://helpfulengineering.org/wp-content/uploads/2020/06/Apollo-Oxygen-Concentrator-diagram-768x1056.png"

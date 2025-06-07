@@ -13,14 +13,6 @@ documentation-language = "en-US"
 organization = "FREEFLOE DESIGN LLC"
 readme = "https://freefloe.com/"
 contribution-guide = "https://freefloe.com/our-team"
-image = [
-  # logo
-  "https://images.squarespace-cdn.com/content/v1/5e814188c85bba583b4a8db1/1586213734786-7B16I1M5V5PD1BX4BBF7/LOGO+TM.jpg?format=1500w",
-  # product-photo
-  "https://images.squarespace-cdn.com/content/v1/5e814188c85bba583b4a8db1/1586905096498-OY55UZ1UGMBFB4C91FFX/face+shield+on+metal.jpg?format=500w",
-  "https://images.squarespace-cdn.com/content/v1/5e814188c85bba583b4a8db1/1586905160959-BN1TIRHZ69BAIUWCLEKH/Dr+Greg+Face+Shield.PNG?format=500w",
-  "https://images.squarespace-cdn.com/content/v1/5e814188c85bba583b4a8db1/1585701856557-VTQU34II5XJQ8D3X9ZPL/Shield+Side+1.jpg?format=1500w"
-]
 technology-readiness-level = "OTRL-5"
 documentation-readiness-level = "ODRL-3"
 publication = [
@@ -43,3 +35,27 @@ width = 419.1
 height = 285.75
 # Depth based off this welding helmet headgear, as no specific brand is specified in the Manufacturing Instructions: https://shop.pipelinerscloud.com/products/headgear?srsltid=AfmBOopQrQ8QptqeNVOlIR1e4wlewBKiyELHBk680j1e98CWuR35-Dp9&variant=42388788510941
 depth = 127
+
+[[image]]
+location = "https://images.squarespace-cdn.com/content/v1/5e814188c85bba583b4a8db1/1586213734786-7B16I1M5V5PD1BX4BBF7/LOGO+TM.jpg?format=1500w"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://images.squarespace-cdn.com/content/v1/5e814188c85bba583b4a8db1/1586905096498-OY55UZ1UGMBFB4C91FFX/face+shield+on+metal.jpg?format=500w"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://images.squarespace-cdn.com/content/v1/5e814188c85bba583b4a8db1/1586905160959-BN1TIRHZ69BAIUWCLEKH/Dr+Greg+Face+Shield.PNG?format=500w"
+
+[[image]]
+location = "https://images.squarespace-cdn.com/content/v1/5e814188c85bba583b4a8db1/1585701856557-VTQU34II5XJQ8D3X9ZPL/Shield+Side+1.jpg?format=1500w"

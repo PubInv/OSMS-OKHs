@@ -13,22 +13,6 @@ documentation-language = "en"
 organization = "Massachusetts Institute of Technology"
 release = "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/commit/0d96c692aae8b6da49b9f80be30ad48b557cd26c"
 readme = "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/pulseox/README.md"
-image = [
-  # logo
-  "https://gitlab.cba.mit.edu/uploads/-/system/user/avatar/667/avatar.png?width=64",
-  # product-photo
-  "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/apparatus.jpg?ref_type=heads",
-  "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/apparatus_layout.png?ref_type=heads",
-  "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/apparatus_schematic.png?ref_type=heads",
-  "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/hemoglobin_curve.png?ref_type=heads",
-  "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/pulseox_1.jpg?ref_type=heads",
-  "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/pulseox_2.jpg?ref_type=heads",
-  "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/pulseox_3.jpg?ref_type=heads",
-  "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/pulseox_curve.jpg?ref_type=heads",
-  "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/rawdata_sensors_zoomed_more.png?ref_type=heads",
-  "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/rawdata_spo2.png?ref_type=heads",
-  "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/zacurate_r_vs_spo2.png?ref_type=heads"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A61B 5/00"
@@ -58,3 +42,51 @@ source = [
      "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/pulseox/teensy_firmware/teensy_firmware.ino?ref_type=heads",
      "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/pulseox/snooper/main.py?ref_type=heads"
 ]
+
+[[image]]
+location = "https://gitlab.cba.mit.edu/uploads/-/system/user/avatar/667/avatar.png?width=64"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/apparatus.jpg?ref_type=heads"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/apparatus_layout.png?ref_type=heads"
+
+[[image]]
+location = "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/apparatus_schematic.png?ref_type=heads"
+
+[[image]]
+location = "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/hemoglobin_curve.png?ref_type=heads"
+
+[[image]]
+location = "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/pulseox_1.jpg?ref_type=heads"
+
+[[image]]
+location = "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/pulseox_2.jpg?ref_type=heads"
+
+[[image]]
+location = "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/pulseox_3.jpg?ref_type=heads"
+
+[[image]]
+location = "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/pulseox_curve.jpg?ref_type=heads"
+
+[[image]]
+location = "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/rawdata_sensors_zoomed_more.png?ref_type=heads"
+
+[[image]]
+location = "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/rawdata_spo2.png?ref_type=heads"
+
+[[image]]
+location = "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/img/zacurate_r_vs_spo2.png?ref_type=heads"

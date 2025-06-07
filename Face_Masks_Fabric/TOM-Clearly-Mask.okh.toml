@@ -15,17 +15,6 @@ organization = [
    "Poalim for the Community"
 ]
 readme = "https://tomglobal.org/project?id=5ef472c75ea9e13b5a3af2c3"
-image = [
-  # logo
-  "https://tomglobal.org/assets/images/tom-logo-color.svg",
-  "https://tom-global-dev.s3.eu-west-1.amazonaws.com/misc/poalim.jpeg",
-  # product-photo
-  "https://tom-prod-new.s3.eu-west-1.amazonaws.com/15.1594290855230.jpg",
-  "https://tom-prod-new.s3.eu-west-1.amazonaws.com/16.1594290870430.jpg",
-  "https://tom-prod-new.s3.eu-west-1.amazonaws.com/IMG_3350%20-%20Copy%20(1).1594290882094.jpg",
-  "https://tom-prod-new.s3.eu-west-1.amazonaws.com/IMG_3351%20-%20Copy%20(1).1594290894273.jpg",
-  "https://tom-prod-new.s3.eu-west-1.amazonaws.com/%D7%AA%D7%94%D7%9C%D7%99%D7%9A%20%D7%A4%D7%99%D7%AA%D7%95%D7%97%20%D7%9E%D7%A1%D7%9B%D7%94%20%D7%A9%D7%A7%D7%95%D7%A4%D7%94.1594454991783.jpg"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
@@ -33,3 +22,36 @@ cpc-patent-class = "A41D 13/11"
 bom = "https://tomglobal.org/project?id=5ef472c75ea9e13b5a3af2c3"
 manufacturing-instructions = "https://tomglobal.org/project?id=5ef472c75ea9e13b5a3af2c3"
 user-manual = "https://tomglobal.org/project?id=5ef472c75ea9e13b5a3af2c3"
+
+[[image]]
+location = "https://tomglobal.org/assets/images/tom-logo-color.svg"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://tom-global-dev.s3.eu-west-1.amazonaws.com/misc/poalim.jpeg"
+
+[[image]]
+location = "https://tom-prod-new.s3.eu-west-1.amazonaws.com/15.1594290855230.jpg"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://tom-prod-new.s3.eu-west-1.amazonaws.com/16.1594290870430.jpg"
+
+[[image]]
+location = "https://tom-prod-new.s3.eu-west-1.amazonaws.com/IMG_3350%20-%20Copy%20(1).1594290882094.jpg"
+
+[[image]]
+location = "https://tom-prod-new.s3.eu-west-1.amazonaws.com/IMG_3351%20-%20Copy%20(1).1594290894273.jpg"
+
+[[image]]
+location = "https://tom-prod-new.s3.eu-west-1.amazonaws.com/%D7%AA%D7%94%D7%9C%D7%99%D7%9A%20%D7%A4%D7%99%D7%AA%D7%95%D7%97%20%D7%9E%D7%A1%D7%9B%D7%94%20%D7%A9%D7%A7%D7%95%D7%A4%D7%94.1594454991783.jpg"

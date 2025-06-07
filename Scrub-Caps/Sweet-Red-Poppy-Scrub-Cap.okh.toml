@@ -11,33 +11,6 @@ function = "Surgical cap style that has a bit more coverage than others. Shaped 
 documentation-language = "en"
 organization = "Sweet Red Poppy"
 readme = "https://sweetredpoppy.com/scrub-cap-free-sewing-pattern/"
-image = [
-  # logo
-  "https://sweetredpoppy.com/wp-content/uploads/2021/09/Sweet-Red-Poppy-FINAL-LOGO-01.jpg",
-  # product-photo
-  "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0658-2-720x450.jpg",
-  "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0668-360x249.jpg",
-  "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0553.jpg",
-  "https://sweetredpoppy.com/wp-content/uploads/2022/07/2-4-1024x683.png",
-  "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0558-768x431.jpg",
-  "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0560-2.jpg",
-  "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0562-768x443.jpg",
-  "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0564-720x404.jpg",
-  "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0605-720x469.jpg",
-  "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0565-768x431.jpg",
-  "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0607-360x266.jpg",
-  "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0610-720x480.jpg",
-  "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0615-720x480.jpg",
-  "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0569-360x240.jpg",
-  "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0620-720x480.jpg",
-  "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0622-720x433.jpg",
-  "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0626-768x512.jpg",
-  "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0630-720x455.jpg",
-  "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0633-720x472.jpg",
-  "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0634-768x512.jpg",
-  "https://sweetredpoppy.com/wp-content/uploads/2020/04/Copy-of-Hiking-Travel-YouTube-Thumbnail-720x1080.jpg",
-  "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0657-720x720.jpg"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
@@ -45,3 +18,84 @@ cpc-patent-class = "A41D 13/11"
 bom = "https://sweetredpoppy.com/scrub-cap-free-sewing-pattern/"
 manufacturing-instructions = "https://sweetredpoppy.com/scrub-cap-free-sewing-pattern/"
 source = "https://sweetredpoppy.com/wp-content/uploads/2022/07/Printing-Instructions-Scrub-Cap-Sweet-Red-Poppy-791x1024.png"
+
+[[image]]
+location = "https://sweetredpoppy.com/wp-content/uploads/2021/09/Sweet-Red-Poppy-FINAL-LOGO-01.jpg"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0658-2-720x450.jpg"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0668-360x249.jpg"
+
+[[image]]
+location = "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0553.jpg"
+
+[[image]]
+location = "https://sweetredpoppy.com/wp-content/uploads/2022/07/2-4-1024x683.png"
+
+[[image]]
+location = "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0558-768x431.jpg"
+
+[[image]]
+location = "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0560-2.jpg"
+
+[[image]]
+location = "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0562-768x443.jpg"
+
+[[image]]
+location = "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0564-720x404.jpg"
+
+[[image]]
+location = "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0605-720x469.jpg"
+
+[[image]]
+location = "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0565-768x431.jpg"
+
+[[image]]
+location = "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0607-360x266.jpg"
+
+[[image]]
+location = "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0610-720x480.jpg"
+
+[[image]]
+location = "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0615-720x480.jpg"
+
+[[image]]
+location = "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0569-360x240.jpg"
+
+[[image]]
+location = "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0620-720x480.jpg"
+
+[[image]]
+location = "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0622-720x433.jpg"
+
+[[image]]
+location = "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0626-768x512.jpg"
+
+[[image]]
+location = "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0630-720x455.jpg"
+
+[[image]]
+location = "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0633-720x472.jpg"
+
+[[image]]
+location = "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0634-768x512.jpg"
+
+[[image]]
+location = "https://sweetredpoppy.com/wp-content/uploads/2020/04/Copy-of-Hiking-Travel-YouTube-Thumbnail-720x1080.jpg"
+
+[[image]]
+location = "https://sweetredpoppy.com/wp-content/uploads/2020/04/IMG_0657-720x720.jpg"

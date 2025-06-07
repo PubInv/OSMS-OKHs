@@ -16,12 +16,6 @@ organization = [
   ]
 release = "https://cms.delve.com/assets/documents/OPEN-SOURCE-FACE-SHIELD-DRAWING-v1.PDF"
 # readme = "https://cms.delve.com/assets/documents/OPEN-SOURCE-FACE-SHIELD-DRAWING-v1.PDF"
-image = [
-  # product-photo
-  "https://www.delve.com/_next/image?url=https%3A%2F%2Fcms.delve.com%2Fassets%2Fimages%2FFace-Shield-on-Mannikin-for-Banner.jpg&w=1920&q=75",
-  "https://www.delve.com/_next/image?url=https%3A%2F%2Fcms.delve.com%2Fassets%2Fimages%2FFace-Shield-on-Jesse.jpg&w=1920&q=75",
-  "https://www.delve.com/_next/image?url=https%3A%2F%2Fcms.delve.com%2Fassets%2Fimages%2FFace-Shield-Packaged-Rotated.jpg&w=1920&q=75"
-]
 technology-readiness-level = "OTRL-5"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A41D 13/11"
@@ -34,3 +28,18 @@ width = 330.20
 height = 228.60
 # Depth here is a rough guess based off the thickness of the shield and foam materials. 
 depth = 25.5778
+
+[[image]]
+location = "https://www.delve.com/_next/image?url=https%3A%2F%2Fcms.delve.com%2Fassets%2Fimages%2FFace-Shield-on-Mannikin-for-Banner.jpg&w=1920&q=75"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://www.delve.com/_next/image?url=https%3A%2F%2Fcms.delve.com%2Fassets%2Fimages%2FFace-Shield-on-Jesse.jpg&w=1920&q=75"
+
+[[image]]
+location = "https://www.delve.com/_next/image?url=https%3A%2F%2Fcms.delve.com%2Fassets%2Fimages%2FFace-Shield-Packaged-Rotated.jpg&w=1920&q=75"

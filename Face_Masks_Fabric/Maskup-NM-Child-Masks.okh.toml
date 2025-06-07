@@ -14,15 +14,6 @@ documentation-language = [
 ]
 organization = "MaskupNM"
 readme = "https://sites.google.com/view/maskscovernm/mission-maskup-kids?authuser=0"
-image = [
-  # logo
-  "https://lh6.googleusercontent.com/mvIkXhI58opx4WDZebopOv4mTJ74jgHpMfhRzxuY5FWCwzuK_fQsqoth1LQ54S2FTWrOHA=w16383",
-  # product-photo
-  "https://lh6.googleusercontent.com/8LydPtPVY8SOb_5qX86WcUqSPbBie0-NQAz-nRQbn6N5S9_NDirdLIHYC0mHHUlz_A8CDz32DzxjTO5XGT7O-rl-xF2aKFTNTu2sNSCTMh76c9qR=w1280",
-  "https://lh4.googleusercontent.com/gEQFdtKwwsi37vIkWUH0UgvEChAT9TDJ1s_VmNMgFvz9X3-N-okAxTN4TCr7WOqv3v-IDTd5ZzT-x4KWiwr6G1xDTEE6mg13YI_9TeritP_QXMxN=w1280",
-  "https://lh6.googleusercontent.com/cYze7su5wU8vi7aXFvOLXe5UN0Zha381dj1w4lshcMDpuyy64fyGJ7UMeuUZj9WKa0-kgL8E3-MGdtsqq8NgPEtLQ8t40M8GXBUIDGz6Ks7q0hor=w1280",
-  "https://lh3.googleusercontent.com/1Xdayf-LvEybDzifN1rL30x1aQ_sG9Vt2nxy3AzLL7tM_Gdzf2WLQGkLyQsDxTXbpCGfogCEuHmYUzyG4ketAfib07pESyRzGPS10pww8qnkn-eF=w1280"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
@@ -52,3 +43,30 @@ manufacturing-instructions = [
 width = 203.2
 depth = 6.35
 height = 152.4
+
+[[image]]
+location = "https://lh6.googleusercontent.com/mvIkXhI58opx4WDZebopOv4mTJ74jgHpMfhRzxuY5FWCwzuK_fQsqoth1LQ54S2FTWrOHA=w16383"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://lh6.googleusercontent.com/8LydPtPVY8SOb_5qX86WcUqSPbBie0-NQAz-nRQbn6N5S9_NDirdLIHYC0mHHUlz_A8CDz32DzxjTO5XGT7O-rl-xF2aKFTNTu2sNSCTMh76c9qR=w1280"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://lh4.googleusercontent.com/gEQFdtKwwsi37vIkWUH0UgvEChAT9TDJ1s_VmNMgFvz9X3-N-okAxTN4TCr7WOqv3v-IDTd5ZzT-x4KWiwr6G1xDTEE6mg13YI_9TeritP_QXMxN=w1280"
+
+[[image]]
+location = "https://lh6.googleusercontent.com/cYze7su5wU8vi7aXFvOLXe5UN0Zha381dj1w4lshcMDpuyy64fyGJ7UMeuUZj9WKa0-kgL8E3-MGdtsqq8NgPEtLQ8t40M8GXBUIDGz6Ks7q0hor=w1280"
+
+[[image]]
+location = "https://lh3.googleusercontent.com/1Xdayf-LvEybDzifN1rL30x1aQ_sG9Vt2nxy3AzLL7tM_Gdzf2WLQGkLyQsDxTXbpCGfogCEuHmYUzyG4ketAfib07pESyRzGPS10pww8qnkn-eF=w1280"

@@ -15,10 +15,6 @@ function = "Features acrylic and PETG components for a fully operable (flips up 
 documentation-language = "en-US"
 organization = "Makers Unite"
 release = "https://docs.google.com/document/d/15PJesgw0wBu3PXNKbjEv6cbdwdmzQbVA2nZGETQyLLs/edit?tab=t.0"
-image = [
-  # logo
-  "https://images.squarespace-cdn.com/content/v1/5ea0d8a93ffbd834bce7770a/1587689972919-OGSZXCUVU755KK51DDKH/m-u-website-01.png?format=1500w"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A42B 3/00"
@@ -35,3 +31,12 @@ source = [
 # width = 260
 # height = 190
 # depth = 0
+
+[[image]]
+location = "https://images.squarespace-cdn.com/content/v1/5ea0d8a93ffbd834bce7770a/1587689972919-OGSZXCUVU755KK51DDKH/m-u-website-01.png?format=1500w"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]

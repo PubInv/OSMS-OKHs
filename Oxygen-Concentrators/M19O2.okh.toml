@@ -14,22 +14,6 @@ organization = "Maker's Asylum"
 release = "https://github.com/MakersAsylumIndia/M19O2/commit/19fe5d6db049e2199ca5744df195c1c65db2c71a"
 readme = "https://github.com/MakersAsylumIndia/M19O2/blob/main/README.md"
 contribution-guide = "https://github.com/MakersAsylumIndia/M19O2/graphs/contributors"
-image = [
-  # logo
-  "https://avatars.githubusercontent.com/u/9796280?s=48&v=4",
-  "https://raw.githubusercontent.com/MakersAsylumIndia/M19O2/19fe5d6db049e2199ca5744df195c1c65db2c71a/images/M19O2%20logo.svg",
-  "https://github.com/MakersAsylumIndia/M19O2/blob/main/images/M19collective_logo_01.jpeg?raw=true",
-  # product-photo
-  "https://github.com/MakersAsylumIndia/M19O2/raw/main/renders/M19O2_v4_08.png",
-  "https://github.com/MakersAsylumIndia/M19O2/raw/main/renders/M19O2_v4_06.png",
-  "https://github.com/MakersAsylumIndia/M19O2/raw/main/renders/M19O2_v4_07.png",
-  "https://github.com/MakersAsylumIndia/M19O2/blob/main/images/M19O2_clear.jpg?raw=true",
-  "https://github.com/MakersAsylumIndia/M19O2/blob/main/images/m19o2_V4-04%20no%20bg.png?raw=true",
-  "https://github.com/MakersAsylumIndia/M19O2/blob/main/images/m19o2_V4-04-removebg-preview.png?raw=true",
-  "https://github.com/MakersAsylumIndia/M19O2/blob/main/images/m19o2_V4-04.jpg?raw=true",
-  "https://github.com/MakersAsylumIndia/M19O2/blob/main/images/m19o2_V4-08.jpg?raw=true",
-  "https://github.com/MakersAsylumIndia/M19O2/blob/main/images/m19o2_V4-18.jpg?raw=true"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 attestation = "https://certification.oshwa.org/in000029.html"
@@ -47,3 +31,51 @@ source = [
      "https://github.com/MakersAsylumIndia/M19O2/tree/main/engineering",
      "https://github.com/MakersAsylumIndia/M19O2/tree/main/renders"
 ]
+
+[[image]]
+location = "https://avatars.githubusercontent.com/u/9796280?s=48&v=4"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://raw.githubusercontent.com/MakersAsylumIndia/M19O2/19fe5d6db049e2199ca5744df195c1c65db2c71a/images/M19O2%20logo.svg"
+
+[[image]]
+location = "https://github.com/MakersAsylumIndia/M19O2/blob/main/images/M19collective_logo_01.jpeg?raw=true"
+
+[[image]]
+location = "https://github.com/MakersAsylumIndia/M19O2/raw/main/renders/M19O2_v4_08.png"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://github.com/MakersAsylumIndia/M19O2/raw/main/renders/M19O2_v4_06.png"
+
+[[image]]
+location = "https://github.com/MakersAsylumIndia/M19O2/raw/main/renders/M19O2_v4_07.png"
+
+[[image]]
+location = "https://github.com/MakersAsylumIndia/M19O2/blob/main/images/M19O2_clear.jpg?raw=true"
+
+[[image]]
+location = "https://github.com/MakersAsylumIndia/M19O2/blob/main/images/m19o2_V4-04%20no%20bg.png?raw=true"
+
+[[image]]
+location = "https://github.com/MakersAsylumIndia/M19O2/blob/main/images/m19o2_V4-04-removebg-preview.png?raw=true"
+
+[[image]]
+location = "https://github.com/MakersAsylumIndia/M19O2/blob/main/images/m19o2_V4-04.jpg?raw=true"
+
+[[image]]
+location = "https://github.com/MakersAsylumIndia/M19O2/blob/main/images/m19o2_V4-08.jpg?raw=true"
+
+[[image]]
+location = "https://github.com/MakersAsylumIndia/M19O2/blob/main/images/m19o2_V4-18.jpg?raw=true"

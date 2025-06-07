@@ -11,22 +11,6 @@ function = "This adapter allows the wearer to protect surroundings from contamin
 documentation-language = "en"
 organization = "Thingiverse"
 release = "https://www.thingiverse.com/thing:4202541/comments"
-image = [
-  # logo
-  "https://img.thingiverse.com/cdn-cgi/image/fit=cover,quality=90,width=48,height=48/https://cdn.thingiverse.com/assets/e4/49/d6/d7/f2/cover2.png",
-  # product-photo
-  "https://cdn.thingiverse.com/assets/cb/b9/47/23/3c/large_display_Untitled.png",
-  "https://cdn.thingiverse.com/assets/05/15/74/fc/3a/large_display_Screenshot_2021-02-23_160516.png",
-  "https://cdn.thingiverse.com/assets/bf/76/23/cf/c5/large_display_large_display_WhatsApp_Image_2020-03-05_at_16.22.31.jpeg",
-  "https://cdn.thingiverse.com/assets/46/26/79/83/6e/large_display_Untitlesssssd.jpg",
-  "https://cdn.thingiverse.com/assets/2c/ac/07/8c/37/large_display_Capturjjjjjjjje.PNG",
-  "https://cdn.thingiverse.com/assets/5c/e7/6c/79/d8/large_display_Captuggggggre.PNG",
-  "https://cdn.thingiverse.com/assets/d0/61/80/a7/4a/large_display_WhatsApp_Image_2020-03-05_at_16.22.31.jpeg",
-  "https://cdn.thingiverse.com/assets/27/b3/b0/70/fe/large_display_WhatsApp_Image_2020-03-05_at_16.20.54.jpeg",
-  "https://cdn.thingiverse.com/assets/86/ac/41/65/df/large_display_WhatsApp_Image_2020-03-05_at_16.21.04.jpeg",
-  "https://cdn.thingiverse.com/assets/ff/6b/ab/ad/06/large_display_WhatsApp_Image_2020-03-05_at_16.20.34.jpeg",
-  "https://cdn.thingiverse.com/assets/11/cf/c3/b0/4d/large_display_WhatsApp_Image_2020-03-05_at_16.21.44.jpeg"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "B01D 41/00"
@@ -40,3 +24,51 @@ source = [
      "https://www.thingiverse.com/download:8915305",
      "https://www.thingiverse.com/thing:4202541/files"
 ]
+
+[[image]]
+location = "https://img.thingiverse.com/cdn-cgi/image/fit=cover,quality=90,width=48,height=48/https://cdn.thingiverse.com/assets/e4/49/d6/d7/f2/cover2.png"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/cb/b9/47/23/3c/large_display_Untitled.png"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/05/15/74/fc/3a/large_display_Screenshot_2021-02-23_160516.png"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/bf/76/23/cf/c5/large_display_large_display_WhatsApp_Image_2020-03-05_at_16.22.31.jpeg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/46/26/79/83/6e/large_display_Untitlesssssd.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/2c/ac/07/8c/37/large_display_Capturjjjjjjjje.PNG"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/5c/e7/6c/79/d8/large_display_Captuggggggre.PNG"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/d0/61/80/a7/4a/large_display_WhatsApp_Image_2020-03-05_at_16.22.31.jpeg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/27/b3/b0/70/fe/large_display_WhatsApp_Image_2020-03-05_at_16.20.54.jpeg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/86/ac/41/65/df/large_display_WhatsApp_Image_2020-03-05_at_16.21.04.jpeg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/ff/6b/ab/ad/06/large_display_WhatsApp_Image_2020-03-05_at_16.20.34.jpeg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/11/cf/c3/b0/4d/large_display_WhatsApp_Image_2020-03-05_at_16.21.44.jpeg"

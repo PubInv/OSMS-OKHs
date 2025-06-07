@@ -13,13 +13,6 @@ documentation-language = "en"
 organization = "Western University’s Free Appropriate Sustainability Technology (FAST) Research Group"
 readme = "https://www.appropedia.org/Open_Source_3-D_Printed_ISO_8655_Compliant_Multichannel_Pipette"
 contribution-guide = "https://osf.io/9tn6e/metadata/osf"
-image = [
-  # logo
-  "https://www.appropedia.org/w/images/thumb/4/41/Purplefast.png/75px-Purplefast.png",
-  # product-photo
-  "https://www.appropedia.org/w/images/thumb/a/a7/Multichannelpip.png/300px-Multichannelpip.png",
-  "https://www.appropedia.org/w/images/thumb/d/d4/Buildmultipip.png/700px-Buildmultipip.png"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 publication = "https://ojs.lib.uwo.ca/index.php/openhardware/article/view/17853"
@@ -41,3 +34,24 @@ source = [
      "https://osf.io/9tn6e/files/osfstorage/5fd8fc240694b703f0f35fcd",
      "https://osf.io/9tn6e/files/osfstorage/5fd8fbdc149e7503b8027c91"
 ]
+
+[[image]]
+location = "https://www.appropedia.org/w/images/thumb/4/41/Purplefast.png/75px-Purplefast.png"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://www.appropedia.org/w/images/thumb/a/a7/Multichannelpip.png/300px-Multichannelpip.png"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://www.appropedia.org/w/images/thumb/d/d4/Buildmultipip.png/700px-Buildmultipip.png"

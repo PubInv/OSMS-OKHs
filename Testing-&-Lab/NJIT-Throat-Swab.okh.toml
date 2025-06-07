@@ -12,17 +12,6 @@ function = "PLA-printed throat swab using sterile rayon fabric as collection mat
 documentation-language = "en-US"
 organization = "New Jersey Institute of Technology"
 contribution-guide = "https://3d.nih.gov/entries/3DPX-014187#attribution"
-image = [
-  # logo
-  "https://www.njit.edu/",
-  # product-photo
-  "https://3d.nih.gov/api/submissions/18518/files/input/401362",
-  "https://3d.nih.gov/api/submissions/18518/files/input/401368",
-  "https://3d.nih.gov/api/submissions/18518/files/input/401369",
-  "https://3d.nih.gov/api/submissions/18518/files/input/401376",
-  "https://3d.nih.gov/api/submissions/18518/files/input/401379",
-  "https://3d.nih.gov/api/submissions/18518/files/input/401374"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 publication = "https://news.njit.edu/njit-physics-team-provides-novel-swab-design-free-charge-augment-covid-19-testing"
@@ -41,3 +30,36 @@ source = [
      "https://3d.nih.gov/api/submissions/18518/files/input/401380",
      "https://3d.nih.gov/api/submissions/18518/files/input/567636"
 ]
+
+[[image]]
+location = "https://www.njit.edu/"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/18518/files/input/401362"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/18518/files/input/401368"
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/18518/files/input/401369"
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/18518/files/input/401376"
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/18518/files/input/401379"
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/18518/files/input/401374"

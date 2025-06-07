@@ -16,13 +16,6 @@ documentation-language = [
 organization = "Makers Mexico"
 readme = "https://www.arielrojo.com/en/printable-3d-system-covid19"
 contribution-guide = "https://www.arielrojo.com/en/printable-3d-system-covid19"
-image = [
-  # logo
-  "https://www.arielrojo.com/img/logo-full.svg",
-  # product-photo
-  "https://www.arielrojo.com/img/hero-cv19-1.jpg",
-  "https://www.arielrojo.com/img/gr-maskuno-1.jpg"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
@@ -46,3 +39,24 @@ source = [
 width = 19
 depth = 3.05
 height = 11.1
+
+[[image]]
+location = "https://www.arielrojo.com/img/logo-full.svg"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://www.arielrojo.com/img/hero-cv19-1.jpg"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://www.arielrojo.com/img/gr-maskuno-1.jpg"

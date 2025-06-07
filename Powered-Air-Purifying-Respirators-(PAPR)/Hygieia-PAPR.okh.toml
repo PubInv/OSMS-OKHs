@@ -12,32 +12,6 @@ documentation-language = "en"
 organization = "Hygeia"
 readme = "https://hygieiapapr.wixsite.com/hygieiapapr"
 contribution-guide = "https://hygieiapapr.wixsite.com/hygieiapapr"
-image = [
-  "https://static.wixstatic.com/media/4b2da6_bc5426a35e3a4383ae817adb3c7e8a2e~mv2.jpg/v1/fill/w_837,h_502,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/4b2da6_bc5426a35e3a4383ae817adb3c7e8a2e~mv2.jpg",
-  "https://static.wixstatic.com/media/4b2da6_8bd93cf5d6be43c792c2172b53df12be~mv2.jpg/v1/fill/w_501,h_502,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/4b2da6_8bd93cf5d6be43c792c2172b53df12be~mv2.jpg",
-  "https://static.wixstatic.com/media/4b2da6_48d289514ecf4e8a8c57b3f213c9ff70~mv2.jpg/v1/fill/w_388,h_502,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/4b2da6_48d289514ecf4e8a8c57b3f213c9ff70~mv2.jpg",
-  "https://static.wixstatic.com/media/4b2da6_904ccb76a5494ff5a2e7077dc38da30e~mv2.jpg/v1/fill/w_377,h_502,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/4b2da6_904ccb76a5494ff5a2e7077dc38da30e~mv2.jpg",
-  "https://static.wixstatic.com/media/4b2da6_82faa7c4e7664f2a8e8a4b44052ee287~mv2.jpg/v1/fill/w_650,h_502,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/4b2da6_82faa7c4e7664f2a8e8a4b44052ee287~mv2.jpg",
-  "https://static.wixstatic.com/media/4b2da6_5d09d226ecc24818928d4cf662e1d629~mv2.jpg/v1/fill/w_377,h_502,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/4b2da6_5d09d226ecc24818928d4cf662e1d629~mv2.jpg",
-  "https://static.wixstatic.com/media/4b2da6_faab2dabd62446128c3ee2da7843273d~mv2.jpg/v1/fill/w_708,h_502,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/4b2da6_faab2dabd62446128c3ee2da7843273d~mv2.jpg",
-  "https://static.wixstatic.com/media/4b2da6_51e4ed2241d043a59b2a9d84fa83fee7~mv2.jpg/v1/fill/w_526,h_502,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/4b2da6_51e4ed2241d043a59b2a9d84fa83fee7~mv2.jpg",
-  "https://static.wixstatic.com/media/4b2da6_a8e6184756af44cbb3a9950565d57f3c~mv2.png/v1/fill/w_586,h_322,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/PAPR%20Diagram.png",
-  # Assembly
-  "https://static.wixstatic.com/media/4b2da6_9c4e1ea344aa4b3b927e6680a6864bf1~mv2.jpg/v1/crop/x_0,y_0,w_3723,h_2789/fill/w_267,h_176,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20200412_164837.jpg",
-  "https://static.wixstatic.com/media/4b2da6_2c5d3a799c904f4b815a905dd21c65f4~mv2.jpg/v1/crop/x_786,y_887,w_3246,h_2137/fill/w_290,h_144,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20200412_164806.jpg",
-  "https://static.wixstatic.com/media/4b2da6_bd1a32da2bb64eb3ac4a1c8c8b6092f1~mv2.jpg/v1/crop/x_51,y_513,w_3417,h_2443/fill/w_214,h_135,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20200412_170352.jpg",
-  "https://static.wixstatic.com/media/4b2da6_4b029f65e227422c99aedaee94d5e5b9~mv2.jpg/v1/fill/w_203,h_135,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20200412_170551.jpg",
-  "https://static.wixstatic.com/media/4b2da6_cb3ed5c2643140e380f0fdce70db51ec~mv2.jpg/v1/crop/x_806,y_582,w_3209,h_2329/fill/w_220,h_144,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20200412_171635.jpg",
-  "https://static.wixstatic.com/media/4b2da6_f34dc6362c8c48adb2beb80a06211c3c~mv2.jpg/v1/crop/x_622,y_170,w_3410,h_2713/fill/w_199,h_144,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20200412_172039.jpg",
-  "https://static.wixstatic.com/media/4b2da6_80556a18d3b34c2d8a7524bcd5f17e1b~mv2.jpg/v1/crop/x_652,y_0,w_2964,h_2715/fill/w_121,h_102,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20200412_172352.jpg",
-  "https://static.wixstatic.com/media/4b2da6_6d6b4d143b3c4bad88a220a2c65a1f19~mv2.jpg/v1/crop/x_392,y_0,w_3640,h_3024/fill/w_368,h_298,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/00100lrPORTRAIT_00100_BURST2020041220193.jpg",
-  "https://static.wixstatic.com/media/4b2da6_d2308df4070e4fa78a3f36174a78f551~mv2.jpg/v1/fill/w_509,h_155,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20200410_135816_edited.jpg",
-  "https://static.wixstatic.com/media/4b2da6_5e07717979144cf89958cf1d2b9ae56a~mv2.jpg/v1/crop/x_58,y_456,w_1610,h_1346/fill/w_348,h_289,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/power%20box%20wiring.jpg",
-  "https://static.wixstatic.com/media/4b2da6_c447db7024be4e5095a1dcb138222f02~mv2.jpg/v1/fill/w_456,h_502,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/4b2da6_c447db7024be4e5095a1dcb138222f02~mv2.jpg",
-  "https://static.wixstatic.com/media/4b2da6_850f8a8ed1ee45488adad6f4f0ebae7e~mv2.jpg/v1/fill/w_670,h_485,al_c,q_80,enc_auto/4b2da6_850f8a8ed1ee45488adad6f4f0ebae7e~mv2.jpg",
-  "https://static.wixstatic.com/media/4b2da6_833a611ca9764e3aa24e14e6c774069e~mv2.jpg/v1/fill/w_452,h_502,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/4b2da6_833a611ca9764e3aa24e14e6c774069e~mv2.jpg",
-  "https://static.wixstatic.com/media/4b2da6_9024d6b6ea5a4589ad8ff4c0e9241705~mv2.jpg/v1/fill/w_762,h_430,al_c,q_80,enc_auto/4b2da6_9024d6b6ea5a4589ad8ff4c0e9241705~mv2.jpg"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A62B 7/10"
@@ -50,3 +24,114 @@ source = [
      "https://www.thingiverse.com/download:8014559"
  ]
      
+
+[[image]]
+location = "https://static.wixstatic.com/media/4b2da6_bc5426a35e3a4383ae817adb3c7e8a2e~mv2.jpg/v1/fill/w_837,h_502,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/4b2da6_bc5426a35e3a4383ae817adb3c7e8a2e~mv2.jpg"
+
+[[image]]
+location = "https://static.wixstatic.com/media/4b2da6_8bd93cf5d6be43c792c2172b53df12be~mv2.jpg/v1/fill/w_501,h_502,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/4b2da6_8bd93cf5d6be43c792c2172b53df12be~mv2.jpg"
+
+[[image]]
+location = "https://static.wixstatic.com/media/4b2da6_48d289514ecf4e8a8c57b3f213c9ff70~mv2.jpg/v1/fill/w_388,h_502,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/4b2da6_48d289514ecf4e8a8c57b3f213c9ff70~mv2.jpg"
+
+[[image]]
+location = "https://static.wixstatic.com/media/4b2da6_904ccb76a5494ff5a2e7077dc38da30e~mv2.jpg/v1/fill/w_377,h_502,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/4b2da6_904ccb76a5494ff5a2e7077dc38da30e~mv2.jpg"
+
+[[image]]
+location = "https://static.wixstatic.com/media/4b2da6_82faa7c4e7664f2a8e8a4b44052ee287~mv2.jpg/v1/fill/w_650,h_502,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/4b2da6_82faa7c4e7664f2a8e8a4b44052ee287~mv2.jpg"
+
+[[image]]
+location = "https://static.wixstatic.com/media/4b2da6_5d09d226ecc24818928d4cf662e1d629~mv2.jpg/v1/fill/w_377,h_502,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/4b2da6_5d09d226ecc24818928d4cf662e1d629~mv2.jpg"
+
+[[image]]
+location = "https://static.wixstatic.com/media/4b2da6_faab2dabd62446128c3ee2da7843273d~mv2.jpg/v1/fill/w_708,h_502,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/4b2da6_faab2dabd62446128c3ee2da7843273d~mv2.jpg"
+
+[[image]]
+location = "https://static.wixstatic.com/media/4b2da6_51e4ed2241d043a59b2a9d84fa83fee7~mv2.jpg/v1/fill/w_526,h_502,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/4b2da6_51e4ed2241d043a59b2a9d84fa83fee7~mv2.jpg"
+
+[[image]]
+location = "https://static.wixstatic.com/media/4b2da6_a8e6184756af44cbb3a9950565d57f3c~mv2.png/v1/fill/w_586,h_322,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/PAPR%20Diagram.png"
+
+[[image]]
+location = "https://static.wixstatic.com/media/4b2da6_9c4e1ea344aa4b3b927e6680a6864bf1~mv2.jpg/v1/crop/x_0,y_0,w_3723,h_2789/fill/w_267,h_176,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20200412_164837.jpg"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://static.wixstatic.com/media/4b2da6_2c5d3a799c904f4b815a905dd21c65f4~mv2.jpg/v1/crop/x_786,y_887,w_3246,h_2137/fill/w_290,h_144,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20200412_164806.jpg"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://static.wixstatic.com/media/4b2da6_bd1a32da2bb64eb3ac4a1c8c8b6092f1~mv2.jpg/v1/crop/x_51,y_513,w_3417,h_2443/fill/w_214,h_135,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20200412_170352.jpg"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://static.wixstatic.com/media/4b2da6_4b029f65e227422c99aedaee94d5e5b9~mv2.jpg/v1/fill/w_203,h_135,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20200412_170551.jpg"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://static.wixstatic.com/media/4b2da6_cb3ed5c2643140e380f0fdce70db51ec~mv2.jpg/v1/crop/x_806,y_582,w_3209,h_2329/fill/w_220,h_144,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20200412_171635.jpg"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://static.wixstatic.com/media/4b2da6_f34dc6362c8c48adb2beb80a06211c3c~mv2.jpg/v1/crop/x_622,y_170,w_3410,h_2713/fill/w_199,h_144,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20200412_172039.jpg"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://static.wixstatic.com/media/4b2da6_80556a18d3b34c2d8a7524bcd5f17e1b~mv2.jpg/v1/crop/x_652,y_0,w_2964,h_2715/fill/w_121,h_102,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20200412_172352.jpg"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://static.wixstatic.com/media/4b2da6_6d6b4d143b3c4bad88a220a2c65a1f19~mv2.jpg/v1/crop/x_392,y_0,w_3640,h_3024/fill/w_368,h_298,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/00100lrPORTRAIT_00100_BURST2020041220193.jpg"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://static.wixstatic.com/media/4b2da6_d2308df4070e4fa78a3f36174a78f551~mv2.jpg/v1/fill/w_509,h_155,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_20200410_135816_edited.jpg"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://static.wixstatic.com/media/4b2da6_5e07717979144cf89958cf1d2b9ae56a~mv2.jpg/v1/crop/x_58,y_456,w_1610,h_1346/fill/w_348,h_289,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/power%20box%20wiring.jpg"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://static.wixstatic.com/media/4b2da6_c447db7024be4e5095a1dcb138222f02~mv2.jpg/v1/fill/w_456,h_502,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/4b2da6_c447db7024be4e5095a1dcb138222f02~mv2.jpg"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://static.wixstatic.com/media/4b2da6_850f8a8ed1ee45488adad6f4f0ebae7e~mv2.jpg/v1/fill/w_670,h_485,al_c,q_80,enc_auto/4b2da6_850f8a8ed1ee45488adad6f4f0ebae7e~mv2.jpg"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://static.wixstatic.com/media/4b2da6_833a611ca9764e3aa24e14e6c774069e~mv2.jpg/v1/fill/w_452,h_502,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/4b2da6_833a611ca9764e3aa24e14e6c774069e~mv2.jpg"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://static.wixstatic.com/media/4b2da6_9024d6b6ea5a4589ad8ff4c0e9241705~mv2.jpg/v1/fill/w_762,h_430,al_c,q_80,enc_auto/4b2da6_9024d6b6ea5a4589ad8ff4c0e9241705~mv2.jpg"
+tags = [
+  "assembly",
+]

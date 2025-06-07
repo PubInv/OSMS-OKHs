@@ -12,26 +12,6 @@ documentation-language = "en"
 organization = "Craft Passion"
 readme = "https://www.craftpassion.com/windowed-face-mask-sewing-pattern/"
 contribution-guide = "https://www.craftpassion.com/windowed-face-mask-sewing-pattern/#mv-creation-71-jtr"
-image = [
-  # logo
-  "https://www.craftpassion.com/wp-content/uploads/cp-logo@2x.png.webp",
-  # product-photo
-  "https://www.craftpassion.com/wp-content/uploads/2020/05/face-mask-vinyl-window.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/2020/05/face-mask-lip-reading.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/2020/05/windowed-FM1.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/2020/05/windowed-FM2.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/2020/05/windowed-FM3.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/2020/05/windowed-FM4.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/2020/05/windowed-FM5.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/2020/05/windowed-FM6.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/2020/05/windowed-FM7.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/2020/05/windowed-FM8.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/2020/05/windowed-FM9.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/2020/05/windowed-FM10.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/2020/05/windowed-FM11.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/2020/05/windowed-FM12-300x225.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/2020/05/windowed-FM13-300x225.jpg.webp"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
@@ -39,3 +19,63 @@ cpc-patent-class = "A41D 13/11"
 bom = "https://www.craftpassion.com/windowed-face-mask-sewing-pattern/#mv-creation-71-jtr"
 manufacturing-instructions = "https://www.craftpassion.com/wp-content/uploads/2020/06/windowed-face-mask-pattern-instructions.pdf"
 source = "https://www.craftpassion.com/wp-content/uploads/2020/05/windowed-face-mask-pattern.pdf"
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/cp-logo@2x.png.webp"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/2020/05/face-mask-vinyl-window.jpg.webp"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/2020/05/face-mask-lip-reading.jpg.webp"
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/2020/05/windowed-FM1.jpg.webp"
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/2020/05/windowed-FM2.jpg.webp"
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/2020/05/windowed-FM3.jpg.webp"
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/2020/05/windowed-FM4.jpg.webp"
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/2020/05/windowed-FM5.jpg.webp"
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/2020/05/windowed-FM6.jpg.webp"
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/2020/05/windowed-FM7.jpg.webp"
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/2020/05/windowed-FM8.jpg.webp"
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/2020/05/windowed-FM9.jpg.webp"
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/2020/05/windowed-FM10.jpg.webp"
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/2020/05/windowed-FM11.jpg.webp"
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/2020/05/windowed-FM12-300x225.jpg.webp"
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/2020/05/windowed-FM13-300x225.jpg.webp"

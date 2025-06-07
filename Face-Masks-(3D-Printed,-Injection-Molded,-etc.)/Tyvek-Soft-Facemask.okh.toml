@@ -12,16 +12,6 @@ function = "Tyvek mask body with 3DP filter attachments."
 documentation-language = "en-US"
 organization = "National Institute of Allergy and Infectious Diseases"
 readme = "https://3d.nih.gov/entries/download/13519/2"
-image = [
-  # logo
-  "https://3d.nih.gov/images/niaid-logo-white.svg",
-  # product-photo
-  "https://3d.nih.gov/api/submissions/17480/files/input/387118",
-  "https://3d.nih.gov/api/submissions/17480/files/input/387122",
-  "https://3d.nih.gov/api/submissions/17480/files/input/387128",
-  "https://3d.nih.gov/api/submissions/17480/files/input/387133",
-  "https://3d.nih.gov/api/submissions/17480/files/input/387123"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A41D 13/11"
@@ -40,3 +30,33 @@ source = [
      "https://www.thingiverse.com/download:8109930",
      "https://3d.nih.gov/entries/3DPX-013519"
 ]
+
+[[image]]
+location = "https://3d.nih.gov/images/niaid-logo-white.svg"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/17480/files/input/387118"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/17480/files/input/387122"
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/17480/files/input/387128"
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/17480/files/input/387133"
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/17480/files/input/387123"

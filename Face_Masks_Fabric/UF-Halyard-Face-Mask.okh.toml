@@ -12,15 +12,6 @@ function = "Two mask styles created and tested by the UF Anesthesiology Departme
 documentation-language = "en-US"
 organization = "University of Florida Health"
 readme = "https://anest.ufl.edu/clinical-divisions/mask-alternative/?fbclid=IwAR3hj7X3IEGPtUoVIgWxOPbYTyR04gDtl2sQLGWwfLWgJm_zg5z7Yf7O6tU"
-image = [
-  # logo
-  "https://anest.ufl.edu/clinical-divisions/mask-alternative/?fbclid=IwAR3hj7X3IEGPtUoVIgWxOPbYTyR04gDtl2sQLGWwfLWgJm_zg5z7Yf7O6tU",
-  "https://anest.ufl.edu/files/2020/04/masks-thanks-02-1536x513.jpg",
-  # product-photo
-  "https://anest.ufl.edu/files/2020/03/mask-prototypes-680x461.jpg",
-  "https://anest.ufl.edu/wordpress/files/2020/03/prototype1-processed.jpg",
-  "https://anest.ufl.edu/wordpress/files/2020/03/prototype2-processed.jpg"
-]
 technology-readiness-level = "OTRL-4"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A41D 13/11"
@@ -46,3 +37,30 @@ source = [
 width = 177.8
 depth = 101.6
 height = 101.6
+
+[[image]]
+location = "https://anest.ufl.edu/clinical-divisions/mask-alternative/?fbclid=IwAR3hj7X3IEGPtUoVIgWxOPbYTyR04gDtl2sQLGWwfLWgJm_zg5z7Yf7O6tU"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://anest.ufl.edu/files/2020/04/masks-thanks-02-1536x513.jpg"
+
+[[image]]
+location = "https://anest.ufl.edu/files/2020/03/mask-prototypes-680x461.jpg"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://anest.ufl.edu/wordpress/files/2020/03/prototype1-processed.jpg"
+
+[[image]]
+location = "https://anest.ufl.edu/wordpress/files/2020/03/prototype2-processed.jpg"

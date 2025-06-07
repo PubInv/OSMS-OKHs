@@ -16,14 +16,6 @@ organization = "Bauhaus-Universität Weimar"
 release = "https://github.com/bauhausformandfunctionlab/covid19/commit/0241eb7927b8df854ed29e7c7354427d652aa9a9"
 readme = "https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/readme.md"
 contribution-guide = "https://github.com/bauhausformandfunctionlab/covid19/graphs/contributors"
-image = [
-  # logo
-  "https://avatars.githubusercontent.com/u/62937095?v=4",
-  # product-photo
-  "https://github.com/bauhausformandfunctionlab/covid19/raw/master/BauhausUniVisor/buv-3.jpg",
-  "https://github.com/bauhausformandfunctionlab/covid19/raw/master/BauhausUniVisor/buv-5.jpg",
-  "https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/BauhausUniVisor_Lasercut.jpg"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A41D 13/11"
@@ -47,3 +39,27 @@ source = [
 # width = 400
 # depth = 350
 # height = 150
+
+[[image]]
+location = "https://avatars.githubusercontent.com/u/62937095?v=4"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://github.com/bauhausformandfunctionlab/covid19/raw/master/BauhausUniVisor/buv-3.jpg"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://github.com/bauhausformandfunctionlab/covid19/raw/master/BauhausUniVisor/buv-5.jpg"
+
+[[image]]
+location = "https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/BauhausUniVisor_Lasercut.jpg"
