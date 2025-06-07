@@ -36,4 +36,3 @@ width = 304.8
 height = 355.6
 # Depth based on the thickness of the shield material, not the completed shield.
 depth = 0.1778
-
