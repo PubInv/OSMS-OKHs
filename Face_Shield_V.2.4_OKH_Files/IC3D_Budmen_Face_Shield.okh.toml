@@ -20,16 +20,6 @@ organization = [
 # In the case of no releases, can link to the latest commit.
 release = "https://3d.nih.gov/entries/13309/2"
 contribution-guide = "https://3d.nih.gov/entries/3dpx-013309#attribution"
-image = [
-  # logo
-  "https://www.ic3dprinters.com/ic3d/wp-content/uploads/2023/07/3DPRINTING-logo-white400x144.png",
-  # product-photo
-  "https://3d.nih.gov/api/submissions/17446/files/input/386873",
-  "https://3d.nih.gov/api/submissions/17446/files/input/386878",
-  "https://3d.nih.gov/api/submissions/17446/files/input/386884",
-  "https://3d.nih.gov/api/submissions/17446/files/input/386886",
-  "https://3d.nih.gov/api/submissions/17446/files/input/386875"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 attestation = "https://certification.oshwa.org/cl000001.html"
@@ -52,3 +42,33 @@ width = 228.6
 height = 304.8
 # Could not find final constructed depth. Below is a rough estimate/guess based on build plate note.
 depth = 140
+
+[[image]]
+location = "https://www.ic3dprinters.com/ic3d/wp-content/uploads/2023/07/3DPRINTING-logo-white400x144.png"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/17446/files/input/386873"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/17446/files/input/386878"
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/17446/files/input/386884"
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/17446/files/input/386886"
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/17446/files/input/386875"

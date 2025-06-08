@@ -12,30 +12,71 @@ function = "It has no open sides. There is an adjustable slack that goes across 
 documentation-language = "en"
 organization = "Your Design Medical"
 readme = "https://yourdesignmedical.com/blogs/making-a-safe-intubation-space-for-covid19/creating-a-biohazard-space"
-image = [
-  # logo
-  "https://yourdesignmedical.com/cdn/shop/files/YOURDESIGN_v2019_200x.png?v=1614315764",
-  # product-photo
-  "https://cdn.shopify.com/s/files/1/1585/1421/files/20200328_135418_large.jpg?v=1585418711",
-  "https://cdn.shopify.com/s/files/1/1585/1421/files/20200323_154336_2_large.jpg?v=1585002332",
-  "https://cdn.shopify.com/s/files/1/1585/1421/files/20200323_153849_large.jpg?v=1585002423",
-  "https://cdn.shopify.com/s/files/1/1585/1421/files/20200323_204922_large.jpg?v=1585011229",
-  "https://cdn.shopify.com/s/files/1/1585/1421/files/20200323_204935_large.jpg?v=1585011261",
-  "https://cdn.shopify.com/s/files/1/1585/1421/files/20200325_151241_large.jpg?v=1585350384",
-  "https://cdn.shopify.com/s/files/1/1585/1421/files/20200325_151904_large.jpg?v=1585350423",
-  "https://cdn.shopify.com/s/files/1/1585/1421/files/20200325_151911_large.jpg?v=1585350447",
-  "https://cdn.shopify.com/s/files/1/1585/1421/files/20200328_132915_large.jpg?v=1585418692",
-  "https://cdn.shopify.com/s/files/1/1585/1421/files/20200328_135418_large.jpg?v=1585418711",
-  "https://cdn.shopify.com/s/files/1/1585/1421/files/20200328_135347_large.jpg?v=1585418734",
-  "https://cdn.shopify.com/s/files/1/1585/1421/files/20200328_135350_large.jpg?v=1585418750",
-  "https://cdn.shopify.com/s/files/1/1585/1421/files/20200328_135221_large.jpg?v=1585418828",
-  "https://cdn.shopify.com/s/files/1/1585/1421/files/IMG_20200326_072327_011_large.jpg?v=1585668762",
-  "https://cdn.shopify.com/s/files/1/1585/1421/files/Photo_from_Justin_3_large.jpg?v=1585668818",
-  "https://cdn.shopify.com/s/files/1/1585/1421/files/air_filter_3_part_large.JPG?v=1585012574"
-]
 technology-readiness-level = "OTRL-2"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "B65D 83/75"
 bom = "https://vimeo.com/400428231"
 manufacturing-instructions = "https://vimeo.com/400428231"
 
+[[image]]
+location = "https://yourdesignmedical.com/cdn/shop/files/YOURDESIGN_v2019_200x.png?v=1614315764"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://cdn.shopify.com/s/files/1/1585/1421/files/20200328_135418_large.jpg?v=1585418711"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://cdn.shopify.com/s/files/1/1585/1421/files/20200323_154336_2_large.jpg?v=1585002332"
+
+[[image]]
+location = "https://cdn.shopify.com/s/files/1/1585/1421/files/20200323_153849_large.jpg?v=1585002423"
+
+[[image]]
+location = "https://cdn.shopify.com/s/files/1/1585/1421/files/20200323_204922_large.jpg?v=1585011229"
+
+[[image]]
+location = "https://cdn.shopify.com/s/files/1/1585/1421/files/20200323_204935_large.jpg?v=1585011261"
+
+[[image]]
+location = "https://cdn.shopify.com/s/files/1/1585/1421/files/20200325_151241_large.jpg?v=1585350384"
+
+[[image]]
+location = "https://cdn.shopify.com/s/files/1/1585/1421/files/20200325_151904_large.jpg?v=1585350423"
+
+[[image]]
+location = "https://cdn.shopify.com/s/files/1/1585/1421/files/20200325_151911_large.jpg?v=1585350447"
+
+[[image]]
+location = "https://cdn.shopify.com/s/files/1/1585/1421/files/20200328_132915_large.jpg?v=1585418692"
+
+[[image]]
+location = "https://cdn.shopify.com/s/files/1/1585/1421/files/20200328_135418_large.jpg?v=1585418711"
+
+[[image]]
+location = "https://cdn.shopify.com/s/files/1/1585/1421/files/20200328_135347_large.jpg?v=1585418734"
+
+[[image]]
+location = "https://cdn.shopify.com/s/files/1/1585/1421/files/20200328_135350_large.jpg?v=1585418750"
+
+[[image]]
+location = "https://cdn.shopify.com/s/files/1/1585/1421/files/20200328_135221_large.jpg?v=1585418828"
+
+[[image]]
+location = "https://cdn.shopify.com/s/files/1/1585/1421/files/IMG_20200326_072327_011_large.jpg?v=1585668762"
+
+[[image]]
+location = "https://cdn.shopify.com/s/files/1/1585/1421/files/Photo_from_Justin_3_large.jpg?v=1585668818"
+
+[[image]]
+location = "https://cdn.shopify.com/s/files/1/1585/1421/files/air_filter_3_part_large.JPG?v=1585012574"

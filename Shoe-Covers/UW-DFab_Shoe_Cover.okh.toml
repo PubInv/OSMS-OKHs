@@ -12,13 +12,6 @@ function = "DXF and PDF files for mass production of a disposable SMS or polypro
 documentation-language = "en-US"
 organization = "National Institute of Allergy and Infectious Diseases"
 readme = "https://3d.nih.gov/entries/download/14692/2"
-image = [
-  # logo
-  "https://3d.nih.gov/images/niaid-logo-white.svg",
-  # product-photo
-  "https://3d.nih.gov/api/submissions/19236/files/input/416659",
-  "https://3d.nih.gov/api/submissions/19236/files/input/416655"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A43B 3/00"
@@ -31,3 +24,24 @@ source = [
      "https://3d.nih.gov/api/submissions/19236/files/input/416656",
      "https://3d.nih.gov/api/submissions/19236/files/input/416658"
 ]
+
+[[image]]
+location = "https://3d.nih.gov/images/niaid-logo-white.svg"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/19236/files/input/416659"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/19236/files/input/416655"

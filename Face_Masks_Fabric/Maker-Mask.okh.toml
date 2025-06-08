@@ -13,14 +13,6 @@ documentation-language = "en"
 organization = "Helpful Engineering"
 readme = "https://makermask.org/masks/surge/"
 contribution-guide = "https://makermask.org/about-us/"
-image = [
-  # logo
-  "https://makermask.org/wp-content/uploads/2020/06/erin_surge_mmlabeled.png",
-  # product-photo
-  "https://makermask.org/wp-content/uploads/2020/03/cropped-targetmask.png",
-  "https://makermask.org/wp-content/uploads/2020/05/surge-300x300-1.png",
-  "https://makermask.org/wp-content/uploads/2020/03/imagez-300x223.png"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 publication = [
@@ -54,3 +46,27 @@ width = 203.2
 # Depth is estimated, not exact.
 depth = 6.35
 height = 88.9
+
+[[image]]
+location = "https://makermask.org/wp-content/uploads/2020/06/erin_surge_mmlabeled.png"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://makermask.org/wp-content/uploads/2020/03/cropped-targetmask.png"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://makermask.org/wp-content/uploads/2020/05/surge-300x300-1.png"
+
+[[image]]
+location = "https://makermask.org/wp-content/uploads/2020/03/imagez-300x223.png"

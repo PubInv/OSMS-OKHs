@@ -11,10 +11,6 @@ function = "Laser-cut design with three animal character options for visor decor
 documentation-language = "es"
 organization = "makerwasi"
 release = "https://drive.google.com/file/d/1BfZf4TOzawkO70TWgVlNIPTfqsXnYfB6/view?usp=sharing"
-image = [
-  # logo
-  "https://lh3.googleusercontent.com/a-/ALV-UjXQBdkDfy7VMkJ7XubvZXxs8UVrJlBYRuo70PeESkev1QFXNKg=s80-p-k-rw-no"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
@@ -41,3 +37,12 @@ width = 260
 height = 190
 # Depth not provided. Below is a likely estimate.
 depth = 127
+
+[[image]]
+location = "https://lh3.googleusercontent.com/a-/ALV-UjXQBdkDfy7VMkJ7XubvZXxs8UVrJlBYRuo70PeESkev1QFXNKg=s80-p-k-rw-no"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]

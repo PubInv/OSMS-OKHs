@@ -12,30 +12,6 @@ function = "Features non-woven polypropylene (NWPP) and heat-sealing, requiring 
 documentation-language = "en"
 organization = "MakerMask"
 readme = "https://makermask.org/masks/expression-window-mask/?fbclid=IwAR18d4I7Sv80Yk5ldbYUr5OlylgtgpdDULDQQoGdFOn7wya0zztDRhmbgQk"
-image = [
-  # logo
-  "https://makermask.org/wp-content/uploads/2020/06/erin_surge_mmlabeled.png",
-  "https://makermask.org/wp-content/uploads/2020/03/cropped-targetmask.png",
-  # product-photo
-  "https://makermask.org/wp-content/uploads/2020/08/Slide6-768x576.png",
-  "https://makermask.org/wp-content/uploads/2020/08/Slide2.png",
-  "https://makermask.org/wp-content/uploads/2020/08/Slide3.png",
-  "https://makermask.org/wp-content/uploads/2020/08/Slide4.png",
-  "https://makermask.org/wp-content/uploads/2020/08/Slide5.png",
-  "https://makermask.org/wp-content/uploads/2020/08/Slide6.png",
-  "https://makermask.org/wp-content/uploads/2020/08/Slide7.png",
-  "https://makermask.org/wp-content/uploads/2020/08/Slide8.png",
-  "https://makermask.org/wp-content/uploads/2020/08/Slide9.png",
-  "https://makermask.org/wp-content/uploads/2020/08/Slide10.png",
-  "https://makermask.org/wp-content/uploads/2020/08/Slide11.png",
-  "https://makermask.org/wp-content/uploads/2020/08/Slide12.png",
-  "https://makermask.org/wp-content/uploads/2020/08/Slides_For_Web_Images.png",
-  "https://makermask.org/wp-content/uploads/2020/08/Slide14.png",
-  "https://makermask.org/wp-content/uploads/2020/08/Slide13.png",
-  "https://makermask.org/wp-content/uploads/2020/08/20200807_080843-768x576.jpg",
-  "https://makermask.org/wp-content/uploads/2020/08/WindowMask_CleaningDisinfection-1024x515.png",
-  "https://makermask.org/wp-content/uploads/2020/08/glowmask-1024x768.png"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A41D 13/11"
@@ -56,3 +32,75 @@ source = "https://makermask.org/wp-content/uploads/2020/08/MM_Expression_Beta_v0
 width = 228.6
 depth = 76.2
 height = 152.4
+
+[[image]]
+location = "https://makermask.org/wp-content/uploads/2020/06/erin_surge_mmlabeled.png"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://makermask.org/wp-content/uploads/2020/03/cropped-targetmask.png"
+
+[[image]]
+location = "https://makermask.org/wp-content/uploads/2020/08/Slide6-768x576.png"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://makermask.org/wp-content/uploads/2020/08/Slide2.png"
+
+[[image]]
+location = "https://makermask.org/wp-content/uploads/2020/08/Slide3.png"
+
+[[image]]
+location = "https://makermask.org/wp-content/uploads/2020/08/Slide4.png"
+
+[[image]]
+location = "https://makermask.org/wp-content/uploads/2020/08/Slide5.png"
+
+[[image]]
+location = "https://makermask.org/wp-content/uploads/2020/08/Slide6.png"
+
+[[image]]
+location = "https://makermask.org/wp-content/uploads/2020/08/Slide7.png"
+
+[[image]]
+location = "https://makermask.org/wp-content/uploads/2020/08/Slide8.png"
+
+[[image]]
+location = "https://makermask.org/wp-content/uploads/2020/08/Slide9.png"
+
+[[image]]
+location = "https://makermask.org/wp-content/uploads/2020/08/Slide10.png"
+
+[[image]]
+location = "https://makermask.org/wp-content/uploads/2020/08/Slide11.png"
+
+[[image]]
+location = "https://makermask.org/wp-content/uploads/2020/08/Slide12.png"
+
+[[image]]
+location = "https://makermask.org/wp-content/uploads/2020/08/Slides_For_Web_Images.png"
+
+[[image]]
+location = "https://makermask.org/wp-content/uploads/2020/08/Slide14.png"
+
+[[image]]
+location = "https://makermask.org/wp-content/uploads/2020/08/Slide13.png"
+
+[[image]]
+location = "https://makermask.org/wp-content/uploads/2020/08/20200807_080843-768x576.jpg"
+
+[[image]]
+location = "https://makermask.org/wp-content/uploads/2020/08/WindowMask_CleaningDisinfection-1024x515.png"
+
+[[image]]
+location = "https://makermask.org/wp-content/uploads/2020/08/glowmask-1024x768.png"

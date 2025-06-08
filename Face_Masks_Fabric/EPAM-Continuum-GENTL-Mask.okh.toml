@@ -17,18 +17,6 @@ readme = [
    "https://epamsolutions.a.bigcontent.io/v1/static/GENTL_Mask_Presentation",
    "https://drive.google.com/drive/folders/1KuoJeEBToZh5dw8I54Ip9GklcJ5swzzV"
 ]
-image = [
-  # logo
-  "https://classic.cdn.media.amplience.net/i/epammarketplace/GENTL_Logo_Final?w=96&v=596798141487",
-  # product-photo
-  "https://classic.cdn.media.amplience.net/i/epammarketplace/GENTL_Mask_4_resize?fmt=webp&v=596798141487",
-  "https://classic.cdn.media.amplience.net/i/epammarketplace/GENTL_Mask_3_resize?fmt=webp&v=596798141487",
-  "https://classic.cdn.media.amplience.net/i/epammarketplace/GENTL_Mask_2_resize?fmt=webp&v=596798141487",
-  "https://classic.cdn.media.amplience.net/i/epammarketplace/GENTL_Mask_image5_resize?fmt=webp&v=596798141487",
-  "https://classic.cdn.media.amplience.net/i/epammarketplace/Gentl_Mask_image4_resize?fmt=webp&v=596798141487",
-  "https://classic.cdn.media.amplience.net/i/epammarketplace/GENTL_Mask_image6_resize?fmt=webp&v=596798141487",
-  "https://classic.cdn.media.amplience.net/v/epammarketplace/GENTL_Mask_RE_RELEASE_YOUTUBE?fmt=webp&v=596798141487"
-]
 technology-readiness-level = "OTRL-4"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
@@ -49,3 +37,39 @@ source = "https://drive.google.com/file/d/1YPLij2Gg9vaY2MDloNByDtisHxvED6bA/view
 width = 293.4
 depth = 114.3
 height = 114.3
+
+[[image]]
+location = "https://classic.cdn.media.amplience.net/i/epammarketplace/GENTL_Logo_Final?w=96&v=596798141487"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://classic.cdn.media.amplience.net/i/epammarketplace/GENTL_Mask_4_resize?fmt=webp&v=596798141487"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://classic.cdn.media.amplience.net/i/epammarketplace/GENTL_Mask_3_resize?fmt=webp&v=596798141487"
+
+[[image]]
+location = "https://classic.cdn.media.amplience.net/i/epammarketplace/GENTL_Mask_2_resize?fmt=webp&v=596798141487"
+
+[[image]]
+location = "https://classic.cdn.media.amplience.net/i/epammarketplace/GENTL_Mask_image5_resize?fmt=webp&v=596798141487"
+
+[[image]]
+location = "https://classic.cdn.media.amplience.net/i/epammarketplace/Gentl_Mask_image4_resize?fmt=webp&v=596798141487"
+
+[[image]]
+location = "https://classic.cdn.media.amplience.net/i/epammarketplace/GENTL_Mask_image6_resize?fmt=webp&v=596798141487"
+
+[[image]]
+location = "https://classic.cdn.media.amplience.net/v/epammarketplace/GENTL_Mask_RE_RELEASE_YOUTUBE?fmt=webp&v=596798141487"

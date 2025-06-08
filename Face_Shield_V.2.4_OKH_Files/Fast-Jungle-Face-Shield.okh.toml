@@ -16,16 +16,6 @@ function = "A face shield design requiring little time and materials while still
 documentation-language = "en-US"
 organization = "Digital Naturalism Laboratories"
 contribution-guide = "https://www.dinalab.net/contact/"
-image = [
-  # logo
-  "https://www.dinalab.net/wp-content/uploads/2019/03/cropped-Digital-Naturalism-Logo_Official_2015-HIGH-resWHITE-1.png",
-  # product-photo
-  "https://www.dinalab.net/wp-content/uploads/2020/04/image.png",
-  "https://www.dinalab.net/wp-content/uploads/2020/04/image-1-768x511.png",
-  "https://www.dinalab.net/wp-content/uploads/2020/04/image-3.png",
-  "https://www.dinalab.net/wp-content/uploads/2020/04/image-4-768x488.png",
-  "https://www.dinalab.net/wp-content/uploads/2020/04/image-2.png"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
@@ -44,3 +34,33 @@ width = 558.8
 height = 254
 # Depth is a rough guess based on 3-liter bottle dimensions.
 depth = 63.5
+
+[[image]]
+location = "https://www.dinalab.net/wp-content/uploads/2019/03/cropped-Digital-Naturalism-Logo_Official_2015-HIGH-resWHITE-1.png"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://www.dinalab.net/wp-content/uploads/2020/04/image.png"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://www.dinalab.net/wp-content/uploads/2020/04/image-1-768x511.png"
+
+[[image]]
+location = "https://www.dinalab.net/wp-content/uploads/2020/04/image-3.png"
+
+[[image]]
+location = "https://www.dinalab.net/wp-content/uploads/2020/04/image-4-768x488.png"
+
+[[image]]
+location = "https://www.dinalab.net/wp-content/uploads/2020/04/image-2.png"

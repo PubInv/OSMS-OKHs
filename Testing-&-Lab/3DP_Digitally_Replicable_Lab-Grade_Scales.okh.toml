@@ -13,28 +13,6 @@ documentation-language = "en-US"
 organization = "Michigan Tech's Open Sustainability Technology Lab"
 readme = "https://osf.io/me9a8/files/osfstorage/5e8f38e0430166024ca067c8"
 contribution-guide = "https://osf.io/me9a8/metadata/"
-image = [
-  # logo
-  "https://www.appropedia.org/w/images/thumb/c/c2/Sunhusky.png/79px-Sunhusky.png",
-  # product-photo
-  "https://www.appropedia.org/w/images/thumb/c/cc/Oscale.png/300px-Oscale.png",
-  "https://www.appropedia.org/w/images/thumb/8/82/Balance_Breadboard_PCBs.jpg/300px-Balance_Breadboard_PCBs.jpg",
-  "https://www.appropedia.org/w/images/thumb/8/8d/Balance_Breadboard_No_PCBs.jpg/300px-Balance_Breadboard_No_PCBs.jpg",
-  "https://pub.mdpi-res.com/instruments/instruments-04-00018/article_deploy/html/images/instruments-04-00018-ag-550.jpg?1593696168",
-  "https://www.mdpi.com/instruments/instruments-04-00018/article_deploy/html/images/instruments-04-00018-g001-550.jpg",
-  "https://www.mdpi.com/instruments/instruments-04-00018/article_deploy/html/images/instruments-04-00018-g002-550.jpg",
-  "https://www.mdpi.com/instruments/instruments-04-00018/article_deploy/html/images/instruments-04-00018-g003-550.jpg",
-  "https://www.mdpi.com/instruments/instruments-04-00018/article_deploy/html/images/instruments-04-00018-g004-550.jpg",
-  "https://www.mdpi.com/instruments/instruments-04-00018/article_deploy/html/images/instruments-04-00018-g005-550.jpg",
-  "https://www.mdpi.com/instruments/instruments-04-00018/article_deploy/html/images/instruments-04-00018-g006-550.jpg",
-  "https://www.mdpi.com/instruments/instruments-04-00018/article_deploy/html/images/instruments-04-00018-g007-550.jpg",
-  "https://www.mdpi.com/instruments/instruments-04-00018/article_deploy/html/images/instruments-04-00018-g008-550.jpg",
-  "https://www.mdpi.com/instruments/instruments-04-00018/article_deploy/html/images/instruments-04-00018-g009-550.jpg",
-  "https://www.mdpi.com/instruments/instruments-04-00018/article_deploy/html/images/instruments-04-00018-g010-550.jpg",
-  "https://www.mdpi.com/instruments/instruments-04-00018/article_deploy/html/images/instruments-04-00018-g011-550.jpg",
-  "https://www.mdpi.com/instruments/instruments-04-00018/article_deploy/html/images/instruments-04-00018-g012-550.jpg",
-  "https://www.mdpi.com/instruments/instruments-04-00018/article_deploy/html/images/instruments-04-00018-g013-550.jpg"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 publication = "https://www.mdpi.com/2410-390X/4/3/18"
@@ -47,3 +25,69 @@ source = [
      "https://files.ca-1.osf.io/v1/resources/me9a8/providers/osfstorage/?zip=",
      "https://osf.io/me9a8/files/osfstorage?view_only=#"
 ]
+
+[[image]]
+location = "https://www.appropedia.org/w/images/thumb/c/c2/Sunhusky.png/79px-Sunhusky.png"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://www.appropedia.org/w/images/thumb/c/cc/Oscale.png/300px-Oscale.png"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://www.appropedia.org/w/images/thumb/8/82/Balance_Breadboard_PCBs.jpg/300px-Balance_Breadboard_PCBs.jpg"
+
+[[image]]
+location = "https://www.appropedia.org/w/images/thumb/8/8d/Balance_Breadboard_No_PCBs.jpg/300px-Balance_Breadboard_No_PCBs.jpg"
+
+[[image]]
+location = "https://pub.mdpi-res.com/instruments/instruments-04-00018/article_deploy/html/images/instruments-04-00018-ag-550.jpg?1593696168"
+
+[[image]]
+location = "https://www.mdpi.com/instruments/instruments-04-00018/article_deploy/html/images/instruments-04-00018-g001-550.jpg"
+
+[[image]]
+location = "https://www.mdpi.com/instruments/instruments-04-00018/article_deploy/html/images/instruments-04-00018-g002-550.jpg"
+
+[[image]]
+location = "https://www.mdpi.com/instruments/instruments-04-00018/article_deploy/html/images/instruments-04-00018-g003-550.jpg"
+
+[[image]]
+location = "https://www.mdpi.com/instruments/instruments-04-00018/article_deploy/html/images/instruments-04-00018-g004-550.jpg"
+
+[[image]]
+location = "https://www.mdpi.com/instruments/instruments-04-00018/article_deploy/html/images/instruments-04-00018-g005-550.jpg"
+
+[[image]]
+location = "https://www.mdpi.com/instruments/instruments-04-00018/article_deploy/html/images/instruments-04-00018-g006-550.jpg"
+
+[[image]]
+location = "https://www.mdpi.com/instruments/instruments-04-00018/article_deploy/html/images/instruments-04-00018-g007-550.jpg"
+
+[[image]]
+location = "https://www.mdpi.com/instruments/instruments-04-00018/article_deploy/html/images/instruments-04-00018-g008-550.jpg"
+
+[[image]]
+location = "https://www.mdpi.com/instruments/instruments-04-00018/article_deploy/html/images/instruments-04-00018-g009-550.jpg"
+
+[[image]]
+location = "https://www.mdpi.com/instruments/instruments-04-00018/article_deploy/html/images/instruments-04-00018-g010-550.jpg"
+
+[[image]]
+location = "https://www.mdpi.com/instruments/instruments-04-00018/article_deploy/html/images/instruments-04-00018-g011-550.jpg"
+
+[[image]]
+location = "https://www.mdpi.com/instruments/instruments-04-00018/article_deploy/html/images/instruments-04-00018-g012-550.jpg"
+
+[[image]]
+location = "https://www.mdpi.com/instruments/instruments-04-00018/article_deploy/html/images/instruments-04-00018-g013-550.jpg"

@@ -11,24 +11,6 @@ function = "Pattern and video tutorial for fabric ear savers with buttons. These
 documentation-language = "en"
 organization = "Hello Sewing"
 readme = "https://hellosewing.com/diy-ear-saver-for-face-masks/?fbclid=IwAR3hj7X3IEGPtUoVIgWxOPbYTyR04gDtl2sQLGWwfLWgJm_zg5z7Yf7O6tU"
-image = [
-  # logo
-  "https://hellosewing.com/wp-content/uploads/hellosewing-logo-lq.jpg",
-  # product-photo
-  "https://hellosewing.com/wp-content/uploads/ear-saver-featured-681x510.jpg",
-  "https://hellosewing.com/wp-content/uploads/ear-savers-finished.jpg",
-  "https://hellosewing.com/wp-content/uploads/ear-saver-materials.jpg",
-  "https://hellosewing.com/wp-content/uploads/ear-savers-markings.jpg",
-  "https://hellosewing.com/wp-content/uploads/ear-saver-sew.jpg",
-  "https://hellosewing.com/wp-content/uploads/ear-saver-trim-snip.jpg",
-  "https://hellosewing.com/wp-content/uploads/ear-saver-turn-rso.jpg",
-  "https://hellosewing.com/wp-content/uploads/ear-saver-pressing.jpg",
-  "https://hellosewing.com/wp-content/uploads/ear-saver-topstitch.jpg",
-  "https://hellosewing.com/wp-content/uploads/ear-saver-machine-sewing-button.jpg",
-  "https://hellosewing.com/wp-content/uploads/ear-guard-hand-sewing-buttons.jpg",
-  "https://hellosewing.com/wp-content/uploads/ear-guards-lined-up.jpg",
-  "https://hellosewing.com/wp-content/uploads/ear-guard-modelled.jpg"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A62B 18/08"
@@ -44,3 +26,57 @@ manufacturing-instructions = [
 width = 38.1
 depth = 0.254
 height = 228.6
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/hellosewing-logo-lq.jpg"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/ear-saver-featured-681x510.jpg"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/ear-savers-finished.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/ear-saver-materials.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/ear-savers-markings.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/ear-saver-sew.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/ear-saver-trim-snip.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/ear-saver-turn-rso.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/ear-saver-pressing.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/ear-saver-topstitch.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/ear-saver-machine-sewing-button.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/ear-guard-hand-sewing-buttons.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/ear-guards-lined-up.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/ear-guard-modelled.jpg"

@@ -14,16 +14,6 @@ organization = "AUTODESK Instructables"
 release = "https://docs.google.com/document/d/1nQVQFL_HOuRaEFaWxumOZzLxCnf0gRg8_nZsrapsAS4/edit?fbclid=IwAR2ogMcJfnF26UMiPsGlPHT7B27Uu9Zmxxyt4txJm1wVp9txV1BLk-G5PCI&tab=t.0"
 readme = "https://www.instructables.com/Face-Mask-Duckbill-With-Filter/"
 contribution-guide = "https://www.instructables.com/Face-Mask-Duckbill-With-Filter/"
-image = [
-  # logo
-  "https://www.instructables.com/assets/img/instructables-logo-2023.svg",
-  # product-photo
-  "https://content.instructables.com/FFT/M236/K81UMAED/FFTM236K81UMAED.jpg?auto=webp&frame=1&width=526&height=1024&fit=bounds&md=MjAyMC0wMy0yMiAxMjoyMDo1NS4w",
-  "https://content.instructables.com/F15/S1ZN/K81UMAEZ/F15S1ZNK81UMAEZ.jpg?auto=webp&frame=1&width=525&height=1024&fit=bounds&md=MjAyMC0wMy0yMiAxMjoyMTowMi4w",
-  "https://content.instructables.com/FWA/5BZW/K81UMAEK/FWA5BZWK81UMAEK.jpg?auto=webp&frame=1&width=400&height=1024&fit=bounds&md=MjAyMC0wMy0yMiAxMjoyMDo1Ny4w",
-  "https://content.instructables.com/FO4/URIA/K81UMAFF/FO4URIAK81UMAFF.jpg?auto=webp&frame=1&width=525&height=1024&fit=bounds&md=MjAyMC0wMy0yMiAxMjoyMToxMC4w",
-  "https://content.instructables.com/FLL/BWXF/K9708OIO/FLLBWXFK9708OIO.png?auto=webp&frame=1&width=768&height=1024&fit=bounds&md=MjAyMC0wNC0yMCAxNzowMDoxNC4w"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
@@ -44,3 +34,33 @@ source = "https://content.instructables.com/FHJ/5YC4/K81UMAFV/FHJ5YC4K81UMAFV.pn
 width = 152.4
 depth = 101.6
 height = 101.6
+
+[[image]]
+location = "https://www.instructables.com/assets/img/instructables-logo-2023.svg"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://content.instructables.com/FFT/M236/K81UMAED/FFTM236K81UMAED.jpg?auto=webp&frame=1&width=526&height=1024&fit=bounds&md=MjAyMC0wMy0yMiAxMjoyMDo1NS4w"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://content.instructables.com/F15/S1ZN/K81UMAEZ/F15S1ZNK81UMAEZ.jpg?auto=webp&frame=1&width=525&height=1024&fit=bounds&md=MjAyMC0wMy0yMiAxMjoyMTowMi4w"
+
+[[image]]
+location = "https://content.instructables.com/FWA/5BZW/K81UMAEK/FWA5BZWK81UMAEK.jpg?auto=webp&frame=1&width=400&height=1024&fit=bounds&md=MjAyMC0wMy0yMiAxMjoyMDo1Ny4w"
+
+[[image]]
+location = "https://content.instructables.com/FO4/URIA/K81UMAFF/FO4URIAK81UMAFF.jpg?auto=webp&frame=1&width=525&height=1024&fit=bounds&md=MjAyMC0wMy0yMiAxMjoyMToxMC4w"
+
+[[image]]
+location = "https://content.instructables.com/FLL/BWXF/K9708OIO/FLLBWXFK9708OIO.png?auto=webp&frame=1&width=768&height=1024&fit=bounds&md=MjAyMC0wNC0yMCAxNzowMDoxNC4w"

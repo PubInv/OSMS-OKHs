@@ -11,17 +11,6 @@ licensor = "Aeneas Solis <https://www.thingiverse.com/alsolis/designs#google_vig
 function = "Shield designed by ENT physicians in the Philippines to allow safer endoscopic study of Covid patients. Design fits most commonly used endoscopes and incorporates 3DP and acetate sheet cutting."
 documentation-language = "en"
 organization = "HackThePandemic"
-image = [
-  # logo
-  "https://img.thingiverse.com/cdn-cgi/image/fit=cover,quality=90,width=120,height=120/https://cdn.thingiverse.com/assets/75/ee/5f/41/d9/card_preview_IMG_2396_1.jpg",
-  # product-photo
-  "https://cdn.thingiverse.com/assets/e9/09/d1/4a/61/large_display_print-closeup-back.jpg",
-  "https://cdn.thingiverse.com/assets/5b/32/b8/9b/a1/large_display_print-full-shim.JPG.png",
-  "https://cdn.thingiverse.com/assets/de/46/b1/bc/10/large_display_print-front.jpg",
-  "https://cdn.thingiverse.com/assets/ea/3b/ea/07/be/large_display_print-closeup-side.jpg",
-  "https://cdn.thingiverse.com/assets/c8/63/f6/ae/04/large_display_print-prototypes-bottom.jpg",
-  "https://cdn.thingiverse.com/assets/83/6b/73/fe/ab/large_display_print-prototypes.jpg"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A41D 13/11"
@@ -39,3 +28,36 @@ source = [
 # width = 400
 # depth = 350
 # height = 150
+
+[[image]]
+location = "https://img.thingiverse.com/cdn-cgi/image/fit=cover,quality=90,width=120,height=120/https://cdn.thingiverse.com/assets/75/ee/5f/41/d9/card_preview_IMG_2396_1.jpg"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/e9/09/d1/4a/61/large_display_print-closeup-back.jpg"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/5b/32/b8/9b/a1/large_display_print-full-shim.JPG.png"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/de/46/b1/bc/10/large_display_print-front.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/ea/3b/ea/07/be/large_display_print-closeup-side.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/c8/63/f6/ae/04/large_display_print-prototypes-bottom.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/83/6b/73/fe/ab/large_display_print-prototypes.jpg"

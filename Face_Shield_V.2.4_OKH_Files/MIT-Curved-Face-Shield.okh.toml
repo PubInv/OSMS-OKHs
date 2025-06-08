@@ -13,16 +13,6 @@ documentation-language = "en-US"
 organization = "Massachussets Institute of Technology"
 release = "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/commit/794a503ca36c4fc6353b99c6b4ab53778654cb59"
 readme = "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/blob/master/README.md?ref_type=heads"
-image = [
-  # product-photos
-  "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/raw/master/Curved%20Shield%20a5ceaa12053b49cc973e136059016f14/WhatsApp_Image_2020-05-11_at_17.32.00_(1).jpeg",
-  "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/raw/master/Curved%20Shield%20a5ceaa12053b49cc973e136059016f14/Captura_de_pantalla_2020-05-11_a_las_19.27.05.png",
-  "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/raw/master/Curved%20Shield%20a5ceaa12053b49cc973e136059016f14/WhatsApp_Image_2020-05-11_at_19.07.07.jpeg",
-  "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/raw/master/Curved%20Shield%20a5ceaa12053b49cc973e136059016f14/WhatsApp_Image_2020-05-11_at_19.07.08.jpeg",
-  "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/raw/master/Curved%20Shield%20a5ceaa12053b49cc973e136059016f14/WhatsApp_Image_2020-05-11_at_17.32.00_(5).jpeg",
-  "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/raw/master/Curved%20Shield%20a5ceaa12053b49cc973e136059016f14/WhatsApp_Image_2020-05-11_at_17.32.00_(3).jpeg",
-  "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/raw/master/Curved%20Shield%20a5ceaa12053b49cc973e136059016f14/WhatsApp_Image_2020-05-11_at_17.32.00_(4).jpeg"
-]
 technology-readiness-level = "OTRL-4"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/1107"
@@ -42,3 +32,48 @@ source = [
 # width = 400
 # height = 150
 # depth = 350
+
+[[image]]
+location = "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/raw/master/Curved%20Shield%20a5ceaa12053b49cc973e136059016f14/WhatsApp_Image_2020-05-11_at_17.32.00_(1).jpeg"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/raw/master/Curved%20Shield%20a5ceaa12053b49cc973e136059016f14/Captura_de_pantalla_2020-05-11_a_las_19.27.05.png"
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/raw/master/Curved%20Shield%20a5ceaa12053b49cc973e136059016f14/WhatsApp_Image_2020-05-11_at_19.07.07.jpeg"
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/raw/master/Curved%20Shield%20a5ceaa12053b49cc973e136059016f14/WhatsApp_Image_2020-05-11_at_19.07.08.jpeg"
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/raw/master/Curved%20Shield%20a5ceaa12053b49cc973e136059016f14/WhatsApp_Image_2020-05-11_at_17.32.00_(5).jpeg"
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/raw/master/Curved%20Shield%20a5ceaa12053b49cc973e136059016f14/WhatsApp_Image_2020-05-11_at_17.32.00_(3).jpeg"
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/raw/master/Curved%20Shield%20a5ceaa12053b49cc973e136059016f14/WhatsApp_Image_2020-05-11_at_17.32.00_(4).jpeg"
+tags = [
+  "photo",
+]

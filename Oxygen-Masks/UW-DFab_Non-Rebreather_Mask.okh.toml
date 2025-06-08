@@ -13,20 +13,6 @@ documentation-language = "en-US"
 organization = "National Institute of Allergy and Infectious Diseases"
 readme = "https://3d.nih.gov/entries/3DPX-014316"
 contribution-guide = "https://3d.nih.gov/entries/3DPX-014316#attribution"
-image = [
-  # logo
-  "https://3d.nih.gov/images/niaid-logo-white.svg",
-  # product-photo
-  "https://3d.nih.gov/api/submissions/18704/files/input/405653",
-  "https://3d.nih.gov/api/submissions/18704/files/input/405658",
-  "https://3d.nih.gov/api/submissions/18704/files/input/405663",
-  "https://3d.nih.gov/api/submissions/18704/files/input/405665",
-  "https://3d.nih.gov/api/submissions/18704/files/input/405666",
-  "https://3d.nih.gov/api/submissions/18704/files/input/405671",
-  "https://3d.nih.gov/api/submissions/18704/files/input/405680",
-  "https://3d.nih.gov/api/submissions/18704/files/input/405683",
-  "https://3d.nih.gov/api/submissions/18704/files/input/405650"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A62B 7/06"
@@ -52,3 +38,45 @@ source = [
      "https://3d.nih.gov/api/submissions/18704/files/input/405669",
      "https://3d.nih.gov/api/submissions/18704/files/input/405685"
 ]
+
+[[image]]
+location = "https://3d.nih.gov/images/niaid-logo-white.svg"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/18704/files/input/405653"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/18704/files/input/405658"
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/18704/files/input/405663"
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/18704/files/input/405665"
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/18704/files/input/405666"
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/18704/files/input/405671"
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/18704/files/input/405680"
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/18704/files/input/405683"
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/18704/files/input/405650"

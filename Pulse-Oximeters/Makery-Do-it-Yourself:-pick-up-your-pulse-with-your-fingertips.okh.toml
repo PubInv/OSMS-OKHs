@@ -14,12 +14,6 @@ documentation-language = [
 ]
 organization = "Makery"
 readme = "https://www.makery.info/en/2014/11/11/bricole-it-yourself-capter-son-pouls-du-bout-du-doigt/"
-image = [
-  # logo
-  "https://s3-eu-central-1.amazonaws.com/makeryfiles/wp-content/themes/makery/assets/imgs/Makery-logo.svg",
-  # product-photo
-  "https://i0.wp.com/makezine.com/wp-content/uploads/2011/01/Screen-Shot-2015-04-15-at-1.56.54-PM.png?w=781&ssl=1"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A61B 5/00"
@@ -27,3 +21,21 @@ tsdc = "ASM"
 bom = "https://youtu.be/yADsi5W-Lls"
 manufacturing-instructions = "https://youtu.be/yADsi5W-Lls"
 source = "https://makezine.com/article/technology/arduino/collins-lab-infrared-heart-sensor/"
+
+[[image]]
+location = "https://s3-eu-central-1.amazonaws.com/makeryfiles/wp-content/themes/makery/assets/imgs/Makery-logo.svg"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://i0.wp.com/makezine.com/wp-content/uploads/2011/01/Screen-Shot-2015-04-15-at-1.56.54-PM.png?w=781&ssl=1"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]

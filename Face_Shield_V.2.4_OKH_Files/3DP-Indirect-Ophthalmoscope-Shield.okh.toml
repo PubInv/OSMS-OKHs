@@ -11,16 +11,6 @@ function = "Shield designed to fit specific versions of Heine ophthalmoscopy hea
 documentation-language = "en"
 organization = "Maker Nexus"
 readme = "https://makernexuswiki.com/wiki/3D_printed_Indirect_Ophthalmoscope_shields#Overview"
-image = [
-  # logo
-  "https://makernexuswiki.com/MakerNexus_LogoWiki.png",
-  # product-photo
-  "https://makernexuswiki.com/images/thumb/e/e8/Ophthalmologist_shield_three_quarter_view.jpg/200px-Ophthalmologist_shield_three_quarter_view.jpg",
-  "https://makernexuswiki.com/images/thumb/9/9c/Ophthalmologist_shield_side.jpg/200px-Ophthalmologist_shield_side.jpg",
-  "https://makernexuswiki.com/images/thumb/9/9c/Ophthalmologist_frames_v11.png/200px-Ophthalmologist_frames_v11.png",
-  "https://makernexuswiki.com/images/thumb/b/b1/Opthalmologist_laser_file_image.png/300px-Opthalmologist_laser_file_image.png",
-  "https://makernexuswiki.com/images/thumb/5/5f/Photo_of_ophthalmologists_shield_.jpg/300px-Photo_of_ophthalmologists_shield_.jpg"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A41D 13/11"
@@ -38,3 +28,33 @@ source = [
 # width = 400
 # depth = 350
 # height = 150
+
+[[image]]
+location = "https://makernexuswiki.com/MakerNexus_LogoWiki.png"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://makernexuswiki.com/images/thumb/e/e8/Ophthalmologist_shield_three_quarter_view.jpg/200px-Ophthalmologist_shield_three_quarter_view.jpg"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://makernexuswiki.com/images/thumb/9/9c/Ophthalmologist_shield_side.jpg/200px-Ophthalmologist_shield_side.jpg"
+
+[[image]]
+location = "https://makernexuswiki.com/images/thumb/9/9c/Ophthalmologist_frames_v11.png/200px-Ophthalmologist_frames_v11.png"
+
+[[image]]
+location = "https://makernexuswiki.com/images/thumb/b/b1/Opthalmologist_laser_file_image.png/300px-Opthalmologist_laser_file_image.png"
+
+[[image]]
+location = "https://makernexuswiki.com/images/thumb/5/5f/Photo_of_ophthalmologists_shield_.jpg/300px-Photo_of_ophthalmologists_shield_.jpg"

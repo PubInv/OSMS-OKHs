@@ -11,21 +11,6 @@ function = "Box pleated, two-layer fabric design with three pattern sizes for ch
 documentation-language = "en"
 organization = "Hello Sewing"
 readme = "https://hellosewing.com/kids-face-mask-template/?fbclid=IwAR19sHzuef7QBVcyCVJxHxuYXHw-WBkY7mhmT1mmko5OwlR0hPwO4lX7qIs#How_to_make_kids_face_mask"
-image = [
-  # logo
-  "https://hellosewing.com/wp-content/uploads/hellosewing-logo-lq.jpg",
-  # product-photo
-  "https://hellosewing.com/wp-content/uploads/kids-face-mask-featured-680x510.jpg",
-  "https://hellosewing.com/wp-content/uploads/kids-face-mask-finished.jpg",
-  "https://hellosewing.com/wp-content/uploads/kids-face-mask-materials.jpg",
-  "https://hellosewing.com/wp-content/uploads/kids-face-mask-tshirt-ties.jpg",
-  "https://hellosewing.com/wp-content/uploads/kids-face-mask-layering.jpg",
-  "https://hellosewing.com/wp-content/uploads/kids-face-mask-pinned-marked.jpg",
-  "https://hellosewing.com/wp-content/uploads/kids-face-mask-nose-wire.jpg",
-  "https://hellosewing.com/wp-content/uploads/kids-face-mask-pleats.jpg",
-  "https://hellosewing.com/wp-content/uploads/kids-face-mask21.jpg",
-  "https://hellosewing.com/wp-content/uploads/kids-face-masks-side-view.jpg"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
@@ -42,3 +27,47 @@ width = 203.2
 depth = 25.4
 height = 152.4
 
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/hellosewing-logo-lq.jpg"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/kids-face-mask-featured-680x510.jpg"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/kids-face-mask-finished.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/kids-face-mask-materials.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/kids-face-mask-tshirt-ties.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/kids-face-mask-layering.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/kids-face-mask-pinned-marked.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/kids-face-mask-nose-wire.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/kids-face-mask-pleats.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/kids-face-mask21.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/kids-face-masks-side-view.jpg"

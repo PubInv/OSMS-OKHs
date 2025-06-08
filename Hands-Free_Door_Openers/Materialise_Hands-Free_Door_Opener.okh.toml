@@ -11,18 +11,6 @@ function = "Design for lever style door handles. Use the Trinckle configuring re
 documentation-language = "en"
 organization = "Materialise"
 release = "https://www.thingiverse.com/make:776629"
-image = [
-  # logo
-  "https://www.materialise.com/assets/materialise-logo.svg",
-  # product-photo
-  "https://cdn.thingiverse.com/assets/40/62/1d/96/c6/large_display_IMG_20200318_105752.jpg",
-  "https://cdn.thingiverse.com/assets/c8/33/e6/12/04/large_display_Screenshot_20200318-120048.jpg",
-  "https://cdn.thingiverse.com/assets/ee/d3/78/b7/f5/large_display_IMG_20200318_115637.jpg",
-  "https://cdn.thingiverse.com/assets/3f/01/89/80/7a/large_display_IMG_20200318_115425.jpg",
-  "https://cdn.thingiverse.com/assets/ef/92/74/b3/ef/large_display_IMG_20200318_115538.jpg",
-  "https://cdn.thingiverse.com/assets/ac/7f/dd/b1/83/large_display_IMG_20200318_115039.jpg",
-  "https://cdn.thingiverse.com/assets/c9/99/07/a0/6a/large_display_hands-free-door-opener-sticker.png"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "E05B 9/00"
@@ -34,3 +22,39 @@ source = [
      "https://cdn.thingiverse.com/assets/30/02/e1/bb/90/large_display_M5_Handsfree_Door_Opener_FixPlate.png",
      "https://www.thingiverse.com/thing:4229224/files"
 ]
+
+[[image]]
+location = "https://www.materialise.com/assets/materialise-logo.svg"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/40/62/1d/96/c6/large_display_IMG_20200318_105752.jpg"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/c8/33/e6/12/04/large_display_Screenshot_20200318-120048.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/ee/d3/78/b7/f5/large_display_IMG_20200318_115637.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/3f/01/89/80/7a/large_display_IMG_20200318_115425.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/ef/92/74/b3/ef/large_display_IMG_20200318_115538.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/ac/7f/dd/b1/83/large_display_IMG_20200318_115039.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/c9/99/07/a0/6a/large_display_hands-free-door-opener-sticker.png"

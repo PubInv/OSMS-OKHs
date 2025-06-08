@@ -12,24 +12,6 @@ function = "Features a removable clear panel and is based on the popular 3D desi
 documentation-language = "en"
 organization = "Hello Sewing"
 readme = "https://hellosewing.com/clear-face-mask/#How_to_make_a_clear_face_mask"
-image = [
-  # logo
-  "https://hellosewing.com/wp-content/uploads/hellosewing-logo-lq.jpg",
-  # product-photo
-  "https://hellosewing.com/wp-content/uploads/clear-face-mask-featured-675x510.jpg",
-  "https://hellosewing.com/wp-content/uploads/clear-face-mask-finished.jpg",
-  "https://hellosewing.com/wp-content/uploads/clear-face-mask-materials.jpg",
-  "https://hellosewing.com/wp-content/uploads/clear-face-mask-cutting-fabric.jpg",
-  "https://hellosewing.com/wp-content/uploads/clear-face-mask-marking-window.jpg",
-  "https://hellosewing.com/wp-content/uploads/clear-face-mask-window-lining.jpg",
-  "https://hellosewing.com/wp-content/uploads/clear-face-mask-window.jpg",
-  "https://hellosewing.com/wp-content/uploads/clear-face-mask-creating-panel.jpg",
-  "https://hellosewing.com/wp-content/uploads/clear-face-mask-folded-pinned.jpg",
-  "https://hellosewing.com/wp-content/uploads/clear-face-mask-right-wrong.jpg",
-  "https://hellosewing.com/wp-content/uploads/clear-face-mask-sewing-sides.jpg",
-  "https://hellosewing.com/wp-content/uploads/clear-face-mask-clear-window-panel.jpg",
-  "https://hellosewing.com/wp-content/uploads/clear-face-mask-pin1.jpg"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
@@ -41,3 +23,56 @@ manufacturing-instructions = [
 ]
 source = "https://hellosewing.com/wp-content/uploads/clear-face-mask-template-v1.1.pdf"
 
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/hellosewing-logo-lq.jpg"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/clear-face-mask-featured-675x510.jpg"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/clear-face-mask-finished.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/clear-face-mask-materials.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/clear-face-mask-cutting-fabric.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/clear-face-mask-marking-window.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/clear-face-mask-window-lining.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/clear-face-mask-window.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/clear-face-mask-creating-panel.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/clear-face-mask-folded-pinned.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/clear-face-mask-right-wrong.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/clear-face-mask-sewing-sides.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/clear-face-mask-clear-window-panel.jpg"
+
+[[image]]
+location = "https://hellosewing.com/wp-content/uploads/clear-face-mask-pin1.jpg"

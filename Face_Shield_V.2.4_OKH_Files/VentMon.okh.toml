@@ -15,12 +15,6 @@ organization = "Public Invention"
 release = "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor/releases/tag/v0.3.1T"
 readme = "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor?tab=readme-ov-file"
 contribution-guide = "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor/graphs/contributors"
-image = [
-  # logo
-  "imgs/11892727.png",
-  # product-photo
-  "imgs/244884512-b96dfc75-58e7-41bd-a88e-ea28e00b7dd8.jpg"
-]
 technology-readiness-level = "OTRL-6"
 documentation-readiness-level = "ODRL-2"
 attestation = "https://certification.oshwa.org/us002353.html"
@@ -58,3 +52,21 @@ installation-guide = "https://github.com/PubInv/PIRDS-logger"
 [[software]]
 release = "https://github.com/PubInv/PIRDS-docker-local/commit/f7297a3c04342de4c671c5a943caac17e224e891"
 installation-guide = "https://github.com/PubInv/PIRDS-docker-local"
+
+[[image]]
+location = "imgs/11892727.png"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "imgs/244884512-b96dfc75-58e7-41bd-a88e-ea28e00b7dd8.jpg"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]

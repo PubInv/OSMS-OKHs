@@ -20,13 +20,6 @@ organization = [
 ]
 release = "https://3d.nih.gov/entries/13359/2"
 contribution-guide = "https://www.designthatmatters.org/covid-19"
-image = [
-  # logo
-  "https://3d.nih.gov/api/submissions/17230/runs/51edd40a-8c31-47e4-9ce6-f2300fac52f4/output-files/DtM-v_thumb_NIH3D.png",
-  # product-photo
-  "https://images.squarespace-cdn.com/content/v1/5267f3a6e4b0da2bab9939e3/1444954851408-Z8912NHY9U4M5COATKGA/Web+white+logo-01.png",
-  "https://images.squarespace-cdn.com/content/v1/5267f3a6e4b0da2bab9939e3/1585858118343-E7MW3NDJBXSUPXB3OIO0/DtM-v3.0+Face+Shield+PPE+with+NO+LOGO?format=1000w"
-]
 technology-readiness-level = "OTRL-5"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A41D 13/11"
@@ -41,3 +34,24 @@ width = 191
 height = 52.5
 # Listed as 'length' in instructions.
 depth = 148.5
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/17230/runs/51edd40a-8c31-47e4-9ce6-f2300fac52f4/output-files/DtM-v_thumb_NIH3D.png"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://images.squarespace-cdn.com/content/v1/5267f3a6e4b0da2bab9939e3/1444954851408-Z8912NHY9U4M5COATKGA/Web+white+logo-01.png"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://images.squarespace-cdn.com/content/v1/5267f3a6e4b0da2bab9939e3/1585858118343-E7MW3NDJBXSUPXB3OIO0/DtM-v3.0+Face+Shield+PPE+with+NO+LOGO?format=1000w"

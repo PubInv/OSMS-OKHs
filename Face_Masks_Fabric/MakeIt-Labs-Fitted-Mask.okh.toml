@@ -11,12 +11,6 @@ function = "Non-pleated shaped style mask designed for heat sealing construction
 documentation-language = "en"
 organization = "MakeIt Labs"
 readme = "https://www.makeitlabs.com/fittedmask"
-image = [
-  # logo
-  "https://images.squarespace-cdn.com/content/v1/54e78ccde4b0f93fea044610/1458135215426-MP7GKEBE0DILG6K34SZW/logo-2016-01.png?format=1500w",
-  # product-photo
-  "https://images.squarespace-cdn.com/content/v1/54e78ccde4b0f93fea044610/1587299904697-TOOL7SCAOM2PIT1DYSL1/MakeIt+Fitted+Mask+FM1.jpg?format=1500w"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A41D 13/11"
@@ -30,3 +24,21 @@ source = [
      "https://docs.google.com/a/makeitlabs.com/viewer?a=v&pid=sites&srcid=bWFrZWl0bGFicy5jb218d2lraXxneDphYTdhNWUxOTYxMGMyMmY",
      "https://sites.google.com/a/makeitlabs.com/wiki/covid-19-projects/covid-19-cloth-masks"
      ]
+
+[[image]]
+location = "https://images.squarespace-cdn.com/content/v1/54e78ccde4b0f93fea044610/1458135215426-MP7GKEBE0DILG6K34SZW/logo-2016-01.png?format=1500w"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://images.squarespace-cdn.com/content/v1/54e78ccde4b0f93fea044610/1587299904697-TOOL7SCAOM2PIT1DYSL1/MakeIt+Fitted+Mask+FM1.jpg?format=1500w"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]

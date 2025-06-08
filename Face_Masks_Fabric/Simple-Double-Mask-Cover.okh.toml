@@ -11,30 +11,6 @@ function = "This fabric mask cover allows double masking with a KN95 or other ea
 documentation-language = "en-US"
 organization = "AutoDesk Instructables"
 readme = "https://www.instructables.com/Fashion-KN95-Cover/"
-image = [
-  # logo
-  "https://www.instructables.com/assets/img/instructables-logo-2023.svg",
-  # product-photo
-  "https://content.instructables.com/FMG/D8LT/KK9Q2UHM/FMGD8LTKK9Q2UHM.png?auto=webp&frame=1&width=759&height=1024&fit=bounds&md=MjAyMS0wMS0yMyAxNToxNzowMS4w",
-  "https://content.instructables.com/F8L/C6OO/KK9Q3N34/F8LC6OOKK9Q3N34.jpg?auto=webp&frame=1&width=311&height=1024&fit=bounds&md=MjAyMS0wMS0yNCAwMToxNzozNC4w",
-  "https://content.instructables.com/FRH/GDJA/KK9Q2RTI/FRHGDJAKK9Q2RTI.jpg?auto=webp&frame=1&width=311&height=1024&fit=bounds&md=MjAyMS0wMS0yMyAxNDozMDoyOC4w",
-  "https://content.instructables.com/FFS/X9S1/KKCKXVZ6/FFSX9S1KKCKXVZ6.jpg?auto=webp&frame=1&width=311&height=1024&fit=bounds&md=MjAyMS0wMS0yNSAwNjo1NTo0MC4w",
-  "https://content.instructables.com/F6M/VUPH/KK9Q3N33/F6MVUPHKK9Q3N33.jpg?auto=webp&frame=1&width=418&height=1024&fit=bounds&md=MjAyMS0wMS0yNCAwMToxNzoyOC4w",
-  "https://content.instructables.com/F2U/QITJ/KK9Q3N35/F2UQITJKK9Q3N35.jpg?auto=webp&frame=1&width=235&height=1024&fit=bounds&md=MjAyMS0wMS0yNCAwMToxNzozOS4w",
-  "https://content.instructables.com/FUA/SJ7X/KKCKXVZ8/FUASJ7XKKCKXVZ8.jpg?auto=webp&frame=1&width=418&height=1024&fit=bounds&md=MjAyMS0wMS0yNSAwNjo1NTo0NC4w",
-  "https://content.instructables.com/FOT/AOWB/KIBPHPOZ/FOTAOWBKIBPHPOZ.jpg?auto=webp&frame=1&width=933&height=1024&fit=bounds&md=MjAyMC0xMi0wNSAxMzoxNzo0MS4w",
-  "https://content.instructables.com/FZ2/9EN7/KIBPHPL3/FZ29EN7KIBPHPL3.jpg?auto=webp&frame=1&width=600&height=1024&fit=bounds&md=MjAyMC0xMi0wNSAxMzoxNjo0MS4w",
-  "https://content.instructables.com/FHI/VNK2/KL3QBTN1/FHIVNK2KL3QBTN1.jpg?auto=webp&frame=1&width=600&height=1024&fit=bounds&md=MjAyMS0wMi0xMyAxMzo0Njo1NS4w",
-  "https://content.instructables.com/FHV/674E/KIBPHPL2/FHV674EKIBPHPL2.jpg?auto=webp&frame=1&width=600&height=1024&fit=bounds&md=MjAyMC0xMi0wNSAxMzoxNjozNi4w",
-  "https://content.instructables.com/FHA/TPK9/KL3QBTG3/FHATPK9KL3QBTG3.jpg?auto=webp&frame=1&width=600&height=1024&fit=bounds&md=MjAyMS0wMi0xMyAxMzo0NTowMy4w",
-  "https://content.instructables.com/FUB/YQBF/KIBPHPN2/FUBYQBFKIBPHPN2.jpg?auto=webp&frame=1&width=900&height=1024&fit=bounds&md=MjAyMC0xMi0wNSAxMzoxNzoxMS4w",
-  "https://content.instructables.com/FPC/5S5G/KIBPHPL1/FPC5S5GKIBPHPL1.jpg?auto=webp&frame=1&width=300&height=1024&fit=bounds&md=MjAyMC0xMi0wNSAxMzoxNjozMS4w",
-  "https://content.instructables.com/F80/6PFS/KIBPHPN0/F806PFSKIBPHPN0.jpg?auto=webp&frame=1&width=300&height=1024&fit=bounds&md=MjAyMC0xMi0wNSAxMzoxNzowMS4w",
-  "https://content.instructables.com/FLS/WY4K/KIBPHPMZ/FLSWY4KKIBPHPMZ.jpg?auto=webp&frame=1&width=300&height=1024&fit=bounds&md=MjAyMC0xMi0wNSAxMzoxNjo1Ni4w",
-  "https://content.instructables.com/FZ9/TE2D/KK9Q2RTH/FZ9TE2DKK9Q2RTH.jpg?auto=webp&frame=1&width=525&height=1024&fit=bounds&md=MjAyMS0wMS0yMyAxNDozMDoyMi4w",
-  "https://content.instructables.com/F8L/C6OO/KK9Q3N34/F8LC6OOKK9Q3N34.jpg?auto=webp&frame=1&width=467&height=1024&fit=bounds&md=MjAyMS0wMS0yNCAwMToxNzozNC4w",
-  "https://content.instructables.com/F47/1Q2V/KK9Q2RTM/F471Q2VKK9Q2RTM.jpg?auto=webp&frame=1&width=467&height=1024&fit=bounds&md=MjAyMS0wMS0yMyAxNDozMDo0NC4w"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A41D 13/11"
@@ -51,3 +27,75 @@ source = [
 width = 260
 depth = 76.2
 height = 130
+
+[[image]]
+location = "https://www.instructables.com/assets/img/instructables-logo-2023.svg"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://content.instructables.com/FMG/D8LT/KK9Q2UHM/FMGD8LTKK9Q2UHM.png?auto=webp&frame=1&width=759&height=1024&fit=bounds&md=MjAyMS0wMS0yMyAxNToxNzowMS4w"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://content.instructables.com/F8L/C6OO/KK9Q3N34/F8LC6OOKK9Q3N34.jpg?auto=webp&frame=1&width=311&height=1024&fit=bounds&md=MjAyMS0wMS0yNCAwMToxNzozNC4w"
+
+[[image]]
+location = "https://content.instructables.com/FRH/GDJA/KK9Q2RTI/FRHGDJAKK9Q2RTI.jpg?auto=webp&frame=1&width=311&height=1024&fit=bounds&md=MjAyMS0wMS0yMyAxNDozMDoyOC4w"
+
+[[image]]
+location = "https://content.instructables.com/FFS/X9S1/KKCKXVZ6/FFSX9S1KKCKXVZ6.jpg?auto=webp&frame=1&width=311&height=1024&fit=bounds&md=MjAyMS0wMS0yNSAwNjo1NTo0MC4w"
+
+[[image]]
+location = "https://content.instructables.com/F6M/VUPH/KK9Q3N33/F6MVUPHKK9Q3N33.jpg?auto=webp&frame=1&width=418&height=1024&fit=bounds&md=MjAyMS0wMS0yNCAwMToxNzoyOC4w"
+
+[[image]]
+location = "https://content.instructables.com/F2U/QITJ/KK9Q3N35/F2UQITJKK9Q3N35.jpg?auto=webp&frame=1&width=235&height=1024&fit=bounds&md=MjAyMS0wMS0yNCAwMToxNzozOS4w"
+
+[[image]]
+location = "https://content.instructables.com/FUA/SJ7X/KKCKXVZ8/FUASJ7XKKCKXVZ8.jpg?auto=webp&frame=1&width=418&height=1024&fit=bounds&md=MjAyMS0wMS0yNSAwNjo1NTo0NC4w"
+
+[[image]]
+location = "https://content.instructables.com/FOT/AOWB/KIBPHPOZ/FOTAOWBKIBPHPOZ.jpg?auto=webp&frame=1&width=933&height=1024&fit=bounds&md=MjAyMC0xMi0wNSAxMzoxNzo0MS4w"
+
+[[image]]
+location = "https://content.instructables.com/FZ2/9EN7/KIBPHPL3/FZ29EN7KIBPHPL3.jpg?auto=webp&frame=1&width=600&height=1024&fit=bounds&md=MjAyMC0xMi0wNSAxMzoxNjo0MS4w"
+
+[[image]]
+location = "https://content.instructables.com/FHI/VNK2/KL3QBTN1/FHIVNK2KL3QBTN1.jpg?auto=webp&frame=1&width=600&height=1024&fit=bounds&md=MjAyMS0wMi0xMyAxMzo0Njo1NS4w"
+
+[[image]]
+location = "https://content.instructables.com/FHV/674E/KIBPHPL2/FHV674EKIBPHPL2.jpg?auto=webp&frame=1&width=600&height=1024&fit=bounds&md=MjAyMC0xMi0wNSAxMzoxNjozNi4w"
+
+[[image]]
+location = "https://content.instructables.com/FHA/TPK9/KL3QBTG3/FHATPK9KL3QBTG3.jpg?auto=webp&frame=1&width=600&height=1024&fit=bounds&md=MjAyMS0wMi0xMyAxMzo0NTowMy4w"
+
+[[image]]
+location = "https://content.instructables.com/FUB/YQBF/KIBPHPN2/FUBYQBFKIBPHPN2.jpg?auto=webp&frame=1&width=900&height=1024&fit=bounds&md=MjAyMC0xMi0wNSAxMzoxNzoxMS4w"
+
+[[image]]
+location = "https://content.instructables.com/FPC/5S5G/KIBPHPL1/FPC5S5GKIBPHPL1.jpg?auto=webp&frame=1&width=300&height=1024&fit=bounds&md=MjAyMC0xMi0wNSAxMzoxNjozMS4w"
+
+[[image]]
+location = "https://content.instructables.com/F80/6PFS/KIBPHPN0/F806PFSKIBPHPN0.jpg?auto=webp&frame=1&width=300&height=1024&fit=bounds&md=MjAyMC0xMi0wNSAxMzoxNzowMS4w"
+
+[[image]]
+location = "https://content.instructables.com/FLS/WY4K/KIBPHPMZ/FLSWY4KKIBPHPMZ.jpg?auto=webp&frame=1&width=300&height=1024&fit=bounds&md=MjAyMC0xMi0wNSAxMzoxNjo1Ni4w"
+
+[[image]]
+location = "https://content.instructables.com/FZ9/TE2D/KK9Q2RTH/FZ9TE2DKK9Q2RTH.jpg?auto=webp&frame=1&width=525&height=1024&fit=bounds&md=MjAyMS0wMS0yMyAxNDozMDoyMi4w"
+
+[[image]]
+location = "https://content.instructables.com/F8L/C6OO/KK9Q3N34/F8LC6OOKK9Q3N34.jpg?auto=webp&frame=1&width=467&height=1024&fit=bounds&md=MjAyMS0wMS0yNCAwMToxNzozNC4w"
+
+[[image]]
+location = "https://content.instructables.com/F47/1Q2V/KK9Q2RTM/F471Q2VKK9Q2RTM.jpg?auto=webp&frame=1&width=467&height=1024&fit=bounds&md=MjAyMS0wMS0yMyAxNDozMDo0NC4w"

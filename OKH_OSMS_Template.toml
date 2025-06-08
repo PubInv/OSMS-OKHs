@@ -16,12 +16,6 @@ organization = "xxx"
 release = "https://gitlab.com/YOU/your-awesome-project/-/releases/1.0.0"
 readme = "README.md"
 contribution-guide = "CONTRIBUTING.md"
-image = [
-  # logo
-  "imgs/xxx.jpg",
-  # product-photo
-  "imgs/yyy.jpg"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 attestation = "https://certification.oshwa.org/cl000001.html"
@@ -51,3 +45,21 @@ height = 150
 [[software]]
 release = "https://github.com/arduino/ArduinoCore-mbed/releases/tag/1.3.2"
 installation-guide = "https://github.com/arduino/ArduinoCore-mbed/blob/a2c06d768f5ebb6821ae6505b2032ee58f4ef70d/README.md"
+
+[[image]]
+location = "imgs/xxx.jpg"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "imgs/yyy.jpg"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]

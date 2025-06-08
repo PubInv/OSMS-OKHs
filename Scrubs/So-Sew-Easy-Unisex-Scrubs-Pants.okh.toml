@@ -12,31 +12,6 @@ licensor = "So Sew Easy <https://so-sew-easy.com/contact/>"
 function = "PDF pattern for scrub elastic waist pant sizes from S-3XL. Includes step-by-step instructable for sewing adjustments."
 documentation-language = "en"
 organization = "So Sew Easy"
-image = [
-  # logo
-  "https://so-sew-easy.com/wp-content/uploads/2014/11/New-website-banner-revise2.jpg",
-  # product-photo-pants
-  "https://so-sew-easy.com/wp-content/uploads/2020/03/2.jpg",
-  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3220-379x650.jpg",
-  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3208-369x650.jpg",
-  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3213-433x650.jpg",
-  "https://so-sew-easy.com/wp-content/uploads/2020/03/Untitled-1.jpg",
-  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3189.jpeg",
-  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3179-scaled-e1585445728838.jpg",
-  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3181.jpeg",
-  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3183.jpeg",
-  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3184.jpeg",
-  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3185.jpeg",
-  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3187.jpeg",
-  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3192.jpeg",
-  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_B800F738ABEE-1.jpeg",
-  "https://so-sew-easy.com/wp-content/uploads/2020/03/Untitled-2.jpg",
-  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3196-2-scaled-e1585446146907.jpeg",
-  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3197.jpeg",
-  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3198.jpeg",
-  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3199.jpeg",
-  "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3204.jpeg"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/00"
@@ -51,3 +26,135 @@ source = "https://payhip.com/b/MwP3"
 width = 914.4
 depth = 25.4
 height = 914.4
+
+[[image]]
+location = "https://so-sew-easy.com/wp-content/uploads/2014/11/New-website-banner-revise2.jpg"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://so-sew-easy.com/wp-content/uploads/2020/03/2.jpg"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3220-379x650.jpg"
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3208-369x650.jpg"
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3213-433x650.jpg"
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://so-sew-easy.com/wp-content/uploads/2020/03/Untitled-1.jpg"
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3189.jpeg"
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3179-scaled-e1585445728838.jpg"
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3181.jpeg"
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3183.jpeg"
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3184.jpeg"
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3185.jpeg"
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3187.jpeg"
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3192.jpeg"
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_B800F738ABEE-1.jpeg"
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://so-sew-easy.com/wp-content/uploads/2020/03/Untitled-2.jpg"
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3196-2-scaled-e1585446146907.jpeg"
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3197.jpeg"
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3198.jpeg"
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3199.jpeg"
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://so-sew-easy.com/wp-content/uploads/2020/03/IMG_3204.jpeg"
+tags = [
+  "photo",
+]

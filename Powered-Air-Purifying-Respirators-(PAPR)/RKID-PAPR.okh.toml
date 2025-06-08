@@ -15,15 +15,6 @@ readme = [
    "https://youtu.be/nO74cnbN-lM",
    "https://www.rkid.co.za/portfolio/covid-19/"
 ]
-image = [
-  # logo
-  "https://www.rkid.co.za/wp-content/uploads/2018/11/RKid-Logo-final-13nov18.png",
-  # product-photo
-  "https://www.rkid.co.za/wp-content/uploads/2020/04/CNC-routing-1024x456.jpg",
-  "https://www.rkid.co.za/wp-content/uploads/2020/04/3D-printing-1024x456.jpg",
-  "https://www.rkid.co.za/wp-content/uploads/2020/04/Dual-pipe-option-1024x469.jpg",
-  "https://www.rkid.co.za/wp-content/uploads/2020/04/RKid_PARP_in_action.jpg"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A62B 7/10"
@@ -35,3 +26,30 @@ bom = [
 ]
 manufacturing-instructions = "https://www.rkid.co.za/covid-19-industrial-design-innovation/?fbclid=IwAR2JYE70YHg-lB3fIALZFGJnk5XKVcOmlVnKa6YAs44H0GeF352klQAH4Lw"
 user-manual = "https://youtu.be/HavZXC28sYU"
+
+[[image]]
+location = "https://www.rkid.co.za/wp-content/uploads/2018/11/RKid-Logo-final-13nov18.png"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://www.rkid.co.za/wp-content/uploads/2020/04/CNC-routing-1024x456.jpg"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://www.rkid.co.za/wp-content/uploads/2020/04/3D-printing-1024x456.jpg"
+
+[[image]]
+location = "https://www.rkid.co.za/wp-content/uploads/2020/04/Dual-pipe-option-1024x469.jpg"
+
+[[image]]
+location = "https://www.rkid.co.za/wp-content/uploads/2020/04/RKid_PARP_in_action.jpg"

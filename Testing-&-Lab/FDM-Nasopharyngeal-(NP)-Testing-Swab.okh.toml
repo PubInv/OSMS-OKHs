@@ -12,18 +12,6 @@ function = "Flexible TPA or PLU 3DP swab for FDM printers. Fabricate as instruct
 documentation-language = "en"
 organization = "Helpful Engineering"
 contribution-guide = "https://3d.nih.gov/entries/3DPX-014504#attribution"
-image = [
-  # logo
-  "https://helpfulengineering.org/wp-content/uploads/2021/08/Helpful-RGB-logo.svg",
-  # product-photo
-  "https://3d.nih.gov/api/submissions/18992/files/input/411572",
-  "https://3d.nih.gov/api/submissions/18992/files/input/411574",
-  "https://3d.nih.gov/api/submissions/18992/files/input/411575",
-  "https://3d.nih.gov/api/submissions/18992/files/input/411576",
-  "https://3d.nih.gov/api/submissions/18992/files/input/411579",
-  "https://3d.nih.gov/api/submissions/18992/files/input/411581",
-  "https://3d.nih.gov/api/submissions/18992/files/input/411577"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 # A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
@@ -33,3 +21,39 @@ bom = "https://3d.nih.gov/entries/3DPX-014504#printing"
 manufacturing-instructions = "https://3d.nih.gov/entries/3DPX-014504#printing"
 user-manual = "https://youtu.be/eSveAXCoLv0"
 source = "https://3d.nih.gov/entries/download/14504/2"
+
+[[image]]
+location = "https://helpfulengineering.org/wp-content/uploads/2021/08/Helpful-RGB-logo.svg"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/18992/files/input/411572"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/18992/files/input/411574"
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/18992/files/input/411575"
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/18992/files/input/411576"
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/18992/files/input/411579"
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/18992/files/input/411581"
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/18992/files/input/411577"

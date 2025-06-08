@@ -11,12 +11,6 @@ licensor = "Bot Camp <https://www.thingiverse.com/botcamp647/designs>"
 function = "Features a self-sealing 22mm fitting and male OD interface which allows oxygenation accessory attachment to a helmet ventilation system."
 documentation-language = "en"
 organization = "Bot Camp"
-image = [
-  # logo
-  "https://img.thingiverse.com/cdn-cgi/image/fit=cover,quality=90,width=48,height=48/https://cdn.thingiverse.com/assets/bf/a5/b1/10/2c/2019-06-22_-_Bot_Camp_Log_Square_-_White_on_Red.png",
-  # product-photo
-  "https://cdn.thingiverse.com/assets/16/48/21/d3/51/large_display_IMG_8111.JPG"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A42B 3/04"
@@ -26,4 +20,22 @@ manufacturing-instructions = "https://www.youtube.com/watch?v=RdinKRQacM4"
 source = [
      "https://www.thingiverse.com/download:8115101",
      "https://www.thingiverse.com/download:8062742"
+]
+
+[[image]]
+location = "https://img.thingiverse.com/cdn-cgi/image/fit=cover,quality=90,width=48,height=48/https://cdn.thingiverse.com/assets/bf/a5/b1/10/2c/2019-06-22_-_Bot_Camp_Log_Square_-_White_on_Red.png"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/16/48/21/d3/51/large_display_IMG_8111.JPG"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
 ]

@@ -12,17 +12,6 @@ documentation-language = "en"
 organization = "Digital Fabrication at UW"
 readme = "https://dfab.uw.edu/covid-19-fabrication/gown-assembly-and-production/#Making_Safe_Gowns"
 contribution-guide = "https://dfab.uw.edu/covid-19-fabrication/gown-assembly-and-production/#Credits"
-image = [
-  # logo
-  "https://dfab.uw.edu/wp-content/uploads/2020/07/DFab-Site-Identity-Final-01.png",
-  # product-photo
-  "https://3d.nih.gov/api/submissions/18128/files/input/395641",
-  "https://3d.nih.gov/api/submissions/18128/files/input/395645",
-  "https://dfab.uw.edu/wp-content/uploads/2020/05/20200504_Hospital-Gown-Fabrication-1600-1-1024x683.jpg",
-  "https://dfab.uw.edu/wp-content/uploads/2020/05/20200504_Hospital-Gown-Fabrication-1367-1024x683.jpg",
-  "https://dfab.uw.edu/wp-content/uploads/2020/05/20200504_Hospital-Gown-Fabrication-1464-1024x683.jpg",
-  ""
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 publication = "https://3d.nih.gov/entries/3dpx-013945"
@@ -46,3 +35,36 @@ source = [
 width = 1520
 depth = 6
 height = 2190
+
+[[image]]
+location = "https://dfab.uw.edu/wp-content/uploads/2020/07/DFab-Site-Identity-Final-01.png"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/18128/files/input/395641"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://3d.nih.gov/api/submissions/18128/files/input/395645"
+
+[[image]]
+location = "https://dfab.uw.edu/wp-content/uploads/2020/05/20200504_Hospital-Gown-Fabrication-1600-1-1024x683.jpg"
+
+[[image]]
+location = "https://dfab.uw.edu/wp-content/uploads/2020/05/20200504_Hospital-Gown-Fabrication-1367-1024x683.jpg"
+
+[[image]]
+location = "https://dfab.uw.edu/wp-content/uploads/2020/05/20200504_Hospital-Gown-Fabrication-1464-1024x683.jpg"
+
+[[image]]
+location = ""

@@ -11,57 +11,6 @@ function = "Popular fitted design featuring optional filter pocket, removable no
 documentation-language = "en"
 organization = "Craft Passion"
 readme = "https://www.craftpassion.com/face-mask-sewing-pattern/#mv-creation-19-jtr"
-image = [
-  # logo
-  "https://www.craftpassion.com/wp-content/uploads/cp-logo@2x.png.webp",
-  # product-photo
-  "https://www.craftpassion.com/wp-content/uploads/face-mask-pattern-tutorial-1200-768x960.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/face-mask-with-nose-wire-1200-735x919.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/anti-fog-mask-1200-768x960.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/sew-face-mask-size-pattern-1200-600x400.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/wear-face-mask-1200-600x400.jpg.webp",
-  # Process-photo
-  "https://www.craftpassion.com/wp-content/uploads/sew-face-mask-1-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/sew-face-mask-2-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/sew-face-mask-3-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/sew-face-mask-4-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/sew-face-mask-5-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/sew-face-mask-6-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/sew-face-mask-7-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/sew-face-mask-8-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/sew-face-mask-9-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/sew-face-mask-10-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/sew-face-mask-11-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/sew-face-mask-12-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/fm1-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/fm2-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/fm3-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/fm4-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/fm5-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/fm6-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/fm7-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/fm8-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/fm9-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/fm10-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/fm11-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/fm12-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/nose-wire-face-mask-1-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/nose-wire-face-mask-2-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/nose-wire-face-mask-3-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/nose-wire-face-mask-4-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/nose-wire-face-mask-5-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/nose-wire-face-mask-6-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/nose-wire-face-mask-7-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/fm13-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/fm14-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/fm15-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/fm16-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/head-tie-face-mask-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/IMG_20200129_104545-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/IMG_20200129_105219-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/IMG_20200129_104428-800-300x300.jpg.webp",
-  "https://www.craftpassion.com/wp-content/uploads/face-mask-with-pocket-1200-600x400.jpg.webp"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
@@ -98,3 +47,285 @@ source = [
 width = 254
 depth = 50.8
 height = 203.2
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/cp-logo@2x.png.webp"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/face-mask-pattern-tutorial-1200-768x960.jpg.webp"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/face-mask-with-nose-wire-1200-735x919.jpg.webp"
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/anti-fog-mask-1200-768x960.jpg.webp"
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/sew-face-mask-size-pattern-1200-600x400.jpg.webp"
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/wear-face-mask-1200-600x400.jpg.webp"
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/sew-face-mask-1-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/sew-face-mask-2-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/sew-face-mask-3-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/sew-face-mask-4-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/sew-face-mask-5-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/sew-face-mask-6-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/sew-face-mask-7-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/sew-face-mask-8-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/sew-face-mask-9-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/sew-face-mask-10-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/sew-face-mask-11-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/sew-face-mask-12-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/fm1-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/fm2-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/fm3-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/fm4-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/fm5-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/fm6-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/fm7-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/fm8-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/fm9-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/fm10-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/fm11-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/fm12-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/nose-wire-face-mask-1-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/nose-wire-face-mask-2-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/nose-wire-face-mask-3-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/nose-wire-face-mask-4-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/nose-wire-face-mask-5-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/nose-wire-face-mask-6-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/nose-wire-face-mask-7-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/fm13-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/fm14-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/fm15-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/fm16-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/head-tie-face-mask-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/IMG_20200129_104545-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/IMG_20200129_105219-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/IMG_20200129_104428-800-300x300.jpg.webp"
+tags = [
+  "assembly",
+]
+
+[[image]]
+location = "https://www.craftpassion.com/wp-content/uploads/face-mask-with-pocket-1200-600x400.jpg.webp"
+tags = [
+  "assembly",
+]

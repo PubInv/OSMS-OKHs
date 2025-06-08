@@ -11,19 +11,6 @@ licensor = "Scott Harden <swharden@gmail.com>"
 function = "Does not use a prebuilt pulse oximeter chipset, provides instructions for building the chipset yourself. Does not appear to have code yet for o2 saturation calculation. Project developers experimented some with ECG applications."
 documentation-language = "en"
 organization = "SWHarden.com"
-image = [
-  # logo
-  "https://swharden.com/static/misc/about/scott-w-harden.jpg",
-  # product-photo
-  "https://swharden.com/static/2013/04/14/diy-ecg-pulse-oximeter-lm324-opamp-sound-card.jpg",
-  "https://swharden.com/static/2013/04/14/pulse-ecg-filtered-a.png",
-  "https://swharden.com/static/2013/04/14/2013-04-14-11.36.39.jpg",
-  "https://swharden.com/static/2013/04/14/2013-04-14-15.06.20.jpg",
-  "https://swharden.com/static/2013/04/14/lm324-opamp-pulse-oximeter-ecg-schematic.jpg",
-  "https://swharden.com/static/2013/04/14/pulse-ecg-filtered-a.png",
-  "https://swharden.com/static/2013/04/14/pulse-oximeter-a.png",
-  "https://swharden.com/static/2013/04/14/pulse-oximeter-b.png"
-]
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A61B 5/00"
@@ -34,3 +21,42 @@ source = [
      "https://youtu.be/bKAJsZJvMI0",
      "https://youtu.be/9BFS9D3x_sY"
 ]
+
+[[image]]
+location = "https://swharden.com/static/misc/about/scott-w-harden.jpg"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://swharden.com/static/2013/04/14/diy-ecg-pulse-oximeter-lm324-opamp-sound-card.jpg"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://swharden.com/static/2013/04/14/pulse-ecg-filtered-a.png"
+
+[[image]]
+location = "https://swharden.com/static/2013/04/14/2013-04-14-11.36.39.jpg"
+
+[[image]]
+location = "https://swharden.com/static/2013/04/14/2013-04-14-15.06.20.jpg"
+
+[[image]]
+location = "https://swharden.com/static/2013/04/14/lm324-opamp-pulse-oximeter-ecg-schematic.jpg"
+
+[[image]]
+location = "https://swharden.com/static/2013/04/14/pulse-ecg-filtered-a.png"
+
+[[image]]
+location = "https://swharden.com/static/2013/04/14/pulse-oximeter-a.png"
+
+[[image]]
+location = "https://swharden.com/static/2013/04/14/pulse-oximeter-b.png"
