@@ -63,3 +63,6 @@ slots = [
 tags = [
   "photo",
 ]
+
+[[image]]
+location = "imgs/xxx.jpg"
