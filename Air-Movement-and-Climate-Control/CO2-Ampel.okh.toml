@@ -1,0 +1,105 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "CO2-Ampel"
+repo = "https://github.com/makehumantechnology/co2ampel"
+version = "1.0.0"
+license = "CC-BY-NC-SA-4.0"
+licensor = "Markus Leutwyler <https://twitter.com/twtomcat>"
+function = "Simple carbon dioxide (CO2) sensor incorporating 3D printing, Arduino, and easily sourced electrical components. Useful as a classroom build for illustrating air quality monitoring and engineering with an approximate materials cost of $60 USD."
+documentation-language = "en"
+organization = "Make Human Technology"
+release = "https://github.com/makehumantechnology/co2ampel/commit/6d8bb1661ec43659d1f3486983c09b3d49b8778d"
+readme = "https://github.com/makehumantechnology/co2ampel/blob/main/README.md"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "G01N 7/00"
+tsdc = "ASM" 
+bom = "https://github.com/makehumantechnology/co2ampel#bom"
+manufacturing-instructions = "https://github.com/makehumantechnology/co2ampel/tree/main/docs"
+source = [
+     "https://github.com/makehumantechnology/co2ampel/blob/main/board/powerboard.png",
+     "https://github.com/makehumantechnology/co2ampel/blob/main/board/powerboard_ampel.fzz",
+     "https://github.com/makehumantechnology/co2ampel/blob/main/stl/unterseite_neu_v6.stl",
+     "https://github.com/makehumantechnology/co2ampel/blob/main/svg/GehaeuseSeitenteileV2Brighty.svg",
+     "https://github.com/makehumantechnology/co2ampel/blob/main/svg/GehaeuseTransparentv2.svg"
+]
+
+[[software]]
+release = "https://github.com/makehumantechnology/co2ampel/tree/main/code"
+installation-guide = "https://github.com/makehumantechnology/co2ampel/blob/main/code/co2ampel.ino"
+
+[[software]]
+release = "https://github.com/makehumantechnology/co2ampel/tree/main/code"
+installation-guide = "https://github.com/makehumantechnology/co2ampel/blob/main/code/co2ampel_16led_esp32.bin"
+
+[[image]]
+location = "https://makehumantechnology.org/wp-content/uploads/2020/02/cropped-mht_logo_transparent-1-250x83.png"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://github.com/makehumantechnology/co2ampel/blob/main/co2ampel.png?raw=true"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://github.com/makehumantechnology/co2ampel/blob/main/docs/step1.png?raw=true"
+
+[[image]]
+location = "https://github.com/makehumantechnology/co2ampel/blob/main/docs/step10.png?raw=true"
+
+[[image]]
+location = "https://github.com/makehumantechnology/co2ampel/blob/main/docs/step11.png?raw=true"
+
+[[image]]
+location = "https://github.com/makehumantechnology/co2ampel/blob/main/docs/step12.png?raw=true"
+
+[[image]]
+location = "https://github.com/makehumantechnology/co2ampel/blob/main/docs/step13.png?raw=true"
+
+[[image]]
+location = "https://github.com/makehumantechnology/co2ampel/blob/main/docs/step14.png?raw=true"
+
+[[image]]
+location = "https://github.com/makehumantechnology/co2ampel/blob/main/docs/step15.png?raw=true"
+
+[[image]]
+location = "https://github.com/makehumantechnology/co2ampel/blob/main/docs/step16.png?raw=true"
+
+[[image]]
+location = "https://github.com/makehumantechnology/co2ampel/blob/main/docs/step17.png?raw=true"
+
+[[image]]
+location = "https://github.com/makehumantechnology/co2ampel/blob/main/docs/step2.png?raw=true"
+
+[[image]]
+location = "https://github.com/makehumantechnology/co2ampel/blob/main/docs/step3.png?raw=true"
+
+[[image]]
+location = "https://github.com/makehumantechnology/co2ampel/blob/main/docs/step4.png?raw=true"
+
+[[image]]
+location = "https://github.com/makehumantechnology/co2ampel/blob/main/docs/step5.png?raw=true"
+
+[[image]]
+location = "https://github.com/makehumantechnology/co2ampel/blob/main/docs/step6.png?raw=true"
+
+[[image]]
+location = "https://github.com/makehumantechnology/co2ampel/blob/main/docs/step7.png?raw=true"
+
+[[image]]
+location = "https://github.com/makehumantechnology/co2ampel/blob/main/docs/step8.png?raw=true"
+
+[[image]]
+location = "https://github.com/makehumantechnology/co2ampel/blob/main/docs/step9.png?raw=true"
