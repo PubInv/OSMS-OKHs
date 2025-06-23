@@ -1,0 +1,59 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Corsi-Rosenthal_Cube"
+repo = "https://encycla.com/Corsi-Rosenthal_Cube"
+version = "1.0.0"
+license = "CC-BY-SA-4.0"
+licensor = "Philip Neustrom <https://twitter.com/philipn>"
+function = "Peer-reviewed and fully documented design for air cleaning and ventilation, which incorporates a box fan with MERV-13 furnace filters to capture particulate and biological material from the air. Project link includes Spanish instructions. A basic Corsi Cube can easily be built for under $100 USD. If using 3DP corners, always use tape to seal the horizontal (fan side) and vertical (air filter) edges to avoid filtration performance loss."
+documentation-language = "en"
+organization = "Encycla"
+readme = "https://encycla.com/#history"
+contribution-guide = "https://encycla.com/%40philipn/Corsi-Rosenthal_Cube"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+publication = "https://www.wired.com/story/could-a-janky-jury-rigged-air-purifier-help-fight-covid-19/"
+cpc-patent-class = "F24F 1/00"
+tsdc = "ASM" 
+bom = "https://encycla.com/#filter-brands-to-potentially-avoid"
+manufacturing-instructions = "https://encycla.com/#construction-guide"
+user-manual = "https://encycla.com/#power-usage-noise--safety"
+source = [
+     "https://www.texairfilters.com/how-to-improve-the-efficiency-of-the-box-fan-and-merv-13-filter-air-cleaner/",
+     "http://media.encycla.com/a0c6ac9b1b2e17fbee0a16ebc01ebecf9e451983_1440w_1.png",
+     "http://media.encycla.com/cd7fa10e0c3830bf53d928e6efc8af54a3c63d3b_1440w_1.png",
+     "http://media.encycla.com/a510389661d07b9001aaffdd6cc92815ea16dcee_1440w_1.png"
+]
+
+[[image]]
+location = "https://encycla.com/_static/images/logo-0000000001.svg"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "http://media.encycla.com/bd705b14d6652b9a3792ce1f01824047003a23aa_1440w_1.jpg"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "http://media.encycla.com/599033b0bbb07f5948436d67f5b2a57dab9b06c7_1440w_1.jpg"
+
+[[image]]
+location = "http://media.encycla.com/244d37f6838db0c264396b8cac9adf6d79cdd24e_1440w_1.jpeg"
+
+[[image]]
+location = "http://media.encycla.com/8709c3150b0c90dd09edbcc4941fd2fd026c40ae_1440w_1.jpeg"
+
+[[image]]
+location = "http://media.encycla.com/68d7f5cd4dbb0ba824432b52d26b16b3f2f10453_1440w_1.jpg"
