@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Helpful_Engineering-Project_Apollo"
 repo = "https://github.com/oxycon/ProjectApollo"
 version = "2.0.0"

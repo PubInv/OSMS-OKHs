@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "MU3DMask"
 repo = "https://drive.google.com/file/d/1V5W9ABqhHy140gxZaKc2Loqz7PtC2GS0/view?usp=sharing"
 license = "LicenseRef-NOASSERTION"

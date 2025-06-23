@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Cohen-Lab-Princeton-PEEP-Expiratory-Valves"
 repo = "https://github.com/CohenLabPrinceton/pvp/tree/master/assets/cad/PEEP-expiratory-valve"
 version = "1.0.0"

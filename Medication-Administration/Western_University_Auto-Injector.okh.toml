@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Western_University_Auto-Injector"
 repo = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288696"
 version = "1.0.0"

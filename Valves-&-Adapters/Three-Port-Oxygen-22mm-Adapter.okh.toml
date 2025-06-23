@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Three-Port-Oxygen-22mm-Adapter"
 repo = "https://grabcad.com/library/three-port-oxygen-22mm-adapter-1?fbclid=IwAR2HSMMj9pyb2aEhvvIL1llibAZUsmg1uRG8l0u9LNSIJikijB2u5_6J-Xo"
 version = "2.0.0"

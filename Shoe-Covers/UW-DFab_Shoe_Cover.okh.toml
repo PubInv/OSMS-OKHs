@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "UW-DFab_Shoe_Cover"
 repo = "https://3d.nih.gov/entries/3DPX-014692"
 version = "1.0.0"

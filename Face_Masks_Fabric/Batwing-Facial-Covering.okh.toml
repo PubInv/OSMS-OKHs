@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Batwing-Facial-Covering"
 repo = "https://fabricmail.com/products/batwing-facial-covering?_pos=6&_sid=450f7395d&_ss=r"
 license = "LicenseRef-NOASSERTION"

@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Artisan’s-Asylum-Reusable-Gown-Prototype"
 repo = "https://drive.google.com/drive/u/1/folders/1bDvQRakFUvFEsqsF_s1OA5BxQFvdKG_s"
 license = "LicenseRef-NOASSERTION"

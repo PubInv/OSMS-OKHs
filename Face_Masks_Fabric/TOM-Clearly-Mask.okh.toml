@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "TOM-Clearly-Mask"
 repo = "https://tomglobal.org/project?id=5ef472c75ea9e13b5a3af2c3"
 version = "2.0.0"

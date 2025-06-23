@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "RKID-PAPR"
 repo = "https://www.rkid.co.za/covid-19-industrial-design-innovation/?fbclid=IwAR2JYE70YHg-lB3fIALZFGJnk5XKVcOmlVnKa6YAs44H0GeF352klQAH4Lw"
 license = "CC-BY-SA-4.0"

@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "MOST-Syringe-Pump"
 repo = "https://www.appropedia.org/Open-source_syringe_pump"
 version = "1.0.0"

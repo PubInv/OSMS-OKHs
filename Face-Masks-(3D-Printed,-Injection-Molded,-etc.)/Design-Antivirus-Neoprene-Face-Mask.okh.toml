@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Design-Antivirus-Neoprene-Face-Mask"
 repo = "https://www.instructables.com/id/%C3%8APA-the-Covi-19-Safe-Face-Mask/?fbclid=IwAR34a9TH73ZIzPAA2neLGT_4ROMMssWVCiViissAFcauvsAv8xKilltw5hs"
 license = "CC-BY-NC-SA-4.0"

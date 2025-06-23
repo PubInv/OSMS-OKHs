@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "TSMMG-Clear-Mask-with-Nose-Contour"
 repo = "https://drive.google.com/drive/folders/1ZuSMS5BdKDVzNRueWjbsX40ibR6M6g4D?fbclid=IwAR3hj7X3IEGPtUoVIgWxOPbYTyR04gDtl2sQLGWwfLWgJm_zg5z7Yf7O6tU"
 license = "LicenseRef-NOASSERTION"

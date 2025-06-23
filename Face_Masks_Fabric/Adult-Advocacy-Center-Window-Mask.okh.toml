@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Adult-Advocacy-Center-Window-Mask"
 repo = "https://docs.google.com/presentation/d/13XcUyeWQhnfaLVn8af1YU3AChaZJnCv5OSeTxIAdLLk/edit?fbclid=IwAR3ODGGYen4hcc8OW5NNqryf61aQO0esc6k9jM5GSJcs4Tf92KXgKnn4BDQ#slide=id.g75316b0861_0_141"
 license = "LicenseRef-NOASSERTION"

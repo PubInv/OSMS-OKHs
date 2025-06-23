@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "NCPPE_Covid-19_Face_Mask"
 repo = "https://www.thingiverse.com/thing:4429673?fbclid=IwAR14lbvf0vavRvekZHHJDeulNalcaFDu_h9uC3JUXgqUOjsxPnsilRVs36Y"
 version = "1.0.0"

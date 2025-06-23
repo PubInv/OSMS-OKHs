@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Iris-Luckhaus-Hybrid-Mask"
 repo = "https://www.irisluckhaus.de/en/2020/diy-cloth-mask/?fbclid=IwAR21stk43cp6XHZTcjqjxawuMKPDOo8T4kmj4eOeQuMA8oPCJSphIzlzUCs"
 version = "6.0.0"

@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Metal-Nose-Bridge-Support"
 repo = "http://web.archive.org/web/20200804170222/https://learnmaketeachshare.org/mask/2020/04/21/making-nose-strips.for-people-sewing-masks.html"
 license = "LicenseRef-NOASSERTION"

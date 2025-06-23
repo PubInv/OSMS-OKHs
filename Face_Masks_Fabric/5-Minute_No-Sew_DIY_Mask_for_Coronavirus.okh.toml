@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "5-Minute_No-Sew_DIY_Mask_for_Coronavirus"
 repo = "https://www.youtube.com/watch?v=Mr1o0X275jU"
 license = "LicenseRef-NOASSERTION"

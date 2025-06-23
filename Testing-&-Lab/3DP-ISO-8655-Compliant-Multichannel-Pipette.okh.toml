@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "3DP-ISO-8655-Compliant-Multichannel-Pipette"
 repo = "https://www.appropedia.org/Open_Source_3-D_Printed_ISO_8655_Compliant_Multichannel_Pipette"
 version = "1.0.0"

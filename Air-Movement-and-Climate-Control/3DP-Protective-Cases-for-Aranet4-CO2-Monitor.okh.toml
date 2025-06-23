@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "3DP-Protective-Cases-for-Aranet4-CO2-Monitor"
 repo = "https://www.printables.com/model/238217-aranet4-co2-monitor-protective-case-with-strap-han"
 version = "1.0.0"

@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Corsi-Rosenthal_Cube"
 repo = "https://encycla.com/Corsi-Rosenthal_Cube"
 version = "1.0.0"

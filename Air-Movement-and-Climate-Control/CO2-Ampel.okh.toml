@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "CO2-Ampel"
 repo = "https://github.com/makehumantechnology/co2ampel"
 version = "1.0.0"

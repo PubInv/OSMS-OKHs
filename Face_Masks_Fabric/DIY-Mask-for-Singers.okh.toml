@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "DIY-Mask-for-Singers"
 repo = "https://www.youtube.com/watch?v=azEIkHsa7uE"
 version = "2.0.0"

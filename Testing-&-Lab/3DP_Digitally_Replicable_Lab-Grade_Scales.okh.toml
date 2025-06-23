@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "3DP_Digitally_Replicable_Lab-Grade_Scales"
 repo = "https://www.appropedia.org/Open_Source_Digitally_Replicable_Lab-Grade_Scales"
 version = "1.0.0"

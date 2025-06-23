@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Helmet-Ventilation-Fitting-and-Interface"
 repo = "https://www.thingiverse.com/thing:4311901?fbclid=IwAR0YqhxYrWp0c3_D19ooIIra_mhk-uVs1P_8Y0OoS1AeBvtFDffLvonyMoQ"
 version = "1.0.0"

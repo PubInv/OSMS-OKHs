@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Boise-Ear-Saver"
 repo = "https://www.thingiverse.com/thing:4271677?fbclid=IwAR0yOkkfHfTb2QZ5xTSNwpIGbObHGEUMbUg9lPveZx3eRPLicuUAJ1PuYsQ"
 version = "2.0.0"

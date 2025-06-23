@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Air-Cleaner-2-Modular-Corsi-Rosenthal-Box"
 repo = "https://github.com/MechaFlowManiac/Air-Cleaner-2"
 version = "2.0.0"

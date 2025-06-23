@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Prusa-Face-Shield-for-Dentist"
 repo = "https://www.printables.com/model/30615-prusa-face-shield-for-dentist"
 license = "CC-BY-4.0"

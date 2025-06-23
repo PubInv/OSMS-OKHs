@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "3M-6000_7500_7502-Series-Half-Face-Mask-Adapter"
 repo = "https://www.thingiverse.com/thing:4167750"
 version = "4.0.0"

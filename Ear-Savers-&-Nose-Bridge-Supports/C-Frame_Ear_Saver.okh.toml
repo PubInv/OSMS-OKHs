@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "C-Frame_Ear_Saver"
 repo = "https://www.thingiverse.com/thing:4551658?fbclid=IwAR1pkdsksSFGdUg4bAb2keCNcHcmQ7S0ylUrxk3XXvLB7w4GT39Hq2iS4SE"
 version = "2.0.0"

@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Simple-DIY-ECG+Pulse-Oximeter-(Version-2)"
 repo = "https://www.swharden.com/wp/2013-04-14-simple-diy-ecg-pulse-oximeter-version-2/"
 version = "2.0.0"

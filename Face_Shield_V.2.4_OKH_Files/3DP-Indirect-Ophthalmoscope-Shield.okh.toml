@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "3DP-Indirect-Ophthalmoscope-Shield"
 repo = "https://makernexuswiki.com/wiki/3D_printed_Indirect_Ophthalmoscope_shields?fbclid=IwAR2krTFmzUo0L729KpnQj9A_BIOEz0LWkAoUiXptsMYAeU3xx-GpTqUxa7Q"
 license = "CC-BY-NC-SA-3.0-US"

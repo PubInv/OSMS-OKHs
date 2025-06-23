@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Parkinson's-Pill-bottle-insert"
 repo = "https://www.printables.com/model/52157-parkinsons-pill-bottle-insert"
 version = "1.0.0"

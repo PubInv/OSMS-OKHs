@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Heater-Bloc-Copper-Coil-Heater"
 repo = "https://drive.google.com/file/d/1N-q3Zu6jngpSJdXUoSkWl4YKb26RCvAV/view?usp=sharing"
 version = "1.0.0"

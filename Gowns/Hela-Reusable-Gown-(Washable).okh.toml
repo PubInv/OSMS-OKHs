@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Hela-Reusable-Gown-(Washable)"
 repo = "https://docs.google.com/drawings/d/1wQigqaUywnTXg62eFRUVNCysCy9JsMeyxY-lpR8TW80/edit"
 license = "LicenseRef-NOASSERTION"

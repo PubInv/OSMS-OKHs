@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Sea-Mass_Ear_Saver"
 repo = "https://www.thingiverse.com/thing:4318427?fbclid=IwAR1qYllqIeSL5fKwZCOZiKyx-MVzzqWGsf2Tm45F9oUvUEjuhlXjfmaVLNI"
 license = "CC-BY-4.0"

@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Mini-Corsi-Rosenthal-Box"
 repo = "https://www.printables.com/model/131142-diy-mini-air-purifier-corsi-rosenthal-box/comments"
 version = "1.0.0"

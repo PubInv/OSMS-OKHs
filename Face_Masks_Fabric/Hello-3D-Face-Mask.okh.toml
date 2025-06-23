@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Hello-3D-Face-Mask"
 repo = "https://hellosewing.com/3d-face-mask-diy/?fbclid=IwAR0lFcHea11VMDZNYNeSL0HXyzDGUkqg4NOHrQetOmOQdI_VJMZrg7su7EI"
 license = "LicenseRef-NOASSERTION"

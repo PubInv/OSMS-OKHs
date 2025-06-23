@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Handyfuge_Portable_Hand-Powered_Centrifuge"
 repo = "https://github.com/ethanjli/handyfuge?fbclid=IwAR2381vcTMv0g18EMmC-btxzCohUrMZncDF-Saqgr9Em1hbs5oGVGxstZCU"
 version = "2.0.0"

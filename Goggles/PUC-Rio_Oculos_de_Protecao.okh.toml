@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "PUC-Rio_Oculos_de_Protecao"
 repo = "https://drive.google.com/drive/folders/1O5yAkDuu6TZSS_KA0XeO9hOJu2UZJwbH?sort=13&direction=a"
 license = "CC-BY-NC-4.0"

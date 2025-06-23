@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Something-Labs-Impermeable-Gown"
 repo = "https://drive.google.com/drive/folders/1Ru_9RBYsmFNV6vcSD15HPQwzRf03KuJH"
 version = "1"

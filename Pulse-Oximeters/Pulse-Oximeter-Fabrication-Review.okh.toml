@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Pulse-Oximeter-Fabrication-Review"
 repo = "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blob/master/pulseox/README.md"
 version = "4.0.0"

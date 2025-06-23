@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Hackaday-Oximeter-do-it-yourself"
 repo = "https://hackaday.io/project/170752-oximeter-do-it-yourself"
 license = "LicenseRef-NOASSERTION"

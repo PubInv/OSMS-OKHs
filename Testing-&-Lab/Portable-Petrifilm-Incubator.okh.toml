@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Portable-Petrifilm-Incubator"
 repo = "https://www.instructables.com/Portable-Petrifilm-Incubator-for-Inexpensive-In-Fi/"
 version = "1.0.0"

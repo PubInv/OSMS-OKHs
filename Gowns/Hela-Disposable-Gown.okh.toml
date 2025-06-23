@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Hela-Disposable-Gown"
 repo = "https://drive.google.com/drive/u/0/folders/1oucDrWkrzXV3u6frnn6d9WZqNB437EFF"
 license = "LicenseRef-NOASSERTION"

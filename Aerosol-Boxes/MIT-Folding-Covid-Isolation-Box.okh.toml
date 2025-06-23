@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "MIT-Folding-Covid-Isolation-Box"
 repo = "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box"
 license = "LicenseRef-NOASSERTION"

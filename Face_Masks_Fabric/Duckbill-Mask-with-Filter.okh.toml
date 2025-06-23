@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Duckbill-Mask-with-Filter"
 repo = "https://www.instructables.com/Face-Mask-Duckbill-With-Filter/"
 version = "0.4"

@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Prusa_Children's_Face_Shield-USA_Version"
 repo = "https://www.printables.com/model/35798-childrens-face-shield-usa-version"
 license = "CC-BY-NC-4.0"

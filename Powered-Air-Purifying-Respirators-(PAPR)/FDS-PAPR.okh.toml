@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "FDS-PAPR"
 repo = "https://github.com/nathanjds001/fdspapr"
 license = "GPL-3.0 AND CC-BY-NC-SA-4.0"

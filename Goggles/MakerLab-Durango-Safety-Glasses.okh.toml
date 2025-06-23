@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "MakerLab-Durango-Safety-Glasses"
 repo = "https://drive.google.com/open?id=1hTAns69FP0wuneapmiJC8xBCHZ6P8AD5"
 license = "LicenseRef-NOASSERTION"

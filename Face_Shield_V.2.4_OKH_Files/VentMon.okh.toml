@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0" # NOT to be changed
+okhv = "2.4" # NOT to be changed
 name = "VentMon"
 repo = "https://github.com/PubInv/ventmon-ventilator-inline-test-monitor"
 version = "0.5"

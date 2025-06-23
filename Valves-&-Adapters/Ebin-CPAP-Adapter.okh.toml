@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Ebin-CPAP-Adapter"
 repo = "https://drive.google.com/file/d/1Tli-Pm7Z7Ni7OwgPLBuvH2rL106SWzR0/view?usp=sharing"
 version = "1.0.0"

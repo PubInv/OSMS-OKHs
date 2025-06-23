@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Maker-Wasi-Face-Protector-for-Children"
 repo = "https://drive.google.com/drive/folders/1z5V-Vr2IhNkTULRHYDnu3yJRtQnGGCZc?fbclid=IwAR2wEgah40o1h6iQ1NisTrRpCynAJjcoMkE5fzAlE58WjQraAQwcUQVPNYo"
 license = "LicenseRef-NOASSERTION"

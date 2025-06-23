@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Hello-Sewing-Child-Masks"
 repo = "https://hellosewing.com/kids-face-mask-template/?fbclid=IwAR19sHzuef7QBVcyCVJxHxuYXHw-WBkY7mhmT1mmko5OwlR0hPwO4lX7qIs"
 license = "LicenseRef-NOASSERTION"

@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "CDS_Face_Shield_Frame-Sized_for_Child"
 repo = "https://www.printables.com/model/84080-face-shield-frame-sized-for-child"
 license = "CC-BY-NC-4.0"

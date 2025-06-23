@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Makery-Do-it-Yourself:-pick-up-your-pulse-with-your-fingertips"
 repo = "https://www.makery.info/en/2014/11/11/bricole-it-yourself-capter-son-pouls-du-bout-du-doigt/"
 license = "CC-BY-NC-SA-4.0"

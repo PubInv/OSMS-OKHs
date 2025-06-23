@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "MakerMask-Expression-(Window Mask)"
 version = "Beta"
 repo = "https://makermask.org/masks/expression-window-mask/?fbclid=IwAR18d4I7Sv80Yk5ldbYUr5OlylgtgpdDULDQQoGdFOn7wya0zztDRhmbgQk"

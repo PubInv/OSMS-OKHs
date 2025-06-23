@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "YourDesignMedical-Intubation-Tent"
 repo = "https://yourdesignmedical.com/blogs/making-a-safe-intubation-space-for-covid19/creating-a-biohazard-space"
 version = "3.0.0"

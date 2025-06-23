@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Create-a-Simple-Pulse-Oximeter-with-EFM32-Tiny-Gecko"
 repo = "https://www.silabs.com/community/projects.entry.html/2012/11/26/create_a_simple_puls-zfXZ"
 version = "3.0.0"

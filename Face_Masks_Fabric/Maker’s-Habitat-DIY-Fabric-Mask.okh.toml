@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Maker’s-Habitat-DIY-Fabric-Mask"
 repo = "https://www.facebook.com/makershabitatkl/videos/2504854873098703/"
 license = "LicenseRef-NOASSERTION"

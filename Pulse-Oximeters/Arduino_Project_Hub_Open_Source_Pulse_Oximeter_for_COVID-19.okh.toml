@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Arduino_Project_Hub_Open_Source_Pulse_Oximeter_for_COVID-19"
 repo = "https://projecthub.arduino.cc/cerebrum_2020/pulse-oximeter-for-emergency-use-during-coronavirus-disease-75758a"
 version = "1.0.0"

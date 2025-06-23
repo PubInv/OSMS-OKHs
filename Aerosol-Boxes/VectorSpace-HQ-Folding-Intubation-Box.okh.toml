@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "VectorSpace-HQ-Folding-Intubation-Box"
 repo = "https://github.com/VectorSpaceHQ/Folding-Intubation-Box"
 license = "GPL-3.0-only"

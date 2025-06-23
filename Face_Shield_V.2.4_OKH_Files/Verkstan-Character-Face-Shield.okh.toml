@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Verkstan-Character-Face-Shield"
 repo = "https://www.thingiverse.com/thing:4329237?fbclid=IwAR0Z7I4WIYNb7-8m2lJB_kVTNFBA2EzOi3umk0BN3N8sdkBj2lXPvOlg7zs"
 license = "CC-BY-SA-3.0"

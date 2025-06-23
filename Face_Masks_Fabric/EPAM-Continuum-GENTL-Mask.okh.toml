@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "EPAM-Continuum-GENTL-Mask"
 repo = "https://solutionshub.epam.com/solution/epam-gentl-face-mask"
 version = "2.0.0"

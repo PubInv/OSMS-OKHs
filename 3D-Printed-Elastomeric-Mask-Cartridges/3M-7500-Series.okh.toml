@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "3M-7500-Series"
 repo = "https://www.thingiverse.com/thing:4444335?fbclid=IwAR3AAHtnpMFUmXLJYwC52x09T874BFEQPq95UlWWixw6vCthJfSbWM03kC4"
 license = "CC-BY-NC-4.0"

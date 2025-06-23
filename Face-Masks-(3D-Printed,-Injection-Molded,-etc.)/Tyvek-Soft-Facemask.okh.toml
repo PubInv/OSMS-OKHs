@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Tyvek-Soft-Facemask"
 repo = "https://www.thingiverse.com/thing:4257706?fbclid=IwAR3kf1TPndvgbJBko3u5LhUB-mfFUCDu01khFlNCN21vBMrifof3LLYPakg#google_vignette"
 version = "2.0.0"

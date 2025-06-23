@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Laser-Cut-Origami-Ear-Extender"
 repo = "https://drive.google.com/drive/folders/1EF_JMYHGvaZpEpRVaI6WjnWRKaSxvNEj?usp=sharing"
 license = "LicenseRef-NOASSERTION"

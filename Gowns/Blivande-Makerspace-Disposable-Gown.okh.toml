@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Blivande-Makerspace-Disposable-Gown"
 repo = "https://forum.blivande.com/t/5-can-you-share-your-blueprints-and-instructions/910"
 version = "0.9"

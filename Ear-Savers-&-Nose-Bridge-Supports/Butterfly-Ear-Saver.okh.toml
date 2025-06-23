@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Butterfly-Ear-Saver"
 repo = "https://www.thingiverse.com/thing:4264697?fbclid=IwAR1gea7Y9CSHaS9sXNw16QSoGpcye2fHvQxs39Svv0-ypkBx9HcPDiKFp1o"
 version = "3.0.0"

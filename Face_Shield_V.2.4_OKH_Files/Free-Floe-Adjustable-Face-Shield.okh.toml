@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Free-Floe-Adjustable-Face-Shield"
 repo = "https://freefloe.com/faceshield"
 version = "4"

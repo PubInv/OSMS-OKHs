@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "3DP-Nutating-Mixer"
 repo = "https://www.appropedia.org/Open_Source_3-D_Printed_Nutating_Mixer"
 version = "1.0.0"

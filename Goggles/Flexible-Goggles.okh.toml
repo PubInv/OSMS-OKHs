@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Flexible-Goggles"
 repo = "https://www.printables.com/model/59044-flexible-goggles-optimised-for-3dp-print-on-transp"
 license = "CC-BY-4.0"
