@@ -1,0 +1,73 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Mini-Corsi-Rosenthal-Box"
+repo = "https://www.printables.com/model/131142-diy-mini-air-purifier-corsi-rosenthal-box/comments"
+version = "1.0.0"
+license = "CC-BY-NC-SA-4.0"
+licensor = "Robagon 3D <https://www.printables.com/@Robagon3D>"
+function = "A 3DP bottom stand and top ring holds four 12” furnace filters for a smaller version of the Corsi box. Always use tape to seal the horizontal (fan side) and vertical (air filter) edges to avoid filtration performance loss."
+documentation-language = "en"
+organization = "Printables"
+release = "https://www.printables.com/model/131142-diy-mini-air-purifier-corsi-rosenthal-box-updated/comments"
+readme = "https://www.printables.com/model/131142-diy-mini-air-purifier-corsi-rosenthal-box-updated"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "F24F 1/00"
+tsdc = "3DP" 
+bom = "https://www.printables.com/model/131142-diy-mini-air-purifier-corsi-rosenthal-box-updated"
+manufacturing-instructions = "https://www.printables.com/model/131142-diy-mini-air-purifier-corsi-rosenthal-box-updated"
+source = [
+     "https://www.printables.com/model/131142-diy-mini-air-purifier-corsi-rosenthal-box-updated/files",
+     "https://media.printables.com/media/prints/131142/stls/5128648_3af90dba-b164-4b55-a510-6789dab7eb13_0110b0f5-1bd4-4b88-b2a5-0b9b086faace/thumbs/inside/1280x960/png/upperframe-rev2_mini_c-r_box_robagon3d_preview.webp",
+     "https://media.printables.com/media/prints/131142/images/1257154_550adebf-4cfa-4b1e-86da-123df5a69111/thumbs/inside/1280x960/png/robagon3d_mini_c-r_box_12x24x1.webp",
+     "https://media.printables.com/media/prints/131142/images/1257156_8a6597b6-87d1-49a7-b621-bfcf84c490b4/thumbs/inside/1280x960/png/robagon3d_mini_c-r_box_exploded.webp",
+     "https://media.printables.com/media/prints/131142/images/1257155_281cccb6-3cc0-47e2-99d7-ed997f2defc7/thumbs/inside/1280x960/png/robagon3d_mini_c-r_box_sizes.webp"
+]
+
+[[image]]
+location = "https://media.printables.com/media/auth/avatars/24/thumbs/cover/320x320/png/248b52a3-35df-4019-a1fa-aefd2813c3bc.webp"
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://media.printables.com/media/prints/131142/images/1257270_630223fb-9a06-4d49-a9b0-53b822921ce4/thumbs/inside/1280x960/jpg/robagon3d_mini_c-r_box.webp"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://media.prusaprinters.org/media/prints/131142/rich_content/57af4791-dcf9-4a05-a696-57497c65409e/image.png"
+
+[[image]]
+location = "https://media.prusaprinters.org/media/prints/131142/rich_content/45f6af80-5d67-4b22-bb0f-1af8a57ac334/image.png"
+
+[[image]]
+location = "https://media.prusaprinters.org/media/prints/131142/rich_content/5b230c38-5af9-4d46-904e-cbda1117a59c/image.png"
+
+[[image]]
+location = "https://media.prusaprinters.org/media/prints/131142/rich_content/3581b351-80e2-491a-95be-0f8a56542576/image.png"
+
+[[image]]
+location = "https://media.prusaprinters.org/media/prints/131142/rich_content/745b18cf-61d3-42c2-80a5-467f4fdbe9cc/image.png"
+
+[[image]]
+location = "https://media.prusaprinters.org/media/prints/131142/rich_content/ae3874ed-7e66-4c0a-9a6a-79411b7a587d/image.png"
+
+[[image]]
+location = "https://media.prusaprinters.org/media/prints/131142/rich_content/cb55b019-4282-4509-808d-4b7454e49f41/image.png"
+
+[[image]]
+location = "https://media.prusaprinters.org/media/prints/131142/rich_content/b5adb672-781d-4389-b1f8-44874698e8d4/image.png"
+
+[[image]]
+location = "https://media.prusaprinters.org/media/prints/131142/rich_content/54cfd6f3-cd13-4932-9483-bc791349dad9/image.png"
