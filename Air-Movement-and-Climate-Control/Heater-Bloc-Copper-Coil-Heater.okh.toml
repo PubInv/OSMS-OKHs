@@ -1,0 +1,20 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Heater-Bloc-Copper-Coil-Heater"
+repo = "https://drive.google.com/file/d/1N-q3Zu6jngpSJdXUoSkWl4YKb26RCvAV/view?usp=sharing"
+version = "1.0.0"
+license = "LicenseRef-NOASSERTION"
+licensor = "Heater Bloc <HeaterBloc@Gmail.com>"
+function = "Detailed instructable for building a tent-safe heater for less than $10 USD/unit, incorporating mason jars, copper coils, wire mesh, terra cotta, and isopropyl alcohol. Be sure to use heat-tempered (high temperature safe) jars and terra cotta."
+documentation-language = "en"
+organization = "Heater Bloc"
+readme = "https://drive.google.com/file/d/1N-q3Zu6jngpSJdXUoSkWl4YKb26RCvAV/view?usp=sharing"
+technology-readiness-level = "OTRL-2"
+documentation-readiness-level = "ODRL-1"
+cpc-patent-class = "F23D 5/00"
+tsdc = "ASM" 
+bom = "https://drive.google.com/file/d/1N-q3Zu6jngpSJdXUoSkWl4YKb26RCvAV/view?usp=sharing"
+manufacturing-instructions = "https://drive.google.com/file/d/1N-q3Zu6jngpSJdXUoSkWl4YKb26RCvAV/view?usp=sharing"
