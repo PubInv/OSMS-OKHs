@@ -1,0 +1,98 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "AirMeter.io-CO2-Monitor"
+repo = "https://airmeter.io/make/epd213"
+version = "1.0.0"
+license = "GPL-3.0"
+licensor = "Josep Comas <https://github.com/jcomas>"
+function = "A highly portable AirMeter.io device with an ePaper display that has great battery life even when connected to WIFI. The display provides live readings, charts and access to the CO2 sensor calibration sequence."
+documentation-language = "en"
+organization = "AirMeter-io"
+readme = "https://airmeter.io/"
+contribution-guide = "https://airmeter.io/credits"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A41D 13/11"
+tsdc = "ASM" 
+bom = "https://airmeter.io/make/sensor-assemblies/sunrise"
+manufacturing-instructions = [
+   "https://airmeter.io/make/epd213",
+   "https://airmeter.io/make/sensor-assemblies/sunrise",
+   "https://airmeter.io/make/epd213/prepare",
+   "https://airmeter.io/make/epd213/battery",
+   "https://airmeter.io/make/epd213/assemble"
+]
+source = [
+     "https://github.com/airmeter-io/SensorAssembly",
+     "https://github.com/airmeter-io/epd213"
+]
+
+[[software]]
+release = "https://airmeter.io/cloud/"
+installation-guide = "https://mosquitto.org/"
+
+[[software]]
+release = "https://airmeter.io/cloud/"
+installation-guide = "https://github.com/influxdata/influxdb"
+
+[[software]]
+release = "https://airmeter.io/cloud/"
+installation-guide = "https://github.com/influxdata/telegraf"
+
+[[software]]
+release = "https://airmeter.io/cloud/"
+installation-guide = "https://github.com/grafana/grafana"
+
+[[image]]
+location = "https://airmeter.io/buildimages/v1.0/finished-device.jpg"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://airmeter.io/buildimages/v1.0/pcbsunrise-step4-output.jpg"
+
+[[image]]
+location = "https://airmeter.io/buildimages/v1.0/pcbsunrise-step1-parts.jpg"
+
+[[image]]
+location = "https://airmeter.io/buildimages/v1.0/pcbsunrise-step1-output.jpg"
+
+[[image]]
+location = "https://airmeter.io/buildimages/v1.0/pcbsunrise-step2-parts.jpg"
+
+[[image]]
+location = "https://airmeter.io/buildimages/v1.0/pcbsunrise-step2-output.jpg"
+
+[[image]]
+location = "https://airmeter.io/buildimages/v1.0/pcbsunrise-step3-parts.jpg"
+
+[[image]]
+location = "https://airmeter.io/buildimages/v1.0/pcbsunrise-step3-output.jpg"
+
+[[image]]
+location = "https://airmeter.io/buildimages/v1.0/pcbsunrise-step4-parts.jpg"
+
+[[image]]
+location = "https://airmeter.io/buildimages/v1.0/pcbsunrise-step4-output.jpg"
+
+[[image]]
+location = "https://airmeter.io/buildimages/v1.0/lilygo213-step1.jpg"
+
+[[image]]
+location = "https://airmeter.io/buildimages/v1.0/lilygo213-step2.jpg"
+
+[[image]]
+location = "https://airmeter.io/buildimages/v1.0/lilygo213-step3.jpg"
+
+[[image]]
+location = "https://airmeter.io/buildimages/v1.0/battery.jpg"
+
+[[image]]
+location = "https://airmeter.io/buildimages/v1.0/assembled.jpg"
