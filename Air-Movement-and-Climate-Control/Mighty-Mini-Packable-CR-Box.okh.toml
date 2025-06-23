@@ -1,0 +1,33 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Mighty-Mini-Packable-CR-Box"
+repo = "https://www.printables.com/model/441203-mighty-mini-cr-box"
+version = "1.0.0"
+license = "CC-PDDC"
+licensor = "dgleich <https://www.printables.com/@dgleich_740047>"
+function = "Portable, packable air filter designed to be transported flat and assembled on location. Includes Filtrete 1900 filters, 3DP grids, and dxf files for chipboard or aluminum cutting."
+documentation-language = "en"
+organization = "Printables"
+readme = "https://www.printables.com/model/441203-mighty-mini-cr-box"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "F24F 1/00"
+tsdc = "3DP"
+bom = "https://www.printables.com/model/441203-mighty-mini-cr-box"
+manufacturing-instructions = "https://www.printables.com/model/441203-mighty-mini-cr-box"
+source = "https://www.printables.com/model/441203-mighty-mini-cr-box/files"
+
+[[image]]
+location = "https://cdn.prod.website-files.com/679bd6d8e9c2f7d8d67ee78a/67be8b06ce1aa6eed6b4702c_67b4e8efa1aab15240e87cc3_MIGHTYMINI.png"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://media.printables.com/media/prints/441203/images/3645682_06d48d09-5020-4b6a-a2b2-f4cd9e9e755d/thumbs/inside/1280x960/jpg/img_0340.webp"
