@@ -3,7 +3,7 @@
 # SPDX-License-Identifier: CC0-1.0
 
 okhv = "OKH-LOSHv1.0"
-name = "Lil’-Air-Cleaner"
+name = "Lil-Air-Cleaner"
 repo = "https://github.com/Edderic/breathesafe/blob/development/python/notebooks/lil-air-cleaner.ipynb"
 version = "1.0.0"
 license = "GPL-3.0-only"
