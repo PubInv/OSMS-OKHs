@@ -17,7 +17,7 @@ contribution-guide = "https://github.com/Edderic/breathesafe/graphs/contributors
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "F24F 1/00"
-tsdc = "MEC/ASM/etc." # Void if there is no valid licence. Possible values for the project listed here: https://gitlab.com/OSEGermany/oh-tsdc/-/blob/master/OH-TsDC.md?ref_type=heads.
+tsdc = "ASM" 
 bom = "https://github.com/Edderic/breathesafe/blob/development/python/notebooks/lil-air-cleaner.ipynb"
 manufacturing-instructions = "https://github.com/Edderic/breathesafe/blob/development/python/notebooks/lil-air-cleaner.ipynb"
 source = [
