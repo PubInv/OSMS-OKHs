@@ -18,5 +18,5 @@ image = [
 technology-readiness-level = "OTRL-2"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A62B 9/022"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 manufacturing-instructions = "https://grabcad.com/library/three-port-oxygen-22mm-adapter-1/details?folder_id=8425942"

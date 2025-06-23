@@ -14,7 +14,7 @@ readme = "https://www.voxelmatters.com/safety-goggles-to-fight-covid-19/"
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A61F 9/02"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 source = [
      "https://www.voxelmatters.com//wp-content/uploads/2020/03/Farsoon3Dprintedgoggle-LargeSize.zip",
      "https://www.voxelmatters.com//wp-content/uploads/2020/03/Farsoon3Dprintedgoggle-SmallSize.zip"

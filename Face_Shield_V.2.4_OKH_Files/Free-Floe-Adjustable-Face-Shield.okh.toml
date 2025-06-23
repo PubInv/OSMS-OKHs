@@ -20,7 +20,7 @@ publication = [
     "https://www.ktuu.com/content/news/WATCH-Engineering-student-creates-masks-for-medical-workers-570160251.html"
 ]
 cpc-patent-class = "A41D 13/11"
-tsdc = "LAS" 
+tsdc = "LAS"
 bom = "https://static1.squarespace.com/static/5e814188c85bba583b4a8db1/t/5e84dca3d893ea6060b9d368/1585765542650/FLOE+Face+Shield+Instructions+3-31-2020.pdf"
 manufacturing-instructions = "https://static1.squarespace.com/static/5e814188c85bba583b4a8db1/t/5e84dca3d893ea6060b9d368/1585765542650/FLOE+Face+Shield+Instructions+3-31-2020.pdf"
 source = [
@@ -28,10 +28,10 @@ source = [
      "https://freefloe.com/s/MK2-24x24.dxf",
      "https://static1.squarespace.com/static/5e814188c85bba583b4a8db1/t/5e83a63e0dfa0d0c21a5e91c/1585686078989/MK2+CUTTING+TEMPLATE+-+FREEFLOE+DESIGNS.pdf"
      ]
-     
+
 [outer-dimensions]
 width = 419.1
-# Height is adjustable. 
+# Height is adjustable.
 height = 285.75
 # Depth based off this welding helmet headgear, as no specific brand is specified in the Manufacturing Instructions: https://shop.pipelinerscloud.com/products/headgear?srsltid=AfmBOopQrQ8QptqeNVOlIR1e4wlewBKiyELHBk680j1e98CWuR35-Dp9&variant=42388788510941
 depth = 127

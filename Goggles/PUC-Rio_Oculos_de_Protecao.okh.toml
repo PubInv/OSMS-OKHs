@@ -16,7 +16,7 @@ organization = "PUC Rio"
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A61F 9/02"
-tsdc = "LAS" 
+tsdc = "LAS"
 manufacturing-instructions = "https://drive.google.com/file/d/1iHtWDPP4ZIEaeqv8QEy2K-sorJ1wv2LR/view?usp=sharing"
 user-manual = "https://drive.google.com/file/d/14b_138uSURZKQ7Gtq6lu93b_CaXOL1GA/view?usp=sharing"
 source = [

@@ -16,7 +16,7 @@ readme = "https://github.com/FracktalWorks/trushape-flowmeter/blob/master/README
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A61M 1/00"
-tsdc = "3DP" 
+tsdc = "3DP"
 bom = "https://github.com/FracktalWorks/trushape-flowmeter/blob/master/Process%20Parameters/Manufacturing%20Methodology%20v1.pdf"
 manufacturing-instructions = [
    "https://github.com/FracktalWorks/trushape-flowmeter/tree/master/Assembly%20Manual",

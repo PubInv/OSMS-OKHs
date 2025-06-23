@@ -17,7 +17,7 @@ readme = "https://sites.google.com/view/maskscovernm/mission-maskup-kids?authuse
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = "https://sites.google.com/view/maskscovernm/mission-maskup-kids?authuser=0"
 manufacturing-instructions = [
    # English manufacturing guides.

@@ -24,7 +24,7 @@ technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 publication = "https://ieeexplore.ieee.org/document/9252125"
 cpc-patent-class = "A42B 3/28"
-tsdc = "ASM" 
+tsdc = "ASM"
 bom = "https://drive.google.com/file/d/1jZ0a25pySPNCMuQ5Tw7bzMXcM6IB1M9-/view?usp=sharing"
 manufacturing-instructions = "https://drive.google.com/file/d/1jZ0a25pySPNCMuQ5Tw7bzMXcM6IB1M9-/view?usp=sharing"
 user-manual = [

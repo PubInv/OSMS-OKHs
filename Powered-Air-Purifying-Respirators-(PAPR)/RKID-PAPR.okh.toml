@@ -18,7 +18,7 @@ readme = [
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A62B 7/10"
-tsdc = "3DP" 
+tsdc = "3DP"
 bom = [
    "https://www.rkid.co.za/wp-content/uploads/2020/04/RKid-3a-213x300.jpg",
    "https://www.rkid.co.za/wp-content/uploads/2020/04/RKid-3b-214x300.jpg",

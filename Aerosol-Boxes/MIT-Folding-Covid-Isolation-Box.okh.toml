@@ -44,7 +44,7 @@ image = [
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "B65D 83/75"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box/-/tree/master?ref_type=heads#040820"
 manufacturing-instructions = "https://gitlab.cba.mit.edu/alfonso/covid-isolation-box#assembly-instructions"
 source = [

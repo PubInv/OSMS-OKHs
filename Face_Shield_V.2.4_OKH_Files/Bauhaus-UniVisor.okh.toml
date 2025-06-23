@@ -19,7 +19,7 @@ contribution-guide = "https://github.com/bauhausformandfunctionlab/covid19/graph
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A41D 13/11"
-tsdc = "LAS" 
+tsdc = "LAS"
 bom = "https://github.com/bauhausformandfunctionlab/covid19/tree/master/BauhausUniVisor"
 manufacturing-instructions = [
 	"https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/BauhausUniVisor_Assembly_Guide.jpg",
@@ -33,7 +33,7 @@ source = [
      "https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/coburg/2020_04_15_PRODUCTION_FILE_for_1000x430mm_PET_SHEETS_with_BRIDGES.pdf",
      "https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/coburg/2020_04_15_PRODUCTION_FILE_for_840x430mm_PET_SHEETS_02_with_BRIDGES.pdf"
      ]
-     
+
 # Not given by licensor.
 # [outer-dimensions]
 # width = 400

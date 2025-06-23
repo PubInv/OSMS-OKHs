@@ -14,7 +14,7 @@ readme = "https://docs.google.com/presentation/d/15LN2LdpVNr3e97bzGu_QnCeH0d-MGc
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/00"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = "https://docs.google.com/presentation/d/15LN2LdpVNr3e97bzGu_QnCeH0d-MGcoZg0qh4-sERr4/edit#slide=id.g840455246b_3_92"
 manufacturing-instructions = "https://docs.google.com/presentation/d/15LN2LdpVNr3e97bzGu_QnCeH0d-MGcoZg0qh4-sERr4/edit#slide=id.g773b98fb06_4_48"
 user-manual = [

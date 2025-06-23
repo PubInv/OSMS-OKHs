@@ -14,7 +14,7 @@ contribution-guide = "https://blogstudio.s3.amazonaws.com/technochic/85bd8708f8d
 technology-readiness-level = "OTRL-4"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
-tsdc = "ASM" 
+tsdc = "ASM"
 bom = "https://technochic.net/blogs/tech-craft-tutorials/the-jersey-city-face-shield-project#About"
 manufacturing-instructions = [
 	"https://youtu.be/l1FvrBrt4rw",

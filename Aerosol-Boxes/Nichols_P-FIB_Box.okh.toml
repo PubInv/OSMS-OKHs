@@ -14,7 +14,7 @@ image = "https://drive.google.com/file/d/1rqOqsRNu_J8o7xlp8y9SKfWMzJEYQjae/view?
 technology-readiness-level = "OTRL-2"
 documentation-readiness-level = "ODRL-1"
 cpc-patent-class = "B65D 83/75"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = "https://drive.google.com/file/d/1yR5UmnyepuZnd2lN6XMNK0UfGg-zMr2g/view?usp=sharing"
 manufacturing-instructions = "https://drive.google.com/file/d/1VbseMD-dElqB9EznNxvsf_iGd0I9U6Fi/view?usp=sharing"
 source = "https://drive.google.com/file/d/1VbseMD-dElqB9EznNxvsf_iGd0I9U6Fi/view?usp=sharing"

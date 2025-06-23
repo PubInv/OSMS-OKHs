@@ -13,7 +13,7 @@ organization = "Manila Protective Gear Sewing Club"
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/00"
-tsdc = "ASM" 
+tsdc = "ASM"
 manufacturing-instructions = "https://drive.google.com/file/d/1c75m2-KEB9cPt1zyrYzLEQjHgimGDogY/view?usp=sharing"
 source = [
 	 # Zipper

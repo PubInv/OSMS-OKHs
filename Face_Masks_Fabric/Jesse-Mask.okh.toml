@@ -16,7 +16,7 @@ image = "https://yt3.googleusercontent.com/ytc/AIdro_kAkEIkQKWyEZDtkLXPV5UvjbtSK
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-1"
 cpc-patent-class = "A41D 13/11"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = "https://youtu.be/pbqkLcPHhcQ?t=225"
 manufacturing-instructions = "https://youtu.be/pbqkLcPHhcQ?t=514"
 source = "https://media.rainpos.com/220/jessemask.pdf?fbclid=IwAR3nGQj-91uOVglet0gp4Aakrt2tfk_QPxBpKWv4G-D-ISUTndB2aPvd_c4"

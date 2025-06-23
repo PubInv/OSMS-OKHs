@@ -15,7 +15,7 @@ image = "https://yt3.ggpht.com/ytc/AIdro_miCWeZjOu2ppAUBwWhdk9FGEjEtKbm7A38iWl4V
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = "https://youtu.be/Mr1o0X275jU?t=17"
 manufacturing-instructions = [
    "https://imgur.com/9cgoJZ2",

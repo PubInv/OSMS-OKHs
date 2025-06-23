@@ -17,7 +17,7 @@ technology-readiness-level = "OTRL-5"
 documentation-readiness-level = "ODRL-3"
 # A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
 cpc-patent-class = "A41D 13/11"
-tsdc = "LAS" 
+tsdc = "LAS"
 bom = "https://open-face-ppe.vercel.app/instructions#bom"
 manufacturing-instructions = [
 	"https://open-face-ppe.vercel.app/face-shield-assembly-flatpack.pdf",

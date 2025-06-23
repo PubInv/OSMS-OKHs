@@ -23,7 +23,7 @@ image = [
 technology-readiness-level = "OTRL-2"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/00"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = "https://drive.google.com/file/d/1fL72w-jc-lzq4HqLAt-iya8xHLJMlLqB/view?usp=sharing"
 manufacturing-instructions = "https://drive.google.com/file/d/1fL72w-jc-lzq4HqLAt-iya8xHLJMlLqB/view?usp=sharing"
 source = [

@@ -15,7 +15,7 @@ readme = "https://hellosewing.com/clear-face-mask/#How_to_make_a_clear_face_mask
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = "https://hellosewing.com/clear-face-mask/#Supplies_and_tools"
 manufacturing-instructions = [
    "https://hellosewing.com/clear-face-mask/#How_To_Sew_a_Face_mask_with_a_clear_panel",

@@ -33,7 +33,7 @@ technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 publication = "https://plos.altmetric.com/details/151524803/news"
 cpc-patent-class = "A61M 5/00"
-tsdc = "3DP" 
+tsdc = "3DP"
 bom = [
    "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0288696.t001",
    "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0288696.t003"

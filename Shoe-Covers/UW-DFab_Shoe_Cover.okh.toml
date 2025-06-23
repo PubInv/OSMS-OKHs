@@ -15,7 +15,7 @@ readme = "https://3d.nih.gov/entries/download/14692/2"
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A43B 3/00"
-tsdc = "ASM" 
+tsdc = "ASM"
 manufacturing-instructions = "https://3d.nih.gov/api/submissions/19236/files/input/416657"
 source = [
      "https://3d.nih.gov/api/submissions/19236/files/input/416653",

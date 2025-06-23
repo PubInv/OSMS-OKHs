@@ -18,7 +18,7 @@ technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 # A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
 cpc-patent-class = "A62B 9/04"
-tsdc = "3DP" 
+tsdc = "3DP"
 bom = "https://3d.nih.gov/entries/3dpx-013410#printing"
 manufacturing-instructions = "https://3d.nih.gov/entries/3dpx-013410#printing"
 source = "https://3d.nih.gov/entries/download/13410/2"

@@ -27,7 +27,7 @@ publication = [
 ]
 # A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
 cpc-patent-class = "A41D 13/11"
-tsdc = "ASM" 
+tsdc = "ASM"
 bom = "https://makermask.org/wp-content/uploads/2020/03/MakerMask_SewersGuide_0.1.pdf"
 manufacturing-instructions = "https://makermask.org/wp-content/uploads/2020/03/MakerMask_SewersGuide_0.1.pdf"
 user-manual = "https://makermask.org/wp-content/uploads/2020/07/MM_Surge_Care_20200513.pdf"

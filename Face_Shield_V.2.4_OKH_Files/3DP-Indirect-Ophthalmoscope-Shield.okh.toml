@@ -14,7 +14,7 @@ readme = "https://makernexuswiki.com/wiki/3D_printed_Indirect_Ophthalmoscope_shi
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A41D 13/11"
-tsdc = "ASM" 
+tsdc = "ASM"
 bom = "https://makernexuswiki.com/wiki/3D_printed_Indirect_Ophthalmoscope_shields#Materials"
 manufacturing-instructions = "https://www.youtube.com/watch?v=HVxThzvk5Hs"
 user-manual = "Documentation/User_Guide/UserGuide.md"
@@ -22,7 +22,7 @@ source = [
      "https://makernexuswiki.com/images/1/1e/Ophthalmologist_frames.stl",
      "https://makernexuswiki.com/images/c/c9/X4_020_opthalmologist.svg"
      ]
-     
+
 # Not given by licensor.
 # [outer-dimensions]
 # width = 400

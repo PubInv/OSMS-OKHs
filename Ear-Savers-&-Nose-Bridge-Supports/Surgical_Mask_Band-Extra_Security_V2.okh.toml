@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0" 
+okhv = "OKH-LOSHv1.0"
 name = "Surgical_Mask_Band-Extra_Security_V2"
 repo = "https://3d.nih.gov/entries/3dpx-013574"
 version = "2.0.0"
@@ -16,7 +16,7 @@ readme = "https://3d.nih.gov/entries/3dpx-013574"
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A62B 9/04"
-tsdc = "3DP" 
+tsdc = "3DP"
 bom = "https://3d.nih.gov/entries/3dpx-013574#specs"
 manufacturing-instructions = "https://3d.nih.gov/entries/3dpx-013574"
 source = "https://3d.nih.gov/api/submissions/17564/files/input/388534"

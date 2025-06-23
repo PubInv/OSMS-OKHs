@@ -16,7 +16,7 @@ readme = "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/blob/master/RE
 technology-readiness-level = "OTRL-4"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/1107"
-tsdc = "LAS" 
+tsdc = "LAS"
 # bom = "BoM.csv" No BoM present.
 manufacturing-instructions = "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/blob/master/README.md?ref_type=heads"
 source = [
@@ -26,7 +26,7 @@ source = [
      "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/blob/master/4feetby8feetArray.dxf",
      "https://gitlab.cba.mit.edu/alfonso/curved-face-shield/-/blob/master/.DS_Store"
      ]
-     
+
 # Not given by licensor.
 # [outer-dimensions]
 # width = 400

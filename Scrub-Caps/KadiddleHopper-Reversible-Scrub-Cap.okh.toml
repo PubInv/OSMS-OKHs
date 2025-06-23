@@ -32,7 +32,7 @@ technology-readiness-level = "OTRL-2"
 documentation-readiness-level = "ODRL-2"
 # A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
 cpc-patent-class = "A41D 13/11"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = "https://drive.google.com/file/d/16YMnywWx6kgFRrtN9cUkrEWSu-182UeR/view"
 manufacturing-instructions = "https://drive.google.com/file/d/16YMnywWx6kgFRrtN9cUkrEWSu-182UeR/view"
 source = [

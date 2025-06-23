@@ -16,7 +16,7 @@ readme = "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/blo
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A61B 5/00"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/tree/master/pulseox?ref_type=heads"
 manufacturing-instructions = "https://gitlab.cba.mit.edu/zfredin/public-health-instrumentation/-/tree/master/pulseox?ref_type=heads"
 source = [

@@ -22,7 +22,7 @@ documentation-readiness-level = "ODRL-3"
 attestation = "https://www.appropedia.org/scripts/retrieveOshwaMetadata.php?title=Open-source_syringe_pump"
 publication = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0107216"
 cpc-patent-class = "A61M 5/00"
-tsdc = "3DP" 
+tsdc = "3DP"
 bom = "https://www.appropedia.org/Open-source_syringe_pump#Materials_and_Tools"
 manufacturing-instructions = "https://www.appropedia.org/Open-source_syringe_pump#How_to_Build_an_Open-source_Syringe_Pump"
 source = [

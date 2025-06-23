@@ -15,7 +15,7 @@ readme = "https://www.youtube.com/watch?v=uDu2VDD2bC0"
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/00"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = "https://snhhq.org/wp-content/uploads/2020/05/PPE-instructions.pdf"
 manufacturing-instructions = [
    "https://snhhq.org/wp-content/uploads/2020/05/PPE-instructions.pdf",

@@ -20,7 +20,7 @@ publication = [
    "https://www.hardware-x.com/article/S2468-0672(16)30004-9/fulltext"
 ]
 cpc-patent-class = "B01F 23/45"
-tsdc = "ASM" 
+tsdc = "ASM"
 bom = "https://osf.io/q3nr5/files/osfstorage/573e06ae6c613b01f0bd1dcc"
 manufacturing-instructions = "https://youtu.be/bFaAfKn8STc"
 user-manual = [

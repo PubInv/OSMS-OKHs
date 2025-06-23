@@ -14,7 +14,7 @@ readme = "https://hellosewing.com/3d-face-mask-diy/#How_to_make_3d_face_mask"
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = "https://hellosewing.com/3d-face-mask-diy/#3D_Mask_Supplies_and_tools"
 manufacturing-instructions = [
    "https://hellosewing.com/3d-face-mask-diy/#3D_FACE_MASK_INSTRUCTIONS",

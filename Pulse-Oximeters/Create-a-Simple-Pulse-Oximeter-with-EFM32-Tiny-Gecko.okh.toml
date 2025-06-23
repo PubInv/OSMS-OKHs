@@ -27,7 +27,7 @@ image = [
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A61B 5/00"
-tsdc = "MEC" 
+tsdc = "MEC"
 bom = "https://community.silabs.com/s/share/a5U1M000000ko98UAA/create-a-simple-pulse-oximeter-with-efm32-tiny-gecko?language=en_US"
 manufacturing-instructions = "https://community.silabs.com/s/share/a5U1M000000ko98UAA/create-a-simple-pulse-oximeter-with-efm32-tiny-gecko?language=en_US"
 source = [

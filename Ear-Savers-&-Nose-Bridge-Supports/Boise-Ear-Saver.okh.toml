@@ -22,7 +22,7 @@ image = [
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A62B 9/04"
-tsdc = "3DP" 
+tsdc = "3DP"
 source = [
      "https://www.thingiverse.com/download:7960165",
      "https://www.thingiverse.com/download:7998912",

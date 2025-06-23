@@ -26,7 +26,7 @@ attestation = "https://certification.oshwa.org/cl000001.html"
 publication = "https://doi.org/10.1371/journal.pone.0193087"
 # A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
 cpc-patent-class = "A41D 13/11"
-tsdc = "3DP" 
+tsdc = "3DP"
 bom = "https://3d.nih.gov/api/submissions/17446/files/input/386879"
 manufacturing-instructions = "https://3d.nih.gov/api/submissions/17446/files/input/386883"
 user-manual = "https://3d.nih.gov/api/submissions/17446/files/input/386879"

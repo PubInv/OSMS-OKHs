@@ -21,7 +21,7 @@ technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 # A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
 cpc-patent-class = "A47F 5/00"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 manufacturing-instructions = "https://github.com/hzeller/sneeze-guard/blob/master/sneeze-guard.scad"
 source = [
      "https://github.com/hzeller/sneeze-guard/blob/master/.gitignore",

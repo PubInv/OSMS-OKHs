@@ -14,7 +14,7 @@ readme = "https://hellosewing.com/kids-face-mask-template/?fbclid=IwAR19sHzuef7Q
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = "https://hellosewing.com/kids-face-mask-template/?fbclid=IwAR19sHzuef7QBVcyCVJxHxuYXHw-WBkY7mhmT1mmko5OwlR0hPwO4lX7qIs#Supplies_and_tools"
 manufacturing-instructions = [
    "https://youtu.be/LuqJ-T8lij4",

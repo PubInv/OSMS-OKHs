@@ -14,7 +14,7 @@ readme = "https://www.makeitlabs.com/fittedmask"
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A41D 13/11"
-tsdc = "ASM" 
+tsdc = "ASM"
 bom = "https://www.makeitlabs.com/fittedmask"
 manufacturing-instructions = "https://docs.google.com/a/makeitlabs.com/viewer?a=v&pid=sites&srcid=bWFrZWl0bGFicy5jb218d2lraXxneDoyODIwYWEzMTE3MjZmNGZi"
 source = [
