@@ -1,0 +1,28 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Air-Cleaner-2-Modular-Corsi-Rosenthal-Box"
+repo = "https://github.com/MechaFlowManiac/Air-Cleaner-2"
+version = "2.0.0"
+license = "CERN-OHL-P-2.0"
+licensor = "MechaFlowManiac <https://github.com/MechaFlowManiac>"
+function = "Global manufacturing template for a modular Corsi box adaptable to several use cases. Includes: flat pack shippable options, anti-tamper, aesthetic covers, multiple filter sizes, and material specifications."
+documentation-language = "en"
+organization = "MechaFlowManiac"
+release = "https://github.com/MechaFlowManiac/Air-Cleaner-2/commit/8c5be8414cdef18b7609cd66d810988b6f838df5"
+readme = "https://github.com/MechaFlowManiac/Air-Cleaner-2/blob/main/README.txt"
+contribution-guide = "https://github.com/MechaFlowManiac"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "F24F 1/00"
+tsdc = "ASM" 
+bom = "https://github.com/MechaFlowManiac/Air-Cleaner-2/blob/main/20220318_Air-Cleaner-2_Overview.pdf"
+manufacturing-instructions = "https://github.com/MechaFlowManiac/Air-Cleaner-2/blob/main/20220318_Air-Cleaner-2_Overview.pdf"
+
+[outer-dimensions]
+# Dimension based on shorter model.
+width = 508
+depth = 508
+height = 508
