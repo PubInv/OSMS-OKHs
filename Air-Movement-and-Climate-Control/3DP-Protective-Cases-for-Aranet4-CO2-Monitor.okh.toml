@@ -1,0 +1,98 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "OKH-LOSHv1.0"
+name = "3DP-Protective-Cases-for-Aranet4-CO2-Monitor"
+repo = "https://www.printables.com/model/238217-aranet4-co2-monitor-protective-case-with-strap-han"
+version = "1.0.0"
+license = "CC-BY-NC-4.0"
+licensor = "Ginger Saw <https://www.printables.com/@GingerSaw>"
+function = "The Aranet4 is a popular commercial CO2 monitor with a sensitive electronic display prone to damage if dropped or crushed. These cases allow safe portability for the Aranet4 without compromising air quality measurement."
+documentation-language = "en"
+organization = "Printables"
+release = [
+   "https://cults3d.com/en/3d-model/tool/caja-proteccion-aranet-4",
+   "https://www.thingiverse.com/thing:5360589"
+]
+readme = "https://files.printables.com/media/prints/238217/pdfs/238217-aranet4-co2-monitor-protective-case-with-strap-hanger-a2d2f40a-84dd-4cd0-afff-379d6474b540.pdf"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A45C 11/00"
+tsdc = "3DP" 
+bom = "https://www.printables.com/model/238217-aranet4-co2-monitor-protective-case-with-strap-han"
+manufacturing-instructions = "https://www.printables.com/model/238217-aranet4-co2-monitor-protective-case-with-strap-han"
+source = [
+     "https://www.thingiverse.com/download:11680021",
+     "https://www.printables.com/model/238217-aranet4-co2-monitor-protective-case-with-strap-han/files",
+     "https://preview3d-images.cults3d.com/jvwk4gqjgubyasa5lj2ymvkd4o8n"
+]
+
+[[image]]
+location = "https://cdn.prod.website-files.com/679bd6d8e9c2f7d8d67ee78a/67be8ae9c65960951ce9bd54_67b4e90b71e6bd52cdeb6048_ARANETCASE.png"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://images.cults3d.com/O-NyFRIxOxrT9JhijHwPXUdWlsU=/516x516/filters:no_upscale():format(webp)/https://fbi.cults3d.com/uploaders/15008445/illustration-file/a5c23f43-c7f7-436e-86f0-1fe459963e9d/cajaranet4.jpg"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://media.printables.com/media/prints/238217/images/2156054_862adac2-8768-4b40-9f70-86beb24e0bbb/thumbs/inside/1280x960/jpg/img_9602.webp"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/f0/00/dd/66/bb/large_display_20220420_081044.jpg"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://images.cults3d.com/ru4odVppeBPZM_z2Un-XJUYfGms=/516x516/filters:no_upscale():format(webp)/https://fbi.cults3d.com/uploaders/15008445/illustration-file/530950f6-e30a-46fb-8393-fbacfe43d616/caja%20aranet4.jpg"
+
+[[image]]
+location = "https://images.cults3d.com/tBXBdU1xkWythNyZ4-ju1QRuzf8=/516x516/filters:no_upscale():format(webp)/https://fbi.cults3d.com/uploaders/15008445/illustration-file/0037041e-31e2-4793-a4a4-77f5a61a9cee/ajuste%20con%20espuma%20de%20embalar..jpg"
+
+[[image]]
+location = "https://images.cults3d.com/gnKSD2FdoEm_olGCxcTrN6y5lTw=/516x516/filters:no_upscale():format(webp)/https://fbi.cults3d.com/uploaders/15008445/illustration-file/1c7589af-9837-46dd-97c6-8d1c06a478c4/caja%20y%20tapa.jpg"
+
+[[image]]
+location = "https://media.printables.com/media/prints/238217/images/2156053_ae847624-566d-461a-b181-e05457e36c84/thumbs/inside/1280x960/jpg/img_9603.webp"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/db/e9/5b/71/c0/large_display_20220420_081036.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/9a/1e/09/9b/8f/large_display_20220420_081104.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/12/80/e5/85/a0/large_display_20220420_081056.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/4f/05/35/8c/d9/large_display_20220420_081133.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/51/92/d2/c9/b0/large_display_20220420_081148.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/20/b9/8f/62/95/large_display_4-20-2022_12-53-40_PM.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/59/73/f2/3b/02/large_display_4-20-2022_12-53-57_PM.jpg"
