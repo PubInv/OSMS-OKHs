@@ -26,6 +26,10 @@ The following project folders were uploaded to the Open Source searchable databa
 
 Additionally, licenses and duplicate repositories were fixed.
 
+**June 2025**
+
+The team updated the images section of the template to include slots/tags, and updated the previous files with the OKH 2.4 version.
+
 ## Important notes:
   * These are .toml files. If interested in learning more, check out this link:[TOML](https://toml.io/en/)
   * This project is in partnership with both [Public Invention](https://www.pubinv.org/volunteer/) and [OSMS](https://opensourcemedicalsupplies.org/), with collaboration from members of [OSEGermany](https://gitlab.com/OSEGermany). Check out their websites if you would like to get involved in similar projects.
