@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "NJIT-Throat-Swab"
 repo = "https://3dprint.nih.gov/discover/3dpx-014187"
 version = "2.0.0"
@@ -16,7 +16,7 @@ technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 publication = "https://news.njit.edu/njit-physics-team-provides-novel-swab-design-free-charge-augment-covid-19-testing"
 cpc-patent-class = "A61B 1/00"
-tsdc = "3DP" 
+tsdc = "3DP"
 bom = "https://3d.nih.gov/entries/3DPX-014187#printing"
 manufacturing-instructions = "https://3d.nih.gov/entries/3DPX-014187#printing"
 source = [

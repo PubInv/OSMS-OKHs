@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Mighty-Mini-Packable-CR-Box"
 repo = "https://www.printables.com/model/441203-mighty-mini-cr-box"
 version = "1.0.0"

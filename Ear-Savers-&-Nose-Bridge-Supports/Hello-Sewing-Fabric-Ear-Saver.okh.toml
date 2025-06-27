@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Hello-Sewing-Fabric-Ear-Saver"
 repo = "https://hellosewing.com/diy-ear-saver-for-face-masks/?fbclid=IwAR3hj7X3IEGPtUoVIgWxOPbYTyR04gDtl2sQLGWwfLWgJm_zg5z7Yf7O6tU"
 license = "LicenseRef-NOASSERTION"
@@ -14,7 +14,7 @@ readme = "https://hellosewing.com/diy-ear-saver-for-face-masks/?fbclid=IwAR3hj7X
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A62B 18/08"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = "https://hellosewing.com/diy-ear-saver-for-face-masks/?fbclid=IwAR3hj7X3IEGPtUoVIgWxOPbYTyR04gDtl2sQLGWwfLWgJm_zg5z7Yf7O6tU#Supplies_and_tools"
 manufacturing-instructions = [
    "https://hellosewing.com/diy-ear-saver-for-face-masks/?fbclid=IwAR3hj7X3IEGPtUoVIgWxOPbYTyR04gDtl2sQLGWwfLWgJm_zg5z7Yf7O6tU#How_To_Sew_Ear_Savers",

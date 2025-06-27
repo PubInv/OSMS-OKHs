@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "3M-5n11-Respirator-Filter-Adapter"
 repo = "https://www.thingiverse.com/thing:4227960?fbclid=IwAR00OGk81qYygDu2UjyZOuDLUz-eYMpN_7qs_zpTLf1U-hr04DacTULm0mM"
 license = "CC-BY-4.0"

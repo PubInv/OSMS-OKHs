@@ -2,29 +2,98 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+# NOTE
+# - If a value is not available, unknown or unclear,
+#   leave it out by either deleting the line or commenting it out;
+#   do **not** use placeholder values like "N/A" or "xxx.jpg"!
+
+okhv = "2.4"
 name = "your-awesome-OSH"
 repo = "https://gitlab.com/YOU/your-awesome-project/"
-version = "1.0.0"
-# If none listed, value is LicenseRef-NOASSERTION. The value needs to be a valid SPDX [License Expression](https://spdx.github.io/spdx-spec/v2-draft/SPDX-license-expressions/). Usually that is a single SPDX license ID, foudn in the "Identifier" column in this table: https://spdx.org/licenses/
+# An SPDX license _expression_
+# (see: <https://spdx.github.io/spdx-spec/v2-draft/SPDX-license-expressions/>),
+# usually a single SPDX license ID
+# (see complete list: <https://spdx.org/licenses/>),
+# or a combination of those,
+# combined with AND or OR.
+# If your license is not SPDX registered (yet),
+# use a custom string prefixed with 'LicenseRef-',
+# for example 'LicenseRef-MyVeryOwnLicense-1.3';
+# please use the 'SPDX identifier' from
+# <https://scancode-licensedb.aboutcode.org/>,
+# if your license is there but not SPDX registered.
+# Use 'LicenseRef-NOASSERTION'
+# or 'LicenseRef-NONE' if no license is specified
+# (which usually means: "All Rights Reserved"),
+# or 'LicenseRef-AllRightsReserved' or similar,
+# for projects clearly indicating that they are proprietary.
+#
+# NOTE: When no SPDX key is found by the crawler,
+# metadata might not be indexed on the server
+# until the alternative license has been white-listed by maintainers.
+# At OKH, we need to make sure that all results are actually open source.
 license = "AGPL-3.0-or-later"
 licensor = "Joel Doe <joel.doe@example.com>"
-function = "This thng can clean, fly to the moon, keep you warm when its freezing, transplant an organ on its own, ..."
+function = "This thing can clean, fly to the moon, keep you warm when its freezing, transplant an organ on its own, ..."
 documentation-language = "en-GB"
+version = "1.0.0"
+#fork-of = "https://gitlab.com/forefather/his-less-awesome-project/"
+# The organization that maintains this project, if any (else: remove this line)
 organization = "xxx"
 # In the case of no releases, can link to the latest commit.
 release = "https://gitlab.com/YOU/your-awesome-project/-/releases/1.0.0"
+# File containing an intro to the project.
+# [repo-relative path or absolute URL, single entry or a list]
 readme = "README.md"
+# File containing info about how to contribute to the development of this project.
+# This usually contaisn a mixture of both technical and social guidelines.
+# [repo-relative path or absolute URL, single entry or a list]
 contribution-guide = "CONTRIBUTING.md"
+# How far in its development is this technology;
+# how trustworthy, stable and usable is it?
+# Choose the best fitting category out of the ones available in this file:
+# <https://github.com/iop-alliance/OpenKnowHow/blob/bdd266398ed74c0828aa8795c2add082b8518eae/src/spec/otrl.ttl#L110>
+# (read all the info for the categories, and then copy the value of `rdfs:label` in here)
 technology-readiness-level = "OTRL-3"
+# How far in its development is this technologies documentation;
+# how well tested, how many times reproduced, ...?
+# Choose the best fitting category out of the ones available in this file:
+# <https://github.com/iop-alliance/OpenKnowHow/blob/bdd266398ed74c0828aa8795c2add082b8518eae/src/spec/otrl.ttl#L164>
+# (read all the info for the categories, and then copy the value of `rdfs:label` in here)
 documentation-readiness-level = "ODRL-3"
+# File containing information about an attestation of a certification process for this project.
+# So if some (usually third party) organization found this project
+# to be adhering to a certain set of rules,
+# and there is a document that attests that,
+# you may link it here.
+# [repo-relative path or absolute URL, single entry or a list]
 attestation = "https://certification.oshwa.org/cl000001.html"
+# A publication (e.g. an academic paper) covering (or at elast related to) this project.
+# [repo-relative path or absolute URL, single entry or a list]
 publication = "https://doi.org/10.1371/journal.pone.0193087"
-# A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
+# standard(s) this proejct complies with.
+# NOTE This is currently underspecified -> help needed!
+#      See <https://github.com/iop-alliance/OpenKnowHow/issues/163>
+# [string, single entry or a list]
+standard-compliance = "DIN EN 1335"
+# A Cooperative Patent Classification-ID,
+# describing this projects hardware;
+# You may want to search for it here:
+# <https://worldwide.espacenet.com/classification>
 cpc-patent-class = "A41D 13/11"
-tsdc = "MEC/ASM/etc." # Void if there is no valid licence. Possible values for the project listed here: https://gitlab.com/OSEGermany/oh-tsdc/-/blob/master/OH-TsDC.md?ref_type=heads.
+# Void if there is no valid licence.
+# Possible values for the project listed here:
+# <https://gitlab.com/OSEGermany/oh-tsdc/-/blob/master/OH-TsDC.md?ref_type=heads.>
+# [string, single entry or a list]
+tsdc = "MEC/ASM/etc."
+# Bill of Materials (BoM) file, prefferably in the CSV format
+# [repo-relative path or absolute URL, single entry or a list]
 bom = "BoM.csv"
+# File with manufacturing instructions
+# [repo-relative path or absolute URL, single entry or a list]
 manufacturing-instructions = "Documentation/Assembly_Guide/AssemblyGuide.md"
+# File containing a user manual
+# [repo-relative path or absolute URL, single entry or a list]
 user-manual = "Documentation/User_Guide/UserGuide.md"
 # Sources for the parts information
 source = [
@@ -33,13 +102,18 @@ source = [
      "part_b.scad",
      "params.csv"
      ]
-# Any mass always has to be in g (gramms)
-mass= 50330.0
+# The mass of the finnished thing/product
+# [g (grams)]
+mass = 50330.0
 
 [outer-dimensions]
-# Any dimension value always has to be in [mm] (milli-meters). Need all 3.
+# The outer dimensions (aka bounding box) of the finnished thing/product.
+# NOTE We need all three of these values.
+#      If you don't have them, take a rough estimate,
+#      or remove or comment out the whole `[outer-dimensions]` section.
+# [mm (millimeters)]
 width = 400
-depth = 350
+depth = 350.8
 height = 150
 
 [[software]]
@@ -47,14 +121,42 @@ release = "https://github.com/arduino/ArduinoCore-mbed/releases/tag/1.3.2"
 installation-guide = "https://github.com/arduino/ArduinoCore-mbed/blob/a2c06d768f5ebb6821ae6505b2032ee58f4ef70d/README.md"
 
 [[image]]
+# The repo local path or absoilute URL to the image
 location = "imgs/xxx.jpg"
+# "depicts" contains a text that explains what can be seen on the image.
+# This might be shown in a tooltip or caption.
+depicts = "The logo of this OSH project"
+# Slots are sdimilar to tags.
+# You can annotate this image with multiple slots, chosen from a fixed, predifined set.
+# The special thing about slots is,
+# that each one *can be used at most once* per project.
+# For example, there will be only one primary/main photo
+# of the finished product -> slot: "photo-thing-main"
+#
+# Possible values for slots:
+# <https://github.com/iop-alliance/OpenKnowHow/blob/c4ba79b41f0c87993418a2862c9ad17b246224ee/src/schema/okh.schema.json#L248>
+# (The same info, though in less easily digestible form -
+# can be found in this file:
+# <https://github.com/iop-alliance/OpenKnowHow/blob/c4ba79b41f0c87993418a2862c9ad17b246224ee/src/spec/okh-img.ttl#L78>;
+# see the values for `schema:termCode`)
 slots = [
   "logo",
 ]
+# ... tags on the other hand, can be used multiple times per project.
+# So while the "logo" *slot* annotates the *main* logo,
+# the "logo" *tag* annotates *a* logo of the project.
+#
+# Possible values for tags:
+# <https://github.com/iop-alliance/OpenKnowHow/blob/c4ba79b41f0c87993418a2862c9ad17b246224ee/src/schema/okh.schema.json#L282>
+# (The same info, though in less easily digestible form -
+# can be found in this file:
+# <https://github.com/iop-alliance/OpenKnowHow/blob/c4ba79b41f0c87993418a2862c9ad17b246224ee/src/spec/okh-img.ttl#L258>;
+# see the values for `schema:termCode`)
 tags = [
   "logo",
 ]
 
+# ...and here is where the second image begins
 [[image]]
 location = "imgs/yyy.jpg"
 slots = [

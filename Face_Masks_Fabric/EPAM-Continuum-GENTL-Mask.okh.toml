@@ -2,9 +2,9 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "EPAM-Continuum-GENTL-Mask"
-repo = "https://solutionshub.epam.com/solution/epam-gentl-face-mask"   
+repo = "https://solutionshub.epam.com/solution/epam-gentl-face-mask"
 version = "2.0.0"
 # If none listed, value is LicenseRef-NOASSERTION. The value needs to be a valid SPDX [License Expression](https://spdx.github.io/spdx-spec/v2-draft/SPDX-license-expressions/). Usually that is a single SPDX license ID, foudn in the "Identifier" column in this table: https://spdx.org/licenses/
 license = "LicenseRef-NOASSERTION"

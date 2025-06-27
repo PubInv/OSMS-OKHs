@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Mega-Wilson"
 repo = "https://www.tinkercad.com/things/e85Mc3PbHem"
 version = "5"
@@ -17,7 +17,7 @@ image = [
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-1"
 cpc-patent-class = "A41D 13/11"
-tsdc = "LAS" 
+tsdc = "LAS"
 
 # Not given by licensor.
 # [outer-dimensions]

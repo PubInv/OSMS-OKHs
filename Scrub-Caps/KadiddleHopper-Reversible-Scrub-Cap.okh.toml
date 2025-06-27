@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "KadiddleHopper-Reversible-Scrub-Cap"
 repo = "https://katiekadiddlehopper.blogspot.com/2019/07/reversible-scrub-cap-tutorial-with-free.html?m=1&fbclid=IwAR2t3F6xHMzFtogfe4UIJkIOQzsia1l9U5RGc9AbXxjc2XGilOxKcXDJkTU"
 license = "LicenseRef-NOASSERTION"
@@ -32,7 +32,7 @@ technology-readiness-level = "OTRL-2"
 documentation-readiness-level = "ODRL-2"
 # A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
 cpc-patent-class = "A41D 13/11"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = "https://drive.google.com/file/d/16YMnywWx6kgFRrtN9cUkrEWSu-182UeR/view"
 manufacturing-instructions = "https://drive.google.com/file/d/16YMnywWx6kgFRrtN9cUkrEWSu-182UeR/view"
 source = [

@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "AirMeter.io-CO2-Monitor"
 repo = "https://airmeter.io/make/epd213"
 version = "1.0.0"
@@ -16,7 +16,7 @@ contribution-guide = "https://airmeter.io/credits"
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A41D 13/11"
-tsdc = "ASM" 
+tsdc = "ASM"
 bom = "https://airmeter.io/make/sensor-assemblies/sunrise"
 manufacturing-instructions = [
    "https://airmeter.io/make/epd213",

@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Craft-Passion-Face-Mask"
 repo = "https://www.craftpassion.com/face-mask-sewing-pattern/#face-mask-pattern"
 license = "LicenseRef-NOASSERTION"
@@ -14,7 +14,7 @@ readme = "https://www.craftpassion.com/face-mask-sewing-pattern/#mv-creation-19-
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = "https://www.craftpassion.com/face-mask-sewing-pattern/#mv-creation-19-jtr"
 manufacturing-instructions = [
    "https://www.craftpassion.com/face-mask-sewing-pattern/#mv-creation-19-jtr",

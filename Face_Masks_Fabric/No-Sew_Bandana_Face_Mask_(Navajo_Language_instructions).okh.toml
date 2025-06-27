@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "No-Sew_Bandana_Face_Mask_(Navajo_Language_instructions)"
 repo = "https://youtu.be/vbYHZTXBBsE"
 license = "LicenseRef-NOASSERTION"
@@ -19,7 +19,7 @@ image = "https://yt3.ggpht.com/H0caWzFmfbcNIafKLTTkcdL9vZznTjJJrnkQep7EAtZ0TKOHq
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = "https://youtu.be/vbYHZTXBBsE?t=61"
 manufacturing-instructions = "https://youtu.be/vbYHZTXBBsE?t=73"
 user-manual = "https://youtu.be/vbYHZTXBBsE?t=123"

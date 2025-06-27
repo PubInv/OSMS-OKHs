@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Headband-with-Buttons"
 repo = "https://theseamanmom.com/about-easy-peasy-creative-ideas/"
 license = "LicenseRef-NOASSERTION"
@@ -16,7 +16,7 @@ readme = "https://www.youtube.com/watch?v=BLAYByOvLbY"
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 20/00"
-# tsdc = "MEC/ASM" 
+# tsdc = "MEC/ASM"
 bom = "https://drive.google.com/open?id=1bOO-LXIXoJZLNmrTPweFvuqZPQHBgtfD"
 manufacturing-instructions = "https://www.youtube.com/watch?v=BLAYByOvLbY&t=51s"
 source = "https://drive.google.com/file/d/1bOO-LXIXoJZLNmrTPweFvuqZPQHBgtfD/view?usp=sharing"

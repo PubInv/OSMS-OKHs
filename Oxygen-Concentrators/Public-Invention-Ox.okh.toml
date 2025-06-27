@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Public-Invention/Ox"
 repo = "https://github.com/PubInv/Ox"
 version = "1.0.0"
@@ -17,7 +17,7 @@ contribution-guide = "https://github.com/PubInv/Ox/graphs/contributors"
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "F25J 3/0625"
-tsdc = "MEC" 
+tsdc = "MEC"
 bom = [
    "https://github.com/PubInv/Ox/blob/develop/bom/PIOC_bom.xlsx",
    "https://github.com/PubInv/Ox/blob/develop/bom/bill_of_materials.md"

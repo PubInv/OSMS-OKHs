@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Ebin-CPAP-Adapter"
 repo = "https://drive.google.com/file/d/1Tli-Pm7Z7Ni7OwgPLBuvH2rL106SWzR0/view?usp=sharing"
 version = "1.0.0"
@@ -14,6 +14,6 @@ organization = "Jeffey Ebin"
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A62B 9/022"
-tsdc = "3DP" 
+tsdc = "3DP"
 manufacturing-instructions = "https://drive.google.com/file/d/1Tli-Pm7Z7Ni7OwgPLBuvH2rL106SWzR0/view"
 source = "https://drive.google.com/file/d/1Tn4A17ci4_tWdbc35ut588XaICljRZDv/view?usp=sharing"

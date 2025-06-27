@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Profaster-Alpha-Face-Shield"
 repo = "https://www.thingiverse.com/thing:4314285?fbclid=IwAR0vNdbzibLIA8-O982qT9OdbSWV7VYHPRqa2SPIOAsaglPz6H2IYI6TdM0"
 version = "2"

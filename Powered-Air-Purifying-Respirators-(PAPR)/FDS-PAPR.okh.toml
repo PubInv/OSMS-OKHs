@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "FDS-PAPR"
 repo = "https://github.com/nathanjds001/fdspapr"
 license = "GPL-3.0 AND CC-BY-NC-SA-4.0"
@@ -89,7 +89,7 @@ image = [
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A62B 7/10"
-tsdc = "3DP" 
+tsdc = "3DP"
 bom = "https://content.instructables.com/FY1/D2CG/LHNFGDVY/FY1D2CGLHNFGDVY.pdf"
 manufacturing-instructions = "https://www.instructables.com/DIY-Powered-Air-Purifying-Respirator-PAPR/"
 source = [

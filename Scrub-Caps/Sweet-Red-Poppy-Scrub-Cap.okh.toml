@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Sweet-Red-Poppy-Scrub-Cap"
 repo = "https://sweetredpoppy.com/scrub-cap-free-sewing-pattern/"
 license = "LicenseRef-NOASSERTION"
@@ -14,7 +14,7 @@ readme = "https://sweetredpoppy.com/scrub-cap-free-sewing-pattern/"
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = "https://sweetredpoppy.com/scrub-cap-free-sewing-pattern/"
 manufacturing-instructions = "https://sweetredpoppy.com/scrub-cap-free-sewing-pattern/"
 source = "https://sweetredpoppy.com/wp-content/uploads/2022/07/Printing-Instructions-Scrub-Cap-Sweet-Red-Poppy-791x1024.png"

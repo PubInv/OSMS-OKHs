@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Clever-Little-Maker-CNC-Shield"
 repo = "https://github.com/CleverLittleMaker/CLMFaceShield?fbclid=IwAR3CoafB_Kx5nVKNQB9niuDIl83wL2WCxQrx0H6I_2Rs1cvxmuYiNewmLxE"
 version = "5"

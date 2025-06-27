@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Bucket-Bubble-Helmet"
 repo = "https://www.thingiverse.com/thing:4322023"
 version = "1.0.0"
@@ -16,7 +16,7 @@ readme = "https://youtu.be/d5N5a_Xbq94"
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A42B 3/28"
-tsdc = "ASM" 
+tsdc = "ASM"
 bom = "https://docs.google.com/document/d/1rbCVR7-T_BNvCizwcVLApYUZ3lg6lk30xCtaZB2-8ds/edit?tab=t.0"
 manufacturing-instructions = "https://docs.google.com/document/d/1rbCVR7-T_BNvCizwcVLApYUZ3lg6lk30xCtaZB2-8ds/edit?tab=t.0"
 source = [

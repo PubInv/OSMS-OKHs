@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "3M-6000-Series-Surgical-Mask-Adapter"
 repo = "https://www.thingiverse.com/thing:4181922?fbclid=IwAR1FvA61G4pMNst_whADHCrMM8zoEtDg-zIQ7bAH2g9566_x2fzYsbvMXrU"
 license = "CC-BY-4.0"

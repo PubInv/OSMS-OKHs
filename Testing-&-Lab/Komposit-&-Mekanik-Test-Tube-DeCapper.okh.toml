@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Komposit-&-Mekanik-Test-Tube-DeCapper"
 repo = "http://www.kompositmekanik.se/portfolio/Covid-19%20test%20tube%20decapper/Covid-19%20test%20tube%20decapper.htm?fbclid=IwAR2kDWVhG4sUpd-pHLllhAx9ekPw1qrVejJ4OKdXMEObGNlTwFncOS6ZlCs"
 version = "1.0.0"

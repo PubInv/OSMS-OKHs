@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Tukatech-Protective-Suit"
 repo = "https://drive.google.com/drive/folders/1LBj_AuRK3sdh7SMmZpYEb53OweWuaRUX?usp=sharing"
 license = "LicenseRef-NOASSERTION"
@@ -14,7 +14,7 @@ technology-readiness-level = "OTRL-2"
 documentation-readiness-level = "ODRL-1"
 # A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
 cpc-patent-class = "A41D 13/00"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 source = [
 	 # PS Suit
      "https://drive.google.com/file/d/1R2YFzZUooRYKQf3d3eH7Mrks9EqtuFvP/view?usp=sharing",

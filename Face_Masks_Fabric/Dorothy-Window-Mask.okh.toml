@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Dorothy-Window-Mask"
 repo = "https://drive.google.com/drive/folders/1uSEpWVcWZbfyHYrfPdQHpHvfinr2b6u7"
 license = "LicenseRef-NOASSERTION"
@@ -15,7 +15,7 @@ image = "https://lh3.googleusercontent.com/a-/ALV-UjVgK0ZrBBAsIZvihHKIc_V0Ql72dU
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = "https://drive.google.com/file/d/1NXhEOY1WLYWn6zgYhcoFcl9Lc275FJ6g/view?usp=sharing"
 manufacturing-instructions = "https://drive.google.com/file/d/1NXhEOY1WLYWn6zgYhcoFcl9Lc275FJ6g/view?usp=sharing"
 source = [

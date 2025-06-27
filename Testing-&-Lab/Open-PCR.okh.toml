@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Open-PCR"
 repo = "https://openpcr.org/#build-pcr"
 version = "1.0.0"

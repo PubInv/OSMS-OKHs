@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Liftup-Face-Shield-with-AutoLock"
 repo = "https://www.thingiverse.com/thing:4264137"
 license = "CC-BY-4.0"
@@ -20,7 +20,7 @@ image = [
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A41D 13/11"
-tsdc = "3DP" 
+tsdc = "3DP"
 bom = "https://www.thingiverse.com/thing:4264137"
 source = [
      "https://cdn.thingiverse.com/assets/bf/ac/47/a6/ef/medium_preview_Liftup_Face_Shield_part1.png",
@@ -28,7 +28,7 @@ source = [
      "https://www.thingiverse.com/thing:4264137/files",
      "https://www.thingiverse.com/download:7939532"
      ]
-     
+
 # Not given by licensor.
 # [outer-dimensions]
 # width = 400

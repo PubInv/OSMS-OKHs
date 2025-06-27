@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Maskup-NM-Child-Masks"
 repo = "https://sites.google.com/view/maskscovernm/mission-maskup-kids?authuser=0t/"
 license = "LicenseRef-NOASSERTION"
@@ -17,7 +17,7 @@ readme = "https://sites.google.com/view/maskscovernm/mission-maskup-kids?authuse
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = "https://sites.google.com/view/maskscovernm/mission-maskup-kids?authuser=0"
 manufacturing-instructions = [
    # English manufacturing guides.

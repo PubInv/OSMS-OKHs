@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "SeeKateSew-Scrub-Hat"
 repo = "https://seekatesew.com/surgical-cap-sewing-pattern/?fbclid=IwAR0fiMOchQTh7mHxQ9osiuE9l8aLt0ehaVxPFRVFH_hguih6CYttEbWnA8"
 license = "LicenseRef-NOASSERTION"

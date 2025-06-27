@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "HK-Face-Mask"
 repo = "https://drive.google.com/drive/folders/1MVJY4mwtFCFEMFlf3zx3yg_dJpbD4pNG?fbclid=IwAR3MY8TfjfKro1EwKBaGESBMjM53daExrKJo99bEcNSKPXMswW2kpehwfZE"
 license = "LicenseRef-NOASSERTION"
@@ -18,7 +18,7 @@ image = "https://yt3.googleusercontent.com/ytc/AIdro_knhEsWGrMcsJWtxEoDzB3BA6hPQ
 technology-readiness-level = "OTRL-2"
 documentation-readiness-level = "ODRL-1"
 cpc-patent-class = "A41D 13/11"
-tsdc = "ASM" 
+tsdc = "ASM"
 bom = [
    "https://youtu.be/ZusqX4Cfa3w?t=8",
    "https://youtu.be/ZusqX4Cfa3w?t=21"

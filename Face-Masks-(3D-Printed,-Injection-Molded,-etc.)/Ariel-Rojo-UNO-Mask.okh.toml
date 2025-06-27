@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Ariel-Rojo-UNO-Mask"
 repo = "https://www.arielrojo.com/es/sistema-imprimible-3d-covid19?fbclid=IwAR27R4Oh0d5rjgSBP7NJof5bZepLwXD52rZIINNee6phk9D3v6TsakCV3Bk"
 version = "2.0.0"
@@ -19,7 +19,7 @@ contribution-guide = "https://www.arielrojo.com/en/printable-3d-system-covid19"
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
-# tsdc = "3DP" 
+# tsdc = "3DP"
 bom = "https://www.arielrojo.com/files/covid19/en/COVID19_MASK_UNO_eng.rar"
 manufacturing-instructions = "https://www.arielrojo.com/files/covid19/en/COVID19_MASK_UNO_eng.rar"
 source = [

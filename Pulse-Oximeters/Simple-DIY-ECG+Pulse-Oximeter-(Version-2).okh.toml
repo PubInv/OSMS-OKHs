@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Simple-DIY-ECG+Pulse-Oximeter-(Version-2)"
 repo = "https://www.swharden.com/wp/2013-04-14-simple-diy-ecg-pulse-oximeter-version-2/"
 version = "2.0.0"
@@ -14,7 +14,7 @@ organization = "SWHarden.com"
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A61B 5/00"
-tsdc = "MEC" 
+tsdc = "MEC"
 bom = "https://swharden.com/blog/2013-04-14-simple-diy-ecg-pulse-oximeter-version-2/"
 manufacturing-instructions = "https://swharden.com/blog/2013-04-14-simple-diy-ecg-pulse-oximeter-version-2/"
 source = [

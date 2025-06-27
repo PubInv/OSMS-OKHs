@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Crocheted-Ear-Saver"
 repo = "https://www.ravelry.com/patterns/library/sore-ear-savers?fbclid=IwAR3DDcLaEintspyF7kdVQynX00yeff3KJp7n_KGySWJu564b-3Nvf395m5w"
 license = "LicenseRef-NOASSERTION"
@@ -14,7 +14,7 @@ readme = "https://www.ravelry.com/patterns/library/sore-ear-savers?fbclid=IwAR3D
 technology-readiness-level = "OTRL-2"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A42B 1/00"
-tsdc = "ASM" 
+tsdc = "ASM"
 bom = "https://www.ravelry.com/patterns/library/sore-ear-savers?fbclid=IwAR3DDcLaEintspyF7kdVQynX00yeff3KJp7n_KGySWJu564b-3Nvf395m5w"
 manufacturing-instructions = "https://www.ravelry.com/patterns/library/sore-ear-savers?fbclid=IwAR3DDcLaEintspyF7kdVQynX00yeff3KJp7n_KGySWJu564b-3Nvf395m5w#"
 

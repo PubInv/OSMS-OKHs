@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "3DP-Protective-Cases-for-Aranet4-CO2-Monitor"
 repo = "https://www.printables.com/model/238217-aranet4-co2-monitor-protective-case-with-strap-han"
 version = "1.0.0"
@@ -11,15 +11,13 @@ licensor = "Ginger Saw <https://www.printables.com/@GingerSaw>"
 function = "The Aranet4 is a popular commercial CO2 monitor with a sensitive electronic display prone to damage if dropped or crushed. These cases allow safe portability for the Aranet4 without compromising air quality measurement."
 documentation-language = "en"
 organization = "Printables"
-release = [
-   "https://cults3d.com/en/3d-model/tool/caja-proteccion-aranet-4",
-   "https://www.thingiverse.com/thing:5360589"
-]
+release = "https://cults3d.com/en/3d-model/tool/caja-proteccion-aranet-4"
+# 2nd-release: "https://www.thingiverse.com/thing:5360589" # TODO As of now, we can only have one value for release in OKH; once that changes, add this URL.
 readme = "https://files.printables.com/media/prints/238217/pdfs/238217-aranet4-co2-monitor-protective-case-with-strap-hanger-a2d2f40a-84dd-4cd0-afff-379d6474b540.pdf"
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A45C 11/00"
-tsdc = "3DP" 
+tsdc = "3DP"
 bom = "https://www.printables.com/model/238217-aranet4-co2-monitor-protective-case-with-strap-han"
 manufacturing-instructions = "https://www.printables.com/model/238217-aranet4-co2-monitor-protective-case-with-strap-han"
 source = [

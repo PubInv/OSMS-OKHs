@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Aegis-Endo-Shield"
 version = "1"
 repo = "https://www.thingiverse.com/thing:4320218?fbclid=IwAR2cOEElApwqAQ3zDa6MzTnTtxCTrRVMJ1GLILwcsnJEHTEUxVN0gW68dWc"
@@ -14,7 +14,7 @@ organization = "HackThePandemic"
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A41D 13/11"
-tsdc = "3DP" 
+tsdc = "3DP"
 bom = "https://www.thingiverse.com/thing:4320218"
 manufacturing-instructions = "https://www.thingiverse.com/thing:4320218"
 source = [
@@ -22,7 +22,7 @@ source = [
      "aegis-endo-shield.stl",
      "aegis-endo-shield-shim.stl"
      ]
-     
+
 # Not given by licensor.
 # [outer-dimensions]
 # width = 400

@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Manila-Protective-Gear’s-Isolation-style-Suit"
 repo = "https://drive.google.com/open?id=1-Xr-67gs2qw0o44-hy-INb89I9m-wcLD"
 license = "LicenseRef-NOASSERTION"
@@ -16,7 +16,7 @@ organization = "Manila Protective Gear"
 technology-readiness-level = "OTRL-2"
 documentation-readiness-level = "ODRL-1"
 cpc-patent-class = "A41D 13/00"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = "https://drive.google.com/file/d/1c75m2-KEB9cPt1zyrYzLEQjHgimGDogY/view?usp=sharing"
 manufacturing-instructions = "https://drive.google.com/file/d/1c75m2-KEB9cPt1zyrYzLEQjHgimGDogY/view?usp=sharing"
 source = [

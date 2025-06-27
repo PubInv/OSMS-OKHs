@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Verkstan-Character-Face-Shield"
 repo = "https://www.thingiverse.com/thing:4329237?fbclid=IwAR0Z7I4WIYNb7-8m2lJB_kVTNFBA2EzOi3umk0BN3N8sdkBj2lXPvOlg7zs"
 license = "CC-BY-SA-3.0"
@@ -27,7 +27,7 @@ image = [
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
-tsdc = "3DP" 
+tsdc = "3DP"
 bom = "https://www.thingiverse.com/thing:4329237#Materials%20Needed"
 manufacturing-instructions = "https://www.thingiverse.com/thing:4329237#Materials%20Needed"
 source = [

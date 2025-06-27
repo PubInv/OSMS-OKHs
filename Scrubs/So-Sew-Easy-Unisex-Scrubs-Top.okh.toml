@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "So-Sew-Easy-Unisex-Scrubs-Top"
 repo = "https://so-sew-easy.com/easy-surgical-scrub-top-pattern/"
 version = "1.0.0"
@@ -14,7 +14,7 @@ organization = "So Sew Easy"
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/00"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = "https://so-sew-easy.com/easy-surgical-scrub-top-pattern/"
 manufacturing-instructions = "https://so-sew-easy.com/easy-surgical-scrub-top-pattern/"
 user-manual = "https://so-sew-easy.com/five-ways-to-disinfect-clothes/"

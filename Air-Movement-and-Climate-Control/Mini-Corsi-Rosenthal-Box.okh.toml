@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Mini-Corsi-Rosenthal-Box"
 repo = "https://www.printables.com/model/131142-diy-mini-air-purifier-corsi-rosenthal-box/comments"
 version = "1.0.0"
@@ -16,7 +16,7 @@ readme = "https://www.printables.com/model/131142-diy-mini-air-purifier-corsi-ro
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "F24F 1/00"
-tsdc = "3DP" 
+tsdc = "3DP"
 bom = "https://www.printables.com/model/131142-diy-mini-air-purifier-corsi-rosenthal-box-updated"
 manufacturing-instructions = "https://www.printables.com/model/131142-diy-mini-air-purifier-corsi-rosenthal-box-updated"
 source = [

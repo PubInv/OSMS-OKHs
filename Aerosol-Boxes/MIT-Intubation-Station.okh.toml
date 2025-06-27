@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "MIT-Intubation-Station"
 repo = "https://gitlab.cba.mit.edu/zfredin/intubation-station"
 version = "2.0.0"
@@ -37,7 +37,7 @@ image = [
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "B65D 83/75"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 manufacturing-instructions = "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/tree/master?ref_type=heads"
 source = [
      "https://gitlab.cba.mit.edu/zfredin/intubation-station/-/blob/master/img/.DS_Store?ref_type=heads",

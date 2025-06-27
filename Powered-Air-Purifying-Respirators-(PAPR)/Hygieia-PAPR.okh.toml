@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Hygieia-PAPR"
 repo = "https://hygieiapapr.wixsite.com/hygieiapapr"
 license = "LicenseRef-NOASSERTION"
@@ -15,7 +15,7 @@ contribution-guide = "https://hygieiapapr.wixsite.com/hygieiapapr"
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A62B 7/10"
-tsdc = "3DP" 
+tsdc = "3DP"
 bom = "https://hygieiapapr.wixsite.com/hygieiapapr"
 manufacturing-instructions = "https://hygieiapapr.wixsite.com/hygieiapapr"
 source = [
@@ -23,7 +23,7 @@ source = [
      "https://www.thingiverse.com/download:8011994",
      "https://www.thingiverse.com/download:8014559"
  ]
-     
+
 
 [[image]]
 location = "https://static.wixstatic.com/media/4b2da6_bc5426a35e3a4383ae817adb3c7e8a2e~mv2.jpg/v1/fill/w_837,h_502,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/4b2da6_bc5426a35e3a4383ae817adb3c7e8a2e~mv2.jpg"

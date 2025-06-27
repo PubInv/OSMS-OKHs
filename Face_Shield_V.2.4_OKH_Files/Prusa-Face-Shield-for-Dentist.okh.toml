@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Prusa-Face-Shield-for-Dentist"
 repo = "https://www.printables.com/model/30615-prusa-face-shield-for-dentist"
 license = "CC-BY-4.0"
@@ -13,7 +13,7 @@ organization = "Printables"
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-1"
 cpc-patent-class = "A41D 13/11"
-tsdc = "3DP" 
+tsdc = "3DP"
 bom = "https://www.printables.com/model/30615-prusa-face-shield-for-dentist"
 source = [
      "https://www.printables.com/model/30615-prusa-face-shield-for-dentist/files#preview.file.GyPO",

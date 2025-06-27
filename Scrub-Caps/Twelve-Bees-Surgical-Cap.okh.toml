@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Twelve-Bees-Surgical-Cap"
 repo = "http://twelvebees.blogspot.com/"
 license = "LicenseRef-NOASSERTION"
@@ -13,7 +13,7 @@ organization = "Twelve Bees"
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = "https://twelvebees.blogspot.com/"
 manufacturing-instructions = "https://www.youtube.com/watch?v=0Wl15xirkaw&pbjreload=10"
 source = [

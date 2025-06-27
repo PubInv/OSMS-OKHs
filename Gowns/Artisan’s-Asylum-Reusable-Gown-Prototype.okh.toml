@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Artisan’s-Asylum-Reusable-Gown-Prototype"
 repo = "https://drive.google.com/drive/u/1/folders/1bDvQRakFUvFEsqsF_s1OA5BxQFvdKG_s"
 license = "LicenseRef-NOASSERTION"
@@ -15,7 +15,7 @@ image = "https://images.squarespace-cdn.com/content/v1/62f3f735b06b0e5b96d077f4/
 technology-readiness-level = "OTRL-1"
 documentation-readiness-level = "ODRL-1"
 cpc-patent-class = "A41D 13/00"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 source = [
      "https://drive.google.com/file/d/17PGK4cjjA_BC-LsGjTqwFifsWY5b6EL2/view?usp=sharing",
      "https://drive.google.com/file/d/17FIauQh3NiR8IC26kJTx7txlIYHSHPvP/view?usp=sharing",

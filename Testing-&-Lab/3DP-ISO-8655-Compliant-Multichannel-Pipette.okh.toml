@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "3DP-ISO-8655-Compliant-Multichannel-Pipette"
 repo = "https://www.appropedia.org/Open_Source_3-D_Printed_ISO_8655_Compliant_Multichannel_Pipette"
 version = "1.0.0"
@@ -17,7 +17,7 @@ technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 publication = "https://ojs.lib.uwo.ca/index.php/openhardware/article/view/17853"
 cpc-patent-class = "B01L 3/0231"
-tsdc = "3DP" 
+tsdc = "3DP"
 bom = "https://osf.io/9tn6e/files/osfstorage/5fd8fc660694b703f5f3780e"
 manufacturing-instructions = "https://www.appropedia.org/Open_Source_3-D_Printed_ISO_8655_Compliant_Multichannel_Pipette"
 source = [

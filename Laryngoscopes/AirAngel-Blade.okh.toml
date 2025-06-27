@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "AirAngel-Blade"
 repo = "https://www.airangelblade.org/"
 version = "1.0.0"
@@ -19,7 +19,7 @@ image = [
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "G02B 6/00"
-tsdc = "3DP" 
+tsdc = "3DP"
 manufacturing-instructions = "https://youtu.be/K1xTJOpgq-g"
 user-manual = "https://youtu.be/eHm3mpfUry0"
 source = [

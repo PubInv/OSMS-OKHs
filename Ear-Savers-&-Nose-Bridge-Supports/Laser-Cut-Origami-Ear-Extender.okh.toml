@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Laser-Cut-Origami-Ear-Extender"
 repo = "https://drive.google.com/drive/folders/1EF_JMYHGvaZpEpRVaI6WjnWRKaSxvNEj?usp=sharing"
 license = "LicenseRef-NOASSERTION"
@@ -13,7 +13,7 @@ organization = "Open Source Medicals"
 technology-readiness-level = "OTRL-2"
 documentation-readiness-level = "ODRL-1"
 cpc-patent-class = "A62B 9/04"
-# tsdc = "LAS" 
+# tsdc = "LAS"
 source = [
      "https://drive.google.com/file/d/1EKQbZbewVFHBR-3IDS5ji4SUbfkVibW8/view?usp=sharing",
      "https://drive.google.com/file/d/1EJtLzQCc1njzDjBgAV_Mj0tZvfJhzkdf/view?usp=sharing",

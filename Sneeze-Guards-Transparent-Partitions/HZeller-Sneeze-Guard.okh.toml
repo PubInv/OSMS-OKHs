@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "HZeller-Sneeze-Guard"
 repo = "https://github.com/hzeller/sneeze-guard"
 license = "LicenseRef-NOASSERTION"
@@ -21,7 +21,7 @@ technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 # A Cooperative Patent Classification-ID, describing this projects hardware; You may want to search for it here: <https://worldwide.espacenet.com/classification>
 cpc-patent-class = "A47F 5/00"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 manufacturing-instructions = "https://github.com/hzeller/sneeze-guard/blob/master/sneeze-guard.scad"
 source = [
      "https://github.com/hzeller/sneeze-guard/blob/master/.gitignore",

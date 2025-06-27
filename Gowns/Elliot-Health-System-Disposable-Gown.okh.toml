@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Elliot-Health-System-Disposable-Gown"
 repo = "https://www.youtube.com/watch?v=GuPh8U3Dilg"
 license = "LicenseRef-NOASSERTION"
@@ -15,7 +15,7 @@ readme = "https://www.youtube.com/watch?v=uDu2VDD2bC0"
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/00"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = "https://snhhq.org/wp-content/uploads/2020/05/PPE-instructions.pdf"
 manufacturing-instructions = [
    "https://snhhq.org/wp-content/uploads/2020/05/PPE-instructions.pdf",

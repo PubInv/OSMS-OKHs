@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "CAD-Patterns-Hat"
 repo = "https://cadpatterns.com/product/9503/?fbclid=IwAR0nVjGF5l3RpbYWQYvDbIz4Wel16y77i39wvugb_BZYIeRoGEjyaMNSf0A"
 license = "LicenseRef-NOASSERTION"
@@ -13,4 +13,4 @@ organization = "CAD Patterns"
 technology-readiness-level = "OTRL-2"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."

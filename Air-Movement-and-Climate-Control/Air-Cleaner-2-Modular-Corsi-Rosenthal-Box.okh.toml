@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Air-Cleaner-2-Modular-Corsi-Rosenthal-Box"
 repo = "https://github.com/MechaFlowManiac/Air-Cleaner-2"
 version = "2.0.0"
@@ -17,7 +17,7 @@ contribution-guide = "https://github.com/MechaFlowManiac"
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "F24F 1/00"
-tsdc = "ASM" 
+tsdc = "ASM"
 bom = "https://github.com/MechaFlowManiac/Air-Cleaner-2/blob/main/20220318_Air-Cleaner-2_Overview.pdf"
 manufacturing-instructions = "https://github.com/MechaFlowManiac/Air-Cleaner-2/blob/main/20220318_Air-Cleaner-2_Overview.pdf"
 

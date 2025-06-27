@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Sabrina_Lafone_Disposable_Gown_Tech-Pack"
 repo = "https://drive.google.com/drive/folders/11cCivlndHEprOTOcdcpswAFmmX8DlMAN?usp=sharing"
 license = "LicenseRef-NOASSERTION"
@@ -16,7 +16,7 @@ organization = "Fondation de France"
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/00"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = "https://drive.google.com/file/d/11mkCk6PwenboEobiInvYybO5CjGmtb31/view?usp=sharing"
 manufacturing-instructions = "https://drive.google.com/file/d/11mkCk6PwenboEobiInvYybO5CjGmtb31/view?usp=sharing"
 source = "https://drive.google.com/file/d/11hc934lNcBQxiqWG2oDRG81F_knwku77/view?usp=sharing"

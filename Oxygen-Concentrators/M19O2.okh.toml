@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "M19O2"
 repo = "https://github.com/MakersAsylumIndia/M19O2"
 version = "3.0.0"

@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Glia-Stethoscope"
 repo = "https://github.com/GliaX/Stethoscope"
 version = "1.0.0"
@@ -23,7 +23,7 @@ technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 publication = "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0193087"
 cpc-patent-class = "A61B 5/00"
-tsdc = "ASM" 
+tsdc = "ASM"
 bom = "https://github.com/GliaX/Stethoscope/tree/master#bill-of-materials"
 manufacturing-instructions = [
    "https://www.youtube.com/watch?v=u-KNTc0POLA",

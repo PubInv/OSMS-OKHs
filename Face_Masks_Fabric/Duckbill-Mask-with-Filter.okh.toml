@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Duckbill-Mask-with-Filter"
 repo = "https://www.instructables.com/Face-Mask-Duckbill-With-Filter/"
 version = "0.4"
@@ -17,7 +17,7 @@ contribution-guide = "https://www.instructables.com/Face-Mask-Duckbill-With-Filt
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = [
    "https://docs.google.com/document/d/1nQVQFL_HOuRaEFaWxumOZzLxCnf0gRg8_nZsrapsAS4/edit?fbclid=IwAR2ogMcJfnF26UMiPsGlPHT7B27Uu9Zmxxyt4txJm1wVp9txV1BLk-G5PCI&tab=t.0",
    "https://www.instructables.com/Face-Mask-Duckbill-With-Filter/"

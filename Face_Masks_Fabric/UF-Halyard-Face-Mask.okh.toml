@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "UF-Halyard-Face-Mask"
 repo = "https://anest.ufl.edu/clinical-divisions/mask-alternative/?fbclid=IwAR3hj7X3IEGPtUoVIgWxOPbYTyR04gDtl2sQLGWwfLWgJm_zg5z7Yf7O6tU"
 version = "2"
@@ -15,7 +15,7 @@ readme = "https://anest.ufl.edu/clinical-divisions/mask-alternative/?fbclid=IwAR
 technology-readiness-level = "OTRL-4"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A41D 13/11"
-# tsdc = "ASM" 
+# tsdc = "ASM"
 bom = [
    "https://anest.ufl.edu/files/2020/03/PROTOTYPE-1-TUTORIAL.pdf",
    "https://anest.ufl.edu/wordpress/files/2020/03/PROTOTYPE-2-TUTORIAL.pdf"

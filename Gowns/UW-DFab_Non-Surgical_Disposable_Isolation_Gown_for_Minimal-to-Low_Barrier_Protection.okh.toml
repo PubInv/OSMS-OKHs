@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "UW-DFab_Non-Surgical_Disposable_Isolation_Gown_for_Minimal-to-Low_Barrier_Protection"
 repo = "https://dfab.uw.edu/covid-19-fabrication/gown-assembly-and-production/"
 license = "CC-BY-SA-4.0"
@@ -16,7 +16,7 @@ technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 publication = "https://3d.nih.gov/entries/3dpx-013945"
 cpc-patent-class = "A41D 13/00"
-tsdc = "ASM" 
+tsdc = "ASM"
 bom = "https://dfab.uw.edu/covid-19-fabrication/gown-assembly-and-production/#Materials_and_Equipment"
 manufacturing-instructions = [
    "https://dfab.uw.edu/covid-19-fabrication/gown-assembly-and-production/#Manufacturing_and_Assembly",

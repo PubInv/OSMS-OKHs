@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "UW_Madison_PAPR-Hood_Only"
 repo = "https://cms.delve.com/assets/documents/Badger-Shield-Open-Source-Hood-Drawing.pdf"
 version = "7.0.0"

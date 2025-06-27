@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Hello-3D-Face-Mask"
 repo = "https://hellosewing.com/3d-face-mask-diy/?fbclid=IwAR0lFcHea11VMDZNYNeSL0HXyzDGUkqg4NOHrQetOmOQdI_VJMZrg7su7EI"
 license = "LicenseRef-NOASSERTION"
@@ -14,7 +14,7 @@ readme = "https://hellosewing.com/3d-face-mask-diy/#How_to_make_3d_face_mask"
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = "https://hellosewing.com/3d-face-mask-diy/#3D_Mask_Supplies_and_tools"
 manufacturing-instructions = [
    "https://hellosewing.com/3d-face-mask-diy/#3D_FACE_MASK_INSTRUCTIONS",

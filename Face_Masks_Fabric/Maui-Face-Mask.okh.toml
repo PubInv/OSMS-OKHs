@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Maui-Face-Mask"
 repo = "https://youtu.be/RkBrCuNMu_E"
 license = "LicenseRef-NOASSERTION"
@@ -13,7 +13,7 @@ organization = "Maui"
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-1"
 cpc-patent-class = "A41D 13/11"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = "https://youtu.be/RkBrCuNMu_E?t=10"
 manufacturing-instructions = "https://youtu.be/RkBrCuNMu_E?t=45"
 user-manual = "https://youtu.be/RkBrCuNMu_E?t=533"

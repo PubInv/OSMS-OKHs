@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "LMAG-Reusable-Gown-(Raglan-sleeve-files)"
 repo = "https://drive.google.com/drive/folders/1KDnzI0eZvRh6eTzourbCW6AY1b9YioKe?usp=sharing"
 version = "1.0.0"
@@ -15,7 +15,7 @@ readme = "https://docs.google.com/presentation/d/12uj3bCugSUNHekStDyfMvfGHe9wVN6
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/00"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = "https://docs.google.com/presentation/d/12uj3bCugSUNHekStDyfMvfGHe9wVN6kAbxIIvWg7TCI/edit#slide=id.g980c403701_0_0"
 manufacturing-instructions = "https://docs.google.com/presentation/d/12uj3bCugSUNHekStDyfMvfGHe9wVN6kAbxIIvWg7TCI/edit#slide=id.g980c403701_0_0"
 source = [

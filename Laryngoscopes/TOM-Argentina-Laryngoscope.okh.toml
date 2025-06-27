@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "TOM-Argentina-Laryngoscope"
 repo = "https://drive.google.com/file/d/1uyB9btZTjrVCuYz3W9q6paJJtDhht2YV/view?usp=sharing"
 version = "1.0.0"
@@ -14,6 +14,6 @@ organization = "Open Source Medical Supplies"
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "G02B 6/00"
-tsdc = "3DP" 
+tsdc = "3DP"
 bom = "https://drive.google.com/file/d/1uyB9btZTjrVCuYz3W9q6paJJtDhht2YV/view"
 source = "https://drive.google.com/file/d/1uyB9btZTjrVCuYz3W9q6paJJtDhht2YV/view"

@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Portable-Petrifilm-Incubator"
 repo = "https://www.instructables.com/Portable-Petrifilm-Incubator-for-Inexpensive-In-Fi/"
 version = "1.0.0"
@@ -17,7 +17,7 @@ technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 publication = "https://jhe.ewb.org.au/index.php/jhe/article/view/127"
 cpc-patent-class = "C12N 1/04"
-tsdc = "ASM" 
+tsdc = "ASM"
 bom = "https://content.instructables.com/FDT/N7U5/IVO5ASZ0/FDTN7U5IVO5ASZ0.pdf"
 manufacturing-instructions = "https://www.instructables.com/Portable-Petrifilm-Incubator-for-Inexpensive-In-Fi/"
 source = "https://content.instructables.com/FVY/KN3H/IVO5ARRV/FVYKN3HIVO5ARRV.pdf"

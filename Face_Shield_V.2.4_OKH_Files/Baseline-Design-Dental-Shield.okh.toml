@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Baseline-Design-Dental-Shield"
 repo = "https://drive.google.com/drive/folders/1m9TbodIiRrV7RE-_95i1v8EssJgdXFmx"
 version = "1.3"
@@ -17,7 +17,7 @@ image = [
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-1"
 cpc-patent-class = "A41D 13/11"
-tsdc = "3DP" 
+tsdc = "3DP"
 bom = "https://drive.google.com/file/d/1m9nf_HIq0eobYsnej0qMDCn2mhjCkeW_/view?usp=sharing"
 manufacturing-instructions = "https://drive.google.com/file/d/1m9nf_HIq0eobYsnej0qMDCn2mhjCkeW_/view?usp=sharing"
 # Sources for the parts information

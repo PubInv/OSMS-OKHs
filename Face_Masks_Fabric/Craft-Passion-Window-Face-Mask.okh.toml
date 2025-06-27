@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Craft-Passion-Window-Face-Mask"
 repo = "https://www.craftpassion.com/windowed-face-mask-sewing-pattern/"
 license = "LicenseRef-NOASSERTION"
@@ -15,7 +15,7 @@ contribution-guide = "https://www.craftpassion.com/windowed-face-mask-sewing-pat
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/11"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = "https://www.craftpassion.com/windowed-face-mask-sewing-pattern/#mv-creation-71-jtr"
 manufacturing-instructions = "https://www.craftpassion.com/wp-content/uploads/2020/06/windowed-face-mask-pattern-instructions.pdf"
 source = "https://www.craftpassion.com/wp-content/uploads/2020/05/windowed-face-mask-pattern.pdf"

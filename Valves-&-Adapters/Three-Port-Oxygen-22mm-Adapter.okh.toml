@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Three-Port-Oxygen-22mm-Adapter"
 repo = "https://grabcad.com/library/three-port-oxygen-22mm-adapter-1?fbclid=IwAR2HSMMj9pyb2aEhvvIL1llibAZUsmg1uRG8l0u9LNSIJikijB2u5_6J-Xo"
 version = "2.0.0"
@@ -18,5 +18,5 @@ image = [
 technology-readiness-level = "OTRL-2"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A62B 9/022"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 manufacturing-instructions = "https://grabcad.com/library/three-port-oxygen-22mm-adapter-1/details?folder_id=8425942"

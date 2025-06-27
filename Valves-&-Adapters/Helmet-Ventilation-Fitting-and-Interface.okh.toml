@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Helmet-Ventilation-Fitting-and-Interface"
 repo = "https://www.thingiverse.com/thing:4311901?fbclid=IwAR0YqhxYrWp0c3_D19ooIIra_mhk-uVs1P_8Y0OoS1AeBvtFDffLvonyMoQ"
 version = "1.0.0"
@@ -14,7 +14,7 @@ organization = "Bot Camp"
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A42B 3/04"
-tsdc = "3DP" 
+tsdc = "3DP"
 bom = "https://www.thingiverse.com/thing:4311901?fbclid=IwAR0YqhxYrWp0c3_D19ooIIra_mhk-uVs1P_8Y0OoS1AeBvtFDffLvonyMoQ"
 manufacturing-instructions = "https://www.youtube.com/watch?v=RdinKRQacM4"
 source = [

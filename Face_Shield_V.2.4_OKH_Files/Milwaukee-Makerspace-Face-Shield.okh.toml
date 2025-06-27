@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Milwaukee-Makerspace-Face-Shield"
 repo = "https://github.com/raster/MMS-Face-Shield?fbclid=IwAR0WkY2EEIgcGfV3WB6s5rP51Lk15lYz9K19944MHRSXsvdNrABiS-vB9gY"
 version = "3"

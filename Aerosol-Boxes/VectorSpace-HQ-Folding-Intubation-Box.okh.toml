@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "VectorSpace-HQ-Folding-Intubation-Box"
 repo = "https://github.com/VectorSpaceHQ/Folding-Intubation-Box"
 license = "GPL-3.0-only"
@@ -26,7 +26,7 @@ image = [
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "B65D 83/75"
-tsdc = "LAS" 
+tsdc = "LAS"
 bom = "https://github.com/VectorSpaceHQ/Folding-Intubation-Box#materials"
 manufacturing-instructions = "https://github.com/VectorSpaceHQ/Folding-Intubation-Box/tree/master#instructions"
 source = [

@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Flexible-Goggles"
 repo = "https://www.printables.com/model/59044-flexible-goggles-optimised-for-3dp-print-on-transp"
 license = "CC-BY-4.0"
@@ -41,7 +41,7 @@ image = [
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A61F 9/02"
-tsdc = "3DP" 
+tsdc = "3DP"
 bom = "https://files.printables.com/media/prints/59044/pdfs/59044-flexible-goggles-optimised-for-3dp-print-on-transparent-film-challenge-7-size-covid-19-b41a637b-7957-4c39-b1fe-2304a6212ad2.pdf?_gl=1*qomeui*_gcl_au*NDcxNzk4MTExLjE3NDIyNzA4MjI.*_ga*MjU4MjYyNTAzLjE3NDIyNzA4MTg.*_ga_3HK7B7RT5V*MTc0MjQwNzU1NC4yLjAuMTc0MjQwNzU1NC42MC4wLjA."
 manufacturing-instructions = [
    "https://files.printables.com/media/prints/59044/pdfs/59044-flexible-goggles-optimised-for-3dp-print-on-transparent-film-challenge-7-size-covid-19-b41a637b-7957-4c39-b1fe-2304a6212ad2.pdf?_gl=1*qomeui*_gcl_au*NDcxNzk4MTExLjE3NDIyNzA4MjI.*_ga*MjU4MjYyNTAzLjE3NDIyNzA4MTg.*_ga_3HK7B7RT5V*MTc0MjQwNzU1NC4yLjAuMTc0MjQwNzU1NC42MC4wLjA.",

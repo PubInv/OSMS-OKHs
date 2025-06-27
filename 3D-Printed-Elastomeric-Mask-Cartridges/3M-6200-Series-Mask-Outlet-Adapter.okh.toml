@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "3M-6200-Series-Mask-Outlet-Adapter"
 repo = "https://www.thingiverse.com/thing:4162847?fbclid=IwAR32Du0i927Vil3POBVWOIOulwfpXtf2pUxW2D-XwLnBMUbv4B-l7zaYf4s#google_vignette"
 license = "CC-BY-4.0"
@@ -22,7 +22,7 @@ image = [
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "B01D 37/00"
-tsdc = "3DP" 
+tsdc = "3DP"
 bom = "https://www.thingiverse.com/thing:4162847"
 manufacturing-instructions = "https://www.thingiverse.com/thing:4162847"
 source = [

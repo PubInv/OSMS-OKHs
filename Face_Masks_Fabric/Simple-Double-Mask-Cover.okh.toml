@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Simple-Double-Mask-Cover"
 repo = "https://www.instructables.com/Fashion-KN95-Cover/"
 license = "CC-BY-NC-SA-4.0"
@@ -14,7 +14,7 @@ readme = "https://www.instructables.com/Fashion-KN95-Cover/"
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A41D 13/11"
-tsdc = "ASM" 
+tsdc = "ASM"
 bom = "https://www.instructables.com/Fashion-KN95-Cover/"
 manufacturing-instructions = "https://www.instructables.com/Fashion-KN95-Cover/"
 source = [

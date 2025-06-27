@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "RR-Prototype-V1"
 repo = "https://www.thingiverse.com/thing:4294554?fbclid=IwAR08BRcu0jHdCONOsYnOTaa3RQ-EBnKAircmBO7gMwxDkGlDzV5sM90P-ck"
 version = "1.0.0"
@@ -21,7 +21,7 @@ image = [
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A62B 7/10"
-tsdc = "3DP" 
+tsdc = "3DP"
 bom = "https://docs.google.com/spreadsheets/d/1ahUs9ZtMGBLTzg7zXrzDuEUnemJ8hcCJofWkTrry1lw/edit?fbclid=IwAR39wX2A2me-MstNfQCSXvFG2bQjAyU5buC84gIEj_qkqlleBCkx2GAJRfw#gid=0"
 source = [
    "https://www.thingiverse.com/thing:4294554/files",

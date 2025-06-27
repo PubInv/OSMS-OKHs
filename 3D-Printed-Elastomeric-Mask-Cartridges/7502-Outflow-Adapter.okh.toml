@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "7502-Outflow-Adapter"
 repo = "https://www.thingiverse.com/thing:4202541/files"
 license = "CC-BY-NC-4.0"

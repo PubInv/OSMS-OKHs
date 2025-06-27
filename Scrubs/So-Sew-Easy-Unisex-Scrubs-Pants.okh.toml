@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "So-Sew-Easy-Unisex-Scrubs-Pants"
 repo = "https://so-sew-easy.com/unisex-scrubs-pants-pattern/"
 version = "1.0.0"
@@ -15,7 +15,7 @@ organization = "So Sew Easy"
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/00"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = "https://so-sew-easy.com/unisex-scrubs-pants-pattern/"
 manufacturing-instructions = "https://youtu.be/2P_idySKaiY"
 user-manual = "https://so-sew-easy.com/five-ways-to-disinfect-clothes/"

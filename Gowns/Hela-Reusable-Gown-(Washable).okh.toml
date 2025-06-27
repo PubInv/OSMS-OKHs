@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Hela-Reusable-Gown-(Washable)"
 repo = "https://docs.google.com/drawings/d/1wQigqaUywnTXg62eFRUVNCysCy9JsMeyxY-lpR8TW80/edit"
 license = "LicenseRef-NOASSERTION"
@@ -40,7 +40,7 @@ image = [
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A41D 13/00"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 bom = "https://docs.google.com/drawings/d/1wQigqaUywnTXg62eFRUVNCysCy9JsMeyxY-lpR8TW80/edit"
 manufacturing-instructions = "https://drive.google.com/drive/folders/1IVvPdErtFJ5lEsiefT_oVB4YW2BKjXMP"
 source = [
@@ -79,7 +79,7 @@ source = [
 ]
 
 [outer-dimensions]
-# XL Size 
+# XL Size
 width = 2171.7
 depth = 17.8
 height = 1524

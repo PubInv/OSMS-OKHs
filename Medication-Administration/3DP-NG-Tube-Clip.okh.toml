@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "3DP-NG-Tube-Clip"
 repo = "https://www.thingiverse.com/thing:5153512"
 version = "1.0.0"
@@ -18,7 +18,7 @@ image = [
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "F16B 2/02"
-tsdc = "3DP" 
+tsdc = "3DP"
 bom = "https://www.thingiverse.com/thing:5153512#google_vignette"
 manufacturing-instructions = "https://www.thingiverse.com/thing:5153512#google_vignette"
 source = [

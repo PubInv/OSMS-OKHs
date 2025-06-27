@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "Maker’s-Habitat-DIY-Fabric-Mask"
 repo = "https://www.facebook.com/makershabitatkl/videos/2504854873098703/"
 license = "LicenseRef-NOASSERTION"
@@ -14,7 +14,7 @@ image = "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-1/305990585_4704336617
 technology-readiness-level = "OTRL-2"
 documentation-readiness-level = "ODRL-1"
 cpc-patent-class = "A41D 13/11"
-# tsdc = "MEC/ASM/etc." 
+# tsdc = "MEC/ASM/etc."
 manufacturing-instructions = "https://www.facebook.com/makershabitatkl/videos/2504854873098703/"
 
 [outer-dimensions]

@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-okhv = "OKH-LOSHv1.0"
+okhv = "2.4"
 name = "CTC-Isolation-Gown"
 repo = "https://wikifactory.com/+ctc/ctc-isolation-gown"
 license = "CC-BY-NC-SA-4.0"
@@ -27,7 +27,7 @@ image = [
 technology-readiness-level = "OTRL-3"
 documentation-readiness-level = "ODRL-3"
 cpc-patent-class = "A41D 13/00"
-tsdc = "ASM" 
+tsdc = "ASM"
 bom = "https://wikifactory.com/+ctc/ctc-isolation-gown"
 manufacturing-instructions = [
    "https://wikifactory.com/+ctc/ctc-isolation-gown/file/ENGLISH%20Pattern%20%26%20Manual/Gown%20Manual.pdf",
