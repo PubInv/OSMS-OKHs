@@ -1,0 +1,45 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "DIY-PC-Fan-Air-Purifier-with-Lights"
+repo = "https://itsairborne.com/diy-pc-fan-air-purifier-with-lights-ac109ffc343"
+license = "LicenseRef-NOASSERTION"
+licensor = "https://medium.com/@drtennan"
+function = "The components used in this design create a durable build with minimal tape, but you will have a few spare components left over depending on how many air purifiers you build."
+documentation-language = "en"
+version = "1.0.0"
+organization = "Medium"
+readme = "https://itsairborne.com/diy-pc-fan-air-purifier-with-lights-ac109ffc343"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+publication = "https://uwaterloo.ca/bioengineering-biotechnology/news/waterloo-phd-student-teaches-air-purifier-workshop"
+cpc-patent-class = "F24F 1/00"
+tsdc = "ASM"
+bom = "https://itsairborne.com/diy-pc-fan-air-purifier-with-lights-ac109ffc343"
+manufacturing-instructions = "https://www.youtube.com/watch?v=wS0LK_LiqmE"
+source = [
+     "https://ryantennant.ca/static/media/Top.73eef499.dwg",
+     "https://ryantennant.ca/static/media/Bottom.2954165c.dwg",
+     "https://ryantennant.ca/static/media/Left.23859319.dwg",
+     "https://ryantennant.ca/static/media/Right.b25de644.dwg"
+]
+
+[outer-dimensions]
+width = 643
+depth = 177.8
+height = 393
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:720/format:webp/0*OzXZDRr4VfGd9C6v.jpeg"
+depicts = "Plastic connectors cut from Wiss Straight Snips."
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:720/format:webp/0*KdgOtYXr01vuqVEK.jpeg"
