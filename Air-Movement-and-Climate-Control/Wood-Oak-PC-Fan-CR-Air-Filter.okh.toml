@@ -1,0 +1,68 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "Wood-Oak-PC-Fan-CR-Air-Filter"
+repo = "https://itsairborne.com/wood-oak-pc-fan-cr-air-filter-bca5b4b99634"
+license = "LicenseRef-NOASSERTION"
+licensor = "KL Tong, MD <https://medium.com/@kevin-tong>"
+function = "CR Box fan with low decibel levels, cfm performance and pricing."
+documentation-language = "en"
+version = "1.0.0"
+organization = "Medium"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "F24F 1/00"
+tsdc = "ASM"
+bom = "https://itsairborne.com/wood-oak-pc-fan-cr-air-filter-bca5b4b99634"
+manufacturing-instructions = "https://itsairborne.com/wood-oak-pc-fan-cr-air-filter-bca5b4b99634"
+source = [
+     "https://miro.medium.com/v2/resize:fit:720/format:webp/1*-tnbujJEhtxWBzHbZSDaZg.png",
+     "part_a.scad",
+     "part_b.scad",
+     "params.csv"
+]
+
+[outer-dimensions]
+width = 660.4
+depth = 209.55
+height = 419.1
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:720/format:webp/1*09wlATn9i1VJwWm9j3uP1Q.jpeg"
+depicts = "A picture of a Wood Oak PC Fan CR Air Filter."
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*VDqjIt2f5jxIWX3M10IfRg.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/0*MlM-sQDV6Mbtw-v8.jpeg"
+
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*eZPxT09AW-ZSUTd8I0F9xA.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/0*GsbEHeGNdKAIM0Q0.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*4_fO0qWz-7k8bIZced8XBA.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/0*k-O-91-gv-QSoiY8.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/0*FkjbMXWf3VmVdt3M.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/0*Dy_3XC3Z6PfoAPLP.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*7Yk-yU7s642unVYn5-wPQQ.png"
