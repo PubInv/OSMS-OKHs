@@ -1,0 +1,48 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "The_Mini_PC_Fan_Corsi-Rosenthal_Box"
+repo = "https://itsairborne.com/the-mini-pc-fan-cr-box-975d0b069f4c"
+license = "LicenseRef-NOASSERTION"
+licensor = "Joey Fox <https://medium.com/@joeyfox.85>"
+function = "This build of a mini PC Fan CR Box is relatively simple and easily scaled. It’s not as powerful as the classic CR box, but good for smaller spaces. Future testing could verify the effectiveness of this air cleaner."
+documentation-language = "en"
+version = "1.0.0"
+organization = "Medium"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "F24F 1/00"
+tsdc = "ASM"
+bom = "https://itsairborne.com/the-mini-pc-fan-cr-box-975d0b069f4c"
+manufacturing-instructions = "https://itsairborne.com/the-mini-pc-fan-cr-box-975d0b069f4c"
+source = "https://miro.medium.com/v2/resize:fit:720/format:webp/1*U8oWIrAUwsKIzdL4xu0ovQ.jpeg"
+     
+[outer-dimensions]
+# Estimated based on the sizes of the filters.
+width = 508
+depth = 508
+height = 508
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:720/format:webp/1*ria9egpdH731c8_kCEZd0Q.jpeg"
+depicts = "Mini PC Fan filter."
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:720/format:webp/1*F0CdEGjIk9reV1FmAjRJMw.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:720/format:webp/1*5Ez5x5E3hG-9adh2aGJ_Sw.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:720/format:webp/1*gcUOHjjkySOT83NBRmhJYA.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:720/format:webp/1*aODGOIS0ri6_ubVVVW58cA.jpeg"
