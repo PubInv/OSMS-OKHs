@@ -1,0 +1,101 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "PC_Fan_Corsi-Rosenthal_Guide"
+repo = "https://itsairborne.com/pc-fan-corsi-rosenthal-guide-a611dabf7e0c"
+license = "LicenseRef-NOASSERTION"
+licensor = "Matthew Azevedo <https://medium.com/@matthew.azevedo>"
+function = "To save money, build this as a 5-fan configuration, not 6-fan. You can also substitute some or all of the P14 fans for P12s. These options will save money at the cost of reduced performance."
+documentation-language = "en"
+version = "1.0.0"
+organization = "Medium"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "F24F 1/00"
+tsdc = "ASM"
+bom = "https://itsairborne.com/pc-fan-corsi-rosenthal-guide-a611dabf7e0c"
+manufacturing-instructions = "https://itsairborne.com/pc-fan-corsi-rosenthal-guide-a611dabf7e0c"
+source = [
+     "https://support.arctic.de/products/p14/techdocs/140mm_fan-Mounting_hole_pattern.pdf",
+     "https://support.arctic.de/products/p12/techdocs/120mm_fan-Mounting_hole_pattern.pdf"
+]
+
+[outer-dimensions]
+width = 200
+depth = 510
+height = 127
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*AmDS4X_fMGEVnVFGEYA3rw.jpeg"
+depicts = ""
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:720/format:webp/1*ZVQjBdlbQ8hcLlXR-4TD5g.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*5Vw9zk6qhWRr4KjPqoa2TQ.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:632/format:webp/1*9mYoRJB6nxrXneKEiIA-Mw.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*52EGcMVJMYiBSEBUGYXgQA.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*HO2BbM-rhQYAyLfk_LgWKQ.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*romEpnYoPIqkSVtZdBHYFQ.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:484/format:webp/1*seK-aLTSi9O3FWTPkp17KA.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*sOFPGcC2OYDWTDWWIAGlUw.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*PE3RGqRTW31NQrl58Cuesg.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*bg9ZbJ_hi2a7SPBMUKbXCQ.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*ib8xOST-MSgwThT-6icIYA.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*dLYZ-9-p8YHMIYglXY_Txg.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*VhtGjWRdIegmz71Uj6CPzQ.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:598/format:webp/1*d_8ntQgM_4pUXu1eVwB-Vw.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:720/format:webp/1*EVKhQJDgQVNa2El-ueIUzg.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*6uLDDkgYqfbdT0Q6v7RlEg.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*gGbGpWnMpeAfAAZm6hVeyg.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:720/format:webp/1*spW9J75ubEGXi8n58ktSpg.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:720/format:webp/1*zty5qtsebmxYnOC_ITfT7g.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*WF6wgMyU1cNIw8-wXv-CBQ.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*yl8h8HSghAygaQbElIo1ww.jpeg"
