@@ -1,0 +1,69 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "Busy_mom_builds_a_PC_fan_Corsi-Rosenthal_box"
+repo = "https://itsairborne.com/busy-mom-builds-a-pc-fan-corsi-rosenthal-box-c64a56bae528"
+license = "LicenseRef-NOASSERTION"
+licensor = "NB COVID info <https://medium.com/@nbcitizencovidupdates>"
+function = "This goes through the parts that were ordered, a detailed write up with photos showing how the box was made, and the builder's thoughts as a resource-limited parent/advocate/lay-person."
+documentation-language = "en"
+version = "1.0.0"
+organization = "Medium"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+publication = "https://x.com/nb_covid_info/status/1629541751621812225/photo/1"
+cpc-patent-class = "F24F 1/00"
+tsdc = "ASM"
+bom = "https://itsairborne.com/busy-mom-builds-a-pc-fan-corsi-rosenthal-box-c64a56bae528"
+manufacturing-instructions = "https://itsairborne.com/busy-mom-builds-a-pc-fan-corsi-rosenthal-box-c64a56bae528"
+
+[outer-dimensions]
+# Dimensions estimated based on filter size.
+width = 508
+depth = 127
+height = 762
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*NvS1hGRktxp987i4JZzv_w.jpeg"
+depicts = "A multicolored PC fan Corsi-Rosenthal box."
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*FifBxZoAG-nFLcze0Mjbpg.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:366/format:webp/1*kvI0WZnveoQcaOP8THjucw.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*DYqYVyd-5E2xLQrjddzNvg.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*O7FH3puLaeqI8Lp1EHQkSQ.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*rQ9xEaxW24W4YyPfzOmnzw.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*3c9r3rNKEM19JX0VABW3eQ.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*OVS2nU-EsipihxK-Tc8R7w.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*7apFRskJJnRLJNP4FtEEwg.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*eXAYalRf7FBURKUJi9Svbw.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*Q6huLlRx8f9ORrBlYN1rzg.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*lRkfZ-KefM3jPt-GNgfP0A.jpeg"
