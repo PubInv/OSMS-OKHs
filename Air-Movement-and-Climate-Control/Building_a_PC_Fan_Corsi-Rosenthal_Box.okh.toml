@@ -1,0 +1,61 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "Building_a_PC_Fan_Corsi-Rosenthal_Box"
+repo = "https://itsairborne.com/building-a-pc-fan-corsi-rosenthal-box-68e7cd1ca570"
+license = "LicenseRef-NOASSERTION"
+licensor = "Joey Fox <https://medium.com/@joeyfox.85>"
+function = "An innovative solution using a parallel array of PC fans. These fans operate quietly and, although a single fan alone may not provide substantial air purification, when combined in parallel, they offer the most effective method for achieving a high clean air delivery rate while maintaining a low noise profile."
+documentation-language = "en"
+version = "1.0.0"
+organization = "Medium"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+publication = "https://x.com/robwiss/status/1584723252340891648/photo/1"
+cpc-patent-class = "F24F 1/00"
+tsdc = "ASM"
+bom = "https://itsairborne.com/building-a-pc-fan-corsi-rosenthal-box-68e7cd1ca570"
+manufacturing-instructions = "https://itsairborne.com/building-a-pc-fan-corsi-rosenthal-box-68e7cd1ca570"
+source = [
+     "https://support.arctic.de/products/p12-pwm/techdocs/120mm_fan-Mounting_hole_pattern.pdf",
+     "https://support.arctic.de/products/p14/techdocs/140mm_fan-Mounting_hole_pattern.pdf"
+]
+
+[outer-dimensions]
+# Width and height estimated, depth is a rough guess.
+width = 120
+depth = 127
+height = 508
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:720/format:webp/1*_7awSNEp4OO0WM7n-xIf4Q.jpeg"
+depicts = "Building a PC Fan Corsi-Rosenthal Box."
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:720/format:webp/1*8V9-UjRdK_9qt0DuOcrDtQ.png"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:720/format:webp/1*iciHcKcZA7VVvHmD6JSFZQ.png"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:720/format:webp/1*egPg0MctERrh89AIJ6xv5A.png"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:720/format:webp/1*VfFwLaJ42DlptFYoaiiDzw.png"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:720/format:webp/1*SA_U8wJt-Ptc17n_4ItdzA.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:720/format:webp/1*h4A95YKqloUrKcVyACeqsw.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:720/format:webp/1*m3osj5XRKbjhO3i5A2homw.jpeg"
