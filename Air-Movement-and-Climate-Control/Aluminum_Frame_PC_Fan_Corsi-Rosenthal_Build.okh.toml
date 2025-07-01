@@ -1,0 +1,58 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "Aluminum_Frame_PC_Fan_Corsi-Rosenthal_Build"
+repo = "https://itsairborne.com/aluminum-frame-pc-fan-corsi-rosenthal-build-c28aa7ca8927"
+license = "LicenseRef-NOASSERTION"
+licensor = "Zack Deis <https://medium.com/@zack.deis>"
+function = "A version of a PC fan CR box with a metal frame for a clean, professional look and an easier design to simplify filter replacement."
+documentation-language = "en"
+version = "1.0.0"
+organization = "Medium"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "F24F 1/00"
+tsdc = "ASM"
+bom = "https://itsairborne.com/aluminum-frame-pc-fan-corsi-rosenthal-build-c28aa7ca8927"
+manufacturing-instructions = "https://itsairborne.com/aluminum-frame-pc-fan-corsi-rosenthal-build-c28aa7ca8927"
+
+[outer-dimensions]
+width = 495.3
+depth = 241.3
+height = 508
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:720/format:webp/1*TX5DUqd0GyfkZOGjgM1j8Q.jpeg"
+depicts = "Aluminum Frame PC Fan Corsi-Rosenthal Build."
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*F0NYrqULNzcfYac_mKTBbQ.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*mjeZbfM6Y88c0e3kOrEQUA.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*YybU_Eu1DCUe4uho_xDxAQ.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*NWxgJvIFobJIH-u88HQ9zA.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*hu64Bzk4inxsA8bQmbEnwQ.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*rncnjG9DdC9J6WiQ_rR3Ew.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*Ld43vX8E2mBKd3qVqMT9gA.jpeg"
+
+[[image]]
+location = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*UHGf7eEVTpLbey8Mw2-M-w.jpeg"
