@@ -1,0 +1,38 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "Maybe-Not-Fully-#DavosSafe,-But-Certainly-#DavosSafeAdjacent-Is-Something-We-All-Deserve"
+repo = "https://yonifreedhoffmd.substack.com/p/maybe-not-davossafe-but-certainly?source=post_page-----eb5736d26e63---------------------------------------"
+license = "LicenseRef-NOASSERTION"
+licensor = "Yoni Freedhoff, MD <https://substack.com/@yonifreedhoffmd>"
+function = "The world's rich and powerful employ multiple measures to prevent infection, including an oxygen filter version."
+documentation-language = "en"
+version = "1.0.0"
+organization = "Weighty Matters"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "F24F 1/00"
+tsdc = "ASM"
+bom = "https://yonifreedhoffmd.substack.com/p/maybe-not-davossafe-but-certainly?source=post_page-----eb5736d26e63---------------------------------------"
+manufacturing-instructions = "https://yonifreedhoffmd.substack.com/p/maybe-not-davossafe-but-certainly?source=post_page-----eb5736d26e63---------------------------------------"
+
+[[image]]
+location = "https://substackcdn.com/image/fetch/$s_!oxTw!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0cf8434-822d-4324-8ac1-c4a848c3e465_3024x4032.jpeg"
+depicts = "An air filter updated for price and effectiveness."
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://substackcdn.com/image/fetch/$s_!9U40!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa287c806-f37c-4bcd-aef1-9e9209e583a1_4032x3024.jpeg"
+
+[[image]]
+location = "https://substackcdn.com/image/fetch/$s_!nvLX!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbcf3edb3-d26e-4916-ba95-a97d5aaa7b5c_3024x4032.jpeg"
+
+[[image]]
+location = "https://substackcdn.com/image/fetch/$s_!kEN1!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F453b7335-d412-45d1-9518-7a5c8fd7f323_3024x4032.jpeg"
