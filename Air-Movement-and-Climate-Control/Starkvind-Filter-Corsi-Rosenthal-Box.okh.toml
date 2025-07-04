@@ -1,0 +1,51 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "Starkvind-Filter-Corsi-Rosenthal-Box"
+repo = "https://github.com/robwiss/diy_air_purifier/blob/main/5_Arctic_P14_4_Starkvind/README.md"
+license = "GPL-3.0-only"
+licensor = "robwiss <https://github.com/robwiss>"
+function = "Large Corsi box featuring five-pack Arctic P14 PWM PST fans and four Ikea Starkvind filters. Includes Clean Air Delivery Rate (CADR) testing data. Build reports state much lower fan noise compared to other box fan designs."
+documentation-language = "en"
+version = "1.0.0"
+organization = "robwiss"
+release = "https://github.com/robwiss/diy_air_purifier/commit/dde89f3cba93adf5a01c8c83155890017db389ee"
+readme = "https://github.com/robwiss/diy_air_purifier/blob/main/README.md"
+contribution-guide = "https://github.com/robwiss"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "F24F 1/00"
+tsdc = "ASM"
+bom = "https://github.com/robwiss/diy_air_purifier/tree/main/5_Arctic_P14_4_Starkvind#bill-of-materials"
+manufacturing-instructions = "https://www.youtube.com/watch?v=Ird0-orsSGM&t=13s"
+source = [
+     "https://github.com/robwiss/diy_air_purifier/blob/main/5_Arctic_P14_4_Starkvind/exploded.png",
+     "https://github.com/robwiss/diy_air_purifier/blob/main/5_Arctic_P14_4_Starkvind/sheet_1.png",
+     "https://github.com/robwiss/diy_air_purifier/blob/main/5_Arctic_P14_4_Starkvind/sheet_2.png",
+     "https://github.com/robwiss/diy_air_purifier/blob/main/5_Arctic_P14_4_Starkvind/top_template.png",
+     "https://github.com/robwiss/diy_air_purifier/blob/main/5_Arctic_P14_4_Starkvind/top_template_fullsize.pdf",
+     "https://github.com/robwiss/diy_air_purifier/blob/main/5_Arctic_P14_4_Starkvind/top_template_lettersize.pdf",
+     "https://github.com/robwiss/diy_air_purifier/blob/main/5_Arctic_P14_4_Starkvind/data/sds011/20220807a_5_ArcticP14_4_Starkvind_100_pwr.csv",
+     "https://github.com/robwiss/diy_air_purifier/blob/main/5_Arctic_P14_4_Starkvind/data/sds011/20220807b_5_ArcticP14_4_Starkvind_100_pwr.csv",
+     "https://github.com/robwiss/diy_air_purifier/blob/main/5_Arctic_P14_4_Starkvind/data/sds011/20220807c_5_ArcticP14_4_Starkvind_100_pwr.csv",
+     "https://github.com/robwiss/diy_air_purifier/blob/main/5_Arctic_P14_4_Starkvind/data/sps30/20220807a_5_ArcticP14_4_Starkvind_100_pwr.csv",
+     "https://github.com/robwiss/diy_air_purifier/blob/main/5_Arctic_P14_4_Starkvind/data/sps30/20220807b_5_ArcticP14_4_Starkvind_100_pwr.csv",
+     "https://github.com/robwiss/diy_air_purifier/blob/main/5_Arctic_P14_4_Starkvind/data/sps30/20220807c_5_ArcticP14_4_Starkvind_100_pwr.csv"
+]
+
+[outer-dimensions]
+width = 508
+depth = 762
+height = 286
+
+[[image]]
+location = "https://cdn.prod.website-files.com/679bd6d8e9c2f7d8d67ee78a/67be8af16d8e60bf3086340d_67b4e9112d00bb9779f8c2c4_STARKVIND1.png"
+depicts = "Image of Starkvind Filter Corsi Rosenthal Box."
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
