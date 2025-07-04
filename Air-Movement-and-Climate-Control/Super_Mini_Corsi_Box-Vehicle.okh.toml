@@ -1,0 +1,44 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "Super_Mini_Corsi_Box-Vehicle"
+repo = "https://www.texairfilters.com/enjoy-clean-air-while-you-drive-with-the-mini-mini-corsi-rosenthal-box/"
+license = "LicenseRef-NOASSERTION"
+licensor = "Jim Rosenthal <https://www.texairfilters.com/author/jim/>"
+function = "Small, portable, rechargeable air filter that cleans a car or truck cab interior. Approximately $ 45 USD build cost. Particle counter tests showed 80-90% particle reduction across 130 cubic feet. Components include MERV13 filters, cardboard, and a double-decker PC fan."
+documentation-language = "en"
+version = "1.0.0"
+organization = "Tex-Air Filters"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "F24F 1/00"
+tsdc = "ASM"
+bom = "https://www.texairfilters.com/enjoy-clean-air-while-you-drive-with-the-mini-mini-corsi-rosenthal-box/"
+manufacturing-instructions = "https://www.texairfilters.com/enjoy-clean-air-while-you-drive-with-the-mini-mini-corsi-rosenthal-box/"
+
+[[image]]
+location = "https://www.texairfilters.com/wp-content/uploads/Mini-Mini-CR-box-rotated.jpeg"
+depicts = "The Mini Corsi Box in a vehicle."
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://www.texairfilters.com/wp-content/uploads/auto-cr-box-parts.jpeg"
+
+[[image]]
+location = "https://www.texairfilters.com/wp-content/uploads/Mini-mini-cr-box-1st-step.jpeg"
+
+[[image]]
+location = "https://www.texairfilters.com/wp-content/uploads/mini-mini-full-box.jpeg"
+
+[[image]]
+location = "https://www.texairfilters.com/wp-content/uploads/Mini-mini-with-fan.jpeg"
+
+[[image]]
+location = "https://www.texairfilters.com/wp-content/uploads/mini-mini-with-battery.jpeg"
