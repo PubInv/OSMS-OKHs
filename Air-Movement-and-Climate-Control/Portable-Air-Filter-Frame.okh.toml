@@ -1,0 +1,49 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "Portable-Air-Filter-Frame"
+repo = "https://www.printables.com/model/309500-portable-air-filter-frame"
+license = "CC-BY-NC-SA-4.0"
+licensor = "bdt <https://www.printables.com/@bdt_135597>"
+function = "A small, portable air filter incorporating a 3DP frame, PC fans, MERV13 filters, and a USB power source. Ideal for air cleaning closest to the user, such as desktop or bedside."
+documentation-language = "en"
+version = "1.0.0"
+organization = "Printables"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+publication = "https://x.com/CRBoxKits"
+cpc-patent-class = "F24F 1/00"
+tsdc = "3DP"
+bom = "https://www.printables.com/model/309500-portable-air-filter-frame"
+manufacturing-instructions = "https://www.printables.com/model/309500-portable-air-filter-frame"
+source = "https://www.printables.com/model/309500-portable-air-filter-frame/files"
+
+[[image]]
+location = "https://media.printables.com/media/prints/309500/images/3066604_948ef3c2-899b-4b36-bcfc-714da54f992d/thumbs/inside/1280x960/png/filter_v2.webp"
+depicts = "The main image of the Portable Air Filter Frame."
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://media.printables.com/media/prints/309500/images/2691077_0accc0a7-72f5-452b-b1dd-06e85ea3eef7/thumbs/inside/1280x960/png/screen-shot-2022-11-04-at-002219.webp"
+
+[[image]]
+location = "https://media.printables.com/media/prints/309500/images/2691083_b16c7309-3bb8-439b-a869-09d10415f3ac/thumbs/inside/1280x960/png/screen-shot-2022-11-04-at-002602.webp"
+
+[[image]]
+location = "https://media.printables.com/media/prints/309500/images/3066603_14e13456-a3f6-4cb9-9719-da94fc9f8a90/thumbs/inside/1280x960/png/filter_bottom_v2.webp"
+
+[[image]]
+location = "https://media.printables.com/media/prints/309500/images/3137877_a2b29e0d-88e3-48ef-af49-3e7765a9f467/thumbs/inside/1280x960/png/screenshot-2023-01-17-at-234158.webp"
+
+[[image]]
+location = "https://media.printables.com/media/prints/309500/images/3137875_19de451c-6647-401d-ac0d-6b7902d0e509/thumbs/inside/1280x960/png/screenshot-2023-01-17-at-234148.webp"
+
+[[image]]
+location = "https://media.printables.com/media/prints/309500/images/3137876_9e0c8fe5-89e1-4220-9917-25bb394fb3f5/thumbs/inside/1280x960/png/screenshot-2023-01-17-at-234207.webp"
