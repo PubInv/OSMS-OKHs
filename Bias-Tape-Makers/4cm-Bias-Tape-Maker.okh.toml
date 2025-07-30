@@ -1,0 +1,30 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "4cm-Bias-Tape-Maker"
+repo = "https://www.thingiverse.com/thing:4230339"
+license = "CC-BY-4.0"
+licensor = "Gazda Tony <https://www.thingiverse.com/gazdatony/designs>"
+function = "3D printed bias tape maker design to mount to sewing machine using double sided tape. It is intended for a 4cm bias tape."
+documentation-language = "en"
+version = "1.0.0"
+organization = "Thingiverse"
+release = "https://www.thingiverse.com/make:803461"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "B21B 41/00"
+tsdc = "3DP"
+bom = "BoM.csv"
+manufacturing-instructions = "https://www.thingiverse.com/thing:4230339"
+source = "https://www.thingiverse.com/download:7838215"
+
+[[image]]
+location = "https://scontent-dfw5-3.xx.fbcdn.net/v/t1.6435-9/91170110_10218990884581505_7494411511373234176_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=bd9a62&_nc_ohc=lKPuo5XQCfwQ7kNvwGk7Orn&_nc_oc=Adk2aCi8ZkfdFZmmLcjHxq3uuCMAwitOS6E26pwZ97ssE2dqdAGqJ9_5sE5BBK71XVLwWYacLwozOC1xwN4N2gwI&_nc_zt=23&_nc_ht=scontent-dfw5-3.xx&_nc_gid=YfXEUeigGlmrksuwM1v4dg&oh=00_AfSdX7K1Pj3QCOw9piR3Eza0kVZHo69JP7INRjoq9SNa-g&oe=68B20D12"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
