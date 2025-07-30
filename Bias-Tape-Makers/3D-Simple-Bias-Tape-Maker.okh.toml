@@ -1,0 +1,62 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "3D-Simple-Bias-Tape-Maker"
+repo = "https://www.thingiverse.com/thing:4234257"
+license = "CC-BY-4.0"
+licensor = "ongaroo <https://www.thingiverse.com/ongaroo/designs>"
+function = "3D printed bias tape with optional double fold. This is a minimalistic version of the tool for folding a cloth strip into a rope. It is designed to be rapidly printed."
+documentation-language = "en"
+version = "1.0.0"
+organization = "Thingiverse"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "B21B 41/00"
+tsdc = "3DP"
+bom = "https://www.thingiverse.com/thing:4234257"
+manufacturing-instructions = "https://www.thingiverse.com/thing:4234257"
+source = [
+     "https://www.thingiverse.com/download:7851122",
+     "https://www.thingiverse.com/download:7855979",
+     "https://www.thingiverse.com/download:7866557",
+     "https://www.thingiverse.com/download:7862498",
+     "https://www.thingiverse.com/thing:4234257/files"
+]
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/03/c0/a0/4b/33/medium_preview_frontpage.png"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/cd/82/61/fe/2c/large_display_4cmBiasTape_Q3_fold_U_wings.png"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/93/74/0d/16/76/large_display_IMG_20200321_073602.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/a7/fb/6a/eb/b3/large_display_IMG_20200321_073616.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/98/9f/20/1e/a3/IMG_20200322_140656.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/79/4e/6a/e5/4c/large_display_IMG_20200321_073647.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/03/5f/52/c6/4e/large_display_IMG_20200321_073631.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/6e/30/f1/25/78/large_display_IMG_20200321_073939.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/4f/2a/91/54/bc/large_display_IMG_20200322_190711.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/5c/60/62/6b/fb/large_display_IMG_20200322_190745.jpg"
