@@ -1,0 +1,53 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "Triple_Glazing_Window_Repair-Insulate_Ukraine"
+repo = "https://www.insulate-ukraine.org/solution-v2"
+license = "LicenseRef-NOASSERTION"
+licensor = "Insulate Ukraine <info@insulate-ukraine.org>"
+function = "NGO Insulate Ukraine has developed a cost-effective solution for glass window damage in low-resource and conflict-affected regions. Polyethylene, PVC piping, pipe insulation, and duct tape create a triple-glaze window insulation effect when immediate glass window replacement is not possible. Instructions in English and Ukrainian."
+documentation-language = "en"
+version = "2.0.0"
+organization = "Insulate Ukraine"
+contribution-guide = "https://www.insulate-ukraine.org/about-us"
+technology-readiness-level = "OTRL-2"
+documentation-readiness-level = "ODRL-2"
+publication = "https://www.insulate-ukraine.org/in-the-news"
+cpc-patent-class = "A41D 13/11"
+tsdc = "ASM"
+bom = "https://www.insulate-ukraine.org/solution-v2"
+manufacturing-instructions = "https://www.insulate-ukraine.org/solution-v2"
+source = "https://images.squarespace-cdn.com/content/v1/63d387008bc65c44f88e4d6a/a32915f8-07b4-43a9-9a45-abd9b0b81f72/New+Chart.png?format=750w"
+
+[[image]]
+location = "https://images.squarespace-cdn.com/content/v1/63d387008bc65c44f88e4d6a/dab2af85-0fc7-4846-996b-34a5afd54953/Website+Logo-2.png?format=1500w"
+depicts = "The logo of Insulate Ukraine."
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://images.squarespace-cdn.com/content/v1/63d387008bc65c44f88e4d6a/59cabb57-e477-491b-8aa3-12bb19d9ac20/WhatsApp+Image+2024-10-04+at+10.15.21.jpg?format=1500w"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://images.squarespace-cdn.com/content/v1/63d387008bc65c44f88e4d6a/24a81471-dd29-4a6e-baa8-93a7ef786084/WhatsApp+Image+2024-10-04+at+10.15.10.jpg?format=1500w"
+
+[[image]]
+location = "https://images.squarespace-cdn.com/content/v1/63d387008bc65c44f88e4d6a/7e6d919d-11db-4dd3-8dde-20af8baf6fdb/WhatsApp+Image+2024-10-04+at+09.27.51.jpeg?format=1500w"
+
+[[image]]
+location = "https://images.squarespace-cdn.com/content/v1/63d387008bc65c44f88e4d6a/fabe2151-37d1-47c6-bbaa-78d114627f77/WhatsApp+Image+2024-10-04+at+10.15.30.jpeg?format=1500w"
+
+[[image]]
+location = "https://images.squarespace-cdn.com/content/v1/63d387008bc65c44f88e4d6a/15d9b8f4-aaf0-49cf-b6b6-e162b808e324/WhatsApp+Image+2024-10-04+at+09.31.31.jpeg?format=500w"
