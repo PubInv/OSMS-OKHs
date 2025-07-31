@@ -1,0 +1,53 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "Clippable-Bias-Tape-and-Double-Fold-Maker"
+repo = "https://www.thingiverse.com/thing:4268859"
+license = "CC-BY-4.0"
+licensor = "William Walter <https://www.thingiverse.com/dirtyvalentine/designs>"
+function = "This design allows both makers to be clipped together and held in the hand while sewing the bias tape, thus removing the need for ironing. Please refer to the photo illustrations for threading and use instructions."
+documentation-language = "en"
+version = "1.0.0"
+organization = "Thingiverse"
+release = "https://www.thingiverse.com/make:794578"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "B21B 41/00"
+tsdc = "3DP"
+bom = "https://www.thingiverse.com/thing:4268859"
+manufacturing-instructions = "https://www.thingiverse.com/thing:4268859"
+source = [
+     "https://cdn.thingiverse.com/assets/9d/85/8a/76/5a/large_display_Bias5.jpg",
+     "https://www.thingiverse.com/download:7960309",
+     "https://www.thingiverse.com/download:7960307",
+     "https://www.thingiverse.com/download:7960308",
+     "https://www.thingiverse.com/download:7960303",
+     "https://www.thingiverse.com/download:7960302",
+     "https://www.thingiverse.com/download:7960301",
+     "https://www.thingiverse.com/download:7960300",
+     "https://www.thingiverse.com/thing:4268859/files"
+]
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/2e/1e/8c/29/55/large_display_IMG_20200407_164203.jpg"
+depicts = "Clippable Bias Tape and Double Fold Maker in action, main photo."
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/e3/56/22/4b/b0/large_display_Bias1.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/6e/7c/2f/3f/d6/large_display_Bias2.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/14/1b/78/f1/af/large_display_Bias3.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/a7/bb/d8/43/8c/large_display_Bias4.jpg"
