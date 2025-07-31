@@ -1,0 +1,47 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "DIY-Camping-Hand-Washing-System-(with-pump)"
+repo = "https://campingkitchenbox.com/blogs/news/camping-hand-washing-system"
+license = "LicenseRef-NOASSERTION"
+licensor = "Camping Kitchen Box <https://www.youtube.com/@CampingKitchenBox>"
+function = "Easily made with parts from a hardware store. The foot pump allows hand washing unencumbered and controls the water flow so there is less waste. Be sure to protect the pump device by placing it on wood or plastic so it doesn’t touch the ground."
+documentation-language = "en"
+version = "1.0.0"
+organization = "Camping Kitchen Box"
+technology-readiness-level = "OTRL-2"
+documentation-readiness-level = "ODRL-1"
+publication = "https://www.youtube.com/watch?v=nBZyHSL98xo"
+cpc-patent-class = "C11D 17/00"
+tsdc = "ASM"
+bom = "https://campingkitchenbox.com/blogs/news/camping-hand-washing-system"
+manufacturing-instructions = "https://campingkitchenbox.com/blogs/news/camping-hand-washing-system"
+user-manual = "https://www.youtube.com/watch?v=nBZyHSL98xo"
+
+[[image]]
+location = "https://campingkitchenbox.com/cdn/shop/files/CKBLogo63X700_720x.png?v=1614294280"
+depicts = "Camping Kitchen Box logo."
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://cdn.prod.website-files.com/679bd6d8e9c2f7d8d67ee78a/67be8a147c0317afe1c5bf0c_67b4e923be2ce5b53b31d3f4_Screen%2520Shot%25202020-05-12%2520at%252012.11.40%2520AM.png"
+depicts = "Main photo of Camping Hand Washing System."
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://cdn.shopify.com/s/files/1/0345/3842/2407/files/camping-handwasher.jpg?v=1583597551"
+
+[[image]]
+location = "https://cdn.shopify.com/s/files/1/0345/3842/2407/files/BarCutting.png?v=1583597602"
