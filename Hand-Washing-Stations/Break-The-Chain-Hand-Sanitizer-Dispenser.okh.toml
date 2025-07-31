@@ -1,0 +1,83 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "Break-The-Chain-Hand-Sanitizer-Dispenser"
+repo = "https://www.instructables.com/Foot-Operated-Disinfectant-Dispenser-using-Bicycle/?fbclid=IwAR0yvqfq74lfzG5Dho15j-cawHJRW3dIIZW968wB4lrkBwNezvb1Wbv_3z0"
+license = "CC-BY-NC-SA-4.0"
+licensor = "sreenivas.ec <https://www.instructables.com/member/sreenivas.ec/>"
+function = "This product can be operated by the user's leg by pressing on the pedal in order to use the hand wash or sanitizer and avoid any minor possibility of a contact spread of the virus."
+documentation-language = "en"
+version = "1.0.0"
+organization = "AutoDesk Instructables"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "C11D 17/00"
+tsdc = "ASM"
+bom = "https://content.instructables.com/FPZ/H6HZ/KAWI8QH7/FPZH6HZKAWI8QH7.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wNi0wMSAxMjoyMDowMy4w&_gl=1*1905vyl*_ga*OTE4MTA5MTIuMTc0MjU2NTgxNg..*_ga_NZSJ72N6RX*czE3NTM5MjM0MTEkbzYkZzEkdDE3NTM5MjM2MTckajQkbDAkaDA."
+manufacturing-instructions = "https://www.instructables.com/Foot-Operated-Disinfectant-Dispenser-using-Bicycle/?fbclid=IwAR0yvqfq74lfzG5Dho15j-cawHJRW3dIIZW968wB4lrkBwNezvb1Wbv_3z0"
+source = [
+     "https://content.instructables.com/FLI/4X7Y/KAWI8QRL/FLI4X7YKAWI8QRL.jpg?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMC0wNi0wMSAxMjoyMDoyMi4w&_gl=1*5scqww*_ga*OTE4MTA5MTIuMTc0MjU2NTgxNg..*_ga_NZSJ72N6RX*czE3NTM5MjM0MTEkbzYkZzEkdDE3NTM5MjM2MTckajQkbDAkaDA.",
+     "https://content.instructables.com/F3Z/JYM3/KAWI8QRU/F3ZJYM3KAWI8QRU.jpg?auto=webp&frame=1&fit=bounds&md=MjAyMC0wNi0wMSAxMjoyMDoyNC4w&_gl=1*194jorl*_ga*OTE4MTA5MTIuMTc0MjU2NTgxNg..*_ga_NZSJ72N6RX*czE3NTM5MjM0MTEkbzYkZzEkdDE3NTM5MjM2MTckajQkbDAkaDA.",
+     "https://content.instructables.com/FL7/076Q/KAWI8QRV/FL7076QKAWI8QRV.jpg?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMC0wNi0wMSAxMjoyMDoyNS4w",
+     "https://content.instructables.com/FDD/91IN/KAWI8QS6/FDD91INKAWI8QS6.jpg?auto=webp&frame=1&fit=bounds&md=MjAyMC0wNi0wMSAxMjoyMDoyNi4w",
+     "https://content.instructables.com/F55/3SQ3/KAWI8QSO/F553SQ3KAWI8QSO.jpg?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMC0wNi0wMSAxMjoyMDoyNi4w",
+     "https://content.instructables.com/FR0/AA8X/KAWI8QSX/FR0AA8XKAWI8QSX.jpg?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMC0wNi0wMSAxMjoyMDoyOC4w"
+]
+
+[outer-dimensions]
+# Rough estimates of dimensions.
+width = 304.8
+depth = 304.8
+height = 750
+
+[[image]]
+location = "https://www.instructables.com/assets/img/instructables-logo-2023.svg"
+depicts = "AutoDesk Instructables logo."
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://content.instructables.com/FWD/ELF3/KAWI8VWO/FWDELF3KAWI8VWO.jpg?auto=webp&frame=1&height=1024&fit=bounds&md=MjAyMC0wNi0wMSAxMzowMToyNC4w"
+depicts = "Tall hand sanitizer dispenser main photo."
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://content.instructables.com/FT5/F7U4/LU8E01HV/FT5F7U4LU8E01HV.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyNC0wMy0yNiAxOTozNDo0OS4w&_gl=1*192z82j*_ga*OTE4MTA5MTIuMTc0MjU2NTgxNg..*_ga_NZSJ72N6RX*czE3NTM5MjM0MTEkbzYkZzEkdDE3NTM5MjM2MTckajQkbDAkaDA."
+
+[[image]]
+location = "https://content.instructables.com/FN7/ONW2/KAWI8IPD/FN7ONW2KAWI8IPD.jpg?auto=webp&frame=1&height=1024&fit=bounds&md=MjAyMC0wNi0wMSAxMDo0MDozOS4w"
+
+[[image]]
+location = "https://content.instructables.com/F2B/GJFA/KAWI8K2Q/F2BGJFAKAWI8K2Q.jpg?auto=webp&frame=1&height=1024&fit=bounds&md=MjAyMC0wNi0wMSAxMDo1MDoxNC4w"
+
+[[image]]
+location = "https://content.instructables.com/FLF/APRX/KAWI8WCH/FLFAPRXKAWI8WCH.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wNi0wMSAxMzoyMDowMS4w"
+
+[[image]]
+location = "https://content.instructables.com/FXD/FJDR/KAWI8PA0/FXDFJDRKAWI8PA0.jpg?auto=webp&frame=1&height=1024&fit=bounds&md=MjAyMC0wNi0wMSAxMTo1MDo1Ny4w&_gl=1*198xidx*_ga*OTE4MTA5MTIuMTc0MjU2NTgxNg..*_ga_NZSJ72N6RX*czE3NTM5MjM0MTEkbzYkZzEkdDE3NTM5MjM2MTckajQkbDAkaDA."
+
+[[image]]
+location = "https://content.instructables.com/FM4/G6HS/LU8E01JI/FM4G6HSLU8E01JI.jpg?auto=webp&frame=1&fit=bounds&md=MjAyNC0wMy0yNiAxOTo0NDo0Ni4w"
+
+[[image]]
+location = "https://content.instructables.com/FMB/H41R/LU8E01KQ/FMBH41RLU8E01KQ.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyNC0wMy0yNiAxOTo0OTo0MC4w"
+
+[[image]]
+location = "https://content.instructables.com/FWH/2HW8/LU8E01LF/FWH2HW8LU8E01LF.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyNC0wMy0yNiAxOTo0OTo0Ni4w"
+
+[[image]]
+location = "https://content.instructables.com/FSW/8KXX/LU8E01LL/FSW8KXXLU8E01LL.jpg?auto=webp&frame=1&fit=bounds&md=MjAyNC0wMy0yNiAxOTo0OTo0OC4w"
+
+[[image]]
+location = "https://content.instructables.com/FAR/F105/LU8E01MY/FARF105LU8E01MY.jpg?auto=webp&frame=1&fit=bounds&md=MjAyNC0wMy0yNiAxOTo0OTo1MC4w"
