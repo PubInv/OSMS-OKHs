@@ -1,0 +1,48 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "One-Shot-Bias-Tape-Maker"
+repo = "https://www.thingiverse.com/thing:4269378"
+license = "CC-BY-NC-SA-4.0"
+licensor = "Rodrigo Alvarez <https://www.thingiverse.com/rodrigo_alvarez/designs>"
+function = "This design allows the completed bias strip to be safely pulled behind a flat iron, speeding up the process and combining steps."
+documentation-language = "en"
+version = "1.0.0"
+organization = "Thingiverse"
+release = "https://www.thingiverse.com/make:1063921"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "B21B 41/00"
+tsdc = "3DP"
+bom = "https://www.thingiverse.com/thing:4269378"
+manufacturing-instructions = "https://www.youtube.com/watch?v=4WB6Jxeqejk"
+source = [
+     "https://www.thingiverse.com/download:8214172",
+     "https://www.thingiverse.com/download:8056954",
+     "https://www.thingiverse.com/download:8018742",
+     "https://www.thingiverse.com/download:8243566",
+     "https://www.thingiverse.com/download:8056950",
+     "https://www.thingiverse.com/download:8177959",
+     "https://www.thingiverse.com/download:8233098"
+]
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/18/84/de/28/a9/large_display_IMG_0523.jpg"
+depicts = "One Shot Bias Tape Maker main photo."
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/9f/f1/c6/d0/dd/large_display_IMG_9550.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/23/11/16/81/5e/large_display_IMG_0868.jpg"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/26/9b/f3/97/7d/large_display_IMG_2473.jpg"
