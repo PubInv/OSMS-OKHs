@@ -1,0 +1,29 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "WHO-Recommended_Handrub_Formulations"
+repo = "https://www.ncbi.nlm.nih.gov/books/NBK144054/"
+license = "LicenseRef-NOASSERTION"
+licensor = "World Health Organization <https://www.linkedin.com/company/world-health-organization>"
+function = "To help countries and health-care facilities to achieve system change and adopt alcohol-based handrubs as the gold standard for hand hygiene in health care, WHO has identified formulations for their local preparation."
+documentation-language = "en"
+version = "1.0.0"
+organization = "National Library of Medicine"
+technology-readiness-level = "OTRL-1"
+documentation-readiness-level = "ODRL-1"
+cpc-patent-class = "A01N 1/00"
+tsdc = "ASM"
+bom = "https://www.ncbi.nlm.nih.gov/books/NBK144054/"
+manufacturing-instructions = "https://www.ncbi.nlm.nih.gov/books/NBK144054/"
+
+[[image]]
+location = "https://www.ncbi.nlm.nih.gov/coreutils/nwds/img/logos/AgencyLogo.svg"
+depicts = "The logo of the NIH."
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
