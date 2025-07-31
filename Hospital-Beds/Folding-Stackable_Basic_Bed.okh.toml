@@ -1,0 +1,56 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "Folding-Stackable_Basic_Bed"
+repo = "https://github.com/tripal-sk/postel-basic"
+license = "CC-BY-SA-4.0"
+licensor = "Martin Ledvinka <martin.ledvinka@hotmail.com>"
+function = "Metal bed frame that can be folded and stacked for optimal storage. This design is for the frame only, mattress design not included."
+documentation-language = [
+   "cs",
+   "en"
+]
+version = "1.0.0"
+organization = "Tripal"
+release = "https://github.com/tripal-sk/postel-basic/commit/3e53fcb0d97ce2337bacdce0685f5e8917576baf"
+readme = "https://github.com/tripal-sk/postel-basic#"
+contribution-guide = "https://github.com/tripal-sk/postel-basic/graphs/contributors"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A47C 19/00"
+tsdc = "ASM"
+bom = "https://github.com/tripal-sk/postel-basic/blob/master/BASIC%20BED%20FOR%20QUICK%20MASS%20LOCAL%20PRODUCTION%20IN%20AFFECTED%20AREAS%20.pdf"
+manufacturing-instructions = "https://github.com/tripal-sk/postel-basic/blob/master/A-001-20-00-BASIC%20BED.PDF"
+source = [
+     "https://github.com/tripal-sk/postel-basic/blob/master/DESIGN%20AND%20DATA%20EN.zip",
+     "https://github.com/tripal-sk/postel-basic/blob/master/design%20and%20data.zip",
+     "https://github.com/tripal-sk/postel-basic/blob/master/pictures%20and%20promo%20materials.7z"
+]
+
+[[image]]
+location = "https://tripal.sk/wp-content/uploads/2024/06/logo-tripal.pngg"
+depicts = "The logo of Tripal."
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://cdn.prod.website-files.com/679bd6d8e9c2f7d8d67ee78a/67dc372b8f0524de7549b9f2_basic%20bed%20prototype-01-10.jpg"
+depicts = "Photo of Foldable and Stackable Basic Bed."
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://github.com/tripal-sk/postel-basic/blob/master/foto1.zip"
+
+[[image]]
+location = "https://github.com/tripal-sk/postel-basic/blob/master/foto2.zip"
