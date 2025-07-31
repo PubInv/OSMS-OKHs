@@ -1,0 +1,36 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "Bias-Tape-Folding-Guide"
+repo = "https://www.thingiverse.com/thing:4248500"
+license = "CC-BY-4.0"
+licensor = "Scott Rippetoe <https://www.thingiverse.com/mrrip/designs>"
+function = "3D printed design that can be pinned to an ironing board while it you iron the tape. There are two version, 4 cm and 5 cm input width."
+documentation-language = "en"
+version = "1.0.0"
+organization = "Thingiverse"
+release = "https://www.thingiverse.com/make:790420"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "B21B 41/00"
+tsdc = "3DP"
+bom = "https://www.thingiverse.com/thing:4248500"
+manufacturing-instructions = "https://www.thingiverse.com/thing:4248500"
+source = [
+     "https://www.thingiverse.com/download:7895233",
+     "https://www.thingiverse.com/download:7895235",
+     "https://www.thingiverse.com/download:7895236",
+     "https://www.thingiverse.com/thing:4248500/files"
+]
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/b6/48/69/da/46/large_display_IMG_20200329_101339639.jpg"
+depicts = "Red Bias Tape Folding Guide."
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
