@@ -1,0 +1,28 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "Portable-Hand-Washing-Station"
+repo = "https://doitandhow.com/2013/04/23/hand-washing-station/"
+license = "LicenseRef-NOASSERTION"
+licensor = "Krisgo & Do It And How <https://doitandhow.com/aboutdoitandhow/?share=tumblr&nb=1>"
+function = "Great one-stop station for hand washing and drying. Using a turn spigot makes this set up hands free."
+documentation-language = "en"
+version = "1.0.0"
+organization = "Krisgo & Do It And How"
+technology-readiness-level = "OTRL-1"
+documentation-readiness-level = "ODRL-1"
+cpc-patent-class = "C11D 17/00"
+tsdc = "ASM"
+bom = "https://doitandhow.com/2013/04/23/hand-washing-station/"
+
+[[image]]
+location = "https://doitandhow.com/wp-content/uploads/2013/04/96179c686a7f0c17d16a3db5363707c4.jpg"
+depicts = "Portable Hand Washing Station main photo."
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
