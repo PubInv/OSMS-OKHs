@@ -1,0 +1,114 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "Portable-Hand-Washing-Station-(with-pump)"
+repo = "https://www.instructables.com/Camp-Sink-Temporary-Hand-Washing-Station/"
+license = "CC-BY-NC-SA-4.0"
+licensor = "Water Works Life <https://www.instructables.com/member/WaterWorksLife/>"
+function = "Clean water in the bottom bucket feeds a manual pump, activated by the user's foot. The clean water pumps through a faucet and flows into a wash basin. The used water drains through the basin into the top bucket. All components can be setup or torn down in just a few minutes. Additionally, the system is self-contained and can be transported in the 2 buckets nested together."
+documentation-language = "en"
+version = "1.0.0"
+organization = "AutoDesk Instructables"
+technology-readiness-level = "OTRL-2"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "C11D 17/00"
+tsdc = "ASM"
+bom = "https://www.instructables.com/Camp-Sink-Temporary-Hand-Washing-Station/"
+manufacturing-instructions = "https://www.instructables.com/Camp-Sink-Temporary-Hand-Washing-Station/"
+source = "https://content.instructables.com/FXN/1D0H/ISCAOYLE/FXN1D0HISCAOYLE.jpg?auto=webp&frame=1&crop=2:3&fit=bounds&md=MjAxNi0wOC0yOCAxMTo0MDoxNi4w"
+
+[[image]]
+location = "https://www.instructables.com/assets/img/instructables-logo-2023.svg"
+depicts = "AutoDesk Instructables logo."
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://content.instructables.com/FSA/40F8/ISCAIZSM/FSA40F8ISCAIZSM.jpg?auto=webp&frame=1&crop=2:3&width=384&fit=bounds&md=MjAxNi0wOC0yNyAxNToyMDo1MC4w"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://content.instructables.com/F1C/XTD8/ISCAIYL9/F1CXTD8ISCAIYL9.jpg?auto=webp&frame=1&width=432&height=1024&fit=bounds&md=MjAxNi0wOC0yNyAxNToxNToyMy4w"
+
+[[image]]
+location = "https://content.instructables.com/FCE/KLFZ/ISCAJ2JO/FCEKLFZISCAJ2JO.jpg?auto=webp&frame=1&width=525&height=1024&fit=bounds&md=MjAxNi0wOC0yNyAxNTo1MDowNi4w"
+
+[[image]]
+location = "https://content.instructables.com/FIR/O0OF/ISCAJ2M6/FIRO0OFISCAJ2M6.jpg?auto=webp&frame=1&width=400&height=1024&fit=bounds&md=MjAxNi0wOC0yNyAxNTo1MDoxNi4w"
+
+[[image]]
+location = "https://content.instructables.com/FV5/S86T/ISCAJ2QL/FV5S86TISCAJ2QL.jpg?auto=webp&frame=1&width=400&height=1024&fit=bounds&md=MjAxNi0wOC0yNyAxNTo1MDo0OC4w"
+
+[[image]]
+location = "https://content.instructables.com/F3C/NOQZ/ISCAJ2QV/F3CNOQZISCAJ2QV.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0wOC0yNyAxNTo1MTowMC4w&_gl=1*152mi7j*_ga*OTE4MTA5MTIuMTc0MjU2NTgxNg..*_ga_NZSJ72N6RX*czE3NTM5MjgzMjQkbzckZzEkdDE3NTM5Mjg0NTEkajMkbDAkaDA."
+
+[[image]]
+location = "https://content.instructables.com/FK4/GVO6/ISCAJ2QP/FK4GVO6ISCAJ2QP.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0wOC0yNyAxNTo1MDo1My4w"
+
+[[image]]
+location = "https://content.instructables.com/FPG/Z45R/ISCAXTLH/FPGZ45RISCAXTLH.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0wOC0yOCAxMjozMDoyMy4w"
+
+[[image]]
+location = "https://content.instructables.com/FBU/46NA/ISCAJ2LZ/FBU46NAISCAJ2LZ.jpg?auto=webp&frame=1&width=400&height=1024&fit=bounds&md=MjAxNi0wOC0yNyAxNTo1MDoxNC4w"
+
+[[image]]
+location = "https://content.instructables.com/F22/SRRD/ISCAJXWR/F22SRRDISCAJXWR.jpg?auto=webp&frame=1&width=400&height=1024&fit=bounds&md=MjAxNi0wOC0yNyAxODoyMDoxNS4w"
+
+[[image]]
+location = "https://content.instructables.com/FFF/GJHY/ISCAXQXJ/FFFGJHYISCAXQXJ.jpg?auto=webp&frame=1&width=400&height=1024&fit=bounds&md=MjAxNi0wOC0yOCAxMjoxMTo0My4w"
+
+[[image]]
+location = "https://content.instructables.com/F91/L60V/ISCAXQYM/F91L60VISCAXQYM.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0wOC0yOCAxMjoxMTo1My4w"
+
+[[image]]
+location = "https://content.instructables.com/F2H/FGDP/ISCAXQVL/F2HFGDPISCAXQVL.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0wOC0yOCAxMjoxMToyNi4w"
+
+[[image]]
+location = "https://content.instructables.com/FWE/MAHL/ISCAXQW3/FWEMAHLISCAXQW3.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0wOC0yOCAxMjoxMTozNS4w"
+
+[[image]]
+location = "https://content.instructables.com/FC9/L76A/ISCAJ38Y/FC9L76AISCAJ38Y.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0wOC0yNyAxNjowMToyMC4w&_gl=1*16k2j0s*_ga*OTE4MTA5MTIuMTc0MjU2NTgxNg..*_ga_NZSJ72N6RX*czE3NTM5MjgzMjQkbzckZzEkdDE3NTM5Mjg4NjkkajQ4JGwwJGgw"
+
+[[image]]
+location = "https://content.instructables.com/FB3/MJLR/ISCAJ38U/FB3MJLRISCAJ38U.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0wOC0yNyAxNjowMToxMy4w"
+
+[[image]]
+location = "https://content.instructables.com/F1C/XTD8/ISCAIYL9/F1CXTD8ISCAIYL9.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0wOC0yNyAxNToxNToyMy4w&_gl=1*16k2j0s*_ga*OTE4MTA5MTIuMTc0MjU2NTgxNg..*_ga_NZSJ72N6RX*czE3NTM5MjgzMjQkbzckZzEkdDE3NTM5Mjg4NjkkajQ4JGwwJGgw"
+
+[[image]]
+location = "https://content.instructables.com/FSA/40F8/ISCAIZSM/FSA40F8ISCAIZSM.jpg?auto=webp&frame=1&fit=bounds&md=MjAxNi0wOC0yNyAxNToyMDo1MC4w"
+
+[[image]]
+location = "https://content.instructables.com/F8B/Z3IL/ISCAXS10/F8BZ3ILISCAXS10.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0wOC0yOCAxMjoyMDoyMC4w&_gl=1*140yqjp*_ga*OTE4MTA5MTIuMTc0MjU2NTgxNg..*_ga_NZSJ72N6RX*czE3NTM5MjgzMjQkbzckZzEkdDE3NTM5Mjg4NjkkajQ4JGwwJGgw"
+
+[[image]]
+location = "https://content.instructables.com/F9Q/I6RL/ISCAXRTW/F9QI6RLISCAXRTW.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0wOC0yOCAxMjoyMDoxMi4w"
+
+[[image]]
+location = "https://content.instructables.com/FNC/GWI9/ISCAXRUT/FNCGWI9ISCAXRUT.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0wOC0yOCAxMjoyMDoxNi4w"
+
+[[image]]
+location = "https://content.instructables.com/FU6/H6Z2/ISCAJ4YG/FU6H6Z2ISCAJ4YG.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0wOC0yNyAxNzowMDozNi4w&_gl=1*140yqjp*_ga*OTE4MTA5MTIuMTc0MjU2NTgxNg..*_ga_NZSJ72N6RX*czE3NTM5MjgzMjQkbzckZzEkdDE3NTM5Mjg4NjkkajQ4JGwwJGgw"
+
+[[image]]
+location = "https://content.instructables.com/FDO/AIAA/ISCAJ4ZU/FDOAIAAISCAJ4ZU.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0wOC0yNyAxNzowMDo0Mi4w"
+
+[[image]]
+location = "https://content.instructables.com/FOT/3CM3/ISCAJ516/FOT3CM3ISCAJ516.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0wOC0yNyAxNzowMDo0OC4w&_gl=1*aq8eco*_ga*OTE4MTA5MTIuMTc0MjU2NTgxNg..*_ga_NZSJ72N6RX*czE3NTM5MjgzMjQkbzckZzEkdDE3NTM5Mjg4NjkkajQ4JGwwJGgw"
+
+[[image]]
+location = "https://content.instructables.com/FQT/CW3Q/ISCAJ51E/FQTCW3QISCAJ51E.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0wOC0yNyAxNzowMDo1My4w"
+
+[[image]]
+location = "https://content.instructables.com/FA0/ARS3/ISCAJ52N/FA0ARS3ISCAJ52N.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAxNi0wOC0yNyAxNzowMDo1OS4w"
