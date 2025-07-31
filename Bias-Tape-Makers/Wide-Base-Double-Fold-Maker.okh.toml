@@ -1,0 +1,52 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "Wide-Base-Double-Fold-Maker"
+repo = "https://www.thingiverse.com/thing:4236663"
+license = "CC-BY-SA-4.0"
+licensor = "Arnie <https://www.thingiverse.com/arnie/designs>"
+function = "This design can be combined with the Wide Base Bias Tape Maker to create a double tape, which can then be ironed or sewn as it is pulled through the maker. Please refer to the project pictures for correct setup."
+documentation-language = "en"
+version = "1.0.0"
+organization = "Thingiverse"
+release = "https://www.thingiverse.com/thing:4236663/comments"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "B21B 41/00"
+tsdc = "3DP"
+bom = "https://www.thingiverse.com/thing:4236663"
+manufacturing-instructions = "https://www.thingiverse.com/thing:4236663"
+source = [
+     "https://www.thingiverse.com/download:7858113",
+     "https://www.thingiverse.com/thing:4236663/files"
+]
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/fa/39/f2/74/e1/large_display_DSC_2874.JPG"
+depicts = "Wide Base Double Fold Maker main photo."
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/d7/5d/62/54/06/large_display_DSC_2871.JPG"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/a3/8e/fb/9c/1f/large_display_DSC_2872.JPG"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/aa/6e/34/cd/46/large_display_DSC_2875.JPG"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/fc/0c/5d/bb/62/large_display_DSC_2873.JPG"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/72/8c/18/b1/56/large_display_DSC_2876.JPG"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/17/82/d5/ca/31/large_display_DSC_2877.JPG"
