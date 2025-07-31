@@ -1,0 +1,29 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "Fix-The-Mask"
+repo = "https://www.fixthemask.com/products/v2-diy-rubber-sheet-brace"
+license = "LicenseRef-NOASSERTION"
+licensor = "Fix the Mask <hello@fixthemask.com>"
+function = "A group of ex-@Apple and MIT mechanical engineers created an open source surgical mask brace — improving the sealing and filtration efficiency of standard surgical masks. V2: The rubber sheet brace. Make this Mask Fitter yourself. Cut out your own with just a pair of scissors."
+documentation-language = "en"
+version = "1.0.0"
+organization = "Fix the Mask"
+technology-readiness-level = "OTRL-2"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A41D 13/11"
+tsdc = "ASM"
+bom = "https://www.mcmaster.com/1370N52/"
+manufacturing-instructions = "https://www.youtube.com/watch?v=yBwY14ou0-c"
+
+[[image]]
+location = "https://www.fixthemask.com/cdn/shop/products/V2.0_1024x1024@2x.png?v=1604107307"
+depicts = "Mask brace main photo."
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
