@@ -1,0 +1,42 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "4cm_5cm-Bias-Tape-Maker"
+repo = "https://www.thingiverse.com/thing:4232886"
+license = "CC-BY-4.0"
+licensor = "ongaroo <https://www.thingiverse.com/ongaroo/designs>"
+function = "This maker is small enough to be held in on hand as the bias tape is pulled through and ironed with the other. Note this is a wingless version and does not create a double fold."
+documentation-language = "en"
+version = "1.0.0"
+organization = "Thingiverse"
+release = "https://www.thingiverse.com/make:795092"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+publication = "https://www.facebook.com/groups/opensourcecovid19medicalsupplies/permalink/692080538269008/"
+cpc-patent-class = "B21B 41/00"
+tsdc = "3DP"
+bom = "https://www.thingiverse.com/thing:4232886"
+manufacturing-instructions = "https://www.thingiverse.com/thing:4232886"
+source = [
+     "https://www.thingiverse.com/download:7845919",
+     "https://www.thingiverse.com/thing:4232886/files"
+]
+
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/10/47/48/81/92/large_display_IMG_20200320_111451.jpg"
+depicts = "Bias tape maker with a stream of tape running through it."
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/2c/97/27/50/c2/large_display_IMG_20200320_111444_2.png"
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/11/99/6b/a2/b5/large_display_IMG_20200320_124042.jpg"
