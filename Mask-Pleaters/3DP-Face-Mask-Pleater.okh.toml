@@ -1,0 +1,39 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "3DP-Face-Mask-Pleater"
+repo = "https://www.thingiverse.com/thing:4259706"
+license = "CC-BY-4.0"
+licensor = "Jonathan Wigger <https://www.thingiverse.com/j_wigger/designs>"
+function = "This jig can be used to easily add pleats to fabric face masks being used to fight COVID-19. Version 4.0 has tighter spacing, which may help hold the fabric tighter when moving to sew. One set uses two pieces. Both pieces should be identical."
+documentation-language = "en"
+version = "4.0.0"
+organization = "Thingiverse"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A41D 13/11"
+tsdc = "3DP"
+bom = "https://www.thingiverse.com/thing:4259706"
+manufacturing-instructions = "https://www.thingiverse.com/thing:4259706"
+user-manual = "https://www.youtube.com/watch?v=cX1YDE91iyE"
+source = [
+   "https://drive.google.com/file/d/1tON3lO5-Pl-zsCMFpEDQo7FUpQWHonRc/view?fbclid=IwAR3J7m5FMtbZ6tMiSRWXolA9MWbkTAecVrLU20esJ0STdM1wMk2Yt38jgbs",
+   "https://www.thingiverse.com/thing:4259706/files",
+   "https://www.thingiverse.com/download:7927749",
+   "https://www.thingiverse.com/download:7927748"
+]
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/04/00/76/81/7c/large_display_Pleater_2.jpg"
+depicts = "Main photo of 3DP Face Mask Pleater."
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/47/2f/55/fb/80/large_display_Pleater_1.jpg"
