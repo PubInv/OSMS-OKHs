@@ -1,0 +1,29 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "Toe-Tapper"
+repo = "https://www.youtube.com/watch?v=XUfphTvwYEo"
+license = "LicenseRef-NOASSERTION"
+licensor = "Herrick Kimball <https://www.youtube.com/@herrickkimball>"
+function = "The Whizbang Toe-Tapper was invented by Herrick Kimball in 2014. It is a hands-free way to control the water in an outdoor sink. Just tap the switch with your foot to turn the water on and off. If you mount the switch at thigh or hip height, you can just give it a bump to switch the water on and off."
+documentation-language = "en"
+version = "1.0.0"
+organization = "Herrick Kimball"
+technology-readiness-level = "OTRL-1"
+documentation-readiness-level = "ODRL-1"
+cpc-patent-class = "C11D 17/00"
+tsdc = "ASM"
+bom = "https://www.youtube.com/watch?v=XUfphTvwYEo"
+manufacturing-instructions = "https://www.youtube.com/watch?v=XUfphTvwYEo"
+
+[[image]]
+location = "https://yt3.googleusercontent.com/ytc/AIdro_mHb1jr4mLvqJsuY8G6TKipGGPQfDkiYeeJZsNhjGibkQ=s160-c-k-c0x00ffffff-no-rj"
+depicts = "Herrick Kimball logo."
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
