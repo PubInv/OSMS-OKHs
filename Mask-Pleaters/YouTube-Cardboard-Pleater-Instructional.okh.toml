@@ -1,0 +1,29 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "YouTube-Cardboard-Pleater-Instructional"
+repo = "https://www.youtube.com/watch?v=L19YTzgEZ7I"
+license = "LicenseRef-NOASSERTION"
+licensor = "Seelye Family Farm <https://www.youtube.com/@bendphoto>"
+function = "These tutorials show pleated mask construction which is applicable to a variety of pleated designs in the Face Mask Guide. The jig measurements are written in the video description. Some sewists prefer a cardboard jig because it is easier to hold during sewing than a 3DP version."
+documentation-language = "en"
+version = "1.0.0"
+organization = "ST. CHARLES MEDICAL CENTER HELIPORT"
+technology-readiness-level = "OTRL-2"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A41D 13/11"
+tsdc = "ASM"
+bom = "https://www.youtube.com/watch?v=NeBvTcsSB0k"
+manufacturing-instructions = "https://www.youtube.com/watch?v=NeBvTcsSB0k"
+
+[[image]]
+location = "https://cdn.prod.website-files.com/679bd6d8e9c2f7d8d67ee78a/67be8adc9a8e5c908ec94c36_67b4e92307ffb6129619f1ab_Screen%2520Shot%25202020-05-13%2520at%252011_28_43%2520PM.png"
+depicts = "Cardboard Pleater main photo."
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
