@@ -1,0 +1,74 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "Western_University_Low-Cost_Walker"
+repo = "https://www.mdpi.com/2411-5134/8/3/79"
+license = "CC-BY-4.0"
+licensor = "Joshua Pearce <joshua.pearce@uwo.ca>"
+function = "The build instructions describe a static, four-legged walker that can be constructed from materials and fasteners commonly available from hardware stores, coupled by open-source 3D-printed joints. The designs are described in detail, shared under an open-source license, and fabricated with a low-cost open-source desktop 3D printer and hand tools."
+documentation-language = "en"
+version = "1.0.0"
+organization = "MDPI"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A61G 5/00"
+tsdc = "ASM"
+bom = "https://www.mdpi.com/2411-5134/8/3/79"
+manufacturing-instructions = "https://www.mdpi.com/2411-5134/8/3/79"
+source = [
+     "https://www.mdpi.com/inventions/inventions-08-00079/article_deploy/html/images/inventions-08-00079-g002-550.jpg",
+     "https://www.mdpi.com/inventions/inventions-08-00079/article_deploy/html/images/inventions-08-00079-g003-550.jpg",
+     "https://www.mdpi.com/inventions/inventions-08-00079/article_deploy/html/images/inventions-08-00079-g004-550.jpg",
+     "https://www.mdpi.com/inventions/inventions-08-00079/article_deploy/html/images/inventions-08-00079-g007-550.jpg",
+     "https://www.mdpi.com/inventions/inventions-08-00079/article_deploy/html/images/inventions-08-00079-g008-550.jpg",
+     "https://www.mdpi.com/inventions/inventions-08-00079/article_deploy/html/images/inventions-08-00079-g010-550.jpg",
+     "https://www.mdpi.com/inventions/inventions-08-00079/article_deploy/html/images/inventions-08-00079-g0A1-550.jpg",
+     "https://www.mdpi.com/inventions/inventions-08-00079/article_deploy/html/images/inventions-08-00079-g0A2-550.jpg",
+     "https://www.mdpi.com/inventions/inventions-08-00079/article_deploy/html/images/inventions-08-00079-g0A3-550.jpg",
+     "https://www.mdpi.com/inventions/inventions-08-00079/article_deploy/html/images/inventions-08-00079-g0A4-550.jpg",
+     "https://www.mdpi.com/inventions/inventions-08-00079/article_deploy/html/images/inventions-08-00079-g0A5-550.jpg",
+     "https://www.mdpi.com/inventions/inventions-08-00079/article_deploy/html/images/inventions-08-00079-g0A6-550.jpg",
+     "https://www.mdpi.com/inventions/inventions-08-00079/article_deploy/html/images/inventions-08-00079-g0A7-550.jpg",
+     "https://www.mdpi.com/inventions/inventions-08-00079/article_deploy/html/images/inventions-08-00079-g0A8-550.jpg",
+     "https://www.mdpi.com/inventions/inventions-08-00079/article_deploy/html/images/inventions-08-00079-g0A9-550.jpg",
+     "https://www.mdpi.com/inventions/inventions-08-00079/article_deploy/html/images/inventions-08-00079-g0A10-550.jpg"
+]
+
+[outer-dimensions]
+width = 584
+depth = 305
+height = 860
+
+[[image]]
+location = "https://pub.mdpi-res.com/img/design/mdpi-pub-logo-black-small1.svg?da3a8dcae975a41c?1753961709"
+depicts = "MDPI logo."
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://cdn.prod.website-files.com/679bd6d8e9c2f7d8d67ee78a/67be8b2587083983dc4a4bad_67b4e91a6d075e225ae62ced_Western%2520University%2520Low-Cost%2520Walker.png"
+depicts = "Low-Cost Walker main image."
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://www.mdpi.com/inventions/inventions-08-00079/article_deploy/html/images/inventions-08-00079-g005-550.jpg"
+
+[[image]]
+location = "https://www.mdpi.com/inventions/inventions-08-00079/article_deploy/html/images/inventions-08-00079-g006-550.jpg"
+
+[[image]]
+location = "https://www.mdpi.com/inventions/inventions-08-00079/article_deploy/html/images/inventions-08-00079-g009-550.jpg"
+
+[[image]]
+location = "https://www.mdpi.com/inventions/inventions-08-00079/article_deploy/html/images/inventions-08-00079-g011-550.jpg"
