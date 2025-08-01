@@ -1,0 +1,39 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "Glia-Tourniquet"
+repo = "https://github.com/GliaX/Tourniquet"
+license = "GPL-3.0-only"
+licensor = "Tarek Loubani <tarek@tarek.org>"
+function = "Trauma tourniquet to stop blood loss and preserve limb integrity post-injury. Can be also be used for small adults and pediatric patients <18 years as opposed to commercial C-A-T tourniquets which are for > 18 years only. As of Mar/05/2022, the design had been clinically tested for ABS. PETG clinical testing is pending. PETG construction is considered for emergency use cases only. Injection molding files are pending."
+documentation-language = "en"
+version = "1.0.0"
+organization = "Glia"
+release = "https://github.com/GliaX/tourniquet/commit/48054b45ad9d43063f1f8eeb6041d950e8d77497"
+readme = "https://github.com/GliaX/tourniquet#"
+contribution-guide = "https://github.com/GliaX/tourniquet/graphs/contributors"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A61B 17/132"
+tsdc = "ASM"
+bom = "https://github.com/GliaX/tourniquet/tree/master#"
+manufacturing-instructions = "https://github.com/GliaX/tourniquet/tree/master/assembly_instructions"
+user-manual = "https://github.com/GliaX/tourniquet/tree/master/user_instructions"
+source = [
+     "https://github.com/GliaX/tourniquet/tree/master/source_files/CAD",
+     "https://github.com/GliaX/tourniquet/tree/master/source_files/STL",
+     "https://github.com/GliaX/tourniquet/tree/master/quality_control",
+     "https://github.com/GliaX/tourniquet/tree/master/injection_molding"
+]
+
+[[image]]
+location = "https://avatars.githubusercontent.com/u/5991230?s=200&v=4"
+depicts = "Glia logo."
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
