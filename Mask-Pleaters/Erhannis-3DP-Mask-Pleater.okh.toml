@@ -1,0 +1,46 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "Erhannis-3DP-Mask-Pleater"
+repo = "https://www.thingiverse.com/thing:4262794"
+license = "CC0-1.0"
+licensor = "Matthew Ewer <https://www.thingiverse.com/erhannis/designs>"
+function = "Read the header in mask_tools.scad for printing instructions. The pieces fit together into a jig for cutting cloth to size, and a device for adding pleats to fabric. (The bare minimum: PRINT AT -0.08 HORIZONTAL EXPANSION, or probably nothing will fit together.)"
+documentation-language = "en"
+version = "1.0.0"
+organization = "Matthew Ewer"
+release = "https://github.com/Erhannis/MaskTools/commit/058e873e2da026bea2e11e9d3fd53691d29f895c"
+readme = "https://github.com/Erhannis/MaskTools#"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A41D 13/11"
+tsdc = "3DP"
+bom = "https://github.com/Erhannis/MaskTools/blob/master/mask_tools.scad"
+manufacturing-instructions = "Documentation/Assembly_Guide/AssemblyGuide.md"
+user-manual = "https://www.youtube.com/watch?v=3gZ7bPh-gL4"
+source = [
+     "https://www.thingiverse.com/thing:4262794/files",
+     "https://www.thingiverse.com/download:7936001",
+     "https://www.thingiverse.com/download:7936003",
+     "https://www.thingiverse.com/download:7936005",
+     "https://www.thingiverse.com/download:7935996",
+     "https://www.thingiverse.com/download:7936006",
+     "https://www.thingiverse.com/download:7936002",
+     "https://www.thingiverse.com/download:7936004",
+     "https://www.thingiverse.com/download:7935998",
+     "https://www.thingiverse.com/download:7935997",
+     "https://www.thingiverse.com/download:7935995",
+     "https://github.com/Erhannis/MaskTools/tree/master"
+]
+
+[[image]]
+location = "https://cdn.thingiverse.com/assets/11/2e/7b/76/49/large_display_IMG_4107.JPG"
+depicts = "Erhannis 3DP Mask Pleater main photo."
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
