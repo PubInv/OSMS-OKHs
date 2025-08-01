@@ -1,0 +1,66 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "3DP-Pleated-Surgical-Mask-Machine"
+repo = "https://github.com/tbutters/Pleated-Surgical-Mask-Machine"
+license = "MIT"
+licensor = "tbutters <https://github.com/tbutters>"
+function = "This is a DIY machine designed to automate production of surgical masks in response to the COVID-19 pandemic. It's been developed at Artisan's Asylum, a non-profit makerspace in Somerville MA."
+documentation-language = "en"
+version = "2.0.0"
+organization = "Tbutters"
+release = "https://github.com/tbutters/Pleated-Surgical-Mask-Machine/commit/c8fb9d1ac998282c7fe379a09d84be70f8bce3f4"
+readme = "https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/README.md"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A41D 13/11"
+tsdc = "ASM"
+bom = "https://github.com/tbutters/Pleated-Surgical-Mask-Machine/tree/master"
+manufacturing-instructions = "https://github.com/tbutters/Pleated-Surgical-Mask-Machine/tree/master"
+source = [
+     "https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/Machine%20Modules/Stainless%20Fingers/Left%20Stainless%20Finger%20Mount.stl",
+     "https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/Machine%20Modules/Stainless%20Fingers/Right%20Stainless%20Finger%20Mount.stl",
+     "https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/Machine%20Modules/STEP%20files/Pleating%20Fingers%20RC1%20v1.step",
+     "https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/Machine%20Modules/STEP%20files/STEP%20files.md",
+     "https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/Machine%20Modules/STEP%20files/Split%20Roller%20v1.step",
+     "https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/Machine%20Modules/Rod%20Mounted%20Finger%20Pleater/Rod%20Mounted%20Pleat%20Fingers.3mf",
+     "https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/Machine%20Modules/Rod%20Mounted%20Finger%20Pleater/Right%20Fingers.stl",
+     "https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/Machine%20Modules/Rod%20Mounted%20Finger%20Pleater/Left%20Fingers.stl",
+     "https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/Machine%20Modules/Rod%20Mounted%20Finger%20Pleater/Finger%20Rod%20Mount.stl",
+     "https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/Machine%20Modules/Pleat%20Rollers%20V2/Master%20Half.stl",
+     "https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/Machine%20Modules/Pleat%20Rollers%20V2/Sub%20Half.stl",
+     "https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/Machine%20Modules/Dovetail%20Finger%20Pleater/Dovetail%20Base.stl",
+     "https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/Machine%20Modules/Dovetail%20Finger%20Pleater/Finger%20Pleater%20BOM.md",
+     "https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/Machine%20Modules/Dovetail%20Finger%20Pleater/Left%20Fingers.stl",
+     "https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/Machine%20Modules/Dovetail%20Finger%20Pleater/Right%20Fingers.stl"
+]
+
+[[image]]
+location = "https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/media/Product%20Photos/IMG_3336.jpg"
+depicts = "3DP Pleated Surgical Mask Machine main photo."
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/media/Product%20Photos/IMG_3312.png"
+
+[[image]]
+location = "https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/media/Product%20Photos/IMG_3312.HEIC"
+
+[[image]]
+location = "https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/media/Product%20Photos/IMG_3299.JPG"
+
+[[image]]
+location = "https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/media/Product%20Photos/IMG_3282.JPG"
+
+[[image]]
+location = "https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/media/Product%20Photos/IMG_3268.JPG"
+
+[[image]]
+location = "https://github.com/tbutters/Pleated-Surgical-Mask-Machine/blob/master/media/Development%20Photos/P4130874.png"
