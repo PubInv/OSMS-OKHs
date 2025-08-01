@@ -1,0 +1,58 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "COVID-19_Decontamination_Toolkit"
+repo = "https://www.frolicstudio.com/covid-19-decontamination-toolkit"
+license = "CERN-OHL-P-2.0"
+licensor = "Frolic Studio <https://www.linkedin.com/company/frolic/>"
+function = "After significant research and interviews with healthcare workers, Folic studio has designed an open-source COVID-19 Decontamination Toolkit using UV-C light, with readily available parts, clear building instructions, and a protocol to run the setup. The goal is to give individuals and organisations who are in need of such equipment the opportunity to extend the life of their precious resources, and stay safe for longer."
+documentation-language = "en"
+version = "1.0.0"
+organization = "Frolic Studio"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A61L 2/0005"
+tsdc = "ASM"
+bom = "https://docs.google.com/document/d/1HfaTFnh9EqLUOensPMpspJwXqfeJx3g5chfp3Th_Yx4/edit#"
+manufacturing-instructions = "https://www.frolicstudio.com/covid-19-decontamination-toolkit"
+user-manual = "https://www.frolicstudio.com/covid-19-decontamination-toolkit#tab-bar"
+source = [
+   "http://bit.ly/covid-19-decontamination-toolkit",
+   "https://images.squarespace-cdn.com/content/v1/5c2cd3c49f8770b74f22e01a/1586343913302-ZWFCOKAC58JJQX4YY2SO/IMG_20200408_125137.jpg?format=1500w",
+   "https://images.squarespace-cdn.com/content/v1/5c2cd3c49f8770b74f22e01a/1586274518110-AKGZ81MWFLUUBXA3IF54/COVID-19-Schematic.png?format=1500w",
+   "https://bit.ly/covid-19-decontamination-toolkit"
+]
+
+[[image]]
+location = "https://images.squarespace-cdn.com/content/v1/5c2cd3c49f8770b74f22e01a/98c4dd7e-158e-4397-ab2d-29469c7eff9f/Frolic+-+logo+-+2023-2.png?format=500w"
+depicts = "Frolic Studio logo."
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://images.squarespace-cdn.com/content/v1/5c2cd3c49f8770b74f22e01a/1586353008048-LOFPT9LYIRJOUYMR7D7X/COVID-19-decontamination-toolkit-main-image.jpg?format=1500w"
+depicts = "Decontamination Toolkit main photo."
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://images.squarespace-cdn.com/content/v1/5c2cd3c49f8770b74f22e01a/1586272928720-OS2SN5F41514R6WGXRO6/Covid-19-tools.jpg?format=1500w"
+
+[[image]]
+location = "https://images.squarespace-cdn.com/content/v1/5c2cd3c49f8770b74f22e01a/1586273085956-3FUCT215C3UVOZXT37RA/COVID-19-parts.jpg?format=1500w"
+
+[[image]]
+location = "https://images.squarespace-cdn.com/content/v1/5c2cd3c49f8770b74f22e01a/1586273264690-YRC1899O4SJ0CUF1IATA/COVID-19-UV-C+lights.jpg?format=1500w"
+
+[[image]]
+location = "https://images.squarespace-cdn.com/content/v1/5c2cd3c49f8770b74f22e01a/1586344151031-LDJC3KW11C7PYDIZMQM0/COVID-19+3d+prints.jpg?format=1500w"
