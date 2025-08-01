@@ -1,0 +1,78 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "Do-It-Ourselves_PVC-X_Wheelchair"
+repo = "https://www.opensourcewheelchairs.org/pvc-x"
+license = "LicenseRef-NOASSERTION"
+licensor = "Open-Source Innovations <https://www.opensourcewheelchairs.org/pvc-x>"
+function = "An open-source DIY PVC-X wheelchair—a self-propelled design built primarily from Schedule 40 PVC using a reinforced WC-Xframe. It details the construction process, including the use of a 1/2 inch steel axle, modular PVC tubing for the frame, custom seat and side panels, and a durable front trike wheel, with stress test videos demonstrating its performance."
+documentation-language = "en"
+version = "1.0.0"
+organization = "Open-Source Innovations"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-2"
+cpc-patent-class = "A61G 5/00"
+tsdc = "MEC"
+bom = "https://www.opensourcewheelchairs.org/pvc-x-stock-list"
+manufacturing-instructions = "https://www.opensourcewheelchairs.org/pvc-x"
+
+[[image]]
+location = "https://static.wixstatic.com/media/d9ae66_f1d5b544e7684b8a997d619d82feb3d7~mv2.png/v1/fill/w_97,h_97,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Open%20-Source%20Innovations2.png"
+depicts = "The logo of Open-Source Innovations."
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://static.wixstatic.com/media/d9ae66_cf9fc094ca1a4fedb707131566e18001~mv2.jpg/v1/fill/w_231,h_335,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/20221225_100226.jpg"
+depicts = "Main photo of PVC-X Wheelchair."
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://static.wixstatic.com/media/d9ae66_3cfaf0579ddf4b248ac5e82972aa1310~mv2.png/v1/fill/w_508,h_335,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/PVC-X%20rock.png"
+
+[[image]]
+location = "https://static.wixstatic.com/media/d9ae66_7bd8a1bba8f84055b206e5988724390e~mv2.jpg/v1/fill/w_504,h_239,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/20221226_151504.jpg"
+
+[[image]]
+location = "https://static.wixstatic.com/media/d9ae66_729f3c714e2340d98ce06cb128f4a8df~mv2.jpg/v1/fill/w_207,h_187,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/20221219_082455.jpg"
+
+[[image]]
+location = "https://static.wixstatic.com/media/d9ae66_5b3e3eec77524cd5bd4a6990ecf4d66a~mv2.jpg/v1/fill/w_168,h_187,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/20221219_083622.jpg"
+
+[[image]]
+location = "https://static.wixstatic.com/media/d9ae66_ee51afce556646788af79a2d55ff3388~mv2.jpg/v1/fill/w_395,h_187,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/20221221_112803.jpg"
+
+[[image]]
+location = "https://static.wixstatic.com/media/d9ae66_59be023caf2f4f2f9f72296baeeca666~mv2.jpg/v1/fill/w_600,h_284,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/20221224_102046.jpg"
+
+[[image]]
+location = "https://static.wixstatic.com/media/d9ae66_1d8f8463be2c4f25a6b449472cd1259d~mv2.jpg/v1/fill/w_600,h_283,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/20221223_215548.jpg"
+
+[[image]]
+location = "https://static.wixstatic.com/media/d9ae66_c26f372175a24ff7a4f23082682064c3~mv2.jpg/v1/fill/w_598,h_283,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/20221220_184007.jpg"
+
+[[image]]
+location = "https://static.wixstatic.com/media/d9ae66_23fae5c2aa1c49869d4a016e0c146cfd~mv2.jpg/v1/fill/w_270,h_449,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/20221223_215153.jpg"
+
+[[image]]
+location = "https://static.wixstatic.com/media/d9ae66_7e176aa99ba640f0a37a3a75e652315e~mv2.jpg/v1/fill/w_335,h_271,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/20221224_100151.jpg"
+
+[[image]]
+location = "https://static.wixstatic.com/media/d9ae66_ad5b118f2fdc4281b30cd8cc38051827~mv2.jpg/v1/fill/w_487,h_328,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/20221212_112359.jpg"
+
+[[image]]
+location = "https://static.wixstatic.com/media/d9ae66_267834092da74907bdcf05347375b770~mv2.jpg/v1/fill/w_600,h_284,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/20221231_134819.jpg"
+
+[[image]]
+location = "https://static.wixstatic.com/media/d9ae66_4dfc26b6c8024a6f91429b565c8a0339~mv2.jpg/v1/fill/w_600,h_284,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/20221231_173455.jpg"
