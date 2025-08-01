@@ -1,0 +1,70 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "Surgical-Fracture-Table"
+repo = "https://osf.io/mx92p/"
+license = "GPL-3.0-only"
+licensor = "Joshua M. Pearce <https://www.linkedin.com/in/jmpearce/>"
+function = "Developed and published by Western University’s Free Appropriate Sustainability Technology (FAST) Research Group, this 3D printed surgical table meets use cases for pelvic, upper extremity, and lower extremity fracture repair positioning. Comparable commercial units can cost $200,000 or more, while this open source table has a 2022 material cost of $3,000. Project includes a complete BOM and design files, with components including PETG, PVC, HDPE, and easily sourced nut/bolt fasteners."
+documentation-language = "en"
+version = "1.0.0"
+organization = "OSF Home"
+technology-readiness-level = "OTRL-3"
+publication = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0270328"
+cpc-patent-class = "A61B 17/00"
+tsdc = "ASM"
+bom = [
+   "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0270328.t001",
+   "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0270328.t002",
+   "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0270328.t003",
+   "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0270328.t004"
+]
+manufacturing-instructions = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0270328#sec002"
+user-manual = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0270328#sec009"
+source = [
+     "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0270328.g001",
+     "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0270328.g002",
+     "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0270328.g003",
+     "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0270328.g004",
+     "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0270328.g005",
+     "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0270328.g006",
+     "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0270328.g007",
+     "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0270328.g027",
+     "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0270328.g036",
+     "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0270328.g037",
+     "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0270328.g038",
+     "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0270328.t005"
+]
+
+[[image]]
+location = "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0270328.g028"
+depicts = "Surgical Fracture Table main photo."
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0270328.g029"
+
+[[image]]
+location = "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0270328.g030"
+
+[[image]]
+location = "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0270328.g031"
+
+[[image]]
+location = "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0270328.g032"
+
+[[image]]
+location = "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0270328.g033"
+
+[[image]]
+location = "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0270328.g034"
+
+[[image]]
+location = "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0270328.g035"
