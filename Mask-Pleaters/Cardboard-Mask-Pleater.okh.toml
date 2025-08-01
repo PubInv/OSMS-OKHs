@@ -1,0 +1,29 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "Cardboard-Mask-Pleater"
+repo = "https://cdn.shopify.com/s/files/1/1941/1997/files/Face_Mask_Pleater.pdf?v=1585024643"
+license = "LicenseRef-NOASSERTION"
+licensor = "NA <NA>"
+function = "Use sewing clips instead of pins when crafting with a cardboard pleating jig."
+documentation-language = "en"
+version = "1.0.0"
+organization = "NA"
+technology-readiness-level = "OTRL-1"
+documentation-readiness-level = "ODRL-1"
+cpc-patent-class = "A41D 13/11"
+tsdc = "ASM"
+bom = "https://www.amazon.com/Kissmi-Quilting-Binding-Crafting-Assorted/dp/B07BPK4N27/ref=sr_1_10?dchild=1&keywords=sewing+clips&qid=1587522403&s=arts-crafts&sr=1-10"
+manufacturing-instructions = "https://cdn.shopify.com/s/files/1/1941/1997/files/Face_Mask_Pleater.pdf?v=1585024643"
+
+[[image]]
+location = "https://cdn.prod.website-files.com/679bd6d8e9c2f7d8d67ee78a/67be8ada433d9665727f89fd_67b4e902263f2a812c5ff3c1_Screen%2520Shot%25202020-05-13%2520at%252011_25_02%2520PM.png"
+depicts = "Cardboard Mask Pleater main photo."
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
