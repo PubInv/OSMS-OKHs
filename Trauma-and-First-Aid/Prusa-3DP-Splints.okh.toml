@@ -1,0 +1,47 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "Prusa-3DP-Splints"
+repo = "https://www.printables.com/model/75139-humeral-brace/comments"
+license = "CC-BY-NC-4.0"
+licensor = "Make3D Company Limited <https://www.printables.com/@Make3D>"
+function = "The humerus brace prints with PLACTIVE, a copper-impregnated polymer for antimicrobial use, and PLA. It has been approved by the Gambian Medical Control Agency. The extremity braces print in PLA and were developed in accordance with a trauma surgery clinic in Czech Republic. Each extremity brace link features a video instructable, a physician clinical-use video review, and application instructions in Ukrainian and Russian."
+documentation-language = "en"
+version = "1.0.0"
+organization = "Make3D Company Limited"
+readme = "https://www.printables.com/model/75139-humeral-brace"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A61F 5/01"
+tsdc = "3DP"
+bom = "https://www.printables.com/model/75139-humeral-brace"
+manufacturing-instructions = "https://www.printables.com/model/75139-humeral-brace"
+source = [
+     "https://www.printables.com/model/75139-humeral-brace/files",
+     "https://media.printables.com/media/prints/75139/images/812770_fdbfd3ee-cd28-4fdc-88d4-42e56af4ee66/thumbs/inside/1280x960/png/sketch-humeral-brace.webp",
+     "https://media.printables.com/media/prints/75139/images/812771_ccc8176e-ce23-4947-a52f-59af471e68a0/thumbs/inside/1280x960/png/sketch-humeral-bracev2.webp"
+]
+
+[[image]]
+location = "https://media.printables.com/media/prints/75139/images/812775_5821b7b1-166b-4758-8bdd-2cb87703c8e4/thumbs/inside/1280x960/png/pasted-image-0.webp"
+depicts = "Prusa 3DP Splints main photo."
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://media.printables.com/media/prints/75139/images/812774_84c54cf1-2efa-4035-a643-e837c057c5a5/thumbs/inside/1280x960/jpg/img_3165.webp"
+
+[[image]]
+location = "https://media.printables.com/media/prints/75139/images/812777_1eba7fc4-ab9c-4707-9b76-469e7ba8198c/thumbs/inside/1280x960/jpg/img_3194.webp"
+
+[[image]]
+location = "https://media.printables.com/media/prints/75139/images/812776_4f9e48d4-5045-4cdf-9842-277b885fcef1/thumbs/inside/1280x960/jpg/img_3201.webp"
+
+[[image]]
+location = "https://media.printables.com/media/prints/75139/images/812773_92fe3d59-1a99-42e8-bf90-d2a2326fd232/thumbs/inside/1280x960/jpg/img_3198.webp"
