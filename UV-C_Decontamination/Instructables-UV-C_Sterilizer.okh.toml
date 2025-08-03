@@ -1,0 +1,72 @@
+# SPDX-FileCopyrightText: 2025 Mairin O'Grady <mogrady@udallas.edu>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+okhv = "2.4"
+name = "Instructables-UV-C_Sterilizer"
+repo = "https://www.instructables.com/UVC-Sterilizer-for-COVID-19-Emergency/?fbclid=IwAR3ZWKfLTU59cU9wE0jE5gcpbc33bKnmFjs-gnwbqqLFONLlIOVAtGAy2v0"
+license = "CC-BY-4.0"
+licensor = "bcrabtree <https://www.instructables.com/member/bcrabtree/>"
+function = "How to make a UVC sterilizer box."
+documentation-language = "en"
+version = "1.0.0"
+organization = "AutoDesk Instructables"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A61L 2/0005"
+tsdc = "ASM"
+bom = "https://www.instructables.com/UVC-Sterilizer-for-COVID-19-Emergency/?fbclid=IwAR3ZWKfLTU59cU9wE0jE5gcpbc33bKnmFjs-gnwbqqLFONLlIOVAtGAy2v0"
+manufacturing-instructions = "https://www.instructables.com/UVC-Sterilizer-for-COVID-19-Emergency/?fbclid=IwAR3ZWKfLTU59cU9wE0jE5gcpbc33bKnmFjs-gnwbqqLFONLlIOVAtGAy2v0"
+source = "https://content.instructables.com/FEC/UO7W/K81UIW15/FECUO7WK81UIW15.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wMy0yMSAxNTo1MDoyNi4w"
+
+[[image]]
+location = "https://www.instructables.com/assets/img/instructables-logo-2023.svg"
+depicts = "AutoDesk Instructables logo."
+slots = [
+  "logo",
+]
+tags = [
+  "logo",
+]
+
+[[image]]
+location = "https://content.instructables.com/FL0/AZOC/K87PLFAW/FL0AZOCK87PLFAW.jpg?auto=webp&frame=1&width=600&height=1024&fit=bounds&md=MjAyMC0wMy0yNiAwOTo0MDo0MC4w"
+slots = [
+  "photo-thing-main",
+]
+tags = [
+  "photo",
+]
+
+[[image]]
+location = "https://content.instructables.com/FUC/GXE2/K81UIW0Y/FUCGXE2K81UIW0Y.jpg?auto=webp&frame=1&width=600&height=1024&fit=bounds&md=MjAyMC0wMy0yMSAxNTo1MDoxOC4w"
+
+[[image]]
+location = "https://content.instructables.com/F9U/3UDN/K81UIW12/F9U3UDNK81UIW12.jpg?auto=webp&frame=1&width=933&height=1024&fit=bounds&md=MjAyMC0wMy0yMSAxNTo1MDoyMi4w"
+
+[[image]]
+location = "https://content.instructables.com/FYR/UXMM/K81UIXAC/FYRUXMMK81UIXAC.jpg?auto=webp&frame=1&width=800&height=1024&fit=bounds&md=MjAyMC0wMy0yMSAxNTo1MDo0My4w"
+
+[[image]]
+location = "https://content.instructables.com/F85/P1BQ/K81UIXF2/F85P1BQK81UIXF2.jpg?auto=webp&frame=1&width=400&height=1024&fit=bounds&md=MjAyMC0wMy0yMSAxNjowMDowMS4w"
+
+[[image]]
+location = "https://content.instructables.com/FXC/0M4Y/K81UIXJ8/FXC0M4YK81UIXJ8.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wMy0yMSAxNjowMDowNi4w&_gl=1*72ti6x*_ga*OTE4MTA5MTIuMTc0MjU2NTgxNg..*_ga_NZSJ72N6RX*czE3NTQyNDQ0NzQkbzgkZzEkdDE3NTQyNDUyMzkkajU4JGwwJGgw"
+
+[[image]]
+location = "https://content.instructables.com/F8O/0AX7/K81UIX8Y/F8O0AX7K81UIX8Y.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wMy0yMSAxNTo1MDo0Mi4w"
+
+[[image]]
+location = "https://content.instructables.com/FDK/ABTU/K81UIXJX/FDKABTUK81UIXJX.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wMy0yMSAxNjowMDowOC4w"
+
+[[image]]
+location = "https://content.instructables.com/FWH/1VVV/K81UIXNB/FWH1VVVK81UIXNB.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wMy0yMSAxNjowMDoxMS4w"
+
+[[image]]
+location = "https://content.instructables.com/FYW/EU8R/K81UIW14/FYWEU8RK81UIW14.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMC0wMy0yMSAxNTo1MDoyNS4w"
+
+[[image]]
+location = "https://content.instructables.com/F41/YDCF/K81UHXZZ/F41YDCFK81UHXZZ.jpg?auto=webp&frame=1&width=432&height=1024&fit=bounds&md=MjAyMC0wMy0yMSAxNjozMDoxNy4w"
+
+[[image]]
+location = "https://content.instructables.com/FPV/16DM/K81UI0MO/FPV16DMK81UI0MO.jpg?auto=webp&frame=1&width=768&height=1024&fit=bounds&md=MjAyMC0wMy0yMSAxNjo0MDozNS4w"
